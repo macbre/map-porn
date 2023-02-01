@@ -36,18 +36,18 @@ body {
 /* foreground */
 #toner-lite {
     /* display: none; */
-    filter: sepia(0.1) opacity(0.8) invert(0.9);
+    filter: sepia(0.5) opacity(0.55) invert(0.95);
 }
 
 /* background */
 #watercolor {
     /* display: none; */
     opacity: 0.9;
-    filter: saturate(2.5) sepia(0.3) grayscale(0.4) contrast(1.1) hue-rotate(185deg);
+    filter: saturate(2.5) sepia(0.3) grayscale(0.4) contrast(1.05) hue-rotate(186deg);
 }
 
 .leaflet-tile-pane {
-    filter: saturate(1.5) brightness(0.95) sepia(0.25) contrast(1.05);
+    /* filter: saturate(1.5) brightness(0.95) sepia(0.25) contrast(1.05); */
 }
 
 /************************************************************************************************
