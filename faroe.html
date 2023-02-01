@@ -1,0 +1,98 @@
+<!DOCTYPE html> 
+<html>
+	<title>Faroe Islands - map</title>
+
+	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@200;600&family=Josefin+Sans:wght@100;600&family=Lora:ital@1&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="static/map.css">
+	<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"/>
+	<script src="static/leaflet-providers.js"></script>
+
+	<body>
+		<div id="wrapper">
+			<section id="overlay">
+				<h1>Faroe Islands</h1>
+				<h2>Public Transport</h2>
+			</section>
+
+			<legend>
+				<p>
+					The Faroe Islands is served by an internal transport system based on roads, ferries, and helicopters.
+				<br><br>
+					Strandfaraskip Landsins operates a network of ferries and the rural blue buses.
+				<br><br>
+					Helicopters operated by Atlantic Airways provide domestic scheduled transportation, medical evacuation, and search & rescue activities.
+				</p>
+				<ul>
+					<li><span class="marker green"></span>bus stops</li>
+					<li><span class="marker blue"></span>helipads</li>
+					<li><span class="marker yellow"></span>ferries ports</li>
+				</ul>
+			</legend>
+
+			<div id="map"></div>
+		</section>
+
+		<script>
+  			const center = [61.961667, -6.9675]; //west of Tórshavn
+			const zoom = 11;
+			const options = {
+				zoomControl: false,
+				attributionControl: false,
+			};
+			const map = L.map('map', options).setView(center, zoom);
+  			// L.marker([lat, lon]).addTo(map);
+
+			// https://leaflet-extras.github.io/leaflet-providers/preview/
+			const CartoDB_VoyagerNoLabels = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}{r}.png', {
+				attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+				subdomains: 'abcd',
+				maxZoom: 20
+			});
+
+			// https://docs.eegeo.com/eegeo.js/v0.1.280/docs/leaflet/L.TileLayer/
+			var Stamen_TonerLite = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.{ext}', {
+				attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+				subdomains: 'abcd',
+				minZoom: 0,
+				maxZoom: 20,
+				ext: 'png',
+				detectRetina: true,
+			});
+
+			var Stamen_Watercolor = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
+				attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+				subdomains: 'abcd',
+				minZoom: 1,
+				maxZoom: 16,
+				ext: 'jpg',
+				detectRetina: true,
+			});
+
+			Stamen_TonerLite.addTo(map);
+			Stamen_Watercolor.addTo(map);
+
+			Stamen_TonerLite._level.el.id = 'toner-lite';
+			Stamen_Watercolor._level.el.id = 'watercolor';
+
+			// a custom icon
+			// https://www.geoapify.com/create-custom-map-marker-icon
+			function getIcon(color /* green | blue | yellow */) {
+				return L.divIcon({
+					className: 'marker-icon',
+					html: `<span class="marker ${color}">`,
+					iconSize: [36, 36],
+					// The coordinates of the "tip" of the icon (relative to its top left corner).
+					// The icon will be aligned so that this point is at the marker's geographical location.
+					// Centered by default if size is specified, also can be set in CSS with negative margins.
+					iconAnchor: [18, 18],
+				});
+			}
+
+			L.marker([61.961667, -6.9675], {icon: getIcon('green')}).addTo(map);
+			L.marker([61.961667, -6.8675], {icon: getIcon('blue')}).addTo(map);
+			L.marker([61.951667, -6.9975], {icon: getIcon('yellow')}).addTo(map);
+		</script>
+
+	</body>
+</html>

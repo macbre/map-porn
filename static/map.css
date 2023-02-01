@@ -1,0 +1,142 @@
+:root {
+    --map-width: 2200px;
+    --map-height: 3750px;
+}
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 15px;
+    background-color: #3c91d055;
+    width: var(--map-width);
+    height: var(--map-height);
+}
+
+#wrapper {
+    width: var(--map-width);
+    height: var(--map-height);
+    border: solid 5px #3c91d0;
+    background-color: rgba(76, 76, 107, 1);
+    position: relative;
+}
+
+/************************************************************************************************
+ * Maps styling
+ */
+#map {
+    position: absolute;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    width: var(--map-width);
+    height: var(--map-height);
+    background-color: #3c91d0;
+}
+
+#toner-lite {
+    filter: sepia(0.2) opacity(0.9) saturate(1.5);
+    backdrop-filter: grayscale(1);
+}
+
+#watercolor {
+    opacity: 0.55;
+    filter: saturate(2.5) sepia(0.3) grayscale(0.4) hue-rotate(185deg);
+}
+
+
+/************************************************************************************************
+ * Markers / dots
+ */
+
+.marker {
+    --marker-size: 36px;
+    content: ' ';
+    display: inline-block;
+    width: var(--marker-size);
+    height: var(--marker-size);
+    border-radius: var(--marker-size);
+    outline: solid 4px #ffffffaa;
+    outline-offset: revert;
+    filter: brightness(-0.2) saturate(1.2);
+}
+
+/* https://colorbrewer2.org/#type=diverging&scheme=Spectral&n=10 */
+.marker.green  { background-color: #abdda4; }
+.marker.blue   { background-color: #3288bd; }
+.marker.yellow { background-color: #fee08b; }
+
+/************************************************************************************************
+ * Legends
+ */
+#overlay {
+    font-family: 'Josefin Sans', sans-serif;
+    position: absolute;
+    z-index: 20;
+    margin: 100px 150px;
+    font-size: 6em;
+    width: calc(calc(100%) - 300px);
+}
+
+#overlay h1, #overlay h2 {
+    margin: 0;
+    padding: 0.25em 0.25em;
+    letter-spacing: -10px;
+    font-weight: bold;
+}
+
+#overlay h1 {
+    color: #3c91d0;
+    border-bottom: double 12px #3c91d0;
+    text-align: center;
+}
+
+#overlay h2 {
+    letter-spacing: -5px;
+    padding-top: 0.75em;
+    font-size: 1em;
+    color: #17395399;
+    text-align: center;
+}
+
+legend {
+    position: absolute;
+    z-index: 20;
+    margin: 100px 150px;
+    bottom: 0;
+    background-color: #ffffff66;
+    box-shadow: #3c91d099 0px 0px 150px 0;
+    border-top: solid 10px #3c91d0;
+    padding: 20px;
+    width: 30%;
+}
+
+legend ul {
+    list-style: none;
+    line-height: 2.5em;
+    font-size: 3em;
+    font-weight: bold;
+    margin: 0.25em 1em;
+    padding: 0;
+}
+
+legend ul li:not(:first-child) {
+    border-top: solid 1px #3c91d0aa;
+}
+
+legend p+ul {
+    /* border-top: double 8px #3c91d0aa; */
+    margin-top: 1em;
+    padding-top: 1.58em;
+}
+
+legend .marker {
+    margin-right: var(--marker-size);
+    vertical-align: middle;
+}
+
+legend p {
+    font-family: Lora, serif;
+    font-size: 2.75em;
+    margin: 0.5em 1em;
+    letter-spacing: -1px;
+    line-height: 1.5em;
+}
