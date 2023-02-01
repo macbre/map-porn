@@ -6,7 +6,8 @@
 body {
     font-family: 'IBM Plex Sans', sans-serif;
     margin: 15px;
-    background-color: #3c91d055;
+    /* background-color: #3c91d055; */
+    background-color: white;
     width: var(--map-width);
     height: var(--map-height);
 }
@@ -14,7 +15,7 @@ body {
 #wrapper {
     width: var(--map-width);
     height: var(--map-height);
-    border: solid 5px #3c91d0;
+    border: solid 5px #3c91d0aa;
     background-color: rgba(76, 76, 107, 1);
     position: relative;
 }
