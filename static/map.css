@@ -109,7 +109,7 @@ legend {
     position: absolute;
     z-index: 20;
     margin: 100px 150px;
-    bottom: 0;
+    bottom: 50px;
     background-color: #ffffff22;
     box-shadow: #3c91d099 0px 0px 150px 0;
     border-top: solid 10px #3c91d0;
