@@ -60,9 +60,8 @@ body {
     width: var(--marker-size);
     height: var(--marker-size);
     border-radius: var(--marker-size);
-    outline: solid 4px #ffffffaa;
-    outline-offset: revert;
-    filter: brightness(-0.2) saturate(1.2);
+    outline: solid 6px #ffffffcc;
+    filter: sepia(0.2) brightness(0.9);
 }
 
 /* https://colorbrewer2.org/#type=diverging&scheme=Spectral&n=10 */
