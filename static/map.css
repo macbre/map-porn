@@ -32,16 +32,21 @@ body {
     background-color: #3c91d0;
 }
 
+/* foreground */
 #toner-lite {
-    filter: sepia(0.2) opacity(0.9) saturate(1.5);
-    backdrop-filter: grayscale(1);
+    filter: sepia(0.1) opacity(0.5);
+    backdrop-filter: blur(100px);
 }
 
+/* background */
 #watercolor {
-    opacity: 0.55;
-    filter: saturate(2.5) sepia(0.3) grayscale(0.4) hue-rotate(185deg);
+    opacity: 0.8;
+    filter: saturate(2.5) sepia(0.3) grayscale(0.4) contrast(1.1) hue-rotate(185deg);
 }
 
+.leaflet-tile-pane {
+    filter: saturate(1.2) brightness(.85) sepia(0.3);
+}
 
 /************************************************************************************************
  * Markers / dots
@@ -71,9 +76,11 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     position: absolute;
     z-index: 20;
-    margin: 100px 150px;
+    padding: 100px 150px;
     font-size: 6em;
     width: calc(calc(100%) - 300px);
+
+    background-image: linear-gradient(360deg, transparent 0%, #ffffff77 50% );
 }
 
 #overlay h1, #overlay h2 {
@@ -93,7 +100,7 @@ body {
     letter-spacing: -5px;
     padding-top: 0.75em;
     font-size: 1em;
-    color: #17395399;
+    color: #173953cc;
     text-align: center;
 }
 
@@ -102,11 +109,12 @@ legend {
     z-index: 20;
     margin: 100px 150px;
     bottom: 0;
-    background-color: #ffffff66;
+    background-color: #ffffff22;
     box-shadow: #3c91d099 0px 0px 150px 0;
     border-top: solid 10px #3c91d0;
     padding: 20px;
     width: 30%;
+    backdrop-filter: blur(50px);
 }
 
 legend ul {

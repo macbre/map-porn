@@ -69,8 +69,8 @@
 				detectRetina: true,
 			});
 
-			Stamen_TonerLite.addTo(map);
-			Stamen_Watercolor.addTo(map);
+			Stamen_Watercolor.addTo(map); // first background
+			Stamen_TonerLite.addTo(map); // then foreground
 
 			Stamen_TonerLite._level.el.id = 'toner-lite';
 			Stamen_Watercolor._level.el.id = 'watercolor';
