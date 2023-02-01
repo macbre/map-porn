@@ -78,7 +78,8 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
     font-weight: normal;
     color: #666;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: #ffffff77;
+    backdrop-filter: blur(50px);
 
     padding: 0.25em 0.5em;
     transform-origin: right top;
