@@ -4,7 +4,10 @@ Templates used to generate maps based on geo data for Faroe Islands and Ireland
 
 ## Resources
 
-* [OSM XML snapshot for Faroe Islands](https://download.geofabrik.de/europe/faroe-islands.html)
+### [OSM XML snapshot for Faroe Islands](https://download.geofabrik.de/europe/faroe-islands.html)
+
+* [`<node>` tag](https://wiki.openstreetmap.org/wiki/Node#Structure)
+* [`<way>` tag](https://wiki.openstreetmap.org/wiki/Way#Examples)
 
 ```xml
 $ cat faroe-islands-latest.osm.bz2 | bzip2 -d | head -n100
