@@ -22,13 +22,27 @@ $ cat faroe-islands-latest.osm.bz2 | bzip2 -d | head -n100
     <tag k="postal_code" v="927"/>
     <tag k="wikidata" v="Q420746"/>
   </node>
-  <node id="29023725" version="6" timestamp="2022-04-23T22:34:56Z" lat="62.2547392" lon="-6.5793808">
-    <tag k="is_in" v="Klaksvík (Borðoy), Føroyar"/>
-    <tag k="name" v="Ánirnar"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8"/>
-    <tag k="postal_code" v="726"/>
-    <tag k="wikidata" v="Q252128"/>
+  <node id="29023814" version="5" timestamp="2022-12-08T01:56:54Z" lat="61.5557547" lon="-6.8145764">
+    <tag k="is_in" v="Tvøroyri (Suðuroy), Føroyar"/>
+    <tag k="name" v="Tvøroyri"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="1195"/>
+    <tag k="postal_code" v="800"/>
+    <tag k="wikidata" v="Q754666"/>
+  </node>
+  (...)
+  <node id="439361655" version="3" timestamp="2012-03-08T21:11:07Z" lat="62.2430899" lon="-6.8085287">
+    <tag k="addr:city" v="Fuglafjørður"/>
+    <tag k="addr:country" v="FO"/>
+    <tag k="addr:housenumber" v="20"/>
+    <tag k="addr:postcode" v="530"/>
+    <tag k="addr:street" v="Bøvegur"/>
+    <tag k="source" v="Umhvørvisstovan www.us.fo"/>
+    <tag k="us.fo:Adressutal" v="30794"/>
+    <tag k="us.fo:Galdandi_frá" v="12-12-2008"/>
+    <tag k="us.fo:Postnr" v="530"/>
+    <tag k="us.fo:Veganr" v="3219"/>
+    <tag k="us.fo:kommununr" v="11"/>
   </node>
   (...)
   <node id="32946858" version="10" timestamp="2019-10-04T23:26:21Z" lat="62.0119587" lon="-6.7708066">
@@ -47,7 +61,7 @@ $ cat faroe-islands-latest.osm.bz2 | bzip2 -d | head -n100
     <tag k="source" v="ourairports.com"/>
   </node>
   (...)
-    <way id="38855555" version="3" timestamp="2022-03-19T23:29:17Z">
+  <way id="38855555" version="3" timestamp="2022-03-19T23:29:17Z">
     <nd ref="461496369"/>
     <nd ref="461496370"/>
     <nd ref="9591003192"/>
