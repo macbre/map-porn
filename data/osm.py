@@ -5,7 +5,7 @@ import logging
 from posixpath import dirname
 from tempfile import gettempdir
 from os import path
-from typing import Generator
+from typing import Callable, Generator
 from xml import sax
 from xml.sax import handler, xmlreader
 
@@ -43,10 +43,16 @@ def cache_osm_file():
 
 
 class OSMHandler(handler.ContentHandler):
-    def __init__(self) -> None:
+    def __init__(self, node_callback: callable = None) -> None:
+        """
+        Can be optionally provided with a node callback
+        that will be called at the end of processing each <node> tag.
+        """
         self._reset()
         self.logger = logging.getLogger(name=self.__class__.__name__)
-        self.nodes_counter = 0;
+
+        self.nodes_counter = 0
+        self.node_callback = node_callback
 
     def _reset(self, current_element: str = None):
         self.current_element = current_element
@@ -80,17 +86,18 @@ class OSMHandler(handler.ContentHandler):
             if self.tags:
                 self.logger.debug(f'{name} ({self.attrs}): {self.tags}')
 
+                if self.node_callback:
+                    self.node_callback(self.attrs, self.tags)
+
             self._reset()
 
     def endDocument(self):
         self.logger.info(f'Parsed OSM XML file with {self.nodes_counter} node(s)')
 
 
-def iterate_xml(xml_file) -> Generator:
+def iterate_xml(xml_file, node_callback: callable):
     """
     Given a path to the local bz2-compressed OSM XML file parse it.
-
-    The function will then yield all nodes sequentially along with their tags
     """
     logger = logging.getLogger(name="xml")
     logger.info(f'Parsing OSM XML from {xml_file}')
@@ -98,20 +105,22 @@ def iterate_xml(xml_file) -> Generator:
     with bz2.open(xml_file) as f:
         # https://docs.python.org/3/library/xml.sax.reader.html
         reader = sax.make_parser(('xml.sax.xmlreader.IncrementalParser'))
-        reader.setContentHandler(OSMHandler())
+        reader.setContentHandler(OSMHandler(node_callback))
         reader.parse(f)
-
-    return
-
 
 def main():
     logger = logging.getLogger(name="osm")
     logger.info(f'Looking for "{TAG_KEY}" = "{TAG_VALUE}" ...')
 
-    local_file = cache_osm_file()
+    def node_callback(node_attrs: dict[str, str], node_tags: list[tuple]):
+        """
+        This will be called for each parsed <node> tag
+        """
+        if ((TAG_KEY, TAG_VALUE) in node_tags):
+            logger.info(f'Matching node found: {node_attrs} ({node_tags}')
 
-    for nodes in iterate_xml(local_file):
-        print(nodes)
+    local_file = cache_osm_file()
+    iterate_xml(local_file, node_callback)
 
 
 if __name__ == '__main__':
