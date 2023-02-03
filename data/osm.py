@@ -154,7 +154,7 @@ def main():
     logger.info(f'Writing {len(nodes)} node(s) GeoJSON to {geojson_file} ...')
 
     with open(geojson_file, 'wt') as f:
-        # https://geojson.org/ // https://leafletjs.com/examples/geojson/ // https://geojson.io/
+        # https://geojson.org/ // https://geojson.io/
         features = [
             {
                 "type": "Feature",
