@@ -52,28 +52,6 @@
 
 			const map = setupMap('map', options, center, zoom);
 
-			// now load the GeoJSON data
-			// https://leafletjs.com/examples/geojson/
-			async function addGeoJSONLayer(map, url, color, label) {
-				const res = await fetch(url);
-				const geojsonFeatures = JSON.parse(await res.text());
-				// console.log('GeoJSON', geojsonFeatures);
-				L.geoJSON(geojsonFeatures, {
-					onEachFeature: (feature, _layer) => {
-						const geo = feature.geometry.coordinates;
-						L.marker([geo[1], geo[0]], {icon: getIcon(color)}).addTo(map);
-					}
-				});
-
-				console.log(`Added GeoJSON layer: ${geojsonFeatures.features.length} nodes, color ${color}, from ${url}`);
-
-				// add a label
-				const legendEntry = document.createElement('li');
-				legendEntry.innerHTML = `<span class="marker ${color}"></span>${label}<span class="tally">${geojsonFeatures.features.length}</span>`;
-
-				document.querySelector('legend ul').appendChild(legendEntry);
-			}
-
 			// green / blue / yellow
 			await addGeoJSONLayer(map, '/data/bus_stop-bus_stop.json', 'blue', 'bus stops');
 
