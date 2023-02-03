@@ -16,6 +16,10 @@
   },
   "homepage": "https://github.com/macbre/map-porn#readme",
   "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-pngquant": "^9.0.2",
+    "npmlog": "^7.0.1",
+    "puppeteer": "^19.6.3",
     "serve": "^14.2.0"
   }
 }
