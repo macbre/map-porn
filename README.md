@@ -7,6 +7,10 @@ $ npm start
 $ open http://localhost:3000
 ```
 
+## The current map
+
+![The current map](https://github.com/macbre/map-porn/raw/master/map_faroe.png)
+
 ## Resources
 
 ### [OSM XML snapshot for Faroe Islands](https://download.geofabrik.de/europe/faroe-islands.html)
