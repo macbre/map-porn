@@ -19,7 +19,7 @@ $ open http://localhost:3000
 * [`<way>` tag](https://wiki.openstreetmap.org/wiki/Way#Examples)
 
 ```xml
-$ cat faroe-islands-latest.osm.bz2 | bzip2 -d | head -n100
+$ cat osm-faroe-islands.xml.bz2 | bzip2 -d | less
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version="0.6" generator="osmium/1.14.0">
   <bounds minlat="61.3" minlon="-8" maxlat="63" maxlon="-6"/>

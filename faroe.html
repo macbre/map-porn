@@ -53,7 +53,10 @@
 			const map = setupMap('map', options, center, zoom);
 
 			// green / blue / yellow
-			await addGeoJSONLayer(map, '/data/bus_stop-bus_stop.json', 'blue', 'bus stops');
+			await Promise.all([
+				addGeoJSONLayer(map, '/data/bus_stop-bus_stop.json', 'blue', 'bus stops'),
+				addGeoJSONLayer(map, '/data/amenity-ferry_terminal.json', 'green', 'ferry terminals'),
+			]);
 
 			// L.marker([61.961667, -6.9675], {icon: getIcon('green')}).addTo(map);
 		})();
