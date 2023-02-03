@@ -1,21 +1,22 @@
 :root {
-    --map-width: 2200px;
-    --map-height: 3750px;
+    --map-width: 1250px;
+    --map-height: 2000px;
 }
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;
-    margin: 15px;
+    margin: 25px;
     /* background-color: #3c91d055; */
     background-color: white;
     width: var(--map-width);
     height: var(--map-height);
+    font-size: 0.5em;
 }
 
 #wrapper {
     width: var(--map-width);
     height: var(--map-height);
-    border: solid 5px #3c91d0aa;
+    border: solid 3px #3c91d0aa;
     background-color: rgba(76, 76, 107, 1);
     position: relative;
 }
@@ -42,12 +43,16 @@ body {
 /* background */
 #watercolor {
     /* display: none; */
-    opacity: 0.85;
-    filter: saturate(2.5) sepia(0.3) grayscale(0.4) contrast(1.05) hue-rotate(178deg);
+    filter: saturate(4) sepia(0.35) grayscale(0.3) contrast(1.15) hue-rotate(188deg);
+}
+
+#cartodb {
+    opacity: 0.75;
+    filter: saturate(1.2) contrast(1.1) hue-rotate(190deg);
 }
 
 .leaflet-tile-pane {
-    filter: saturate(1.75) brightness(0.92) sepia(0.35) contrast(1.15);
+    /* filter: saturate(1.75) brightness(0.92) sepia(0.35) contrast(1.15); */
 }
 
 /************************************************************************************************
@@ -55,7 +60,7 @@ body {
  */
 
 .marker {
-    --marker-size: 36px;
+    --marker-size: 18px;
     content: ' ';
     display: inline-block;
     width: var(--marker-size);
@@ -74,19 +79,22 @@ body {
  * Copyrights
  */
 #map.leaflet-container .leaflet-control-attribution {
-    font-size: 2.5em;
+    font-size: 1.5em;
     font-family: 'IBM Plex Sans', sans-serif;
     font-weight: normal;
     color: #666;
     background-color: #ffffff77;
     backdrop-filter: blur(50px);
 
-    padding: 0.25em 0.5em;
-    transform-origin: right top;
+    padding: 0.5em 1em;
+    max-width: 55%;
+    line-height: 1.75em;
+    text-align: right;
+    /* transform-origin: right top;
     transform: rotate(90deg);
 
     position: relative;
-    top: 65px;
+    top: 65px; */
 }
 
 #map.leaflet-container .leaflet-control-attribution a {
@@ -101,9 +109,8 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     position: absolute;
     z-index: 20;
-    padding: 100px 150px;
-    font-size: 6em;
-    width: calc(calc(100%) - 300px);
+    padding: 25px 25px;
+    width: calc(calc(100%) - 50px);
 
     background-image: linear-gradient(360deg, transparent 0%, #ffffff77 50% );
 }
@@ -111,20 +118,20 @@ body {
 #overlay h1, #overlay h2 {
     margin: 0;
     padding: 0.25em 0.25em;
-    letter-spacing: -10px;
+    letter-spacing: -0.085em;
     font-weight: bold;
 }
 
 #overlay h1 {
+    font-size: 11em;
     color: #3c91d0cc;
-    border-bottom: double 12px #3c91d066;
+    border-bottom: double 6px #3c91d066;
     text-align: center;
 }
 
 #overlay h2 {
-    letter-spacing: -5px;
     padding-top: 0.75em;
-    font-size: 1em;
+    font-size: 7em;
     color: #173953aa;
     text-align: center;
 }
@@ -132,14 +139,14 @@ body {
 legend {
     position: absolute;
     z-index: 20;
-    margin: 100px;
+    margin: 25px;
     bottom: 0;
     background-color: #fff7;
     box-shadow: #fff 0px 0px 250px 0;
     border: solid 1px #3c91d055;
     border-top: solid 10px #3c91d0;
     padding: 20px;
-    width: 750px;
+    width: 35%;
     backdrop-filter: blur(15px);
 }
 
@@ -169,7 +176,7 @@ legend .marker {
 
 legend p {
     font-family: Lora, serif;
-    font-size: 2.75em;
+    font-size: 3em;
     margin: 0.5em 1em;
     letter-spacing: -1px;
     line-height: 1.5em;
