@@ -1,6 +1,11 @@
 # map-porn
 Templates used to generate maps based on geo data for Faroe Islands and Ireland
 
+```
+$ npm i
+$ npm start
+$ open http://localhost:3000
+```
 
 ## Resources
 

@@ -1,0 +1,21 @@
+{
+  "name": "map-porn",
+  "version": "1.0.0",
+  "description": "Templates used to generate maps based on geo data for Faroe Islands and Ireland",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macbre/map-porn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macbre/map-porn/issues"
+  },
+  "homepage": "https://github.com/macbre/map-porn#readme",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
