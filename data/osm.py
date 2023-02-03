@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 import bz2
-from genericpath import exists
 import logging
+import json
 from posixpath import dirname
 from tempfile import gettempdir
+from dataclasses import dataclass
 from os import path
 from typing import Callable, Generator
 from xml import sax
 from xml.sax import handler, xmlreader
 
 import requests
+
+DIR = path.abspath(path.dirname(__file__))
 
 # https://wiki.openstreetmap.org/wiki/Category:Tag_descriptions
 
@@ -21,7 +24,7 @@ TAG_VALUE = 'bus_stop'
 def cache_osm_file():
     # https://download.geofabrik.de/europe/faroe-islands.html
     URL = 'https://download.geofabrik.de/europe/faroe-islands-latest.osm.bz2'
-    LOCAL_FILE = path.join(path.abspath(path.dirname(__file__)), 'osm-faroe-islands.xml.bz2')
+    LOCAL_FILE = path.join(DIR, 'osm-faroe-islands.xml.bz2')
 
     logger = logging.getLogger(name="fetch")
 
@@ -108,9 +111,19 @@ def iterate_xml(xml_file, node_callback: callable):
         reader.setContentHandler(OSMHandler(node_callback))
         reader.parse(f)
 
+
+@dataclass
+class Node:
+    lat: str
+    lon: str
+    tags: list[tuple[str, str]]
+
+
 def main():
     logger = logging.getLogger(name="osm")
     logger.info(f'Looking for "{TAG_KEY}" = "{TAG_VALUE}" ...')
+
+    nodes: list[Node] = []
 
     def node_callback(node_attrs: dict[str, str], node_tags: list[tuple]):
         """
@@ -119,8 +132,45 @@ def main():
         if ((TAG_KEY, TAG_VALUE) in node_tags):
             logger.info(f'Matching node found: {node_attrs} ({node_tags}')
 
+            nodes.append(Node(
+                lat=node_attrs['lat'],
+                lon=node_attrs['lon'],
+                tags=node_tags
+            ))
+
     local_file = cache_osm_file()
     iterate_xml(local_file, node_callback)
+
+    # write a GeoJSON file
+    geojson_file = path.join(DIR, f'{TAG_VALUE}-{TAG_VALUE}.json')
+    logger.info(f'Writing {len(nodes)} node(s) GeoJSON to {geojson_file} ...')
+
+    with open(geojson_file, 'wt') as f:
+        # https://geojson.org/ // https://leafletjs.com/examples/geojson/
+        features = [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [float(node.lon), float(node.lat)]
+                },
+                "properties": {
+                    # e.g. ('name', 'Jóannesar Paturssonar gøta')
+                    key: value
+                    for (key, value) in node.tags 
+                }
+            }
+            for node in nodes
+        ]
+
+        json.dump(
+            {
+                'type': 'FeatureCollection',
+                'features': features,
+            },
+            fp=f,
+            indent=True
+        )
 
 
 if __name__ == '__main__':
