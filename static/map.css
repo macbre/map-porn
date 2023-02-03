@@ -144,7 +144,7 @@ legend {
     background-color: #fff7;
     box-shadow: #fff 0px 0px 250px 0;
     border: solid 1px #3c91d055;
-    border-top: solid 10px #3c91d0;
+    border-top: solid 5px #3c91d0;
     padding: 20px;
     width: 35%;
     backdrop-filter: blur(15px);
@@ -180,4 +180,11 @@ legend p {
     margin: 0.5em 1em;
     letter-spacing: -1px;
     line-height: 1.5em;
+}
+
+legend li .tally {
+    font-family: Lora, serif;
+    float: right;
+    font-weight: normal;
+    font-size: 1.2em;
 }
