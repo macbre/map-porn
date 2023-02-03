@@ -4,11 +4,11 @@ function getIcon(color /* green | blue | yellow */) {
     return L.divIcon({
         className: 'marker-icon',
         html: `<span class="marker ${color}">`,
-        iconSize: [36, 36],
+        iconSize: [20, 20],
         // The coordinates of the "tip" of the icon (relative to its top left corner).
         // The icon will be aligned so that this point is at the marker's geographical location.
         // Centered by default if size is specified, also can be set in CSS with negative margins.
-        iconAnchor: [18, 18],
+        iconAnchor: [10, 10],
     });
 }
 

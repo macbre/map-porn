@@ -87,6 +87,12 @@ body {
 .marker.blue   { background-color: #3288bd; }
 .marker.yellow { background-color: #fee08b; }
 
+#map .marker.green  {
+    width: 24px;
+    height: 24px;
+    opacity: 0.75;
+ }
+
 /************************************************************************************************
  * Copyrights
  */
