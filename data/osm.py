@@ -129,14 +129,22 @@ def main():
         """
         This will be called for each parsed <node> tag
         """
-        if ((TAG_KEY, TAG_VALUE) in node_tags):
-            logger.info(f'Matching node found: {node_attrs} ({node_tags}')
+        # <tag k="bus" v="yes"/>
+        # <tag k="highway" v="bus_stop"/>
+        matches = [
+            (TAG_KEY, TAG_VALUE),
+            ('bus', 'yes'),
+        ]
 
-            nodes.append(Node(
-                lat=node_attrs['lat'],
-                lon=node_attrs['lon'],
-                tags=node_tags
-            ))
+        for (key, value) in node_tags:
+            if (key, value) in matches:
+                logger.info(f'Matching node found: {node_attrs} ({node_tags}')
+
+                nodes.append(Node(
+                    lat=node_attrs['lat'],
+                    lon=node_attrs['lon'],
+                    tags=node_tags
+                ))
 
     local_file = cache_osm_file()
     iterate_xml(local_file, node_callback)
@@ -146,7 +154,7 @@ def main():
     logger.info(f'Writing {len(nodes)} node(s) GeoJSON to {geojson_file} ...')
 
     with open(geojson_file, 'wt') as f:
-        # https://geojson.org/ // https://leafletjs.com/examples/geojson/
+        # https://geojson.org/ // https://leafletjs.com/examples/geojson/ // https://geojson.io/
         features = [
             {
                 "type": "Feature",
@@ -163,6 +171,7 @@ def main():
             for node in nodes
         ]
 
+        # f.write('const points = ')
         json.dump(
             {
                 'type': 'FeatureCollection',
