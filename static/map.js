@@ -35,7 +35,9 @@ function setupMap(wrapperId, options, center, zoom) {
 
     // ESRI.addTo(map);
 
-    L.marker([61.961667, -6.9675], {icon: getIcon('green')}).addTo(map);
-    L.marker([61.961667, -6.8675], {icon: getIcon('blue')}).addTo(map);
-    L.marker([61.951667, -6.9975], {icon: getIcon('yellow')}).addTo(map);
+    // L.marker([61.961667, -6.9675], {icon: getIcon('green')}).addTo(map);
+    // L.marker([61.961667, -6.8675], {icon: getIcon('blue')}).addTo(map);
+    // L.marker([61.951667, -6.9975], {icon: getIcon('yellow')}).addTo(map);
+
+    return map;
 }

@@ -47,7 +47,7 @@ body {
 }
 
 #cartodb {
-    opacity: 0.75;
+    opacity: 0.6;
     filter: saturate(1.2) contrast(1.1) hue-rotate(190deg);
 }
 
@@ -62,19 +62,24 @@ body {
     opacity: 0.2;
 }
 
+.leaflet-map-pane {
+    filter: sepia(.1);
+}
+
 /************************************************************************************************
  * Markers / dots
  */
 
 .marker {
-    --marker-size: 18px;
+    --marker-size: 16px;
+    opacity: 0.8;
     content: ' ';
     display: inline-block;
     width: var(--marker-size);
     height: var(--marker-size);
     border-radius: var(--marker-size);
-    outline: solid 6px #ffffffcc;
-    filter: sepia(0.2) brightness(0.9);
+    outline: solid 2px #ffffffee;
+    /* filter: sepia(0.2); */
 }
 
 /* https://colorbrewer2.org/#type=diverging&scheme=Spectral&n=10 */
