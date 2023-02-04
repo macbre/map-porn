@@ -87,10 +87,16 @@ body {
 .marker.blue   { background-color: #3288bd; }
 .marker.yellow { background-color: #fee08b; }
 
-#map .marker.green  {
+#map .marker.green {
     width: 24px;
     height: 24px;
     opacity: 0.75;
+}
+
+#map .marker.yellow {
+    width: 24px;
+    height: 24px;
+    outline: solid 2px #fee08b66;
  }
 
 /************************************************************************************************
