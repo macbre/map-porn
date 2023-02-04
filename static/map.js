@@ -34,8 +34,8 @@ function setupMap(wrapperId, options, center, zoom) {
     // Stamen_TonerLite.addTo(map); // then foreground
     // Stamen_TonerLite._level.el.id = 'toner-lite';
 
-    CartoDB_VoyagerNoLabels.addTo(map);
-    CartoDB_VoyagerNoLabels._level.el.id = 'cartodb';
+    // CartoDB_VoyagerNoLabels.addTo(map);
+    // CartoDB_VoyagerNoLabels._level.el.id = 'cartodb';
 
     // ESRI.addTo(map);
 

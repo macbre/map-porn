@@ -1,12 +1,12 @@
 :root {
     --map-width: 1250px;
-    --map-height: 2000px;
+    --map-height: 2100px;
 }
 
 body {
     font-family: 'IBM Plex Sans', sans-serif;
     margin: 25px;
-    /* background-color: #3c91d055; */
+    background-color: #3c91d055;
     background-color: white;
     width: var(--map-width);
     height: var(--map-height);
@@ -16,9 +16,22 @@ body {
 #wrapper {
     width: var(--map-width);
     height: var(--map-height);
-    border: solid 3px #3c91d0aa;
+    border: solid 5px #3c91d0aa;
     background-color: rgba(76, 76, 107, 1);
     position: relative;
+    overflow: hidden;
+}
+
+#logo {
+    opacity: .1;
+    /* filter: invert(0.5); */
+    width: 400px;
+    position: absolute;
+    transform: rotate(-45deg);
+    left: -150px;
+    top: -150px;
+    z-index: 20;
+    background-blend-mode: screen;
 }
 
 /************************************************************************************************
@@ -43,7 +56,8 @@ body {
 /* background */
 #watercolor {
     /* display: none; */
-    filter: saturate(4) sepia(0.35) grayscale(0.3) contrast(1.15) hue-rotate(188deg);
+    opacity: 0.8;
+    filter: saturate(1.5) sepia(0.1) grayscale(0.1) contrast(1.15) hue-rotate(192deg);
 }
 
 #cartodb {
@@ -133,10 +147,10 @@ body {
     font-family: 'Josefin Sans', sans-serif;
     position: absolute;
     z-index: 20;
-    padding: 25px 25px;
+    padding: 75px 25px;
     width: calc(calc(100%) - 50px);
 
-    background-image: linear-gradient(360deg, transparent 0%, #ffffff77 50% );
+    background-image: linear-gradient(360deg, transparent 0%, #ffffff77 40% );
 }
 
 #overlay h1, #overlay h2 {
@@ -154,10 +168,12 @@ body {
 }
 
 #overlay h2 {
-    padding-top: 0.75em;
-    font-size: 7em;
-    color: #173953aa;
+    padding-top: 1em;
+    font-size: 4.5em;
+    color: #173953cc;
     text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
 }
 
 legend {
