@@ -30,23 +30,15 @@ log.info('Rendering', `<${url}> ...`);
   // await new Promise(resolve => setTimeout(resolve, 5000));
 
   log.info('Taking a screenshot');
-  await page.setViewport({width: 1300, height: 2050, deviceScaleFactor: 2});
+  await page.setViewport({width: 1310, height: 2160, deviceScaleFactor: 2});
   await page.screenshot({path: 'map_faroe.png'});
 
-  // optimize the PNG file
-  log.info('imagemin', 'Optimizing map_faroe.png ...');
-
-  await imagemin(['map_faroe.png'], {
-      destination: 'build/',
-      plugins: [
-          imageminPngquant({
-              quality: [0.6, 0.8]
-          })
-      ]
+  log.info('Taking a screenshot with lang=pl');
+  await page.evaluate(() => {
+    document.body.setAttribute('lang', 'pl');
   });
-
-  await fs.rm('map_faroe.png');
-  await fs.rename('build/map_faroe.png', 'map_faroe.png');
+  await setTimeout(1000); // give some non-Latin fonts a chance to load
+  await page.screenshot({path: 'map_faroe_pl.png'});
 
   await browser.close();
   log.info('Done');

@@ -14,22 +14,32 @@
 	<link rel="stylesheet" href="static/map.css">
 	<script src="static/map.js"></script>
 
-	<body>
+	<body lang="en">
 		<div id="wrapper">
 			<section id="overlay">
-				<h1>Faroe Islands</h1>
-				<h2>Public Transport</h2>
+				<h1 lang="en">Faroe Islands</h1>
+				<h1 lang="pl">Wyspy Owcze</h1>
+
+				<h2 lang="en">Public Transport</h2>
+				<h2 lang="pl">Transport publiczny</h2>
 			</section>
 
 			<img id="logo" src="static/logo.png" />
 
 			<legend>
-				<p>
+				<p lang="en">
 					The Faroe Islands is served by an internal transport system based on <b>roads, ferries, and helicopters</b>.
 				<br><br>
 					<b>Strandfaraskip Landsins</b> operates a network of ferries and the rural blue buses.
 				<br><br>
 					Helicopters operated by <b>Atlantic Airways</b> provide domestic scheduled transportation, medical evacuation, and search & rescue activities.
+				</p>
+				<p lang="pl">
+					Komunikacja na Wyspach Owczych oparta jest o system dróg, tuneli, promów i połączeń realizowanych przez helikoptery.
+				<br><br>
+					Państwowa spółka <b>Strandfaraskip Landsins</b> odpowiada za autobusowe połączenia między miastami oraz sieć promową.
+				<br><br>
+					Helikoptery linii <b>Atlantic Airways</b> zapewniają rozkładowe loty oraz transport ładunków. Biorą także udział w akcjach ratowniczych i&nbsp;poszukiwawczych.
 				</p>
 				<ul>
 					<!-- cat faroe-islands-latest.osm.bz2 | bzip2 -d | grep 'ferry_terminal' -c -->
@@ -55,11 +65,9 @@
 			const map = setupMap('map', options, center, zoom);
 
 			// green / blue / yellow
-			await Promise.all([
-				addGeoJSONLayer(map, '/data/bus_stop-bus_stop.json', 'blue', 'bus stops'),
-				addGeoJSONLayer(map, '/data/amenity-ferry_terminal.json', 'green', 'ferry terminals'),
-				addGeoJSONLayer(map, '/data/aeroway-helipad.json', 'yellow', 'helipads'),
-			]);
+			await addGeoJSONLayer(map, '/data/bus_stop-bus_stop.json', 'blue', 'bus stops', 'przystanki autobusowe')
+			await addGeoJSONLayer(map, '/data/amenity-ferry_terminal.json', 'green', 'ferry terminals', 'promy');
+			await addGeoJSONLayer(map, '/data/aeroway-helipad.json', 'yellow', 'helipads', 'lądowiska dla helikopterów');
 
 			// L.marker([61.961667, -6.9675], {icon: getIcon('green')}).addTo(map);
 		})();

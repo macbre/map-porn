@@ -35,6 +35,12 @@ body {
 }
 
 /************************************************************************************************
+ * Languages
+ */
+body[lang="en"] *[lang="pl"] { display: none } /* hide Polish when in English mode */
+body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
+
+/************************************************************************************************
  * Maps styling
  */
 #map {

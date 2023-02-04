@@ -48,7 +48,7 @@ function setupMap(wrapperId, options, center, zoom) {
 
 // now load the GeoJSON data
 // https://leafletjs.com/examples/geojson/
-async function addGeoJSONLayer(map, url, color, label) {
+async function addGeoJSONLayer(map, url, color, label_en, label_pl) {
     const res = await fetch(url);
     const geojsonFeatures = JSON.parse(await res.text());
     // console.log('GeoJSON', geojsonFeatures);
@@ -63,7 +63,9 @@ async function addGeoJSONLayer(map, url, color, label) {
 
     // add a label
     const legendEntry = document.createElement('li');
-    legendEntry.innerHTML = `<span class="marker ${color}"></span>${label}<span class="tally">${geojsonFeatures.features.length}</span>`;
+    legendEntry.innerHTML = `<span class="marker ${color}"></span>` + 
+        `<span lang="en">${label_en}</span><span lang="pl">${label_pl}</span>` + 
+        `<span class="tally">${geojsonFeatures.features.length}</span>`;
 
     document.querySelector('legend ul').appendChild(legendEntry);
 }
