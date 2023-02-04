@@ -24,13 +24,13 @@ DIR = path.abspath(path.dirname(__file__))
 # https://wiki.openstreetmap.org/wiki/Tag:aeroway%3Dhelipad
 # <tag k="aeroway" v="helipad"/>
 # TODO: handle <way> tags
-# TAG_KEY = 'aeroway'
-# TAG_VALUE = 'helipad'
+TAG_KEY = 'aeroway'
+TAG_VALUE = 'helipad'
 
 # https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dferry_terminal
 # <tag k="amenity" v="ferry_terminal"/>
-TAG_KEY = 'amenity'
-TAG_VALUE = 'ferry_terminal'
+# TAG_KEY = 'amenity'
+# TAG_VALUE = 'ferry_terminal'
 
 def cache_osm_file():
     # https://download.geofabrik.de/europe/faroe-islands.html
@@ -65,7 +65,13 @@ class OSMHandler(handler.ContentHandler):
         self._reset()
         self.logger = logging.getLogger(name=self.__class__.__name__)
 
+        # here we'll keep the references to <node> tags without any children
+        # they're later referenced by <way> tags
+        self.nodes_references: dict[str, Node] = {}
         self.nodes_counter = 0
+
+        # this will be called on each <node> tag along with its tags
+        # <way> tags will also call it with the first references <node> tag
         self.node_callback = node_callback
 
     def _reset(self, current_element: str = None):
@@ -89,24 +95,81 @@ class OSMHandler(handler.ContentHandler):
                 'lat': attrs['lat'],
                 'lon': attrs['lon'],
             }
-        elif name == 'tag' and self.current_element == 'node':
+
+        elif name == 'tag' and self.current_element in ['node', 'way']:
             # append tags as a tuple
             # <tag k="place" v="town"/>
             # e.g. ('highway', 'traffic_signals'), ('traffic_signals', 'traffic_lights')
             self.tags.append((attrs['k'], attrs['v']))
 
+        elif name == 'way':
+            """
+            <node id="374178126" version="5" timestamp="2019-10-05T00:55:31Z" lat="62.0112091" lon="-6.7721186"/>
+            (...)
+            <way id="4965566" version="8" timestamp="2019-10-05T00:52:15Z">
+                <nd ref="374178126"/>
+                <nd ref="4321355681"/>
+                <tag k="highway" v="residential"/>
+                <tag k="name" v="Sverrisgøta"/>
+                <tag k="oneway" v="yes"/>
+                <tag k="surface" v="asphalt"/>
+            </way>
+            """
+            self._reset(current_element='way')
+
+            # now wait for the first <nd ref="374178126"/> tag
+
+        elif name == 'nd' and self.current_element == 'way':
+            if not self.attrs.keys():
+                # this is the first <nd> child of the <way> tag
+                # get the referenced node
+                if referenced_node := self.nodes_references.get( attrs['ref'] ):
+                    self.logger.debug(f'Found referenced node for #{attrs["ref"]}')
+
+                    self.attrs = {
+                        'id': attrs['ref'],
+                        'lat': referenced_node.lat,
+                        'lon': referenced_node.lon,
+                    }
+
+                else:
+                    self.logger.debug(f'Cannot find referenced node for #{attrs["ref"]}')
+
+
     def endElement(self, name: str):
+        """
+        Call node_callback for each <node> and <way> tag
+        """
         if name == 'node':
             if self.tags:
                 self.logger.debug(f'{name} ({self.attrs}): {self.tags}')
 
                 if self.node_callback:
                     self.node_callback(self.attrs, self.tags)
+            else:
+                # register a node reference
+                # as this <node> does not have any tags defined, it will be highly likely referenced by <way>
+                self.logger.debug(f'{name} #{self.attrs["id"]} reference stored')
+
+                self.nodes_references[ self.attrs['id'] ] = Node(
+                    lat=self.attrs['lat'],
+                    lon=self.attrs['lon'],
+                    tags=[]
+                )
 
             self._reset()
 
+        elif name == 'way':
+            if self.tags:
+                self.logger.debug(f'{name} ({self.attrs}): {self.tags}')
+
+                if self.node_callback:
+                    self.node_callback(self.attrs, self.tags)
+
+                self._reset()
+
     def endDocument(self):
-        self.logger.info(f'Parsed OSM XML file with {self.nodes_counter} node(s)')
+        self.logger.info(f'Parsed OSM XML file with {self.nodes_counter} node(s) including')
 
 
 def iterate_xml(xml_file, node_callback: callable):
