@@ -13,6 +13,12 @@ $ open http://localhost:3000
 
 ## Resources
 
+### Countours
+
+* [eea.europa.eu countries contours](https://bio.discomap.eea.europa.eu/arcgis/rest/services/Internal/EuroBoundaries_Dyna_WM/MapServer/0/query?where=1%3D1&f=geojson&outFields=*)
+* [`georgique/world-geojson` repository](https://github.com/georgique/world-geojson/blob/develop/areas/denmark/faroe_islands.json)
+* [GeoJSON in Leaflet](https://geojson-maps.ash.ms/)
+
 ### [OSM XML snapshot for Faroe Islands](https://download.geofabrik.de/europe/faroe-islands.html)
 
 * [`<node>` tag](https://wiki.openstreetmap.org/wiki/Node#Structure)
@@ -104,3 +110,15 @@ curl 'https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/
   "exceededTransferLimit": true
 ```
 
+## Data sources
+
+* [OpenStreetMaps via Data Extracts](https://download.geofabrik.de/index.html)
+
+### Faroe Islands
+
+* [Umhvørvisstovan](https://gis.us.fo/arcgis/)
+* [Strandfaraskip Landsins (SSL)](https://www.ssl.fo/fo/ferdaaetlan/hvar-er-bussurin-beint-nu/)
+
+### Ireland
+
+* [Ordnance Survey Ireland](https://data-osi.opendata.arcgis.com/)
