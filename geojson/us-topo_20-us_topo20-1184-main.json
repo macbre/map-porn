@@ -1,0 +1,8505 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 0,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.581783,
+     62.103382999220656,
+     560,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 0,
+    "Oyggj": "Mykines",
+    "Fjall": "Kn\u00fakur",
+    "Hadd": 560,
+    "Kortblad": 110,
+    "N_nt": "N62 06,203",
+    "W_nt": "W07 34,907",
+    "Y": 62.103383,
+    "X": -7.581783,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 1,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.575283000000002,
+     62.09918299922059,
+     433,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 1,
+    "Oyggj": "Mykines",
+    "Fjall": "He\u00f0insskorarfjall",
+    "Hadd": 433,
+    "Kortblad": 110,
+    "N_nt": "N62 05,951",
+    "W_nt": "W07 34,517",
+    "Y": 62.099183,
+    "X": -7.575283,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.5524,
+     62.094782999220506,
+     350,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 2,
+    "Oyggj": "Mykines",
+    "Fjall": "\u00c1rnafjall",
+    "Hadd": 350,
+    "Kortblad": 110,
+    "N_nt": "N62 05,687",
+    "W_nt": "W07 33,144",
+    "Y": 62.094783,
+    "X": -7.5524,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.38275,
+     62.0621829992199,
+     515,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 3,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "H\u00f8gafjall",
+    "Hadd": 515,
+    "Kortblad": 209,
+    "N_nt": "N62 03,731",
+    "W_nt": "W07 22,965",
+    "Y": 62.062183,
+    "X": -7.38275,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.354083,
+     62.055266999219775,
+     458,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 4,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Bolafl\u00f8ttur",
+    "Hadd": 458,
+    "Kortblad": 209,
+    "N_nt": "N62 03,316",
+    "W_nt": "W07 21,245",
+    "Y": 62.055267,
+    "X": -7.354083,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.329417000000001,
+     62.0567169992198,
+     367,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 5,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "N\u00f3nfjall",
+    "Hadd": 367,
+    "Kortblad": 209,
+    "N_nt": "N62 03,403",
+    "W_nt": "W07 19,765",
+    "Y": 62.056717,
+    "X": -7.329417,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.278083,
+     62.046766999219614,
+     305,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 6,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Su\u00f0ur \u00e1 FjaIli",
+    "Hadd": 305,
+    "Kortblad": 209,
+    "N_nt": "N62 02,806",
+    "W_nt": "W07 16,685",
+    "Y": 62.046767,
+    "X": -7.278083,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.404816999999999,
+     62.07063299922007,
+     286,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 7,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Sundsn\u00f8va",
+    "Hadd": 286,
+    "Kortblad": 209,
+    "N_nt": "N62 04,238",
+    "W_nt": "W07 24,289",
+    "Y": 62.070633,
+    "X": -7.404817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2917,
+     62.078499999220206,
+     284,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 8,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "V\u00f8rufelli",
+    "Hadd": 284,
+    "Kortblad": 209,
+    "N_nt": "N62 04,710",
+    "W_nt": "W07 17,502",
+    "Y": 62.0785,
+    "X": -7.2917,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.404617,
+     62.06778299921999,
+     263,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 9,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Kv\u00edv\u00edksskoran\u00f8va",
+    "Hadd": 263,
+    "Kortblad": 209,
+    "N_nt": "N62 04,067",
+    "W_nt": "W07 24,277",
+    "Y": 62.067783,
+    "X": -7.404617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.436083,
+     62.13138299922118,
+     722,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 10,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "\u00c1rnafjall",
+    "Hadd": 722,
+    "Kortblad": 210,
+    "N_nt": "N62 07,883",
+    "W_nt": "W07 26,165",
+    "Y": 62.131383,
+    "X": -7.436083,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 11,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3975329999999975,
+     62.11724999922091,
+     715,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 11,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Eysturtindur",
+    "Hadd": 715,
+    "Kortblad": 210,
+    "N_nt": "N62 07,035",
+    "W_nt": "W07 23,852",
+    "Y": 62.11725,
+    "X": -7.397533,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.391649999999999,
+     62.11284999922084,
+     676,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 12,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Jatnagar\u00f0ar",
+    "Hadd": 676,
+    "Kortblad": 210,
+    "N_nt": "N62 06,771",
+    "W_nt": "W07 23,499",
+    "Y": 62.11285,
+    "X": -7.39165,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 13,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.37495,
+     62.10736699922074,
+     630,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 13,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Knattarheyggjur",
+    "Hadd": 630,
+    "Kortblad": 210,
+    "N_nt": "N62 06,442",
+    "W_nt": "W07 22,497",
+    "Y": 62.107367,
+    "X": -7.37495,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 14,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.35325,
+     62.1051169992207,
+     617,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 14,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Sn\u00e6ldansfjall",
+    "Hadd": 617,
+    "Kortblad": 210,
+    "N_nt": "N62 06,307",
+    "W_nt": "W07 21,195",
+    "Y": 62.105117,
+    "X": -7.35325,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 15,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.451666999999999,
+     62.12284999922103,
+     612,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 15,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Heinan\u00f8va",
+    "Hadd": 612,
+    "Kortblad": 210,
+    "N_nt": "N62 07,371",
+    "W_nt": "W07 27,100",
+    "Y": 62.12285,
+    "X": -7.451667,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 16,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.277800000000002,
+     62.137266999221296,
+     591,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 16,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Jatnagar\u00f0ar",
+    "Hadd": 591,
+    "Kortblad": 210,
+    "N_nt": "N62 08,236",
+    "W_nt": "W07 16,668",
+    "Y": 62.137267,
+    "X": -7.2778,
+    "Vidmerking": "\u00c1\u00f0ur nevnt Tungufelli"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 17,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.384082999999999,
+     62.0943329992205,
+     524,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 17,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Berinartindur",
+    "Hadd": 524,
+    "Kortblad": 210,
+    "N_nt": "N62 05,660",
+    "W_nt": "W07 23,045",
+    "Y": 62.094333,
+    "X": -7.384083,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 18,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.299817000000001,
+     62.147232999221494,
+     523,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 18,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Gr\u00edmsta\u00f0fjall",
+    "Hadd": 523,
+    "Kortblad": 210,
+    "N_nt": "N62 08,834",
+    "W_nt": "W07 17,989",
+    "Y": 62.147233,
+    "X": -7.299817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 19,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.329016999999999,
+     62.0944169992205,
+     514,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 19,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Vatnsdalsfjall",
+    "Hadd": 514,
+    "Kortblad": 210,
+    "N_nt": "N62 05,665",
+    "W_nt": "W07 19,741",
+    "Y": 62.094417,
+    "X": -7.329017,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 20,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.331467,
+     62.141549999221375,
+     502,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 20,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "H\u00f8vdin uttanfyri Eyrgj\u00f3gv",
+    "Hadd": 502,
+    "Kortblad": 210,
+    "N_nt": "N62 08,493",
+    "W_nt": "W07 19,888",
+    "Y": 62.14155,
+    "X": -7.331467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 21,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.420049999999998,
+     62.10331699922067,
+     485,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 21,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Knavin",
+    "Hadd": 485,
+    "Kortblad": 210,
+    "N_nt": "N62 06,199",
+    "W_nt": "W07 25,203",
+    "Y": 62.103317,
+    "X": -7.42005,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 22,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.416432999999998,
+     62.09906699922059,
+     464,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 22,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "R\u00f3gvukollur",
+    "Hadd": 464,
+    "Kortblad": 210,
+    "N_nt": "N62 05,944",
+    "W_nt": "W07 24,986",
+    "Y": 62.099067,
+    "X": -7.416433,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 23,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.330666999999999,
+     62.08736699922036,
+     449,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 23,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Eindalsfjall",
+    "Hadd": 449,
+    "Kortblad": 210,
+    "N_nt": "N62 05,242",
+    "W_nt": "W07 19,840",
+    "Y": 62.087367,
+    "X": -7.330667,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 24,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.37275,
+     62.11548299922088,
+     423,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 24,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "M\u00f8lin",
+    "Hadd": 423,
+    "Kortblad": 210,
+    "N_nt": "N62 06,929",
+    "W_nt": "W07 22,365",
+    "Y": 62.115483,
+    "X": -7.37275,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 25,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.315383,
+     62.14383299922142,
+     392,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 25,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Antinisfjall",
+    "Hadd": 392,
+    "Kortblad": 210,
+    "N_nt": "N62 08,630",
+    "W_nt": "W07 18,923",
+    "Y": 62.143833,
+    "X": -7.315383,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.362583000000001,
+     62.12021699922098,
+     352,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 26,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Klubbin",
+    "Hadd": 352,
+    "Kortblad": 210,
+    "N_nt": "N62 07,213",
+    "W_nt": "W07 21,755",
+    "Y": 62.120217,
+    "X": -7.362583,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 27,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.126767,
+     62.076616999220164,
+     683,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 27,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Malinstindur",
+    "Hadd": 683,
+    "Kortblad": 309,
+    "N_nt": "N62 04,597",
+    "W_nt": "W07 07,606",
+    "Y": 62.076617,
+    "X": -7.126767,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 28,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.187799999999999,
+     62.082082999220276,
+     676,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 28,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Reynsatindur",
+    "Hadd": 676,
+    "Kortblad": 309,
+    "N_nt": "N62 04,925",
+    "W_nt": "W07 11,268",
+    "Y": 62.082083,
+    "X": -7.1878,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 29,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1972,
+     62.076416999220164,
+     643,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 29,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Gili\u00f0tr\u00edtitindur",
+    "Hadd": 643,
+    "Kortblad": 309,
+    "N_nt": "N62 04,585",
+    "W_nt": "W07 11,832",
+    "Y": 62.076417,
+    "X": -7.1972,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.199267,
+     62.07281699922009,
+     595,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 30,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "J\u00f3gvansfjall",
+    "Hadd": 595,
+    "Kortblad": 309,
+    "N_nt": "N62 04,369",
+    "W_nt": "W07 11,956",
+    "Y": 62.072817,
+    "X": -7.199267,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 31,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.118967,
+     62.081532999220265,
+     594,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 31,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Brei\u00f0ist\u00edggjur",
+    "Hadd": 594,
+    "Kortblad": 309,
+    "N_nt": "N62 04,892",
+    "W_nt": "W07 07,138",
+    "Y": 62.081533,
+    "X": -7.118967,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 32,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.107917,
+     62.0568329992198,
+     591,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 32,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "H\u00fasafelli",
+    "Hadd": 591,
+    "Kortblad": 309,
+    "N_nt": "N62 03,410",
+    "W_nt": "W07 06,475",
+    "Y": 62.056833,
+    "X": -7.107917,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 33,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.093800000000001,
+     62.05356699921975,
+     574,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 33,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Krosstindur",
+    "Hadd": 574,
+    "Kortblad": 309,
+    "N_nt": "N62 03,214",
+    "W_nt": "W07 05,628",
+    "Y": 62.053567,
+    "X": -7.0938,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 34,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.200882999999999,
+     62.02463299921922,
+     376,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 34,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Ritubergsn\u00f8va",
+    "Hadd": 376,
+    "Kortblad": 309,
+    "N_nt": "N62 01,478",
+    "W_nt": "W07 12,053",
+    "Y": 62.024633,
+    "X": -7.200883,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 35,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.183467,
+     62.0297329992193,
+     343,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 35,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Middagsfjall",
+    "Hadd": 343,
+    "Kortblad": 309,
+    "N_nt": "N62 01,784",
+    "W_nt": "W07 11,008",
+    "Y": 62.029733,
+    "X": -7.183467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 36,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.166333,
+     62.03201699921936,
+     269,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 36,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Ravnsfjall",
+    "Hadd": 269,
+    "Kortblad": 309,
+    "N_nt": "N62 01,921",
+    "W_nt": "W07 09,980",
+    "Y": 62.032017,
+    "X": -7.166333,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 37,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.229667,
+     62.020916999219146,
+     142,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 37,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Tr\u00e6lan\u00edpa",
+    "Hadd": 142,
+    "Kortblad": 309,
+    "N_nt": "N62 01,255",
+    "W_nt": "W07 13,780",
+    "Y": 62.020917,
+    "X": -7.229667,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 38,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.088283,
+     62.13874999922132,
+     618,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 38,
+    "Oyggj": "Streymoy",
+    "Fjall": "Egilsfjall",
+    "Hadd": 618,
+    "Kortblad": 310,
+    "N_nt": "N62 08,325",
+    "W_nt": "W07 05,297",
+    "Y": 62.13875,
+    "X": -7.088283,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 39,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.065817,
+     62.13819999922131,
+     477,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 39,
+    "Oyggj": "Streymoy",
+    "Fjall": "G\u00e1safelIi",
+    "Hadd": 477,
+    "Kortblad": 310,
+    "N_nt": "N62 08,292",
+    "W_nt": "W07 03,949",
+    "Y": 62.1382,
+    "X": -7.065817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 40,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.161333,
+     62.16304999922177,
+     349,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 40,
+    "Oyggj": "Streymoy",
+    "Fjall": "Reyni\u00f0",
+    "Hadd": 349,
+    "Kortblad": 310,
+    "N_nt": "N62 09,783",
+    "W_nt": "W07 09,680",
+    "Y": 62.16305,
+    "X": -7.161333,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 41,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.198766999999999,
+     62.1533499992216,
+     296,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 41,
+    "Oyggj": "Streymoy",
+    "Fjall": "H\u00e6gstafjalI",
+    "Hadd": 296,
+    "Kortblad": 310,
+    "N_nt": "N62 09,201",
+    "W_nt": "W07 11,926",
+    "Y": 62.15335,
+    "X": -7.198767,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 42,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.195517,
+     62.16106699922174,
+     293,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 42,
+    "Oyggj": "Streymoy",
+    "Fjall": "Melin",
+    "Hadd": 293,
+    "Kortblad": 310,
+    "N_nt": "N62 09,664",
+    "W_nt": "W07 11,731",
+    "Y": 62.161067,
+    "X": -7.195517,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 43,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.185983,
+     62.09544999922053,
+     572,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 43,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "G\u00e1safelli",
+    "Hadd": 572,
+    "Kortblad": 310,
+    "N_nt": "N62 05,727",
+    "W_nt": "W07 11,159",
+    "Y": 62.09545,
+    "X": -7.185983,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 44,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.103417,
+     62.08261699922028,
+     572,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 44,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Heldarstindur",
+    "Hadd": 572,
+    "Kortblad": 310,
+    "N_nt": "N62 04,957",
+    "W_nt": "W07 06,205",
+    "Y": 62.082617,
+    "X": -7.103417,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 45,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2714500000000015,
+     62.131116999221184,
+     563,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 45,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Tungufelli",
+    "Hadd": 563,
+    "Kortblad": 310,
+    "N_nt": "N62 07,867",
+    "W_nt": "W07 16,287",
+    "Y": 62.131117,
+    "X": -7.27145,
+    "Vidmerking": "\u00c1\u00f0ur nevnt Jatnagar\u00f0ur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 46,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.229083000000002,
+     62.115149999220876,
+     545,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 46,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Krossafelli",
+    "Hadd": 545,
+    "Kortblad": 310,
+    "N_nt": "N62 06,909",
+    "W_nt": "W07 13,745",
+    "Y": 62.11515,
+    "X": -7.229083,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 47,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.254250000000001,
+     62.122532999221015,
+     443,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 47,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "Tungufelli\u00f0 L\u00edtla",
+    "Hadd": 443,
+    "Kortblad": 310,
+    "N_nt": "N62 07,352",
+    "W_nt": "W07 15,255",
+    "Y": 62.122533,
+    "X": -7.25425,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 48,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1660330000000005,
+     62.08949999922041,
+     351,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 48,
+    "Oyggj": "V\u00e1gar",
+    "Fjall": "L\u00edrisfelli",
+    "Hadd": 351,
+    "Kortblad": 310,
+    "N_nt": "N62 05,370",
+    "W_nt": "W07 09,962",
+    "Y": 62.0895,
+    "X": -7.166033,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 49,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.206683000000001,
+     62.22849999922298,
+     789,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 49,
+    "Oyggj": "Streymoy",
+    "Fjall": "Koppenni",
+    "Hadd": 789,
+    "Kortblad": 311,
+    "N_nt": "N62 13,710",
+    "W_nt": "W07 12,401",
+    "Y": 62.2285,
+    "X": -7.206683,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 50,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.156782999999999,
+     62.20844999922261,
+     783,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 50,
+    "Oyggj": "Streymoy",
+    "Fjall": "\u00d8rvisfelli",
+    "Hadd": 783,
+    "Kortblad": 311,
+    "N_nt": "N62 12,507",
+    "W_nt": "W07 09,407",
+    "Y": 62.20845,
+    "X": -7.156783,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 51,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.21475,
+     62.22681699922295,
+     777,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 51,
+    "Oyggj": "Streymoy",
+    "Fjall": "Malakn\u00fakur",
+    "Hadd": 777,
+    "Kortblad": 311,
+    "N_nt": "N62 13,609",
+    "W_nt": "W07 12,885",
+    "Y": 62.226817,
+    "X": -7.21475,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 52,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.184133000000002,
+     62.19781699922243,
+     756,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 52,
+    "Oyggj": "Streymoy",
+    "Fjall": "Mosar\u00f8kur",
+    "Hadd": 756,
+    "Kortblad": 311,
+    "N_nt": "N62 11,869",
+    "W_nt": "W07 11,048",
+    "Y": 62.197817,
+    "X": -7.184133,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 53,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.12975,
+     62.18958299922227,
+     710,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 53,
+    "Oyggj": "Streymoy",
+    "Fjall": "St\u00edgarnir",
+    "Hadd": 710,
+    "Kortblad": 311,
+    "N_nt": "N62 11,375",
+    "W_nt": "W07 07,785",
+    "Y": 62.189583,
+    "X": -7.12975,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 54,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1148,
+     62.19349999922234,
+     663,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 54,
+    "Oyggj": "Streymoy",
+    "Fjall": "M\u00falin",
+    "Hadd": 663,
+    "Kortblad": 311,
+    "N_nt": "N62 11,610",
+    "W_nt": "W07 06,888",
+    "Y": 62.1935,
+    "X": -7.1148,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 55,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.179333,
+     62.202299999222504,
+     658,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 55,
+    "Oyggj": "Streymoy",
+    "Fjall": "B\u00f8llufjall",
+    "Hadd": 658,
+    "Kortblad": 311,
+    "N_nt": "N62 12,138",
+    "W_nt": "W07 10,760",
+    "Y": 62.2023,
+    "X": -7.179333,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 56,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.228217,
+     62.21584999922276,
+     644,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 56,
+    "Oyggj": "Streymoy",
+    "Fjall": "Tosskorarhorn",
+    "Hadd": 644,
+    "Kortblad": 311,
+    "N_nt": "N62 12,951",
+    "W_nt": "W07 13,693",
+    "Y": 62.21585,
+    "X": -7.228217,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 57,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.170450000000001,
+     62.231249999223046,
+     642,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 57,
+    "Oyggj": "Streymoy",
+    "Fjall": "Borgin",
+    "Hadd": 642,
+    "Kortblad": 311,
+    "N_nt": "N62 13,875",
+    "W_nt": "W07 10,227",
+    "Y": 62.23125,
+    "X": -7.17045,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 58,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.121767,
+     62.169616999221894,
+     639,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 58,
+    "Oyggj": "Streymoy",
+    "Fjall": "Loysingafjall",
+    "Hadd": 639,
+    "Kortblad": 311,
+    "N_nt": "N62 10,177",
+    "W_nt": "W07 07,306",
+    "Y": 62.169617,
+    "X": -7.121767,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 59,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.215482999999998,
+     62.18906699922225,
+     626,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 59,
+    "Oyggj": "Streymoy",
+    "Fjall": "Postulakirkja",
+    "Hadd": 626,
+    "Kortblad": 311,
+    "N_nt": "N62 11,344",
+    "W_nt": "W07 12,929",
+    "Y": 62.189067,
+    "X": -7.215483,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 60,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.136949999999999,
+     62.18148299922211,
+     624,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 60,
+    "Oyggj": "Streymoy",
+    "Fjall": "Moskursfjall",
+    "Hadd": 624,
+    "Kortblad": 311,
+    "N_nt": "N62 10,889",
+    "W_nt": "W07 08,217",
+    "Y": 62.181483,
+    "X": -7.13695,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 61,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.206299999999999,
+     62.21353299922271,
+     613,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 61,
+    "Oyggj": "Streymoy",
+    "Fjall": "P\u00e6tursfjall",
+    "Hadd": 613,
+    "Kortblad": 311,
+    "N_nt": "N62 12,812",
+    "W_nt": "W07 12,378",
+    "Y": 62.213533,
+    "X": -7.2063,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 62,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.115982999999999,
+     62.23948299922319,
+     599,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 62,
+    "Oyggj": "Streymoy",
+    "Fjall": "LangafjalI",
+    "Hadd": 599,
+    "Kortblad": 311,
+    "N_nt": "N62 14,369",
+    "W_nt": "W07 06 959",
+    "Y": 62.239483,
+    "X": -7.115983,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 63,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.091767000000001,
+     62.183182999222154,
+     596,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 63,
+    "Oyggj": "Streymoy",
+    "Fjall": "Mi\u00f0alfelIi",
+    "Hadd": 596,
+    "Kortblad": 311,
+    "N_nt": "N62 10,991",
+    "W_nt": "W07 05,506",
+    "Y": 62.183183,
+    "X": -7.091767,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 64,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.109933,
+     62.23631699922313,
+     589,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 64,
+    "Oyggj": "Streymoy",
+    "Fjall": "Kn\u00fakurin, Saksun",
+    "Hadd": 589,
+    "Kortblad": 311,
+    "N_nt": "N62 14,179",
+    "W_nt": "W07 06 596",
+    "Y": 62.236317,
+    "X": -7.109933,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 65,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.234182999999999,
+     62.18873299922224,
+     579,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 65,
+    "Oyggj": "Streymoy",
+    "Fjall": "Tindur",
+    "Hadd": 579,
+    "Kortblad": 311,
+    "N_nt": "N62 11,324",
+    "W_nt": "W07 14,051",
+    "Y": 62.188733,
+    "X": -7.234183,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 66,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.136133,
+     62.201482999222506,
+     572,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 66,
+    "Oyggj": "Streymoy",
+    "Fjall": "FjalIi\u00f0 Litla",
+    "Hadd": 572,
+    "Kortblad": 311,
+    "N_nt": "N62 12,089",
+    "W_nt": "W07 08,168",
+    "Y": 62.201483,
+    "X": -7.136133,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 67,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.098383,
+     62.225449999222946,
+     537,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 67,
+    "Oyggj": "Streymoy",
+    "Fjall": "SandfelIi",
+    "Hadd": 537,
+    "Kortblad": 311,
+    "N_nt": "N62 13,527",
+    "W_nt": "W07 05,903",
+    "Y": 62.22545,
+    "X": -7.098383,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 68,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.210532999999999,
+     62.17348299922195,
+     382,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 68,
+    "Oyggj": "Streymoy",
+    "Fjall": "\u00c1rndalsfjalI",
+    "Hadd": 382,
+    "Kortblad": 311,
+    "N_nt": "N62 10,409",
+    "W_nt": "W07 12,632",
+    "Y": 62.173483,
+    "X": -7.210533,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 69,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1033,
+     62.31893299922468,
+     352,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 69,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Ei\u00f0iskollur",
+    "Hadd": 352,
+    "Kortblad": 312,
+    "N_nt": "N62 19,136",
+    "W_nt": "W07 06,198",
+    "Y": 62.318933,
+    "X": -7.1033,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 70,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0677,
+     62.28516699922406,
+     172,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 70,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Nor\u00f0arafjall",
+    "Hadd": 172,
+    "Kortblad": 312,
+    "N_nt": "N62 17,110",
+    "W_nt": "W07 04,062",
+    "Y": 62.285167,
+    "X": -7.0677,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 71,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0620330000000004,
+     62.281932999224,
+     171,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 71,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sunnarafjall",
+    "Hadd": 171,
+    "Kortblad": 312,
+    "N_nt": "N62 16,916",
+    "W_nt": "W07 03,722",
+    "Y": 62.281933,
+    "X": -7.062033,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 72,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.17115,
+     62.26579999922368,
+     764,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 72,
+    "Oyggj": "Streymoy",
+    "Fjall": "Melin",
+    "Hadd": 764,
+    "Kortblad": 312,
+    "N_nt": "N62 15,948",
+    "W_nt": "W07 10,269",
+    "Y": 62.2658,
+    "X": -7.17115,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 73,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.15385,
+     62.26149999922361,
+     703,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 73,
+    "Oyggj": "Streymoy",
+    "Fjall": "V\u00edkartindur",
+    "Hadd": 703,
+    "Kortblad": 312,
+    "N_nt": "N62 15,690",
+    "W_nt": "W07 09,231",
+    "Y": 62.2615,
+    "X": -7.15385,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 74,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.151767,
+     62.25394999922348,
+     701,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 74,
+    "Oyggj": "Streymoy",
+    "Fjall": "G\u00edvrufelli",
+    "Hadd": 701,
+    "Kortblad": 312,
+    "N_nt": "N62 15,237",
+    "W_nt": "W07 09,106",
+    "Y": 62.25395,
+    "X": -7.151767,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 75,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.181682999999998,
+     62.282682999224015,
+     692,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 75,
+    "Oyggj": "Streymoy",
+    "Fjall": "Heyggjurin Mikli",
+    "Hadd": 692,
+    "Kortblad": 312,
+    "N_nt": "N62 16,961",
+    "W_nt": "W07 10,901",
+    "Y": 62.282683,
+    "X": -7.181683,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 76,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2019,
+     62.28011699922396,
+     674,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 76,
+    "Oyggj": "Streymoy",
+    "Fjall": "H\u00fagvan",
+    "Hadd": 674,
+    "Kortblad": 312,
+    "N_nt": "N62 16,807",
+    "W_nt": "W07 12,114",
+    "Y": 62.280117,
+    "X": -7.2019,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 77,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.207132999999999,
+     62.27498299922386,
+     651,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 77,
+    "Oyggj": "Streymoy",
+    "Fjall": "Eggjarm\u00fali",
+    "Hadd": 651,
+    "Kortblad": 312,
+    "N_nt": "N62 16,499",
+    "W_nt": "W07 12,428",
+    "Y": 62.274983,
+    "X": -7.207133,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 78,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.231217,
+     62.25511699922348,
+     635,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 78,
+    "Oyggj": "Streymoy",
+    "Fjall": "H\u00f8vdin",
+    "Hadd": 635,
+    "Kortblad": 312,
+    "N_nt": "N62 15,307",
+    "W_nt": "W07 13 873",
+    "Y": 62.255117,
+    "X": -7.231217,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 79,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.224183,
+     62.2935829992242,
+     623,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 79,
+    "Oyggj": "Streymoy",
+    "Fjall": "Snubburnar",
+    "Hadd": 623,
+    "Kortblad": 312,
+    "N_nt": "N62 17,615",
+    "W_nt": "W07 13,451",
+    "Y": 62.293583,
+    "X": -7.224183,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 80,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.216883000000001,
+     62.29979999922433,
+     564,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 80,
+    "Oyggj": "Streymoy",
+    "Fjall": "M\u00fdlingur",
+    "Hadd": 564,
+    "Kortblad": 312,
+    "N_nt": "N62 17,988",
+    "W_nt": "W07 13,013",
+    "Y": 62.2998,
+    "X": -7.216883,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 81,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.134983,
+     62.285216999224055,
+     470,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 81,
+    "Oyggj": "Streymoy",
+    "Fjall": "H\u00e6gstafjalI",
+    "Hadd": 470,
+    "Kortblad": 312,
+    "N_nt": "N62 17,113",
+    "W_nt": "W07 08,099",
+    "Y": 62.285217,
+    "X": -7.134983,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 82,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1241829999999995,
+     62.26303299922364,
+     429,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 82,
+    "Oyggj": "Streymoy",
+    "Fjall": "Vatnfelli",
+    "Hadd": 429,
+    "Kortblad": 312,
+    "N_nt": "N62 15,782",
+    "W_nt": "W07 07,451",
+    "Y": 62.263033,
+    "X": -7.124183,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 83,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.213117,
+     62.253416999223454,
+     425,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 83,
+    "Oyggj": "Streymoy",
+    "Fjall": "Ytriheyggjur",
+    "Hadd": 425,
+    "Kortblad": 312,
+    "N_nt": "N62 15,205",
+    "W_nt": "W07 12,787",
+    "Y": 62.253417,
+    "X": -7.213117,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 84,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2048169999999985,
+     62.25293299922345,
+     409,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 84,
+    "Oyggj": "Streymoy",
+    "Fjall": "Heimariheyggjur",
+    "Hadd": 409,
+    "Kortblad": 312,
+    "N_nt": "N62 15,176",
+    "W_nt": "W07 12,289",
+    "Y": 62.252933,
+    "X": -7.204817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 85,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.102667,
+     62.25983299922357,
+     399,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 85,
+    "Oyggj": "Streymoy",
+    "Fjall": "G\u00e1safelli, Haldarsv\u00edk",
+    "Hadd": 399,
+    "Kortblad": 312,
+    "N_nt": "N62 15,590",
+    "W_nt": "W07 06,160",
+    "Y": 62.259833,
+    "X": -7.102667,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 86,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.112049999999999,
+     62.266749999223705,
+     345,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 86,
+    "Oyggj": "Streymoy",
+    "Fjall": "L\u00f3mfelli",
+    "Hadd": 345,
+    "Kortblad": 312,
+    "N_nt": "N62 16,005",
+    "W_nt": "W07 06,723",
+    "Y": 62.26675,
+    "X": -7.11205,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 87,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.102849999999998,
+     62.28024999922396,
+     188,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 87,
+    "Oyggj": "Streymoy",
+    "Fjall": "Fjalli\u00f0, Haldarsv\u00edk",
+    "Hadd": 188,
+    "Kortblad": 312,
+    "N_nt": "N62 16,815",
+    "W_nt": "W07 06 171",
+    "Y": 62.28025,
+    "X": -7.10285,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 88,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.869183,
+     61.50368299920972,
+     535,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 88,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Gloppr\u00f3kin",
+    "Hadd": 535,
+    "Kortblad": 402,
+    "N_nt": "N61 30,221",
+    "W_nt": "W06 52,151",
+    "Y": 61.503683,
+    "X": -6.869183,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 89,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.879066999999999,
+     61.507299999209785,
+     525,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 89,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "H\u00f8g\u00f8ksl",
+    "Hadd": 525,
+    "Kortblad": 402,
+    "N_nt": "N61 30,438",
+    "W_nt": "W06 52,744",
+    "Y": 61.5073,
+    "X": -6.879067,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 90,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.891233,
+     61.546366999210484,
+     610,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 90,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Gluggarnir",
+    "Hadd": 610,
+    "Kortblad": 403,
+    "N_nt": "N61 32,782",
+    "W_nt": "W06 53,474",
+    "Y": 61.546367,
+    "X": -6.891233,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 91,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.888233,
+     61.54428299921046,
+     605,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 91,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "eystanfyri Her\u00f0abla\u00f0i\u00f0",
+    "Hadd": 605,
+    "Kortblad": 403,
+    "N_nt": "N61 32,657",
+    "W_nt": "W06 53,294",
+    "Y": 61.544283,
+    "X": -6.888233,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 92,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.888850000000001,
+     61.5417329992104,
+     592,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 92,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Mj\u00f3st\u00edggjur",
+    "Hadd": 592,
+    "Kortblad": 403,
+    "N_nt": "N61 32,504",
+    "W_nt": "W06 53,331",
+    "Y": 61.541733,
+    "X": -6.88885,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 93,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9022000000000014,
+     61.548216999210524,
+     569,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 93,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Galvurin",
+    "Hadd": 569,
+    "Kortblad": 403,
+    "N_nt": "N61 32,893",
+    "W_nt": "W06 54,132",
+    "Y": 61.548217,
+    "X": -6.9022,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 94,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.929,
+     61.56309999921079,
+     547,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 94,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Nakkur, Trongisv\u00e1gur",
+    "Hadd": 547,
+    "Kortblad": 403,
+    "N_nt": "N61 33,786",
+    "W_nt": "W06 55,740",
+    "Y": 61.5631,
+    "X": -6.929,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 95,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.928183,
+     61.559782999210746,
+     514,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 95,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Tindur, Trongisv\u00e1gur",
+    "Hadd": 514,
+    "Kortblad": 403,
+    "N_nt": "N61 33,587",
+    "W_nt": "W06 55,691",
+    "Y": 61.559783,
+    "X": -6.928183,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 96,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.897316999999999,
+     61.57186699921095,
+     493,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 96,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Tempulsklettur",
+    "Hadd": 493,
+    "Kortblad": 403,
+    "N_nt": "N61 34,312",
+    "W_nt": "W06 53,839",
+    "Y": 61.571867,
+    "X": -6.897317,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 97,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.951749999999999,
+     61.574032999211,
+     471,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 97,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Prestfjall",
+    "Hadd": 471,
+    "Kortblad": 403,
+    "N_nt": "N61 34,442",
+    "W_nt": "W06 57,105",
+    "Y": 61.574033,
+    "X": -6.95175,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 98,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.871167000000001,
+     61.57594999921103,
+     389,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 98,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Rossaklettur",
+    "Hadd": 389,
+    "Kortblad": 403,
+    "N_nt": "N61 34,557",
+    "W_nt": "W06 52,270",
+    "Y": 61.57595,
+    "X": -6.871167,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 99,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.923667,
+     61.64479999921226,
+     429,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 99,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Borgin, Sandv\u00edk",
+    "Hadd": 429,
+    "Kortblad": 404,
+    "N_nt": "N61 38,688",
+    "W_nt": "W06 55,420",
+    "Y": 61.6448,
+    "X": -6.923667,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 100,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9506,
+     61.619816999211814,
+     374,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 100,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Sk\u00e1lafjall",
+    "Hadd": 374,
+    "Kortblad": 404,
+    "N_nt": "N61 37,189",
+    "W_nt": "W06 57,036",
+    "Y": 61.619817,
+    "X": -6.9506,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 101,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.964616999999999,
+     61.62209999921186,
+     372,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 101,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Eggin",
+    "Hadd": 372,
+    "Kortblad": 404,
+    "N_nt": "N61 37,326",
+    "W_nt": "W06 57,877",
+    "Y": 61.6221,
+    "X": -6.964617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 102,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.987182999999999,
+     61.628749999211976,
+     366,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 102,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Gl\u00fdvrabergsnasi",
+    "Hadd": 366,
+    "Kortblad": 404,
+    "N_nt": "N61 37,725",
+    "W_nt": "W06 59,231",
+    "Y": 61.62875,
+    "X": -6.987183,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 103,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.971583000000001,
+     61.64406699921226,
+     353,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 103,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Bustin, Sandv\u00edk",
+    "Hadd": 353,
+    "Kortblad": 404,
+    "N_nt": "N61 38,644",
+    "W_nt": "W06 58,295",
+    "Y": 61.644067,
+    "X": -6.971583,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 104,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.956150000000001,
+     61.64216699921223,
+     350,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 104,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Fjalli\u00f0, Sandv\u00edk",
+    "Hadd": 350,
+    "Kortblad": 404,
+    "N_nt": "N61 38,530",
+    "W_nt": "W06 57,369",
+    "Y": 61.642167,
+    "X": -6.95615,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 105,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9782,
+     61.643616999212234,
+     330,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 105,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Nakkar, Sandv\u00edk",
+    "Hadd": 330,
+    "Kortblad": 404,
+    "N_nt": "N61 38,617",
+    "W_nt": "W06 58,692",
+    "Y": 61.643617,
+    "X": -6.9782,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 106,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.981967,
+     61.59748299921141,
+     327,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 106,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Gr\u00edmsfjall",
+    "Hadd": 327,
+    "Kortblad": 404,
+    "N_nt": "N61 35,849",
+    "W_nt": "W06 58,918",
+    "Y": 61.597483,
+    "X": -6.981967,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 107,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.877,
+     61.819916999215444,
+     139,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 107,
+    "Oyggj": "Sandoy",
+    "Fjall": "Salth\u00f8vdi",
+    "Hadd": 139,
+    "Kortblad": 406,
+    "N_nt": "N61 49,195",
+    "W_nt": "W06 52,620",
+    "Y": 61.819917,
+    "X": -6.877,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 108,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.855400000000001,
+     61.768216999214516,
+     392,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 108,
+    "Oyggj": "Sk\u00fagvoy",
+    "Fjall": "Kn\u00fatur",
+    "Hadd": 392,
+    "Kortblad": 406,
+    "N_nt": "N61 46,093",
+    "W_nt": "W06 51,324",
+    "Y": 61.768217,
+    "X": -6.8554,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 109,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8385169999999995,
+     61.77934999921471,
+     256,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 109,
+    "Oyggj": "Sk\u00fagvoy",
+    "Fjall": "Klettarnir",
+    "Hadd": 256,
+    "Kortblad": 406,
+    "N_nt": "N61 46,761",
+    "W_nt": "W06 50,311",
+    "Y": 61.77935,
+    "X": -6.838517,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 110,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.852899999999999,
+     61.78421699921479,
+     134,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 110,
+    "Oyggj": "Sk\u00fagvoy",
+    "Fjall": "H\u00f8vdin",
+    "Hadd": 134,
+    "Kortblad": 406,
+    "N_nt": "N61 47,053",
+    "W_nt": "W06 51,174",
+    "Y": 61.784217,
+    "X": -6.8529,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 111,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785550000000001,
+     61.85678299921613,
+     452,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 111,
+    "Oyggj": "Sandoy",
+    "Fjall": "Skorarnar",
+    "Hadd": 452,
+    "Kortblad": 407,
+    "N_nt": "N61 51,407",
+    "W_nt": "W06 47,133",
+    "Y": 61.856783,
+    "X": -6.78555,
+    "Vidmerking": "\u00c1\u00f0ur nevnt Endin, Tr\u00f8\u00f0um"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 112,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.907199999999999,
+     61.874366999216434,
+     412,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 112,
+    "Oyggj": "Sandoy",
+    "Fjall": "Eiriksfjall",
+    "Hadd": 412,
+    "Kortblad": 407,
+    "N_nt": "N61 52,462",
+    "W_nt": "W06 54,432",
+    "Y": 61.874367,
+    "X": -6.9072,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 113,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9021,
+     61.87006699921638,
+     404,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 113,
+    "Oyggj": "Sandoy",
+    "Fjall": "Kneysurin",
+    "Hadd": 404,
+    "Kortblad": 407,
+    "N_nt": "N61 52,204",
+    "W_nt": "W06 54,126",
+    "Y": 61.870067,
+    "X": -6.9021,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 114,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.907717,
+     61.884382999216626,
+     401,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 114,
+    "Oyggj": "Sandoy",
+    "Fjall": "Endin",
+    "Hadd": 401,
+    "Kortblad": 407,
+    "N_nt": "N61 53,063",
+    "W_nt": "W06 54,463",
+    "Y": 61.884383,
+    "X": -6.907717,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 115,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.88675,
+     61.86703299921631,
+     373,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 115,
+    "Oyggj": "Sandoy",
+    "Fjall": "V\u00f8r\u00f0an",
+    "Hadd": 373,
+    "Kortblad": 407,
+    "N_nt": "N61 52,022",
+    "W_nt": "W06 53,205",
+    "Y": 61.867033,
+    "X": -6.88675,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 116,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.844883,
+     61.88771699921669,
+     369,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 116,
+    "Oyggj": "Sandoy",
+    "Fjall": "Kn\u00fakur",
+    "Hadd": 369,
+    "Kortblad": 407,
+    "N_nt": "N61 53,263",
+    "W_nt": "W06 50,693",
+    "Y": 61.887717,
+    "X": -6.844883,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 117,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.837966999999999,
+     61.88909999921671,
+     362,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 117,
+    "Oyggj": "Sandoy",
+    "Fjall": "Fjalli\u00f0",
+    "Hadd": 362,
+    "Kortblad": 407,
+    "N_nt": "N61 53,346",
+    "W_nt": "W06 50,278",
+    "Y": 61.8891,
+    "X": -6.837967,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 118,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.871850000000001,
+     61.855132999216096,
+     312,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 118,
+    "Oyggj": "Sandoy",
+    "Fjall": "B\u00f8llufjall",
+    "Hadd": 312,
+    "Kortblad": 407,
+    "N_nt": "N61 51,308",
+    "W_nt": "W06 52,311",
+    "Y": 61.855133,
+    "X": -6.87185,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 119,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.937383,
+     61.904299999216995,
+     271,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 119,
+    "Oyggj": "Sandoy",
+    "Fjall": "Gle\u00f0in",
+    "Hadd": 271,
+    "Kortblad": 407,
+    "N_nt": "N61 54,258",
+    "W_nt": "W06 56,243",
+    "Y": 61.9043,
+    "X": -6.937383,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 120,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.814817000000001,
+     61.98511699921849,
+     351,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 120,
+    "Oyggj": "Streymoy",
+    "Fjall": "Kirkjub\u00f8reyn",
+    "Hadd": 351,
+    "Kortblad": 408,
+    "N_nt": "N61 59,107",
+    "W_nt": "W06 48,889",
+    "Y": 61.985117,
+    "X": -6.814817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 121,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.841333,
+     61.98991699921858,
+     273,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 121,
+    "Oyggj": "Streymoy",
+    "Fjall": "Tv\u00f8rfelli",
+    "Hadd": 273,
+    "Kortblad": 408,
+    "N_nt": "N61 59 395",
+    "W_nt": "W06 50,480",
+    "Y": 61.989917,
+    "X": -6.841333,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 122,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.917217000000001,
+     61.96456699921811,
+     421,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 122,
+    "Oyggj": "Hestur",
+    "Fjall": "M\u00falin",
+    "Hadd": 421,
+    "Kortblad": 408,
+    "N_nt": "N61 57,874",
+    "W_nt": "W06 55,033",
+    "Y": 61.964567,
+    "X": -6.917217,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 123,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9115,
+     61.958499999217985,
+     421,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 123,
+    "Oyggj": "Hestur",
+    "Fjall": "Eggjarr\u00f3k",
+    "Hadd": 421,
+    "Kortblad": 408,
+    "N_nt": "N61 57,510",
+    "W_nt": "W06 54,690",
+    "Y": 61.9585,
+    "X": -6.9115,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 124,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.869866999999999,
+     61.938366999217614,
+     211,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 124,
+    "Oyggj": "Hestur",
+    "Fjall": "Navirnar",
+    "Hadd": 211,
+    "Kortblad": 408,
+    "N_nt": "N61 56,302",
+    "W_nt": "W06 52,192",
+    "Y": 61.938367,
+    "X": -6.869867,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 125,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.998217,
+     61.993832999218625,
+     477,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 125,
+    "Oyggj": "Koltur",
+    "Fjall": "Uppi \u00e1 Oyggj",
+    "Hadd": 477,
+    "Kortblad": 408,
+    "N_nt": "N61 59,630",
+    "W_nt": "W06 59,893",
+    "Y": 61.993833,
+    "X": -6.998217,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 126,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.964017,
+     61.98026699921839,
+     101,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 126,
+    "Oyggj": "Koltur",
+    "Fjall": "Fjalli\u00f0",
+    "Hadd": 101,
+    "Kortblad": 408,
+    "N_nt": "N61 58,816",
+    "W_nt": "W06 57,841",
+    "Y": 61.980267,
+    "X": -6.964017,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 127,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.966399999999999,
+     62.068932999220024,
+     749,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 127,
+    "Oyggj": "Streymoy",
+    "Fjall": "Sornfelli",
+    "Hadd": 749,
+    "Kortblad": 409,
+    "N_nt": "N62 04,136",
+    "W_nt": "W06 57,984",
+    "Y": 62.068933,
+    "X": -6.9664,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 128,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.957782999999999,
+     62.060199999219854,
+     686,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 128,
+    "Oyggj": "Streymoy",
+    "Fjall": "Fjalli\u00f0 millum Botnar",
+    "Hadd": 686,
+    "Kortblad": 409,
+    "N_nt": "N62 03,612",
+    "W_nt": "W06 57,467",
+    "Y": 62.0602,
+    "X": -6.957783,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 129,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.940217,
+     62.05323299921974,
+     667,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 129,
+    "Oyggj": "Streymoy",
+    "Fjall": "N\u00fagvan",
+    "Hadd": 667,
+    "Kortblad": 409,
+    "N_nt": "N62 03,194",
+    "W_nt": "W06 56,413",
+    "Y": 62.053233,
+    "X": -6.940217,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 130,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.909667000000001,
+     62.04743299921963,
+     547,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 130,
+    "Oyggj": "Streymoy",
+    "Fjall": "Sti\u00f0jafjalI",
+    "Hadd": 547,
+    "Kortblad": 409,
+    "N_nt": "N62 02,846",
+    "W_nt": "W06 54,580",
+    "Y": 62.047433,
+    "X": -6.909667,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 131,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.897783,
+     62.03668299921942,
+     535,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 131,
+    "Oyggj": "Streymoy",
+    "Fjall": "Tungul\u00ed\u00f0fjalI",
+    "Hadd": 535,
+    "Kortblad": 409,
+    "N_nt": "N62 02,201",
+    "W_nt": "W06 53,867",
+    "Y": 62.036683,
+    "X": -6.897783,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 132,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.896300000000001,
+     62.07853299922022,
+     499,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 132,
+    "Oyggj": "Streymoy",
+    "Fjall": "RitufelIi",
+    "Hadd": 499,
+    "Kortblad": 409,
+    "N_nt": "N62 04,712",
+    "W_nt": "W06 53,778",
+    "Y": 62.078533,
+    "X": -6.8963,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 133,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.900767,
+     62.01411699921903,
+     491,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 133,
+    "Oyggj": "Streymoy",
+    "Fjall": "KonufelIi",
+    "Hadd": 491,
+    "Kortblad": 409,
+    "N_nt": "N62 00,847",
+    "W_nt": "W06 54,046",
+    "Y": 62.014117,
+    "X": -6.900767,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 134,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.89295,
+     62.02581699921923,
+     479,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 134,
+    "Oyggj": "Streymoy",
+    "Fjall": "Murufelli",
+    "Hadd": 479,
+    "Kortblad": 409,
+    "N_nt": "N62 01,549",
+    "W_nt": "W06 53,577",
+    "Y": 62.025817,
+    "X": -6.89295,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 135,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.871100000000001,
+     62.00364999921882,
+     417,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 135,
+    "Oyggj": "Streymoy",
+    "Fjall": "Fjalli\u00f0, Velbasta\u00f0",
+    "Hadd": 417,
+    "Kortblad": 409,
+    "N_nt": "N62 00,219",
+    "W_nt": "W06 52,266",
+    "Y": 62.00365,
+    "X": -6.8711,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 136,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.870549999999999,
+     62.04314999921955,
+     366,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 136,
+    "Oyggj": "Streymoy",
+    "Fjall": "Lambafelli",
+    "Hadd": 366,
+    "Kortblad": 409,
+    "N_nt": "N62 02,589",
+    "W_nt": "W06 52,233",
+    "Y": 62.04315,
+    "X": -6.87055,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 137,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.98625,
+     62.08974999922043,
+     767,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 137,
+    "Oyggj": "Streymoy",
+    "Fjall": "Sk\u00e6lingur",
+    "Hadd": 767,
+    "Kortblad": 410,
+    "N_nt": "N62 05,385",
+    "W_nt": "W06 59,175",
+    "Y": 62.08975,
+    "X": -6.98625,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 138,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.95805,
+     62.13349999922122,
+     718,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 138,
+    "Oyggj": "Streymoy",
+    "Fjall": "\u00c1rnadalstindur",
+    "Hadd": 718,
+    "Kortblad": 410,
+    "N_nt": "N62 08,010",
+    "W_nt": "W06 57,483",
+    "Y": 62.1335,
+    "X": -6.95805,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 139,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.047033,
+     62.15779999922168,
+     663,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 139,
+    "Oyggj": "Streymoy",
+    "Fjall": "L\u00e1gafjall",
+    "Hadd": 663,
+    "Kortblad": 410,
+    "N_nt": "N62 09,468",
+    "W_nt": "W07 02,822",
+    "Y": 62.1578,
+    "X": -7.047033,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 140,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.994583000000001,
+     62.14661699922147,
+     649,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 140,
+    "Oyggj": "Streymoy",
+    "Fjall": "G\u00edvrufjall",
+    "Hadd": 649,
+    "Kortblad": 410,
+    "N_nt": "N62 08,797",
+    "W_nt": "W06 59,675",
+    "Y": 62.146617,
+    "X": -6.994583,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 141,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.927616999999999,
+     62.13694999922129,
+     633,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 141,
+    "Oyggj": "Streymoy",
+    "Fjall": "V\u00f8rlufjall",
+    "Hadd": 633,
+    "Kortblad": 410,
+    "N_nt": "N62 08,217",
+    "W_nt": "W06 55,657",
+    "Y": 62.13695,
+    "X": -6.927617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 142,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.998317,
+     62.159149999221704,
+     622,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 142,
+    "Oyggj": "Streymoy",
+    "Fjall": "Navirnar",
+    "Hadd": 622,
+    "Kortblad": 410,
+    "N_nt": "N62 09,549",
+    "W_nt": "W06 59,899",
+    "Y": 62.15915,
+    "X": -6.998317,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 143,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.009133000000001,
+     62.11409999922087,
+     621,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 143,
+    "Oyggj": "Streymoy",
+    "Fjall": "S\u00e1tan",
+    "Hadd": 621,
+    "Kortblad": 410,
+    "N_nt": "N62 06,846",
+    "W_nt": "W07 00,548",
+    "Y": 62.1141,
+    "X": -7.009133,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 144,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.962517000000001,
+     62.08556699922034,
+     614,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 144,
+    "Oyggj": "Streymoy",
+    "Fjall": "Stallur",
+    "Hadd": 614,
+    "Kortblad": 410,
+    "N_nt": "N62 05,134",
+    "W_nt": "W06 57,751",
+    "Y": 62.085567,
+    "X": -6.962517,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 145,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.861833000000001,
+     62.09311699922047,
+     588,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 145,
+    "Oyggj": "Streymoy",
+    "Fjall": "Kaldbakskambur",
+    "Hadd": 588,
+    "Kortblad": 410,
+    "N_nt": "N62 05,587",
+    "W_nt": "W06 51,710",
+    "Y": 62.093117,
+    "X": -6.861833,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 146,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.98725,
+     62.142299999221386,
+     584,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 146,
+    "Oyggj": "Streymoy",
+    "Fjall": "B\u00f8lIufjalI",
+    "Hadd": 584,
+    "Kortblad": 410,
+    "N_nt": "N62 08,538",
+    "W_nt": "W06 59,235",
+    "Y": 62.1423,
+    "X": -6.98725,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 147,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.945450000000001,
+     62.112649999220835,
+     481,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 147,
+    "Oyggj": "Streymoy",
+    "Fjall": "DylIan",
+    "Hadd": 481,
+    "Kortblad": 410,
+    "N_nt": "N62 06,759",
+    "W_nt": "W06 56,727",
+    "Y": 62.11265,
+    "X": -6.94545,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 148,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.90265,
+     62.2353499992231,
+     786,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 148,
+    "Oyggj": "Eysturoy",
+    "Fjall": "M\u00falatindur",
+    "Hadd": 786,
+    "Kortblad": 411,
+    "N_nt": "N62 14,121",
+    "W_nt": "W06 54,159",
+    "Y": 62.23535,
+    "X": -6.90265,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 149,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.862233,
+     62.17414999922198,
+     764,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 149,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Rey\u00f0afelstindur",
+    "Hadd": 764,
+    "Kortblad": 411,
+    "N_nt": "N62 10,449",
+    "W_nt": "W06 51,734",
+    "Y": 62.17415,
+    "X": -6.862233,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 150,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.90465,
+     62.19319999922234,
+     757,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 150,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Halgafelstindur",
+    "Hadd": 757,
+    "Kortblad": 411,
+    "N_nt": "N62 11,592",
+    "W_nt": "W06 54,279",
+    "Y": 62.1932,
+    "X": -6.90465,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 151,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.862267000000001,
+     62.23636699922315,
+     732,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 151,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Bl\u00e1bj\u00f8rg",
+    "Hadd": 732,
+    "Kortblad": 411,
+    "N_nt": "N62 14,182",
+    "W_nt": "W06 51,736",
+    "Y": 62.236367,
+    "X": -6.862267,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 152,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.943633000000001,
+     62.209032999222636,
+     699,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 152,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Kn\u00fakur, Oyri",
+    "Hadd": 699,
+    "Kortblad": 411,
+    "N_nt": "N62 12,542",
+    "W_nt": "W06 56,618",
+    "Y": 62.209033,
+    "X": -6.943633,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 153,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.850917000000001,
+     62.22664999922294,
+     678,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 153,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Gj\u00f3gvarafjall",
+    "Hadd": 678,
+    "Kortblad": 411,
+    "N_nt": "N62 13,599",
+    "W_nt": "W06 51,055",
+    "Y": 62.22665,
+    "X": -6.850917,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 154,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.974017,
+     62.23514999922312,
+     655,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 154,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Mi\u00f0alfelli, Nor\u00f0sk\u00e1li",
+    "Hadd": 655,
+    "Kortblad": 411,
+    "N_nt": "N62 14,109",
+    "W_nt": "W06 58,441",
+    "Y": 62.23515,
+    "X": -6.974017,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 155,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9422500000000005,
+     62.212799999222696,
+     646,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 155,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Lokkafelli",
+    "Hadd": 646,
+    "Kortblad": 411,
+    "N_nt": "N62 12,768",
+    "W_nt": "W06 56,535",
+    "Y": 62.2128,
+    "X": -6.94225,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 156,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9344,
+     62.20013299922247,
+     572,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 156,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sandfelli, Oyri",
+    "Hadd": 572,
+    "Kortblad": 411,
+    "N_nt": "N62 12,008",
+    "W_nt": "W06 56,064",
+    "Y": 62.200133,
+    "X": -6.9344,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 157,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9606,
+     62.225932999222934,
+     562,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 157,
+    "Oyggj": "Eysturoy",
+    "Fjall": "L\u00edtlafelli",
+    "Hadd": 562,
+    "Kortblad": 411,
+    "N_nt": "N62 13,556",
+    "W_nt": "W06 57,636",
+    "Y": 62.225933,
+    "X": -6.9606,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 158,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.899782999999999,
+     62.20901699922264,
+     459,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 158,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sk\u00e1lafjall",
+    "Hadd": 459,
+    "Kortblad": 411,
+    "N_nt": "N62 12,541",
+    "W_nt": "W06 53,987",
+    "Y": 62.209017,
+    "X": -6.899783,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 159,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.046332999999999,
+     62.16586699922181,
+     747,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 159,
+    "Oyggj": "Streymoy",
+    "Fjall": "Sneis",
+    "Hadd": 747,
+    "Kortblad": 411,
+    "N_nt": "N62 09,952",
+    "W_nt": "W07 02,780",
+    "Y": 62.165867,
+    "X": -7.046333,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 160,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.026633,
+     62.169966999221906,
+     616,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 160,
+    "Oyggj": "Streymoy",
+    "Fjall": "Bollin",
+    "Hadd": 616,
+    "Kortblad": 411,
+    "N_nt": "N62 10,198",
+    "W_nt": "W07 01,598",
+    "Y": 62.169967,
+    "X": -7.026633,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 161,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.019149999999999,
+     62.16678299922184,
+     605,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 161,
+    "Oyggj": "Streymoy",
+    "Fjall": "Vitin",
+    "Hadd": 605,
+    "Kortblad": 411,
+    "N_nt": "N62 10,007",
+    "W_nt": "W07 01,149",
+    "Y": 62.166783,
+    "X": -7.01915,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 162,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.057249999999999,
+     62.20916699922263,
+     453,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 162,
+    "Oyggj": "Streymoy",
+    "Fjall": "Rossafelli",
+    "Hadd": 453,
+    "Kortblad": 411,
+    "N_nt": "N62 12,550",
+    "W_nt": "W07 03,435",
+    "Y": 62.209167,
+    "X": -7.05725,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 163,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0132,
+     62.29671699922426,
+     880,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 163,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sl\u00e6ttaratindur",
+    "Hadd": 880,
+    "Kortblad": 412,
+    "N_nt": "N62 17,803",
+    "W_nt": "W07 00,792",
+    "Y": 62.296717,
+    "X": -7.0132,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 164,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9987,
+     62.310732999224534,
+     856,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 164,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Gr\u00e1felli",
+    "Hadd": 856,
+    "Kortblad": 412,
+    "N_nt": "N62 18,644",
+    "W_nt": "W06 59,922",
+    "Y": 62.310733,
+    "X": -6.9987,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 165,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.997833,
+     62.25646699922352,
+     801,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 165,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Svartbakstindur",
+    "Hadd": 801,
+    "Kortblad": 412,
+    "N_nt": "N62 15,388",
+    "W_nt": "W06 59,870",
+    "Y": 62.256467,
+    "X": -6.997833,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 166,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.003949999999999,
+     62.2669169992237,
+     790,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 166,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Bl\u00e1mansfjall",
+    "Hadd": 790,
+    "Kortblad": 412,
+    "N_nt": "N62 16,015",
+    "W_nt": "W07 00,237",
+    "Y": 62.266917,
+    "X": -7.00395,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 167,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.893566999999999,
+     62.26266699922363,
+     754,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 167,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sandfelli, Oyndarfj\u00f8r\u00f0ur",
+    "Hadd": 754,
+    "Kortblad": 412,
+    "N_nt": "N62 15,760",
+    "W_nt": "W06 53,614",
+    "Y": 62.262667,
+    "X": -6.893567,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 168,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.988617,
+     62.319382999224686,
+     752,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 168,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sandfelli, Gj\u00f3gv",
+    "Hadd": 752,
+    "Kortblad": 412,
+    "N_nt": "N62 19,163",
+    "W_nt": "W06 59,317",
+    "Y": 62.319383,
+    "X": -6.988617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 169,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.999183,
+     62.27353299922384,
+     751,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 169,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Nor\u00f0anfyri Bl\u00e1mansfjall",
+    "Hadd": 751,
+    "Kortblad": 412,
+    "N_nt": "N62 16,412",
+    "W_nt": "W06 59,951",
+    "Y": 62.273533,
+    "X": -6.999183,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 170,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.013667,
+     62.278266999223916,
+     727,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 170,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Va\u00f0horn",
+    "Hadd": 727,
+    "Kortblad": 412,
+    "N_nt": "N62 16,696",
+    "W_nt": "W07 00,820",
+    "Y": 62.278267,
+    "X": -7.013667,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 171,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.924867,
+     62.25401699922346,
+     719,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 171,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Dalkinsfjall",
+    "Hadd": 719,
+    "Kortblad": 412,
+    "N_nt": "N62 15,241",
+    "W_nt": "W06 55,492",
+    "Y": 62.254017,
+    "X": -6.924867,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 172,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8925,
+     62.248132999223365,
+     703,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 172,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Gomlumannatindur",
+    "Hadd": 703,
+    "Kortblad": 412,
+    "N_nt": "N62 14,888",
+    "W_nt": "W06 53,550",
+    "Y": 62.248133,
+    "X": -6.8925,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 173,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.861549999999999,
+     62.24001699922321,
+     699,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 173,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Hjar\u00f0ardalstindur",
+    "Hadd": 699,
+    "Kortblad": 412,
+    "N_nt": "N62 14,401",
+    "W_nt": "W06 51,693",
+    "Y": 62.240017,
+    "X": -6.86155,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 174,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9753,
+     62.274216999223846,
+     695,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 174,
+    "Oyggj": "Eysturoy",
+    "Fjall": "H\u00fasafjall",
+    "Hadd": 695,
+    "Kortblad": 412,
+    "N_nt": "N62 16,453",
+    "W_nt": "W06 58,518",
+    "Y": 62.274217,
+    "X": -6.9753,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 175,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.981333,
+     62.24616699922333,
+     687,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 175,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sker\u00f0ingur",
+    "Hadd": 687,
+    "Kortblad": 412,
+    "N_nt": "N62 14,770",
+    "W_nt": "W06 58,880",
+    "Y": 62.246167,
+    "X": -6.981333,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 176,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.030133000000001,
+     62.3095669992245,
+     615,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 176,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Manssetur",
+    "Hadd": 615,
+    "Kortblad": 412,
+    "N_nt": "N62 18,574",
+    "W_nt": "W07 01,808",
+    "Y": 62.309567,
+    "X": -7.030133,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 177,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94535,
+     62.31064999922453,
+     601,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 177,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Middagsfjall",
+    "Hadd": 601,
+    "Kortblad": 412,
+    "N_nt": "N62 18,639",
+    "W_nt": "W06 56,721",
+    "Y": 62.31065,
+    "X": -6.94535,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 178,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.920283000000001,
+     62.31509999922461,
+     535,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 178,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Tyril, Gj\u00f3gv",
+    "Hadd": 535,
+    "Kortblad": 412,
+    "N_nt": "N62 18,906",
+    "W_nt": "W06 55,217",
+    "Y": 62.3151,
+    "X": -6.920283,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 179,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8884669999999995,
+     62.28451699922405,
+     529,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 179,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Skoratindur",
+    "Hadd": 529,
+    "Kortblad": 412,
+    "N_nt": "N62 17,071",
+    "W_nt": "W06 53,308",
+    "Y": 62.284517,
+    "X": -6.888467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 180,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.859183000000002,
+     62.2872329992241,
+     503,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 180,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Tindur",
+    "Hadd": 503,
+    "Kortblad": 412,
+    "N_nt": "N62 17,234",
+    "W_nt": "W06 51,551",
+    "Y": 62.287233,
+    "X": -6.859183,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 181,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.845867,
+     62.28509999922405,
+     421,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 181,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Oyndfjar\u00f0arfjall",
+    "Hadd": 421,
+    "Kortblad": 412,
+    "N_nt": "N62 17,106",
+    "W_nt": "W06 50,752",
+    "Y": 62.2851,
+    "X": -6.845867,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 182,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.009283000000001,
+     62.32879999922488,
+     591,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 182,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Horn",
+    "Hadd": 591,
+    "Kortblad": 413,
+    "N_nt": "N62 19,728",
+    "W_nt": "W07 00,557",
+    "Y": 62.3288,
+    "X": -7.009283,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 183,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.97095,
+     62.33083299922491,
+     469,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 183,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Fjalli\u00f0, Gj\u00f3gv",
+    "Hadd": 469,
+    "Kortblad": 413,
+    "N_nt": "N62 19,850",
+    "W_nt": "W06 58,257",
+    "Y": 62.330833,
+    "X": -6.97095,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 184,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.760633000000001,
+     61.42063299920824,
+     470,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 184,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Beinisv\u00f8r\u00f0",
+    "Hadd": 470,
+    "Kortblad": 501,
+    "N_nt": "N61 25,238",
+    "W_nt": "W06 45,638",
+    "Y": 61.420633,
+    "X": -6.760633,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 185,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.738732999999999,
+     61.42594999920832,
+     462,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 185,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Sp\u00e1afelli",
+    "Hadd": 462,
+    "Kortblad": 501,
+    "N_nt": "N61 25,557",
+    "W_nt": "W06 44,324",
+    "Y": 61.42595,
+    "X": -6.738733,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 186,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.747617000000001,
+     61.425566999208336,
+     439,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 186,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Spinarnir",
+    "Hadd": 439,
+    "Kortblad": 501,
+    "N_nt": "N61 25,534",
+    "W_nt": "W06 44,857",
+    "Y": 61.425567,
+    "X": -6.747617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 187,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.706583000000001,
+     61.41638299920816,
+     329,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 187,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Kn\u00fakin",
+    "Hadd": 329,
+    "Kortblad": 501,
+    "N_nt": "N61 24,983",
+    "W_nt": "W06 42,395",
+    "Y": 61.416383,
+    "X": -6.706583,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 188,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.748267000000001,
+     61.41953299920823,
+     320,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 188,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Uttarafjall",
+    "Hadd": 320,
+    "Kortblad": 501,
+    "N_nt": "N61 25,172",
+    "W_nt": "W06 44,896",
+    "Y": 61.419533,
+    "X": -6.748267,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 189,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.696567000000001,
+     61.41108299920807,
+     286,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 189,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Sk\u00e1lin",
+    "Hadd": 286,
+    "Kortblad": 501,
+    "N_nt": "N61 24,665",
+    "W_nt": "W06 41,794",
+    "Y": 61.411083,
+    "X": -6.696567,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 190,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.737882999999999,
+     61.41579999920816,
+     285,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 190,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Eystarafjall",
+    "Hadd": 285,
+    "Kortblad": 501,
+    "N_nt": "N61 24,948",
+    "W_nt": "W06 44,273",
+    "Y": 61.4158,
+    "X": -6.737883,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 191,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.686817,
+     61.40473299920794,
+     235,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 191,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Lambaklettur",
+    "Hadd": 235,
+    "Kortblad": 501,
+    "N_nt": "N61 24,284",
+    "W_nt": "W06 41,209",
+    "Y": 61.404733,
+    "X": -6.686817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 192,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.845299999999999,
+     61.50344999920973,
+     574,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 192,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Borgarknappur",
+    "Hadd": 574,
+    "Kortblad": 502,
+    "N_nt": "N61 30,207",
+    "W_nt": "W06 50,718",
+    "Y": 61.50345,
+    "X": -6.8453,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 193,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.85855,
+     61.50476699920973,
+     570,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 193,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Borgin, V\u00e1gur",
+    "Hadd": 570,
+    "Kortblad": 502,
+    "N_nt": "N61 30,286",
+    "W_nt": "W06 51,513",
+    "Y": 61.504767,
+    "X": -6.85855,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 194,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.839550000000001,
+     61.49373299920955,
+     560,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 194,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Hvannafelli",
+    "Hadd": 560,
+    "Kortblad": 502,
+    "N_nt": "N61 29,624",
+    "W_nt": "W06 50,373",
+    "Y": 61.493733,
+    "X": -6.83955,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 195,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.812033,
+     61.48778299920944,
+     483,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 195,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "V\u00e1gfelli",
+    "Hadd": 483,
+    "Kortblad": 502,
+    "N_nt": "N61 29,267",
+    "W_nt": "W06 48,722",
+    "Y": 61.487783,
+    "X": -6.812033,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 196,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8005,
+     61.45029999920877,
+     432,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 196,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "R\u00e1van",
+    "Hadd": 432,
+    "Kortblad": 502,
+    "N_nt": "N61 27,018",
+    "W_nt": "W06 48,030",
+    "Y": 61.4503,
+    "X": -6.8005,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 197,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723333,
+     61.430266999208406,
+     379,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 197,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Tindurin, Sumba",
+    "Hadd": 379,
+    "Kortblad": 502,
+    "N_nt": "N61 25,816",
+    "W_nt": "W06 43,400",
+    "Y": 61.430267,
+    "X": -6.723333,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 198,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.755167,
+     61.44338299920864,
+     359,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 198,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Siglifelli",
+    "Hadd": 359,
+    "Kortblad": 502,
+    "N_nt": "N61 26,603",
+    "W_nt": "W06 45,310",
+    "Y": 61.443383,
+    "X": -6.755167,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 199,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.816983,
+     61.4527829992088,
+     356,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 199,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "R\u00fatafelli",
+    "Hadd": 356,
+    "Kortblad": 502,
+    "N_nt": "N61 27,167",
+    "W_nt": "W06 49,019",
+    "Y": 61.452783,
+    "X": -6.816983,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 200,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.848617,
+     61.4746829992092,
+     345,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 200,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Gj\u00f3gvar\u00e1fjall",
+    "Hadd": 345,
+    "Kortblad": 502,
+    "N_nt": "N61 28,481",
+    "W_nt": "W06 50,917",
+    "Y": 61.474683,
+    "X": -6.848617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 201,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.714933,
+     61.433316999208465,
+     322,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 201,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "H\u00f3lmsskorafjall",
+    "Hadd": 322,
+    "Kortblad": 502,
+    "N_nt": "N61 25,999",
+    "W_nt": "W06 42,896",
+    "Y": 61.433317,
+    "X": -6.714933,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 202,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.851933,
+     61.4795169992093,
+     298,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 202,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Tindur, V\u00e1gur",
+    "Hadd": 298,
+    "Kortblad": 502,
+    "N_nt": "N61 28,771",
+    "W_nt": "W06 51,116",
+    "Y": 61.479517,
+    "X": -6.851933,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 203,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.78085,
+     61.438832999208564,
+     236,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 203,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Kirvi",
+    "Hadd": 236,
+    "Kortblad": 502,
+    "N_nt": "N61 26,330",
+    "W_nt": "W06 46,851",
+    "Y": 61.438833,
+    "X": -6.78085,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 204,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.732983,
+     61.48713299920943,
+     206,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 204,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Kambur, Porkeri",
+    "Hadd": 206,
+    "Kortblad": 502,
+    "N_nt": "N61 29,228",
+    "W_nt": "W06 43,979",
+    "Y": 61.487133,
+    "X": -6.732983,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 205,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767467,
+     61.57413299921101,
+     487,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 205,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Bustin, Fro\u00f0ba",
+    "Hadd": 487,
+    "Kortblad": 503,
+    "N_nt": "N61 34,448",
+    "W_nt": "W06 46,048",
+    "Y": 61.574133,
+    "X": -6.767467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 206,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.831483,
+     61.51191699920986,
+     487,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 206,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "La\u00f0anfelli",
+    "Hadd": 487,
+    "Kortblad": 503,
+    "N_nt": "N61 30,715",
+    "W_nt": "W06 49,889",
+    "Y": 61.511917,
+    "X": -6.831483,
+    "Vidmerking": "Navni\u00f0 ikki \u00e1 korti"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 207,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.790982999999999,
+     61.5698829992109,
+     483,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 207,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Kambur, Fro\u00f0ba",
+    "Hadd": 483,
+    "Kortblad": 503,
+    "N_nt": "N61 34,193",
+    "W_nt": "W06 47,459",
+    "Y": 61.569883,
+    "X": -6.790983,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 208,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.857049999999999,
+     61.528332999210164,
+     469,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 208,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Fjalli\u00f0 Mikla",
+    "Hadd": 469,
+    "Kortblad": 503,
+    "N_nt": "N61 31,700",
+    "W_nt": "W06 51,423",
+    "Y": 61.528333,
+    "X": -6.85705,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 209,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8497,
+     61.5470669992105,
+     443,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 209,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Oyrnafjall",
+    "Hadd": 443,
+    "Kortblad": 503,
+    "N_nt": "N61 32,824",
+    "W_nt": "W06 50,982",
+    "Y": 61.547067,
+    "X": -6.8497,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 210,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.809617,
+     61.51411699920991,
+     440,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 210,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "H\u00f8guskorar",
+    "Hadd": 440,
+    "Kortblad": 503,
+    "N_nt": "N61 30,847",
+    "W_nt": "W06 48,577",
+    "Y": 61.514117,
+    "X": -6.809617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 211,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.830083,
+     61.51959999921,
+     427,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 211,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "N\u00f3nfjall",
+    "Hadd": 427,
+    "Kortblad": 503,
+    "N_nt": "N61 31,176",
+    "W_nt": "W06 49,805",
+    "Y": 61.5196,
+    "X": -6.830083,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 212,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7974000000000006,
+     61.51771699920997,
+     424,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 212,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Enni",
+    "Hadd": 424,
+    "Kortblad": 503,
+    "N_nt": "N61 31,063",
+    "W_nt": "W06 47,844",
+    "Y": 61.517717,
+    "X": -6.7974,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 213,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778933,
+     61.51518299920993,
+     415,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 213,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Kolheyggjurin",
+    "Hadd": 415,
+    "Kortblad": 503,
+    "N_nt": "N61 30,911",
+    "W_nt": "W06 46,736",
+    "Y": 61.515183,
+    "X": -6.778933,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 214,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.76355,
+     61.515149999209925,
+     400,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 214,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "T\u00fagvan i Halgafelli",
+    "Hadd": 400,
+    "Kortblad": 503,
+    "N_nt": "N61 30,909",
+    "W_nt": "W06 45,813",
+    "Y": 61.51515,
+    "X": -6.76355,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 215,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766132999999999,
+     61.55769999921069,
+     347,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 215,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Kaguklettur",
+    "Hadd": 347,
+    "Kortblad": 503,
+    "N_nt": "N61 33,462",
+    "W_nt": "W06 45,968",
+    "Y": 61.5577,
+    "X": -6.766133,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 216,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.742200000000001,
+     61.55406699921064,
+     325,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 216,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Nakkur, Fro\u00f0ba",
+    "Hadd": 325,
+    "Kortblad": 503,
+    "N_nt": "N61 33,244",
+    "W_nt": "W06 44,532",
+    "Y": 61.554067,
+    "X": -6.7422,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 217,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.82515,
+     61.56879999921089,
+     286,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 217,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Skornasaklettur",
+    "Hadd": 286,
+    "Kortblad": 503,
+    "N_nt": "N61 34,128",
+    "W_nt": "W06 49,509",
+    "Y": 61.5688,
+    "X": -6.82515,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 218,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.829867000000001,
+     61.576549999211025,
+     259,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 218,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "Fjalli\u00f0, Trongisv\u00e1gur",
+    "Hadd": 259,
+    "Kortblad": 503,
+    "N_nt": "N61 34,593",
+    "W_nt": "W06 49,792",
+    "Y": 61.57655,
+    "X": -6.829867,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 219,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.819783,
+     61.54081699921039,
+     237,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 219,
+    "Oyggj": "Su\u00f0uroy",
+    "Fjall": "V\u00f8r\u00f0an",
+    "Hadd": 237,
+    "Kortblad": 503,
+    "N_nt": "N61 32,449",
+    "W_nt": "W06 49,187",
+    "Y": 61.540817,
+    "X": -6.819783,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 220,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.712517,
+     61.63301699921205,
+     414,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 220,
+    "Oyggj": "L\u00edtla D\u00edmun",
+    "Fjall": "R\u00e1van",
+    "Hadd": 414,
+    "Kortblad": 504,
+    "N_nt": "N61 37,981",
+    "W_nt": "W06 42,751",
+    "Y": 61.633017,
+    "X": -6.712517,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 221,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.822699999999999,
+     61.750566999214186,
+     391,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 221,
+    "Oyggj": "Sk\u00fagvoy",
+    "Fjall": "Skorin",
+    "Hadd": 391,
+    "Kortblad": 505,
+    "N_nt": "N61 45,034",
+    "W_nt": "W06 49,362",
+    "Y": 61.750567,
+    "X": -6.8227,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 222,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765467,
+     61.6961669992132,
+     396,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 222,
+    "Oyggj": "St\u00f3ra D\u00edmun",
+    "Fjall": "H\u00f8goyggj",
+    "Hadd": 396,
+    "Kortblad": 505,
+    "N_nt": "N61 41,770",
+    "W_nt": "W06 45,928",
+    "Y": 61.696167,
+    "X": -6.765467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 223,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.74545,
+     61.685482999212994,
+     308,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 223,
+    "Oyggj": "St\u00f3ra D\u00edmun",
+    "Fjall": "\u00c1 Kletti",
+    "Hadd": 308,
+    "Kortblad": 505,
+    "N_nt": "N61 41,129",
+    "W_nt": "W06 44,727",
+    "Y": 61.685483,
+    "X": -6.74545,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 224,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.743433,
+     61.684499999212974,
+     288,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 224,
+    "Oyggj": "St\u00f3ra D\u00edmun",
+    "Fjall": "H\u00fagvan",
+    "Hadd": 288,
+    "Kortblad": 505,
+    "N_nt": "N61 41,070",
+    "W_nt": "W06 44,606",
+    "Y": 61.6845,
+    "X": -6.743433,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 225,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.713582999999999,
+     61.80433299921517,
+     397,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 225,
+    "Oyggj": "Sandoy",
+    "Fjall": "Vestfelli",
+    "Hadd": 397,
+    "Kortblad": 506,
+    "N_nt": "N61 48,260",
+    "W_nt": "W06 42,815",
+    "Y": 61.804333,
+    "X": -6.713583,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 226,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.689467,
+     61.79736699921506,
+     396,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 226,
+    "Oyggj": "Sandoy",
+    "Fjall": "St\u00f3rafjall",
+    "Hadd": 396,
+    "Kortblad": 506,
+    "N_nt": "N61 47,842",
+    "W_nt": "W06 41,368",
+    "Y": 61.797367,
+    "X": -6.689467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 227,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.676632999999999,
+     61.765899999214476,
+     354,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 227,
+    "Oyggj": "Sandoy",
+    "Fjall": "Sk\u00favoyarfjall",
+    "Hadd": 354,
+    "Kortblad": 506,
+    "N_nt": "N61 45,954",
+    "W_nt": "W06 40,598",
+    "Y": 61.7659,
+    "X": -6.676633,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 228,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.672733000000001,
+     61.81678299921539,
+     266,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 228,
+    "Oyggj": "Sandoy",
+    "Fjall": "Hei\u00f0afjall",
+    "Hadd": 266,
+    "Kortblad": 506,
+    "N_nt": "N61 49,007",
+    "W_nt": "W06 40,364",
+    "Y": 61.816783,
+    "X": -6.672733,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 229,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.678983,
+     61.75591699921428,
+     251,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 229,
+    "Oyggj": "Sandoy",
+    "Fjall": "Nakkurin",
+    "Hadd": 251,
+    "Kortblad": 506,
+    "N_nt": "N61 45,355",
+    "W_nt": "W06 40,739",
+    "Y": 61.755917,
+    "X": -6.678983,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 230,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.637317,
+     61.82923299921563,
+     203,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 230,
+    "Oyggj": "Sandoy",
+    "Fjall": "Sk\u00e1lh\u00f8vdi",
+    "Hadd": 203,
+    "Kortblad": 506,
+    "N_nt": "N61 49,754",
+    "W_nt": "W06 38,239",
+    "Y": 61.829233,
+    "X": -6.637317,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 231,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.744233000000001,
+     61.84643299921593,
+     479,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 231,
+    "Oyggj": "Sandoy",
+    "Fjall": "Tindur",
+    "Hadd": 479,
+    "Kortblad": 507,
+    "N_nt": "N61 50,786",
+    "W_nt": "W06 44,654",
+    "Y": 61.846433,
+    "X": -6.744233,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 232,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773516999999999,
+     61.850782999216015,
+     460,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 232,
+    "Oyggj": "Sandoy",
+    "Fjall": "Var\u00f0abr\u00fagvin",
+    "Hadd": 460,
+    "Kortblad": 507,
+    "N_nt": "N61 51,047",
+    "W_nt": "W06 46,411",
+    "Y": 61.850783,
+    "X": -6.773517,
+    "Vidmerking": "\u00c1\u00f0ur nevnt Skorarnar"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 233,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728733,
+     61.84061699921585,
+     447,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 233,
+    "Oyggj": "Sandoy",
+    "Fjall": "P\u00e6tursfjall",
+    "Hadd": 447,
+    "Kortblad": 507,
+    "N_nt": "N61 50,437",
+    "W_nt": "W06 43,724",
+    "Y": 61.840617,
+    "X": -6.728733,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 234,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778033,
+     61.95473299921792,
+     306,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 234,
+    "Oyggj": "Streymoy",
+    "Fjall": "Kirkjub\u00f8kambur",
+    "Hadd": 306,
+    "Kortblad": 508,
+    "N_nt": "N61 57 284",
+    "W_nt": "W06 46,682",
+    "Y": 61.954733,
+    "X": -6.778033,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 235,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.652750000000001,
+     61.989216999218556,
+     372,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 235,
+    "Oyggj": "N\u00f3lsoy",
+    "Fjall": "Eggjarklettur",
+    "Hadd": 372,
+    "Kortblad": 508,
+    "N_nt": "N61 59,353",
+    "W_nt": "W06 39,165",
+    "Y": 61.989217,
+    "X": -6.65275,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 236,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.64575,
+     61.98724999921853,
+     352,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 236,
+    "Oyggj": "N\u00f3lsoy",
+    "Fjall": "Uppi \u00e1 Manni",
+    "Hadd": 352,
+    "Kortblad": 508,
+    "N_nt": "N61 59,235",
+    "W_nt": "W06 38,745",
+    "Y": 61.98725,
+    "X": -6.64575,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 237,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.635433,
+     61.970982999218215,
+     234,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 237,
+    "Oyggj": "N\u00f3lsoy",
+    "Fjall": "Sk\u00favafjall",
+    "Hadd": 234,
+    "Kortblad": 508,
+    "N_nt": "N61 58,259",
+    "W_nt": "W06 38,126",
+    "Y": 61.970983,
+    "X": -6.635433,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 238,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.620299999999999,
+     61.96141699921803,
+     152,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 238,
+    "Oyggj": "N\u00f3lsoy",
+    "Fjall": "L\u00ed\u00f0arfjall",
+    "Hadd": 152,
+    "Kortblad": 508,
+    "N_nt": "N61 57,685",
+    "W_nt": "W06 37,218",
+    "Y": 61.961417,
+    "X": -6.6203,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 239,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.709617,
+     62.07203299922009,
+     169,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 239,
+    "Oyggj": "Eysturoy",
+    "Fjall": "V\u00f8r\u00f0an",
+    "Hadd": 169,
+    "Kortblad": 509,
+    "N_nt": "N62 04,322",
+    "W_nt": "W06 42,577",
+    "Y": 62.072033,
+    "X": -6.709617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 240,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6929,
+     62.05833299921983,
+     130,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 240,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Eystnes",
+    "Hadd": 130,
+    "Kortblad": 509,
+    "N_nt": "N62 03,500",
+    "W_nt": "W06 41,574",
+    "Y": 62.058333,
+    "X": -6.6929,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 241,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.821667000000001,
+     62.02301699921919,
+     345,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 241,
+    "Oyggj": "Streymoy",
+    "Fjall": "H\u00fasareyn",
+    "Hadd": 345,
+    "Kortblad": 509,
+    "N_nt": "N62 01,381",
+    "W_nt": "W06 49,300",
+    "Y": 62.023017,
+    "X": -6.821667,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 242,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.816783,
+     62.00974999921893,
+     222,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 242,
+    "Oyggj": "Streymoy",
+    "Fjall": "Fjalli\u00f0, T\u00f3rshavn",
+    "Hadd": 222,
+    "Kortblad": 509,
+    "N_nt": "N62 00,585",
+    "W_nt": "W06 49,007",
+    "Y": 62.00975,
+    "X": -6.816783,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 243,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8202,
+     62.003682999218825,
+     198,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 243,
+    "Oyggj": "Streymoy",
+    "Fjall": "L\u00edtlafjalI",
+    "Hadd": 198,
+    "Kortblad": 509,
+    "N_nt": "N62 00,221",
+    "W_nt": "W06 49,212",
+    "Y": 62.003683,
+    "X": -6.8202,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 244,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.81,
+     62.14124999922137,
+     611,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 244,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Kambur, Strendur",
+    "Hadd": 611,
+    "Kortblad": 510,
+    "N_nt": "N62.08,475",
+    "W_nt": "W06.48,600",
+    "Y": 62.14125,
+    "X": -6.81,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 245,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728383,
+     62.15489999922161,
+     567,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 245,
+    "Oyggj": "Eysturoy",
+    "Fjall": "St\u00f3rafjall",
+    "Hadd": 567,
+    "Kortblad": 510,
+    "N_nt": "N62 09,294",
+    "W_nt": "W06 43,703",
+    "Y": 62.1549,
+    "X": -6.728383,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 246,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.825832999999999,
+     62.150566999221546,
+     553,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 246,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sl\u00e6ttafelli",
+    "Hadd": 553,
+    "Kortblad": 510,
+    "N_nt": "N62 09,034",
+    "W_nt": "W06 49,550",
+    "Y": 62.150567,
+    "X": -6.825833,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 247,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793817000000001,
+     62.134949999221256,
+     523,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 247,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Kl\u00f3rarin",
+    "Hadd": 523,
+    "Kortblad": 510,
+    "N_nt": "N62 08,097",
+    "W_nt": "W06 47,629",
+    "Y": 62.13495,
+    "X": -6.793817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 248,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6809330000000005,
+     62.155249999221624,
+     495,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 248,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Lambaregn",
+    "Hadd": 495,
+    "Kortblad": 510,
+    "N_nt": "N62.09,315",
+    "W_nt": "W06.40,856",
+    "Y": 62.15525,
+    "X": -6.680933,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 249,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785632999999999,
+     62.12646699922109,
+     483,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 249,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Fjalli\u00f0, Strendur",
+    "Hadd": 483,
+    "Kortblad": 510,
+    "N_nt": "N62 07,588",
+    "W_nt": "W06 47,138",
+    "Y": 62.126467,
+    "X": -6.785633,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 250,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6856,
+     62.118782999220954,
+     303,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 250,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Glyvrafjall",
+    "Hadd": 303,
+    "Kortblad": 510,
+    "N_nt": "N62 07,127",
+    "W_nt": "W06 41,136",
+    "Y": 62.118783,
+    "X": -6.6856,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 251,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7113830000000005,
+     62.133516999221236,
+     274,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 251,
+    "Oyggj": "Eysturoy",
+    "Fjall": "H\u00e6ddin",
+    "Hadd": 274,
+    "Kortblad": 510,
+    "N_nt": "N62 08,011",
+    "W_nt": "W06 42,683",
+    "Y": 62.133517,
+    "X": -6.711383,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 252,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.705917,
+     62.118116999220945,
+     264,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 252,
+    "Oyggj": "Eysturoy",
+    "Fjall": "H\u00f8galeiti",
+    "Hadd": 264,
+    "Kortblad": 510,
+    "N_nt": "N62 07,087",
+    "W_nt": "W06 42,355",
+    "Y": 62.118117,
+    "X": -6.705917,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 253,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.65265,
+     62.10896699922077,
+     231,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 253,
+    "Oyggj": "Eysturoy",
+    "Fjall": "G\u00e1safelli",
+    "Hadd": 231,
+    "Kortblad": 510,
+    "N_nt": "N62 06,538",
+    "W_nt": "W06 39,159",
+    "Y": 62.108967,
+    "X": -6.65265,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 254,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7044500000000005,
+     62.10443299922069,
+     165,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 254,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Vatnfelli",
+    "Hadd": 165,
+    "Kortblad": 510,
+    "N_nt": "N62 06,266",
+    "W_nt": "W06 42,267",
+    "Y": 62.104433,
+    "X": -6.70445,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 255,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.731117,
+     62.094182999220486,
+     129,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 255,
+    "Oyggj": "Eysturoy",
+    "Fjall": "H\u00fakslond",
+    "Hadd": 129,
+    "Kortblad": 510,
+    "N_nt": "N62 05,651",
+    "W_nt": "W06 43,867",
+    "Y": 62.094183,
+    "X": -6.731117,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 256,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775633,
+     62.108449999220745,
+     122,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 256,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Brig\u00f0ufelli",
+    "Hadd": 122,
+    "Kortblad": 510,
+    "N_nt": "N62 06,507",
+    "W_nt": "W06 46,538",
+    "Y": 62.10845,
+    "X": -6.775633,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 257,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.737749999999999,
+     62.10684999922073,
+     115,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 257,
+    "Oyggj": "Eysturoy",
+    "Fjall": "H\u00f8ganes",
+    "Hadd": 115,
+    "Kortblad": 510,
+    "N_nt": "N62 06,411",
+    "W_nt": "W06 44,265",
+    "Y": 62.10685,
+    "X": -6.73775,
+    "Vidmerking": "\u00c1 korti er h\u00e6ddin 165m skeiv"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 258,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.679817,
+     62.2347329992231,
+     700,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 258,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Gr\u00edslatindur",
+    "Hadd": 700,
+    "Kortblad": 511,
+    "N_nt": "N62 14 084",
+    "W_nt": "W06 40 789",
+    "Y": 62.234733,
+    "X": -6.679817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 259,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.751466999999999,
+     62.21381699922272,
+     641,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 259,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Ritafjall",
+    "Hadd": 641,
+    "Kortblad": 511,
+    "N_nt": "N62 12,829",
+    "W_nt": "W06 45,088",
+    "Y": 62.213817,
+    "X": -6.751467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 260,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798783000000002,
+     62.202749999222526,
+     639,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 260,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Tyril, G\u00f8ta",
+    "Hadd": 639,
+    "Kortblad": 511,
+    "N_nt": "N62 12,165",
+    "W_nt": "W06 47,927",
+    "Y": 62.20275,
+    "X": -6.798783,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 261,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.648282999999999,
+     62.18953299922226,
+     625,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 261,
+    "Oyggj": "Eysturoy",
+    "Fjall": "G\u00f8tunestindur",
+    "Hadd": 625,
+    "Kortblad": 511,
+    "N_nt": "N62 11,372",
+    "W_nt": "W06 38,897",
+    "Y": 62.189533,
+    "X": -6.648283,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 262,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.69245,
+     62.19841699922244,
+     612,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 262,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sigatindur",
+    "Hadd": 612,
+    "Kortblad": 511,
+    "N_nt": "N62 11,905",
+    "W_nt": "W06 41,547",
+    "Y": 62.198417,
+    "X": -6.69245,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 263,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.836499999999999,
+     62.217632999222786,
+     545,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 263,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Kambur, Fuglafj\u00f8r\u00f0ur",
+    "Hadd": 545,
+    "Kortblad": 511,
+    "N_nt": "N62 13,058",
+    "W_nt": "W06 51,190",
+    "Y": 62.217633,
+    "X": -6.8365,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 264,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.826416999999999,
+     62.16179999922175,
+     543,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 264,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Borgarfelli",
+    "Hadd": 543,
+    "Kortblad": 511,
+    "N_nt": "N62 09,708",
+    "W_nt": "W06 49,585",
+    "Y": 62.1618,
+    "X": -6.826417,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 265,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.745967000000001,
+     62.17046699922191,
+     517,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 265,
+    "Oyggj": "Eysturoy",
+    "Fjall": "St\u00f8\u00f0lafjall",
+    "Hadd": 517,
+    "Kortblad": 511,
+    "N_nt": "N62 10,228",
+    "W_nt": "W06 44,758",
+    "Y": 62.170467,
+    "X": -6.745967,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 266,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.713032999999999,
+     62.16261699922175,
+     505,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 266,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Mi\u00f0afelli, S\u00f8ldarfj\u00f8r\u00f0ur",
+    "Hadd": 505,
+    "Kortblad": 511,
+    "N_nt": "N62 09,757",
+    "W_nt": "W06 42,782",
+    "Y": 62.162617,
+    "X": -6.713033,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 267,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.731750000000001,
+     62.205649999222565,
+     463,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 267,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Kn\u00fakur, Leirv\u00edk",
+    "Hadd": 463,
+    "Kortblad": 511,
+    "N_nt": "N62 12,339",
+    "W_nt": "W06 43,905",
+    "Y": 62.20565,
+    "X": -6.73175,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 268,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.668817,
+     62.31443299922459,
+     830,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 268,
+    "Oyggj": "Kunoy",
+    "Fjall": "K\u00favingafjall",
+    "Hadd": 830,
+    "Kortblad": 512,
+    "N_nt": "N62 18,866",
+    "W_nt": "W06 40,129",
+    "Y": 62.314433,
+    "X": -6.668817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 269,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.641167,
+     62.29241699922418,
+     817,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 269,
+    "Oyggj": "Kunoy",
+    "Fjall": "Ur\u00f0afjall",
+    "Hadd": 817,
+    "Kortblad": 512,
+    "N_nt": "N62 17,545",
+    "W_nt": "W06 38,470",
+    "Y": 62.292417,
+    "X": -6.641167,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 270,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.652566999999999,
+     62.31099999922453,
+     805,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 270,
+    "Oyggj": "Kunoy",
+    "Fjall": "Middagsfjall",
+    "Hadd": 805,
+    "Kortblad": 512,
+    "N_nt": "N62 18,660",
+    "W_nt": "W06 39,154",
+    "Y": 62.311,
+    "X": -6.652567,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 271,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6308,
+     62.27821699922392,
+     768,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 271,
+    "Oyggj": "Kunoy",
+    "Fjall": "Galvsskorafjall",
+    "Hadd": 768,
+    "Kortblad": 512,
+    "N_nt": "N62 16,693",
+    "W_nt": "W06 37,848",
+    "Y": 62.278217,
+    "X": -6.6308,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 272,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6583499999999995,
+     62.30158299922436,
+     471,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 272,
+    "Oyggj": "Kunoy",
+    "Fjall": "L\u00edtlafjall",
+    "Hadd": 471,
+    "Kortblad": 512,
+    "N_nt": "N62 18,095",
+    "W_nt": "W06 39,501",
+    "Y": 62.301583,
+    "X": -6.65835,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 273,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.692483,
+     62.24394999922329,
+     744,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 273,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Botnstindur",
+    "Hadd": 744,
+    "Kortblad": 512,
+    "N_nt": "N62 14,637",
+    "W_nt": "W06 41,549",
+    "Y": 62.24395,
+    "X": -6.692483,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 274,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.737900000000001,
+     62.29199999922419,
+     644,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 274,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Hattardalstindur",
+    "Hadd": 644,
+    "Kortblad": 512,
+    "N_nt": "N62 17,520",
+    "W_nt": "W06 44,274",
+    "Y": 62.292,
+    "X": -6.7379,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 275,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767233000000001,
+     62.31261699922457,
+     591,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 275,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Heimarafjall",
+    "Hadd": 591,
+    "Kortblad": 512,
+    "N_nt": "N62 18,757",
+    "W_nt": "W06 46,034",
+    "Y": 62.312617,
+    "X": -6.767233,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 276,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.727932999999999,
+     62.28461699922403,
+     579,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 276,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Mi\u00f0ardalstindur",
+    "Hadd": 579,
+    "Kortblad": 512,
+    "N_nt": "N62 17 077",
+    "W_nt": "W06 43,676",
+    "Y": 62.284617,
+    "X": -6.727933,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 277,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.763383,
+     62.30923299922451,
+     551,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 277,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Klubbin",
+    "Hadd": 551,
+    "Kortblad": 512,
+    "N_nt": "N62 18,554",
+    "W_nt": "W06 45,803",
+    "Y": 62.309233,
+    "X": -6.763383,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 278,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.716967,
+     62.276982999223904,
+     524,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 278,
+    "Oyggj": "Kalsoy",
+    "Fjall": "N\u00f8v",
+    "Hadd": 524,
+    "Kortblad": 512,
+    "N_nt": "N62 16,619",
+    "W_nt": "W06 43,018",
+    "Y": 62.276983,
+    "X": -6.716967,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 279,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.705016999999999,
+     62.25246699922344,
+     500,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 279,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Sl\u00e6ttafjall",
+    "Hadd": 500,
+    "Kortblad": 512,
+    "N_nt": "N62 15,148",
+    "W_nt": "W06 42,301",
+    "Y": 62.252467,
+    "X": -6.705017,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 280,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.755733,
+     62.31481699922461,
+     439,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 280,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Byttufelli",
+    "Hadd": 439,
+    "Kortblad": 512,
+    "N_nt": "N62 18,889",
+    "W_nt": "W06 45,344",
+    "Y": 62.314817,
+    "X": -6.755733,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 281,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794449999999999,
+     62.25119999922342,
+     626,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 281,
+    "Oyggj": "Eysturoy",
+    "Fjall": "H\u00fasafelli",
+    "Hadd": 626,
+    "Kortblad": 512,
+    "N_nt": "N62 15,072",
+    "W_nt": "W06 47,667",
+    "Y": 62.2512,
+    "X": -6.79445,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 282,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.839999999999999,
+     62.248799999223365,
+     625,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 282,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Sl\u00e6tnatindur",
+    "Hadd": 625,
+    "Kortblad": 512,
+    "N_nt": "N62 14,928",
+    "W_nt": "W06 50,400",
+    "Y": 62.2488,
+    "X": -6.84,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 283,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785533000000001,
+     62.24361699922328,
+     571,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 283,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Borgin",
+    "Hadd": 571,
+    "Kortblad": 512,
+    "N_nt": "N62 14,617",
+    "W_nt": "W06 47,132",
+    "Y": 62.243617,
+    "X": -6.785533,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 284,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781233,
+     62.25868299922355,
+     513,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 284,
+    "Oyggj": "Eysturoy",
+    "Fjall": "R\u00f3vin",
+    "Hadd": 513,
+    "Kortblad": 512,
+    "N_nt": "N62 15,521",
+    "W_nt": "W06 46,874",
+    "Y": 62.258683,
+    "X": -6.781233,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 285,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8275500000000005,
+     62.262049999223635,
+     483,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 285,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Altari\u00f0",
+    "Hadd": 483,
+    "Kortblad": 512,
+    "N_nt": "N62 15,723",
+    "W_nt": "W06 49,653",
+    "Y": 62.26205,
+    "X": -6.82755,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 286,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.809533,
+     62.25688299922351,
+     482,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 286,
+    "Oyggj": "Eysturoy",
+    "Fjall": "Mj\u00f3st\u00edggjur",
+    "Hadd": 482,
+    "Kortblad": 512,
+    "N_nt": "N62 15,413",
+    "W_nt": "W06 48,572",
+    "Y": 62.256883,
+    "X": -6.809533,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 287,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.671833000000001,
+     62.322482999224746,
+     825,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 287,
+    "Oyggj": "Kunoy",
+    "Fjall": "Teigafjall",
+    "Hadd": 825,
+    "Kortblad": 513,
+    "N_nt": "N62 19,349",
+    "W_nt": "W06 40,310",
+    "Y": 62.322483,
+    "X": -6.671833,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 288,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.690883000000001,
+     62.36336699922551,
+     819,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 288,
+    "Oyggj": "Kunoy",
+    "Fjall": "Kunoyarnakkur",
+    "Hadd": 819,
+    "Kortblad": 513,
+    "N_nt": "N62 21,802",
+    "W_nt": "W06 41,453",
+    "Y": 62.363367,
+    "X": -6.690883,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 289,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.689333,
+     62.34109999922509,
+     818,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 289,
+    "Oyggj": "Kunoy",
+    "Fjall": "Havnartindur",
+    "Hadd": 818,
+    "Kortblad": 513,
+    "N_nt": "N62 20,466",
+    "W_nt": "W06 41,360",
+    "Y": 62.3411,
+    "X": -6.689333,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 290,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.685366999999999,
+     62.35039999922529,
+     644,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 290,
+    "Oyggj": "Kunoy",
+    "Fjall": "Klubbin",
+    "Hadd": 644,
+    "Kortblad": 513,
+    "N_nt": "N62 21,024",
+    "W_nt": "W06 41,122",
+    "Y": 62.3504,
+    "X": -6.685367,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 291,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.676517,
+     62.34911699922524,
+     444,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 291,
+    "Oyggj": "Kunoy",
+    "Fjall": "Klettur",
+    "Hadd": 444,
+    "Kortblad": 513,
+    "N_nt": "N62 20,947",
+    "W_nt": "W06 40,591",
+    "Y": 62.349117,
+    "X": -6.676517,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 292,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79825,
+     62.350749999225286,
+     788,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 292,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Nestindar",
+    "Hadd": 788,
+    "Kortblad": 513,
+    "N_nt": "N62 21,045",
+    "W_nt": "W06 47,895",
+    "Y": 62.35075,
+    "X": -6.79825,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 293,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775133,
+     62.324249999224776,
+     606,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 293,
+    "Oyggj": "Kalsoy",
+    "Fjall": "G\u00e1safjall",
+    "Hadd": 606,
+    "Kortblad": 513,
+    "N_nt": "N62 19,455",
+    "W_nt": "W06 46,508",
+    "Y": 62.32425,
+    "X": -6.775133,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 294,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.786867000000001,
+     62.353666999225325,
+     576,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 294,
+    "Oyggj": "Kalsoy",
+    "Fjall": "H\u00e1degisfjall",
+    "Hadd": 576,
+    "Kortblad": 513,
+    "N_nt": "N62 21,220",
+    "W_nt": "W06 47,212",
+    "Y": 62.353667,
+    "X": -6.786867,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 295,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.812467,
+     62.3624669992255,
+     537,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 295,
+    "Oyggj": "Kalsoy",
+    "Fjall": "Borgarin",
+    "Hadd": 537,
+    "Kortblad": 513,
+    "N_nt": "N62 21,748",
+    "W_nt": "W06 48,748",
+    "Y": 62.362467,
+    "X": -6.812467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 296,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.58545,
+     62.20909999922264,
+     648,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 296,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "H\u00e1fjall",
+    "Hadd": 648,
+    "Kortblad": 611,
+    "N_nt": "N62 12,546",
+    "W_nt": "W06 35,127",
+    "Y": 62.2091,
+    "X": -6.58545,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 297,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.580833,
+     62.20136699922248,
+     593,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 297,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Mi\u00f0fjall",
+    "Hadd": 593,
+    "Kortblad": 611,
+    "N_nt": "N62 12,082",
+    "W_nt": "W06 34,850",
+    "Y": 62.201367,
+    "X": -6.580833,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 298,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.514883,
+     62.21179999922268,
+     563,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 298,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "H\u00e6ddin",
+    "Hadd": 563,
+    "Kortblad": 611,
+    "N_nt": "N62 12,708",
+    "W_nt": "W06 30,893",
+    "Y": 62.2118,
+    "X": -6.514883,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 299,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6066,
+     62.21864999922281,
+     502,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 299,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "H\u00e1lgafelli",
+    "Hadd": 502,
+    "Kortblad": 611,
+    "N_nt": "N62 13,119",
+    "W_nt": "W06 36,396",
+    "Y": 62.21865,
+    "X": -6.6066,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 300,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.487582999999999,
+     62.2026499992225,
+     461,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 300,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "G\u00e1safelli",
+    "Hadd": 461,
+    "Kortblad": 611,
+    "N_nt": "N62 12,159",
+    "W_nt": "W06 29,255",
+    "Y": 62.20265,
+    "X": -6.487583,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 301,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.543483,
+     62.17366699922198,
+     392,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 301,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Bor\u00f0yarnes",
+    "Hadd": 392,
+    "Kortblad": 611,
+    "N_nt": "N62 10,420",
+    "W_nt": "W06 32,609",
+    "Y": 62.173667,
+    "X": -6.543483,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 302,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.573849999999999,
+     62.23268299922307,
+     342,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 302,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Kj\u00f8lur",
+    "Hadd": 342,
+    "Kortblad": 611,
+    "N_nt": "N62 13,961",
+    "W_nt": "W06 34,431",
+    "Y": 62.232683,
+    "X": -6.57385,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 303,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.488466999999998,
+     62.29736699922427,
+     651,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 303,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Enni",
+    "Hadd": 651,
+    "Kortblad": 612,
+    "N_nt": "N62 17,842",
+    "W_nt": "W06 29,308",
+    "Y": 62.297367,
+    "X": -6.488467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 304,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4702,
+     62.29121699922417,
+     634,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 304,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Sneis",
+    "Hadd": 634,
+    "Kortblad": 612,
+    "N_nt": "N62 17,473",
+    "W_nt": "W06 28,212",
+    "Y": 62.291217,
+    "X": -6.4702,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 305,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.514916999999999,
+     62.31383299922459,
+     593,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 305,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Tunnafjall",
+    "Hadd": 593,
+    "Kortblad": 612,
+    "N_nt": "N62 18,830",
+    "W_nt": "W06 30,895",
+    "Y": 62.313833,
+    "X": -6.514917,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 306,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.423117,
+     62.30063299922434,
+     511,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 306,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "M\u00f8lin",
+    "Hadd": 511,
+    "Kortblad": 612,
+    "N_nt": "N62 18,038",
+    "W_nt": "W06 25,387",
+    "Y": 62.300633,
+    "X": -6.423117,
+    "Vidmerking": "Navni\u00f0 ikki \u00e1 korti"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 307,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.41985,
+     62.30443299922442,
+     481,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 307,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Nakkurin",
+    "Hadd": 481,
+    "Kortblad": 612,
+    "N_nt": "N62 18,266",
+    "W_nt": "W06 25,191",
+    "Y": 62.304433,
+    "X": -6.41985,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 308,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.565967,
+     62.29518299922424,
+     772,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 308,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Nor\u00f0anfyri Lokkaskar\u00f0",
+    "Hadd": 772,
+    "Kortblad": 612,
+    "N_nt": "N62 17,711",
+    "W_nt": "W06 33,958",
+    "Y": 62.295183,
+    "X": -6.565967,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 309,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.557533,
+     62.290832999224165,
+     754,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 309,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Lokki",
+    "Hadd": 754,
+    "Kortblad": 612,
+    "N_nt": "N62 17,450",
+    "W_nt": "W06 33,452",
+    "Y": 62.290833,
+    "X": -6.557533,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 310,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.567033,
+     62.30726699922447,
+     739,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 310,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Nor\u00f0anfyri Kv\u00edggjaskar\u00f0",
+    "Hadd": 739,
+    "Kortblad": 612,
+    "N_nt": "N62 18,436",
+    "W_nt": "W06 34,022",
+    "Y": 62.307267,
+    "X": -6.567033,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 311,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.561617,
+     62.24829999922336,
+     689,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 311,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Myrkjanoyrarfjall",
+    "Hadd": 689,
+    "Kortblad": 612,
+    "N_nt": "N62 14-898",
+    "W_nt": "W06 33,697",
+    "Y": 62.2483,
+    "X": -6.561617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 312,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.544867,
+     62.27549999922388,
+     681,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 312,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Depilskn\u00fakur",
+    "Hadd": 681,
+    "Kortblad": 612,
+    "N_nt": "N62 16,530",
+    "W_nt": "W06 32,692",
+    "Y": 62.2755,
+    "X": -6.544867,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 313,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.563233,
+     62.26246699922362,
+     644,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 313,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Sn\u00e6felli",
+    "Hadd": 644,
+    "Kortblad": 612,
+    "N_nt": "N62 15,748",
+    "W_nt": "W06 33,794",
+    "Y": 62.262467,
+    "X": -6.563233,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 314,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.502,
+     62.265266999223684,
+     642,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 314,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Kr\u00fanufjall",
+    "Hadd": 642,
+    "Kortblad": 612,
+    "N_nt": "N62 15,916",
+    "W_nt": "W06 30,120",
+    "Y": 62.265267,
+    "X": -6.502,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 315,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.489299999999999,
+     62.25863299922356,
+     621,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 315,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Landsu\u00f0ursfjall",
+    "Hadd": 621,
+    "Kortblad": 612,
+    "N_nt": "n62 15,518",
+    "W_nt": "W06 29,358",
+    "Y": 62.258633,
+    "X": -6.4893,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 316,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.519549999999999,
+     62.26738299922372,
+     607,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 316,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Toftakn\u00fakur",
+    "Hadd": 607,
+    "Kortblad": 612,
+    "N_nt": "N62 16,043",
+    "W_nt": "W06 31,173",
+    "Y": 62.267383,
+    "X": -6.51955,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 317,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.549683,
+     62.23844999922318,
+     591,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 317,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "F\u00fdramarkakn\u00fakur",
+    "Hadd": 591,
+    "Kortblad": 612,
+    "N_nt": "N62 14,307",
+    "W_nt": "W06 32,981",
+    "Y": 62.23845,
+    "X": -6.549683,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 318,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4467,
+     62.2500669992234,
+     534,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 318,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "B\u00farhella",
+    "Hadd": 534,
+    "Kortblad": 612,
+    "N_nt": "N62 15,004",
+    "W_nt": "W06 26,802",
+    "Y": 62.250067,
+    "X": -6.4467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 319,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.521167,
+     62.25984999922359,
+     519,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 319,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "T\u00f3lvmarkakn\u00fakur",
+    "Hadd": 519,
+    "Kortblad": 612,
+    "N_nt": "N62 15,591",
+    "W_nt": "W06 31,270",
+    "Y": 62.25985,
+    "X": -6.521167,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 320,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.617333,
+     62.23696699922316,
+     413,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 320,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Klakkur",
+    "Hadd": 413,
+    "Kortblad": 612,
+    "N_nt": "N62 14,218",
+    "W_nt": "W06 37,040",
+    "Y": 62.236967,
+    "X": -6.617333,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 321,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.617833,
+     62.26034999922359,
+     703,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 321,
+    "Oyggj": "Kunoy",
+    "Fjall": "Su\u00f0ur \u00e1 Nakki",
+    "Hadd": 703,
+    "Kortblad": 612,
+    "N_nt": "N62 15,621",
+    "W_nt": "W06 37,070",
+    "Y": 62.26035,
+    "X": -6.617833,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 322,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5563,
+     62.38088299922585,
+     841,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 322,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Villingadalsfjall",
+    "Hadd": 841,
+    "Kortblad": 613,
+    "N_nt": "N62 22,853",
+    "W_nt": "W06 33,378",
+    "Y": 62.380883,
+    "X": -6.5563,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 323,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.564433,
+     62.390666999226035,
+     754,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 323,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Nakkurin, nor\u00f0ari",
+    "Hadd": 754,
+    "Kortblad": 613,
+    "N_nt": "N62 23,440",
+    "W_nt": "W06 33,866",
+    "Y": 62.390667,
+    "X": -6.564433,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 324,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.538949999999999,
+     62.34448299922514,
+     750,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 324,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Malinsfjall",
+    "Hadd": 750,
+    "Kortblad": 613,
+    "N_nt": "N62 20,669",
+    "W_nt": "W06 32,337",
+    "Y": 62.344483,
+    "X": -6.53895,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 325,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.503016999999999,
+     62.31924999922468,
+     688,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 325,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Filthatturin",
+    "Hadd": 688,
+    "Kortblad": 613,
+    "N_nt": "N62 19,155",
+    "W_nt": "W06 30,181",
+    "Y": 62.31925,
+    "X": -6.503017,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 326,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.535466999999999,
+     62.38039999922583,
+     687,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 326,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Oyggjarskoratindur",
+    "Hadd": 687,
+    "Kortblad": 613,
+    "N_nt": "N62 22,824",
+    "W_nt": "W06 32,128",
+    "Y": 62.3804,
+    "X": -6.535467,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 327,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.439617,
+     62.31384999922458,
+     557,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 327,
+    "Oyggj": "Vi\u00f0oy",
+    "Fjall": "Talvbor\u00f0",
+    "Hadd": 557,
+    "Kortblad": 613,
+    "N_nt": "N62 18,831",
+    "W_nt": "W06 26,377",
+    "Y": 62.31385,
+    "X": -6.439617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 328,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.600066999999999,
+     62.34019999922508,
+     747,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 328,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Omanfyri Klivsdal",
+    "Hadd": 747,
+    "Kortblad": 613,
+    "N_nt": "N62 20,412",
+    "W_nt": "W06 36,004",
+    "Y": 62.3402,
+    "X": -6.600067,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 329,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5985000000000005,
+     62.3459499992252,
+     642,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 329,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Kn\u00fakur",
+    "Hadd": 642,
+    "Kortblad": 613,
+    "N_nt": "N62 20,757",
+    "W_nt": "W06 35,910",
+    "Y": 62.34595,
+    "X": -6.5985,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 330,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.601167000000001,
+     62.356116999225385,
+     535,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 330,
+    "Oyggj": "Bor\u00f0oy",
+    "Fjall": "Tindur",
+    "Hadd": 535,
+    "Kortblad": 613,
+    "N_nt": "N62 21,367",
+    "W_nt": "W06 36,070",
+    "Y": 62.356117,
+    "X": -6.601167,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 331,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.396883,
+     62.27473299922385,
+     586,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 331,
+    "Oyggj": "Sv\u00ednoy",
+    "Fjall": "Havnartindur",
+    "Hadd": 586,
+    "Kortblad": 712,
+    "N_nt": "N62 16,484",
+    "W_nt": "W06 23,813",
+    "Y": 62.274733,
+    "X": -6.396883,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 332,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.348617,
+     62.29528299922424,
+     463,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 332,
+    "Oyggj": "Sv\u00ednoy",
+    "Fjall": "Keldufjall",
+    "Hadd": 463,
+    "Kortblad": 712,
+    "N_nt": "N62 17,717",
+    "W_nt": "W06 20,917",
+    "Y": 62.295283,
+    "X": -6.348617,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 333,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.381099999999999,
+     62.26039999922359,
+     463,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 333,
+    "Oyggj": "Sv\u00ednoy",
+    "Fjall": "Kn\u00fakur, vestari",
+    "Hadd": 463,
+    "Kortblad": 712,
+    "N_nt": "N62 15,624",
+    "W_nt": "W06 22,866",
+    "Y": 62.2604,
+    "X": -6.3811,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 334,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.354367000000001,
+     62.26226699922363,
+     460,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 334,
+    "Oyggj": "Sv\u00ednoy",
+    "Fjall": "Kn\u00fakur",
+    "Hadd": 460,
+    "Kortblad": 712,
+    "N_nt": "N62 15,736",
+    "W_nt": "W06 21,262",
+    "Y": 62.262267,
+    "X": -6.354367,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 335,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.371950000000001,
+     62.24644999922332,
+     443,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 335,
+    "Oyggj": "Sv\u00ednoy",
+    "Fjall": "M\u00falin",
+    "Hadd": 443,
+    "Kortblad": 712,
+    "N_nt": "N62 14,787",
+    "W_nt": "W06 22,317",
+    "Y": 62.24645,
+    "X": -6.37195,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 336,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.343817,
+     62.261616999223605,
+     422,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 336,
+    "Oyggj": "Sv\u00ednoy",
+    "Fjall": "Middagur",
+    "Hadd": 422,
+    "Kortblad": 712,
+    "N_nt": "N62 15,697",
+    "W_nt": "W06 20,629",
+    "Y": 62.261617,
+    "X": -6.343817,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 337,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.288283000000001,
+     62.28981699922413,
+     344,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 337,
+    "Oyggj": "Sv\u00ednoy",
+    "Fjall": "Eysturh\u00f8vdi\u00f0",
+    "Hadd": 344,
+    "Kortblad": 712,
+    "N_nt": "N62 17,389",
+    "W_nt": "W06 17,297",
+    "Y": 62.289817,
+    "X": -6.288283,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 338,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3228,
+     62.33964999922508,
+     621,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 338,
+    "Oyggj": "Fugloy",
+    "Fjall": "Klubbin",
+    "Hadd": 621,
+    "Kortblad": 713,
+    "N_nt": "N62 20,379",
+    "W_nt": "W06 19,368",
+    "Y": 62.33965,
+    "X": -6.3228,
+    "Vidmerking": " "
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 339,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.261367,
+     62.341849999225104,
+     449,
+     null
+    ]
+   },
+   "properties": {
+    "FID": 339,
+    "Oyggj": "Fugloy",
+    "Fjall": "Eystfelli",
+    "Hadd": 449,
+    "Kortblad": 713,
+    "N_nt": "N62 20,511",
+    "W_nt": "W06 15,682",
+    "Y": 62.34185,
+    "X": -6.261367,
+    "Vidmerking": " "
+   }
+  }
+ ]
+}

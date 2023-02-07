@@ -8,12 +8,14 @@ from os import path
 from typing import Generator
 import requests
 
+NO_PAGINATION = False
+
 # https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/48
-FOLDER = 'lendiskort'
-SERVICE = 'us_lendiskort'
-MAP_ID = 48
-PROPERTY_NAME = 'layer'
-PROPERTY_VALUE = 'tyrluplass'  # can be a substring match too
+# FOLDER = 'lendiskort'
+# SERVICE = 'us_lendiskort'
+# MAP_ID = 48
+# PROPERTY_NAME = 'layer'
+# PROPERTY_VALUE = 'tyrluplass'  # can be a substring match too
 
 
 # https://gis.us.fo/arcgis/rest/services/poi/us_poi/MapServer/layers
@@ -23,10 +25,27 @@ PROPERTY_VALUE = 'tyrluplass'  # can be a substring match too
 # PROPERTY_NAME = 'poi_icon'
 # PROPERTY_VALUE = 'church'  # "poi_icon": "church",
 
+# https://gis.us.fo/arcgis/rest/services/topo_20/us_topo20/MapServer/1184
+"""
+"Oyggj": "Eysturoy",
+"Fjall": "Sl\u00e6ttaratindur",
+"Hadd": 880,
+"""
+FOLDER = 'topo_20'
+SERVICE = 'us_topo20'
+MAP_ID = 1184
+PROPERTY_NAME = None
+PROPERTY_VALUE = None
+NO_PAGINATION = True
+
 ACGIS_URL = f'https://gis.us.fo/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 
 DIR = path.abspath(path.dirname(__file__))
 GEOJSON_FILE = path.join(DIR, '..', 'geojson', f'us-{FOLDER}-{SERVICE}-{MAP_ID}-{PROPERTY_VALUE or "main"}.json')
+
+
+class ArcGisError(Exception):
+    pass
 
 
 def filter_feature(feature: dict) -> bool:
@@ -106,11 +125,22 @@ def get_features_from_arcgis(url: str) -> Generator:
             'resultOffset': offset
         }
 
+        # https://gis.us.fo/arcgis/rest/services/topo_20/us_topo20/MapServer/1184/query?f=geojson&where=1%3D1&outFields=%2A&resultOffset=0
+        # Pagination is not supported.
+        if NO_PAGINATION:
+            del query_params['resultOffset']
+
         resp = requests.get(url, headers={'user-agent': 'acrgis.py'}, params=query_params)
         resp.raise_for_status()
 
         # e.g. https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/48/query?where=1%3D1&geometryType=esriGeometryEnvelope&geometryPrecision=6&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=2000&returnGeometry=true&returnZ=false&returnM=false&returnIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&returnTrueCurves=false&returnExtentsOnly=false&f=geojson
         data = json.loads(resp.text)
+
+        # report errors (they come as HTTP 200 response, yikes!)
+        if error := data.get('error'):
+            message = error.get('message')
+            logger.error(f'Request error: {message}')
+            raise ArcGisError(message)
 
         features = data.get('features', [])
 
