@@ -19,24 +19,25 @@ NO_PAGINATION = False
 
 
 # https://gis.us.fo/arcgis/rest/services/poi/us_poi/MapServer/layers
+# https://kort.foroyakort.fo/kort/
 # FOLDER = 'poi'
 # SERVICE = 'us_poi'
 # MAP_ID = 19
 # PROPERTY_NAME = 'poi_icon'
-# PROPERTY_VALUE = 'church'  # "poi_icon": "church",
+# PROPERTY_VALUE = 'bus'
 
 # https://gis.us.fo/arcgis/rest/services/topo_20/us_topo20/MapServer/1184
-"""
-"Oyggj": "Eysturoy",
-"Fjall": "Sl\u00e6ttaratindur",
-"Hadd": 880,
-"""
-FOLDER = 'topo_20'
-SERVICE = 'us_topo20'
-MAP_ID = 1184
-PROPERTY_NAME = None
-PROPERTY_VALUE = None
-NO_PAGINATION = True
+# """
+# "Oyggj": "Eysturoy",
+# "Fjall": "Sl\u00e6ttaratindur",
+# "Hadd": 880,
+# """
+# FOLDER = 'topo_20'
+# SERVICE = 'us_topo20'
+# MAP_ID = 1184
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = None
+# NO_PAGINATION = True
 
 ACGIS_URL = f'https://gis.us.fo/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 

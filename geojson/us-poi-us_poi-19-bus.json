@@ -1,0 +1,65 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 29,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774081141548972,
+     62.01129405726044
+    ]
+   },
+   "properties": {
+    "objectid": 29,
+    "feature_id": 35,
+    "poi_type": "Busstop busslei\u00f0in",
+    "poi_category": "Flutningur",
+    "poi_icon": "busstop_city",
+    "poi_title": "Busslei\u00f0in",
+    "poi_title_short": null,
+    "street_name": "Steinat\u00fan",
+    "house_no": " ",
+    "city": "T\u00f3rshavn",
+    "phone_no": "302010",
+    "website": "http://www.torshavn.fo/Default.aspx?pageid=1062",
+    "email": "torshavn@torshavn.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 35,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774467413792017,
+     62.011358474596015
+    ]
+   },
+   "properties": {
+    "objectid": 35,
+    "feature_id": 36,
+    "poi_type": "Busstop bygdalei\u00f0ir",
+    "poi_category": "Flutningur",
+    "poi_icon": "busstop_city",
+    "poi_title": "Busslei\u00f0in",
+    "poi_title_short": null,
+    "street_name": "Steinat\u00fan",
+    "house_no": " ",
+    "city": "T\u00f3rshavn",
+    "phone_no": "302010",
+    "website": "http://www.torshavn.fo/Default.aspx?pageid=1062",
+    "email": "torshavn@torshavn.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  }
+ ]
+}
