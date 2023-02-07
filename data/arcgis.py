@@ -9,19 +9,19 @@ from typing import Generator
 import requests
 
 # https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/48
-# FOLDER = 'lendiskort'
-# SERVICE = 'us_lendiskort'
-# MAP_ID = 48
-# PROPETY_NAME = 'layer'
-# PROPERTY_VALUE = 'Tyrluplass'  # can be a substring match too
+FOLDER = 'lendiskort'
+SERVICE = 'us_lendiskort'
+MAP_ID = 48
+PROPERTY_NAME = 'layer'
+PROPERTY_VALUE = 'tyrluplass'  # can be a substring match too
 
 
 # https://gis.us.fo/arcgis/rest/services/poi/us_poi/MapServer/layers
-FOLDER = 'poi'
-SERVICE = 'us_poi'
-MAP_ID = 19
-PROPERTY_NAME = 'poi_icon'
-PROPERTY_VALUE = 'church'  # "poi_icon": "church",
+# FOLDER = 'poi'
+# SERVICE = 'us_poi'
+# MAP_ID = 19
+# PROPERTY_NAME = 'poi_icon'
+# PROPERTY_VALUE = 'church'  # "poi_icon": "church",
 
 ACGIS_URL = f'https://gis.us.fo/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 
@@ -38,8 +38,8 @@ def filter_feature(feature: dict) -> bool:
         return True
 
     props = feature.get('properties', {})
-    prop_value = props.get(PROPERTY_NAME)
-    return prop_value and PROPERTY_VALUE in prop_value
+    prop_value: str = props.get(PROPERTY_NAME)
+    return prop_value and PROPERTY_VALUE in prop_value.lower()
 
 
 def from_polygon_to_point(feature: dict) -> dict:
