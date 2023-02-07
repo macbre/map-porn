@@ -1,0 +1,1895 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 59,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7931311566013575,
+     61.951583270885614
+    ]
+   },
+   "properties": {
+    "objectid": 59,
+    "feature_id": 86,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Kirkjub\u00f8ar kirkja",
+    "poi_title_short": "Kirkjub\u00f8ar kirkja",
+    "street_name": "Gamlivegur",
+    "house_no": "2",
+    "city": "Kirkjub\u00f8ur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6433",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 175,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 60,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.746523757309443,
+     62.1933844495192
+    ]
+   },
+   "properties": {
+    "objectid": 60,
+    "feature_id": 87,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "G\u00f8tu kirkja",
+    "poi_title_short": "G\u00f8tu kirkja",
+    "street_name": "G\u00f8tuvegur",
+    "house_no": "7",
+    "city": "G\u00f8tugj\u00f3gv",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6406&PictureID=1926",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 511,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 61,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7741211073661045,
+     61.997508400707844
+    ]
+   },
+   "properties": {
+    "objectid": 61,
+    "feature_id": 88,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Argja kirkja",
+    "poi_title_short": "Argja kirkja",
+    "street_name": "Argjavegur",
+    "house_no": "22",
+    "city": "Argir",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6432",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 160,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 62,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.537856732224853,
+     62.25489977261635
+    ]
+   },
+   "properties": {
+    "objectid": 62,
+    "feature_id": 89,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "\u00c1rnfjar\u00f0ar kirkja",
+    "poi_title_short": "\u00c1rnfjar\u00f0ar kirkja",
+    "street_name": "\u00c1rnfjar\u00f0arvegur",
+    "house_no": "2",
+    "city": "\u00c1rnafj\u00f8r\u00f0ur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6395",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 727,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 63,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.370328185295697,
+     62.086387912567695
+    ]
+   },
+   "properties": {
+    "objectid": 63,
+    "feature_id": 90,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "B\u00edggjar kirkja",
+    "poi_title_short": "B\u00edggjar kirkja",
+    "street_name": "Kirkjubreyt",
+    "house_no": "2",
+    "city": "B\u00f8ur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6435",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 386,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 64,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6765735178486265,
+     61.783717987802376
+    ]
+   },
+   "properties": {
+    "objectid": 64,
+    "feature_id": 91,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Dals kirkja",
+    "poi_title_short": "Dals kirkja",
+    "street_name": "Kirkjuvegur",
+    "house_no": "7",
+    "city": "Dalur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6444",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 235,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 65,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.091073497796354,
+     62.299247990276506
+    ]
+   },
+   "properties": {
+    "objectid": 65,
+    "feature_id": 92,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Ei\u00f0is kirkja",
+    "poi_title_short": "Ei\u00f0is kirkja",
+    "street_name": "Kirkjuvegur",
+    "house_no": "2",
+    "city": "Ei\u00f0i",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6414",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 470,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 66,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.913258725932649,
+     62.282443563002865
+    ]
+   },
+   "properties": {
+    "objectid": 66,
+    "feature_id": 93,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Elduv\u00edkar kirkja",
+    "poi_title_short": "Elduv\u00edkar kirkja",
+    "street_name": "Kirkjuvegur",
+    "house_no": "6",
+    "city": "Elduv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6417",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 478,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 67,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.815333365403197,
+     62.24295506456587
+    ]
+   },
+   "properties": {
+    "objectid": 67,
+    "feature_id": 94,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Fuglafjar\u00f0ar kirkja",
+    "poi_title_short": "Fuglafjar\u00f0ar kirkja",
+    "street_name": "Kirkjuvegur",
+    "house_no": "20",
+    "city": "Fuglafj\u00f8r\u00f0ur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6404",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 530,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 68,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.942928005547203,
+     62.32436726634402
+    ]
+   },
+   "properties": {
+    "objectid": 68,
+    "feature_id": 96,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Gj\u00e1ar kirkja",
+    "poi_title_short": "Gj\u00e1ar kirkja",
+    "street_name": "Eysturi \u00e1 Veg",
+    "house_no": "15",
+    "city": "Gj\u00f3gv",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6415",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 476,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 69,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.966298151410442,
+     62.28680266655204
+    ]
+   },
+   "properties": {
+    "objectid": 69,
+    "feature_id": 95,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Funnings kirkja",
+    "poi_title_short": "Funnings kirkja",
+    "street_name": "Kirkjum\u00f8rk",
+    "house_no": "12",
+    "city": "Funningur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6416",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 475,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 70,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.729922558290715,
+     62.08134505664582
+    ]
+   },
+   "properties": {
+    "objectid": 70,
+    "feature_id": 97,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Gamla kirkjan \u00e1 Nesi",
+    "poi_title_short": "Gamla kirkjan \u00e1 Nesi",
+    "street_name": "Kirkjuvegur",
+    "house_no": "1",
+    "city": "Nes, Eysturoy",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6408",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 655,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 71,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.739423703042006,
+     62.197433293216115
+    ]
+   },
+   "properties": {
+    "objectid": 71,
+    "feature_id": 98,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00faan\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Gamla kirkjan \u00ed G\u00f8tu",
+    "poi_title_short": "Gamla kirkjan \u00ed G\u00f8tu",
+    "street_name": "Tr\u00f3ndarg\u00f8ta",
+    "house_no": "16",
+    "city": "Nor\u00f0rag\u00f8ta",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6406",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 512,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 72,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.725622292781218,
+     62.127736552806454
+    ]
+   },
+   "properties": {
+    "objectid": 72,
+    "feature_id": 99,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Glyvra kirkja",
+    "poi_title_short": "Glyvra kirkja",
+    "street_name": "Kirkjug\u00f8ta",
+    "house_no": "2",
+    "city": "Glyvrar",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6407",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 625,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 73,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.092221163101901,
+     62.275887663975205
+    ]
+   },
+   "properties": {
+    "objectid": 73,
+    "feature_id": 100,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Hald\u00f3rsv\u00edkar kirkja",
+    "poi_title_short": "Hald\u00f3rsv\u00edkar kirkja",
+    "street_name": "Kirkjug\u00f8ta",
+    "house_no": "26",
+    "city": "Hald\u00f3rsv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6422",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 440,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 75,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.277052321144028,
+     62.32910192310654
+    ]
+   },
+   "properties": {
+    "objectid": 75,
+    "feature_id": 101,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Hattarv\u00edkar kirkja",
+    "poi_title_short": "Hattarv\u00edkar kirkja",
+    "street_name": "Ni\u00f0ri \u00ed H\u00fasi",
+    "house_no": "2",
+    "city": "Hattarv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6334",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 767,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 76,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.884926460878025,
+     61.956587741862144
+    ]
+   },
+   "properties": {
+    "objectid": 76,
+    "feature_id": 102,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Hests kirkja",
+    "poi_title_short": "Hests kirkja",
+    "street_name": "Kv\u00edggjarvegur",
+    "house_no": "47",
+    "city": "Hestur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6434",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 280,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 77,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.943816708555469,
+     62.15209477480571
+    ]
+   },
+   "properties": {
+    "objectid": 77,
+    "feature_id": 103,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "H\u00f3sv\u00edkar kirkja",
+    "poi_title_short": "H\u00f3sv\u00edkar kirkja",
+    "street_name": "Gar\u00f0sendavegur",
+    "house_no": "2",
+    "city": "H\u00f3sv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6424",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 420,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 78,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7597579480767465,
+     61.507029059821335
+    ]
+   },
+   "properties": {
+    "objectid": 78,
+    "feature_id": 104,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Hovs kirkja",
+    "poi_title_short": "Hovs kirkja",
+    "street_name": "\u00cd Leivsgar\u00f0i",
+    "house_no": "1",
+    "city": "Hov",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6450",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 960,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 79,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777613028200379,
+     62.15650533141447
+    ]
+   },
+   "properties": {
+    "objectid": 79,
+    "feature_id": 130,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Sk\u00e1la kirkja",
+    "poi_title_short": "Sk\u00e1la kirkja",
+    "street_name": "Sk\u00e1lavegur",
+    "house_no": "237",
+    "city": "Sk\u00e1la",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6412\n",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 480,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 80,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.695434374975991,
+     62.264850602524
+    ]
+   },
+   "properties": {
+    "objectid": 80,
+    "feature_id": 105,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "H\u00fasa kirkja",
+    "poi_title_short": "H\u00fasa kirkja",
+    "street_name": "Kalsoyarvegur",
+    "house_no": "6",
+    "city": "H\u00fasar",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6392",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 796,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 81,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.678627439152772,
+     61.809393427348844
+    ]
+   },
+   "properties": {
+    "objectid": 81,
+    "feature_id": 106,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "H\u00fasav\u00edkar kirkja",
+    "poi_title_short": "H\u00fasav\u00edkar kirkja",
+    "street_name": "Frammi vi\u00f0 \u00c1nni",
+    "house_no": "2",
+    "city": "H\u00fasav\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6443\n",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 230,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 82,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.952951384972045,
+     61.59773664404404
+    ]
+   },
+   "properties": {
+    "objectid": 82,
+    "feature_id": 107,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Hvalbiar kirkja",
+    "poi_title_short": "Hvalbiar kirkja",
+    "street_name": "B\u00edarvegur",
+    "house_no": "5",
+    "city": "Hvalba",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6447",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 850,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 83,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.035951865005891,
+     62.187273547365415
+    ]
+   },
+   "properties": {
+    "objectid": 83,
+    "feature_id": 108,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Hvalv\u00edkar kirkja",
+    "poi_title_short": "Hvalv\u00edkar kirkja",
+    "street_name": "Hvalv\u00edksvegur",
+    "house_no": "38",
+    "city": "Hvalv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6423",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 430,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 84,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.519534483856894,
+     62.29297811082185
+    ]
+   },
+   "properties": {
+    "objectid": 84,
+    "feature_id": 109,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Hvannasunds kirkja",
+    "poi_title_short": "Hvannasunds kirkja",
+    "street_name": "Sundsvegur",
+    "house_no": "52",
+    "city": "Hvannasund",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6394",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 740,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 85,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.832522969928313,
+     62.05834040179799
+    ]
+   },
+   "properties": {
+    "objectid": 85,
+    "feature_id": 110,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Kaldbaks kirkja",
+    "poi_title_short": "Kaldbaks kirkja",
+    "street_name": "Krossg\u00f8ta",
+    "house_no": "2",
+    "city": "Kaldbak",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6428",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 180,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 86,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.318243834636831,
+     62.31858956293077
+    ]
+   },
+   "properties": {
+    "objectid": 86,
+    "feature_id": 111,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Kirkjan \u00e1 Kirkju",
+    "poi_title_short": "Kirkjan \u00e1 Kirkju",
+    "street_name": "Bakkabr\u00fagvin",
+    "house_no": "4",
+    "city": "Kirkja",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6390",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 766,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 87,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.901664901515228,
+     62.11694790973367
+    ]
+   },
+   "properties": {
+    "objectid": 87,
+    "feature_id": 112,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Kollafjar\u00f0ar kirkja",
+    "poi_title_short": "Kollafjar\u00f0ar kirkja",
+    "street_name": "vi\u00f0 Sj\u00f3gv",
+    "house_no": "72",
+    "city": "Kollafj\u00f8r\u00f0ur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6425",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 410,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 88,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6713929270044865,
+     62.292883149075045
+    ]
+   },
+   "properties": {
+    "objectid": 88,
+    "feature_id": 113,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Kunoyar kirkja",
+    "poi_title_short": "Kunoyar kirkja",
+    "street_name": "Kunoyarvegur",
+    "house_no": "1",
+    "city": "Kunoy",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6397",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 780,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 89,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0743900810881275,
+     62.117541487475854
+    ]
+   },
+   "properties": {
+    "objectid": 89,
+    "feature_id": 114,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Kv\u00edv\u00edkar kirkja",
+    "poi_title_short": "Kv\u00edv\u00edkar kirkja",
+    "street_name": "Kirkjuvegur",
+    "house_no": "26",
+    "city": "Kv\u00edv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6426",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 340,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 90,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7096848339729975,
+     62.21143661268872
+    ]
+   },
+   "properties": {
+    "objectid": 90,
+    "feature_id": 115,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Leirv\u00edkar kirkja",
+    "poi_title_short": "Leirv\u00edkar kirkja",
+    "street_name": "Biskupsmerkur",
+    "house_no": "1",
+    "city": "Leirv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6405",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 520,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 91,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.779701735498021,
+     62.01434224284571
+    ]
+   },
+   "properties": {
+    "objectid": 91,
+    "feature_id": 116,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Mariukirkjan",
+    "poi_title_short": "Mariukirkjan",
+    "street_name": "Mariug\u00f8ta",
+    "house_no": "4",
+    "city": "T\u00f3rshavn",
+    "phone_no": null,
+    "website": "http://www.katolsk.dk/menigheder/menigheder/torshavn-36/",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 92,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.194615642017198,
+     62.048128797542276
+    ]
+   },
+   "properties": {
+    "objectid": 92,
+    "feature_id": 117,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Mi\u00f0v\u00e1gs kirkja",
+    "poi_title_short": "Mi\u00f0v\u00e1gs kirkja",
+    "street_name": "Leitisvegur",
+    "house_no": "23",
+    "city": "Mi\u00f0v\u00e1gur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6437",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 370,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 98,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.643711317529839,
+     62.10404804627161
+    ]
+   },
+   "properties": {
+    "objectid": 98,
+    "feature_id": 119,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Mykines kirkja",
+    "poi_title_short": "Mykines kirkja",
+    "street_name": "T\u00faalsvegur",
+    "house_no": "10",
+    "city": "Mykines",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6439",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 388,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 99,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.676135306123551,
+     62.00841235893593
+    ]
+   },
+   "properties": {
+    "objectid": 99,
+    "feature_id": 120,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "N\u00f3lsoyar kirkja",
+    "poi_title_short": "N\u00f3lsoyar kirkja",
+    "street_name": "\u00ed T\u00fani",
+    "house_no": "21",
+    "city": "N\u00f3lsoy",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6429",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 270,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 100,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.005585830404784,
+     62.21589661206246
+    ]
+   },
+   "properties": {
+    "objectid": 100,
+    "feature_id": 121,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Nor\u00f0sk\u00e1la kirkja",
+    "poi_title_short": "Nor\u00f0sk\u00e1la kirkja",
+    "street_name": "Nor\u00f0sk\u00e1lavegur",
+    "house_no": "25",
+    "city": "Nor\u00f0sk\u00e1li",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6413",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 460,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 101,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8519828036407935,
+     62.27701249086068
+    ]
+   },
+   "properties": {
+    "objectid": 101,
+    "feature_id": 122,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Oyndarfjar\u00f0ar kirkja",
+    "poi_title_short": "Oyndarfjar\u00f0ar kirkja",
+    "street_name": "Gamlivegur",
+    "house_no": "23",
+    "city": "Oyndarfj\u00f8r\u00f0ur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6418\n",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 690,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 102,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.746451077917259,
+     61.48087765022678
+    ]
+   },
+   "properties": {
+    "objectid": 102,
+    "feature_id": 123,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Porkeris kirkja",
+    "poi_title_short": "Porkeris kirkja",
+    "street_name": "Vi\u00f0 \u00c1",
+    "house_no": "2",
+    "city": "Porkeri",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6451",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 950,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 103,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.683513606663258,
+     62.106229225089244
+    ]
+   },
+   "properties": {
+    "objectid": 103,
+    "feature_id": 124,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Rituv\u00edkar kirkja",
+    "poi_title_short": "Rituv\u00edkar kirkja",
+    "street_name": "Kirkjug\u00f8ta",
+    "house_no": "2",
+    "city": "Rituv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6408",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 640,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 104,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1798140499190835,
+     62.24636880014798
+    ]
+   },
+   "properties": {
+    "objectid": 104,
+    "feature_id": 125,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Saksunar kirkja",
+    "poi_title_short": "Saksunar kirkja",
+    "street_name": "Saksunarvegur",
+    "house_no": "20",
+    "city": "Saksun",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6421",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 436,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 105,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.81161905433861,
+     61.83307861966569
+    ]
+   },
+   "properties": {
+    "objectid": 105,
+    "feature_id": 126,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Sands kirkja",
+    "poi_title_short": "Sands kirkja",
+    "street_name": " ",
+    "house_no": " ",
+    "city": "Sandur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6441",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 210,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 106,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.92934630764881,
+     61.633442405572204
+    ]
+   },
+   "properties": {
+    "objectid": 106,
+    "feature_id": 127,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Sandv\u00edkar kirkja",
+    "poi_title_short": "Sandv\u00edkar kirkja",
+    "street_name": "Kirkjuvegur",
+    "house_no": "1",
+    "city": "Sandv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6446",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 860,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 107,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.881167309136701,
+     62.15740057731809
+    ]
+   },
+   "properties": {
+    "objectid": 107,
+    "feature_id": 128,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Selatra\u00f0ar kirkja",
+    "poi_title_short": "Selatra\u00f0ar kirkja",
+    "street_name": "Kirkjug\u00f8ta",
+    "house_no": "1",
+    "city": "Selatra\u00f0",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6411",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 497,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 108,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.754048269655905,
+     62.11762984703154
+    ]
+   },
+   "properties": {
+    "objectid": 108,
+    "feature_id": 129,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Sj\u00f3var kirkja",
+    "poi_title_short": "Sj\u00f3var kirkja",
+    "street_name": "Kirkjuvegur",
+    "house_no": "5",
+    "city": "Strendur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6410",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 490,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 109,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.669430991885077,
+     61.830188706525455
+    ]
+   },
+   "properties": {
+    "objectid": 109,
+    "feature_id": 131,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Sk\u00e1lav\u00edkar kirkja",
+    "poi_title_short": "Sk\u00e1lav\u00edkar kirkja",
+    "street_name": "Kirkjug\u00f8tan",
+    "house_no": "7",
+    "city": "Sk\u00e1lav\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6457",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 220,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 110,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.881164657896076,
+     61.90255118138338
+    ]
+   },
+   "properties": {
+    "objectid": 110,
+    "feature_id": 132,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Skopunar kirkja",
+    "poi_title_short": "Skopunar kirkja",
+    "street_name": "Gar\u00f0avegur",
+    "house_no": "3",
+    "city": "Skopun",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6440",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 240,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 111,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.805002722182801,
+     61.76996700430578
+    ]
+   },
+   "properties": {
+    "objectid": 111,
+    "feature_id": 133,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Sk\u00favoyar kirkja",
+    "poi_title_short": "Sk\u00favoyar kirkja",
+    "street_name": "Kirkjuvegur",
+    "house_no": "11",
+    "city": "Sk\u00fagvoy",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6445",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 260,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 113,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.713304804605086,
+     61.40415455606379
+    ]
+   },
+   "properties": {
+    "objectid": 113,
+    "feature_id": 134,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Sumbiar kirkja",
+    "poi_title_short": "Sumbiar kirkja",
+    "street_name": "\u00e1 Buggar\u00f0i",
+    "house_no": "6",
+    "city": "Sumba",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6454",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 970,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 114,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.343179511945385,
+     62.278815564594574
+    ]
+   },
+   "properties": {
+    "objectid": 114,
+    "feature_id": 135,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Sv\u00ednoyar kirkja",
+    "poi_title_short": "Sv\u00ednoyar kirkja",
+    "street_name": "Kirkjug\u00f8ta",
+    "house_no": "3",
+    "city": "Sv\u00ednoy",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6391",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 765,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 115,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.308904429252467,
+     62.07299536776538
+    ]
+   },
+   "properties": {
+    "objectid": 115,
+    "feature_id": 136,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "S\u00f8rv\u00e1gs kirkja",
+    "poi_title_short": "S\u00f8rv\u00e1gs kirkja",
+    "street_name": "Kirkjuvegur",
+    "house_no": "14",
+    "city": "S\u00f8rv\u00e1gur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6436",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 380,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 116,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.148095847067017,
+     62.28927156750146
+    ]
+   },
+   "properties": {
+    "objectid": 116,
+    "feature_id": 137,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Tj\u00f8rnuv\u00edkar kirkja",
+    "poi_title_short": "Tj\u00f8rnuv\u00edkar kirkja",
+    "street_name": "Teigag\u00f8ta",
+    "house_no": "15",
+    "city": "Tj\u00f8rnuv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6420",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 445,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 117,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.800821518357477,
+     61.553829968051666
+    ]
+   },
+   "properties": {
+    "objectid": 117,
+    "feature_id": 138,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Tv\u00f8royrar kirkja",
+    "poi_title_short": "Tv\u00f8royrar kirkja",
+    "street_name": "Kirkjubrekkan",
+    "house_no": "23",
+    "city": "Tv\u00f8royri",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6448",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 800,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 118,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.807953625967364,
+     61.47363328293417
+    ]
+   },
+   "properties": {
+    "objectid": 118,
+    "feature_id": 139,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "V\u00e1gs kirkja",
+    "poi_title_short": "V\u00e1gs kirkja",
+    "street_name": "V\u00e1gsvegur",
+    "house_no": "34",
+    "city": "V\u00e1gur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6452",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 900,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 119,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.172267260296791,
+     62.153767449814204
+    ]
+   },
+   "properties": {
+    "objectid": 119,
+    "feature_id": 140,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Vestmanna kirkja",
+    "poi_title_short": "Vestmanna kirkja",
+    "street_name": "Bakkavegur",
+    "house_no": "31",
+    "city": "Vestmanna",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6427",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 350,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 120,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5436390118499945,
+     62.35988199816649
+    ]
+   },
+   "properties": {
+    "objectid": 120,
+    "feature_id": 141,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Vi\u00f0arei\u00f0is kirkja",
+    "poi_title_short": "Vi\u00f0arei\u00f0is kirkja",
+    "street_name": "Kirkjug\u00f8ta",
+    "house_no": "10",
+    "city": "Vi\u00f0arei\u00f0i",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6295",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 750,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 246,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.78406900523368,
+     62.007491307754464
+    ]
+   },
+   "properties": {
+    "objectid": 246,
+    "feature_id": 27,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Vesturkirkjan",
+    "poi_title_short": "Vesturkirkjan",
+    "street_name": "Landavegur",
+    "house_no": "44",
+    "city": "T\u00f3rshavn",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6431",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 263,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.771708639534458,
+     62.00959861555296
+    ]
+   },
+   "properties": {
+    "objectid": 263,
+    "feature_id": 28,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "D\u00f3mkirkjan",
+    "poi_title_short": "D\u00f3mkirkjan",
+    "street_name": "Kirkjuvegur",
+    "house_no": "3",
+    "city": "T\u00f3rshavn",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6430",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 264,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.770067401983591,
+     62.029764528507876
+    ]
+   },
+   "properties": {
+    "objectid": 264,
+    "feature_id": 81,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Hoyv\u00edkar kirkja",
+    "poi_title_short": "Hoyv\u00edkar kirkja",
+    "street_name": "Kirkjustr\u00e6ti",
+    "house_no": "8",
+    "city": "Hoyv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=20361",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 188,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 265,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.586586238353948,
+     62.22541380734073
+    ]
+   },
+   "properties": {
+    "objectid": 265,
+    "feature_id": 82,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Christianskirkjan",
+    "poi_title_short": "Christianskirkjan",
+    "street_name": "Kirkjubrekka",
+    "house_no": "6",
+    "city": "Klaksv\u00edk",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6396",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 700,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 266,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7385075677618325,
+     62.0871220264765
+    ]
+   },
+   "properties": {
+    "objectid": 266,
+    "feature_id": 83,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Fr\u00ed\u00f0rikskirkjan",
+    "poi_title_short": "Fr\u00ed\u00f0rikskirkjan",
+    "street_name": "Fr\u00ed\u00f0riksg\u00f8ta",
+    "house_no": "1",
+    "city": "Toftir",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6419",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 650,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 267,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.151298232587474,
+     62.053890618773856
+    ]
+   },
+   "properties": {
+    "objectid": 267,
+    "feature_id": 84,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Sandav\u00e1gs kirkja",
+    "poi_title_short": "Sandav\u00e1gs kirkja",
+    "street_name": "Gamlivegur",
+    "house_no": "2",
+    "city": "Sandav\u00e1gur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6438",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 360,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 268,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.879427009150087,
+     61.52569192848298
+    ]
+   },
+   "properties": {
+    "objectid": 268,
+    "feature_id": 85,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "F\u00e1mjins kirkja",
+    "poi_title_short": "F\u00e1mjins kirkja",
+    "street_name": "F\u00e1mjunsvegur",
+    "house_no": "1",
+    "city": "F\u00e1mjin",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6449",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 870,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 269,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766752372190774,
+     62.335764172055825
+    ]
+   },
+   "properties": {
+    "objectid": 269,
+    "feature_id": 118,
+    "poi_type": "Kirkja",
+    "poi_category": "\u00c1tr\u00fana\u00f0ur",
+    "poi_icon": "church",
+    "poi_title": "Mikladals kirkja",
+    "poi_title_short": "Mikladals kirkja",
+    "street_name": "Nor\u00f0n\u00e1t\u00fan",
+    "house_no": "3",
+    "city": "Mikladalur",
+    "phone_no": null,
+    "website": "http://www.folkakirkjan.fo/Default.aspx?pageid=6393",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 797,
+    "priority": null
+   }
+  }
+ ]
+}
