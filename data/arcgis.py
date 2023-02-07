@@ -29,6 +29,47 @@ def filter_feature(feature: dict) -> bool:
     return layer and LAYER in layer
 
 
+def from_polygon_to_point(feature: dict) -> dict:
+    """
+    Save some space -> turn polygons into points (use the first coordinate)
+
+    from
+    {
+      "type": "Feature",
+      "id": 3806,
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.286266996565066,
+              62.0656602855875
+            ],
+    (...)
+
+    info
+
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -6.522042,
+            62.2978137
+        ]
+    }
+    """
+    polygon_points = feature.get('geometry', {}).get('coordinates')
+
+    if not polygon_points:
+        return feature
+
+    feature['geometry'] = {
+        "type": "Point",
+        "coordinates": polygon_points[0][0]
+    }
+
+    return feature
+
+
 def get_features_from_arcgis(url: str) -> Generator:
     """
     Yields a stream of geo features from provided ArcGIS service
@@ -55,7 +96,12 @@ def get_features_from_arcgis(url: str) -> Generator:
         data = json.loads(resp.text)
 
         features = data.get('features', [])
-        yield from filter(filter_feature, features)
+
+        # filter features and turn polygons into a single points -> yield
+        yield from map(
+            from_polygon_to_point,
+            filter(filter_feature, features)
+        )
 
         # do we need to grab the next batch of data?
         # "exceededTransferLimit": true
