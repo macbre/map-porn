@@ -1,0 +1,326 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3667013,
+     62.283348
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.522042,
+     62.2978137
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8170571,
+     61.5482192
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Smyril Tv\u00f8royri",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6724973,
+     62.0067133
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8029297,
+     61.7718027
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6484087,
+     62.1019426
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7227131,
+     61.443099
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7674851,
+     62.0084594
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     9.9755886,
+     57.59589
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Hirtshals",
+    "operator": "Fjord Line;Smyril Line",
+    "public_transport": "stop_position"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3138872,
+     62.316564
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Undir Mi\u00f0b\u00f8",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2758623,
+     62.3271792
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "internet_access": "no",
+    "operator": "Strandfer\u00f0slan",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6644853,
+     62.2463166
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -14.0035636,
+     65.2633831
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "Norr\u00f6na (Smyril Line)",
+    "public_transport": "station",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7666734,
+     62.0079024
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "T\u00f3rshavn",
+    "public_transport": "stop_position"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8781885,
+     61.9032324
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "name": "M/F Teistin",
+    "opening_hours:url": "http://www.ssl.fo/fo/ferdaaetlan/oyggjaleidir/60-skopun-gamlaraett/",
+    "public_transport": "station",
+    "website": "http://www.ssl.fo/fo/ferdaaetlan/oyggjaleidir/60-skopun-gamlaraett/",
+    "wikipedia": "en:Strandfaraskip Landsins#M.2FF Teistin - the ferry to Sandoy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8094291,
+     61.8289017
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3260418,
+     62.0709958
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8188717,
+     61.962409
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5892915,
+     62.2302678
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7634782,
+     61.6861248
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728103,
+     61.4059067
+    ]
+   },
+   "properties": {
+    "amenity": "ferry_terminal",
+    "ferry": "yes",
+    "public_transport": "station"
+   }
+  }
+ ]
+}

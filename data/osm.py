@@ -32,6 +32,11 @@ DIR = path.abspath(path.dirname(__file__))
 TAG_KEY = 'amenity'
 TAG_VALUE = 'ferry_terminal'
 
+# https://wiki.openstreetmap.org/wiki/Tag:barrier%3Dcattle_grid
+TAG_KEY = 'barrier'
+TAG_VALUE = 'cattle_grid'
+
+
 def cache_osm_file():
     # https://download.geofabrik.de/europe/faroe-islands.html
     URL = 'https://download.geofabrik.de/europe/faroe-islands-latest.osm.bz2'

@@ -1,0 +1,1068 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1376958,
+     62.1531339
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid",
+    "material": "metal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1363566,
+     62.1532613
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid",
+    "material": "metal"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8457289,
+     62.1339454
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8560979,
+     62.1462709
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6971529,
+     62.0955088
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.498995,
+     62.3349423
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5394341,
+     62.2531855
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6670248,
+     62.2868611
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5299873,
+     62.2978626
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5402421,
+     62.2081861
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5370945,
+     62.2054824
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9353122,
+     61.5906459
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6679237,
+     62.2904305
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8907441,
+     62.1604641
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7640711,
+     62.1782985
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7606825,
+     62.1837817
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid",
+    "bicycle": "yes",
+    "foot": "yes",
+    "motorcar": "yes",
+    "motorcycle": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.677921,
+     62.2523891
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792824,
+     62.3580873
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8008388,
+     62.3580913
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5031845,
+     62.3346607
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4321765,
+     62.1083061
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5418707,
+     62.3645807
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8885823,
+     61.5190719
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8348797,
+     62.1258706
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7845505,
+     62.1063753
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7701364,
+     62.096845
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7588813,
+     62.1323218
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7976723,
+     62.3590428
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7901173,
+     62.361645
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7669077,
+     62.3335277
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6669723,
+     62.2447592
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7861711,
+     61.5287909
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7692209,
+     61.5103507
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8483988,
+     61.5177904
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8083765,
+     61.5430936
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8355935,
+     61.5559213
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8600934,
+     61.5631437
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9452426,
+     61.583397
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9420921,
+     61.6276007
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9391288,
+     61.5899077
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9617187,
+     61.5973975
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8733117,
+     61.5168813
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.861327,
+     61.5184287
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8413796,
+     61.5162921
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8379596,
+     61.5247152
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8240141,
+     61.5310354
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7783155,
+     61.5057837
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7761255,
+     61.5057741
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775682,
+     61.5062604
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8085477,
+     61.5378284
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8661459,
+     61.561277
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8791058,
+     61.5639788
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7722144,
+     61.9918249
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8309829,
+     62.0000263
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8324879,
+     61.9811246
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8293596,
+     61.9719503
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8214329,
+     61.9663948
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7996623,
+     62.0322358
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5166254,
+     62.2759504
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5094981,
+     62.274333
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5231815,
+     62.2777129
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5998422,
+     62.2694815
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9705239,
+     62.2981907
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5127434,
+     62.2899736
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5249447,
+     62.3053068
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5191464,
+     62.3574347
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5186186,
+     62.3577956
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5198658,
+     62.359266
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6766852,
+     62.2964101
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6669276,
+     62.2472853
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6688058,
+     62.246788
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.668164,
+     62.2456166
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6882089,
+     62.2600192
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6989905,
+     62.2713161
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7688172,
+     62.3306622
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.769763,
+     62.3332914
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7782404,
+     62.3352412
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7779794,
+     62.3311177
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8491198,
+     62.1387947
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7910614,
+     62.1108037
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7647239,
+     62.1431067
+    ]
+   },
+   "properties": {
+    "barrier": "cattle_grid"
+   }
+  }
+ ]
+}
