@@ -91,3 +91,16 @@ $ cat osm-faroe-islands.xml.bz2 | bzip2 -d | less
   </way>
   (...)
 ```
+
+## ArcGIS GeoJSON
+
+https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer + layers
+
+Paging:
+
+```
+curl 'https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/48/query?where=1%3D1&geometryType=esriGeometryEnvelope&geometryPrecision=6&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=0&returnGeometry=true&returnZ=false&returnM=false&returnIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&returnTrueCurves=false&returnExtentsOnly=false&f=geojson' | jq . > 'us_tyrlan_lendiskort.json'
+
+  "exceededTransferLimit": true
+```
+
