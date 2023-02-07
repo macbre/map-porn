@@ -24,13 +24,13 @@ DIR = path.abspath(path.dirname(__file__))
 # https://wiki.openstreetmap.org/wiki/Tag:aeroway%3Dhelipad
 # <tag k="aeroway" v="helipad"/>
 # TODO: handle <way> tags
-TAG_KEY = 'aeroway'
-TAG_VALUE = 'helipad'
+# TAG_KEY = 'aeroway'
+# TAG_VALUE = 'helipad'
 
 # https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dferry_terminal
 # <tag k="amenity" v="ferry_terminal"/>
-# TAG_KEY = 'amenity'
-# TAG_VALUE = 'ferry_terminal'
+TAG_KEY = 'amenity'
+TAG_VALUE = 'ferry_terminal'
 
 def cache_osm_file():
     # https://download.geofabrik.de/europe/faroe-islands.html
@@ -224,7 +224,7 @@ def main():
     iterate_xml(local_file, node_callback)
 
     # write a GeoJSON file
-    geojson_file = path.join(DIR, f'{TAG_KEY}-{TAG_VALUE}.json')
+    geojson_file = path.join(DIR, '..', 'geojson', f'osm-{TAG_KEY}-{TAG_VALUE}.json')
     logger.info(f'Writing {len(nodes)} node(s) GeoJSON to {geojson_file} ...')
 
     with open(geojson_file, 'wt') as f:
