@@ -91,6 +91,9 @@ def from_polygon_to_point(feature: dict) -> dict:
     """
     geometry_type = feature.get('geometry', {}).get('type')
     if geometry_type != 'Polygon':
+        # allow only lat, lon and elevation data
+        feature['geometry']['coordinates'] = feature.get('geometry', {}).get('coordinates')[:3]
+
         return feature
 
     polygon_points = feature.get('geometry', {}).get('coordinates')
