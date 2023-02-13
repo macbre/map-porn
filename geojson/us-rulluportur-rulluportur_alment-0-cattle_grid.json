@@ -1,0 +1,4445 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 1,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.867908333509582,
+     61.89592777680868,
+     88.31350000000384
+    ]
+   },
+   "properties": {
+    "objectid": 1,
+    "name": "Skopunarvegurin \u00c3\u008d Skopunarbrekkuni",
+    "city": "Sandur",
+    "feature_type": 2,
+    "feature_length": 345,
+    "feature_width": 903,
+    "construction_year": -1,
+    "condition_assessment": 1,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8661833323901105,
+     61.8887055550259,
+     155.31479999999283
+    ]
+   },
+   "properties": {
+    "objectid": 2,
+    "name": "Skopunarvegurin vi\u00c3\u00b0 Nor\u00c3\u00b0ara H\u00c3\u00a1lsavatn",
+    "city": "Sandur",
+    "feature_type": 2,
+    "feature_length": 452,
+    "feature_width": 803,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Livur t\u00c3\u00a1 trafikkur koyrir \u00c3\u00a1. Nakrar sveisingar eru farnar",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.866155556153759,
+     61.88332499936884,
+     129.87630000000354
+    ]
+   },
+   "properties": {
+    "objectid": 3,
+    "name": "Skopunarvegurin millum H\u00c3\u00a1lsav\u00c3\u00b8tnini",
+    "city": "Sandur",
+    "feature_type": 1,
+    "feature_length": 305,
+    "feature_width": 830,
+    "construction_year": 2016,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8409972212308485,
+     61.86612777677385,
+     32.591400000004796
+    ]
+   },
+   "properties": {
+    "objectid": 4,
+    "name": "Skopunarvegurin sunnanfyri \u00c3\u00b8kslini",
+    "city": "Sandur",
+    "feature_type": 2,
+    "feature_length": 352,
+    "feature_width": 803,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Livur eitt sindur",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.834738889091529,
+     61.86043611023175,
+     18.196299999995972
+    ]
+   },
+   "properties": {
+    "objectid": 5,
+    "name": "Skopunarvegurin \u00c3\u00a1 Fjalsdalinum",
+    "city": "Sandur",
+    "feature_type": 2,
+    "feature_length": 352,
+    "feature_width": 802,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.825094443722905,
+     61.842547221039965,
+     14.80920000000333
+    ]
+   },
+   "properties": {
+    "objectid": 6,
+    "name": "Skopunarvegurin \u00c3\u00ad Vikanum",
+    "city": "Sandur",
+    "feature_type": 2,
+    "feature_length": 345,
+    "feature_width": 902,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.800786110777904,
+     61.83740555563172,
+     43.76929999999993
+    ]
+   },
+   "properties": {
+    "objectid": 7,
+    "name": "Sk\u00c3\u00a1lav\u00c3\u00adkarvegurin \u00c3\u00bati \u00c3\u00a1 Fl\u00c3\u00b8tti",
+    "city": "Sandur",
+    "feature_type": 2,
+    "feature_length": 345,
+    "feature_width": 800,
+    "construction_year": -1,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "H skinnarirnir eru illa t\u00c3\u00a6rdir",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.755397221157065,
+     61.82819444305245,
+     125.21430000000692
+    ]
+   },
+   "properties": {
+    "objectid": 8,
+    "name": "Sk\u00c3\u00a1lav\u00c3\u00adkarvegurin vi\u00c3\u00b0 Markna\u00c3\u00b0ar\u00c3\u00a1 Brekkan St\u00c3\u00b3ra",
+    "city": "Sk\u00c3\u00a1lav\u00c3\u00adk",
+    "feature_type": 2,
+    "feature_length": 445,
+    "feature_width": 910,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Livir eitt l\u00c3\u00adti\u00c3\u00b0 sindur",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7245808533504166,
+     61.823188594796555,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 9,
+    "name": "Sk\u00c3\u00a1lav\u00c3\u00adkarvegurin \u00c3\u00a1 Krossvegin",
+    "city": "Sk\u00c3\u00a1lav\u00c3\u00adk",
+    "feature_type": 2,
+    "feature_length": 352,
+    "feature_width": 703,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Livur, leggja n\u00c3\u00bdggjar klossar undir",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.706663889337295,
+     61.82286388788363,
+     111.222299999994
+    ]
+   },
+   "properties": {
+    "objectid": 10,
+    "name": "Sk\u00c3\u00a1lav\u00c3\u00adkarvegurin \u00c3\u00a1 Sk\u00c3\u00a1lav\u00c3\u00adkarh\u00c3\u00a1lsi",
+    "city": "Sk\u00c3\u00a1lav\u00c3\u00adk",
+    "feature_type": 2,
+    "feature_length": 352,
+    "feature_width": 701,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Livur, fingi\u00c3\u00b0 \u00c3\u00a1b\u00c3\u00b8tur \u00c3\u00ad 2011-2012",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 11,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.685763888069191,
+     61.826541666630824,
+     61.039199999999255
+    ]
+   },
+   "properties": {
+    "objectid": 11,
+    "name": "Sk\u00c3\u00a1lav\u00c3\u00adkarvegurin \u00c3\u00a1 T\u00c3\u00a1lgagili",
+    "city": "Sk\u00c3\u00a1lav\u00c3\u00adk",
+    "feature_type": 1,
+    "feature_length": 304,
+    "feature_width": 800,
+    "construction_year": 2012,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "test bp \u00c3\u00a1 obj 11",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722000000913189,
+     61.82069444344991,
+     76.48609999999462
+    ]
+   },
+   "properties": {
+    "objectid": 12,
+    "name": "H\u00c3\u00basav\u00c3\u00adkarvegurin \u00c3\u00a1 Takm\u00c3\u00bdru heimara",
+    "city": "Sk\u00c3\u00a1lav\u00c3\u00adk",
+    "feature_type": 2,
+    "feature_length": 345,
+    "feature_width": 802,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 13,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.718083333789728,
+     61.818724999319215,
+     90.2899999999936
+    ]
+   },
+   "properties": {
+    "objectid": 13,
+    "name": "H\u00c3\u00basav\u00c3\u00adkarvegurin \u00c3\u00a1 Takm\u00c3\u00bdru eystara",
+    "city": "H\u00c3\u00basav\u00c3\u00adk",
+    "feature_type": 2,
+    "feature_length": 345,
+    "feature_width": 802,
+    "construction_year": -1,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Livur, ca. 1 m av einum skinnara treingir til at skiftast",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 14,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.666961111724208,
+     61.804855555614886,
+     40.42080000000715
+    ]
+   },
+   "properties": {
+    "objectid": 14,
+    "name": "Dalsvegurin \u00c3\u00a1 Tanganum",
+    "city": "H\u00c3\u00basav\u00c3\u00adk",
+    "feature_type": 1,
+    "feature_length": 302,
+    "feature_width": 399,
+    "construction_year": 2013,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 15,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.656502777569699,
+     61.792233332175044,
+     82.29690000000119
+    ]
+   },
+   "properties": {
+    "objectid": 15,
+    "name": "Dalsvegurin \u00c3\u00ad Dalsberginum",
+    "city": "H\u00c3\u00basav\u00c3\u00adk",
+    "feature_type": 3,
+    "feature_length": 341,
+    "feature_width": 398,
+    "construction_year": -1,
+    "condition_assessment": 4,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 16,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6686027783543365,
+     61.785697221441254,
+     64.59619999999995
+    ]
+   },
+   "properties": {
+    "objectid": 16,
+    "name": "Dalsvegurin \u00c3\u00a1 Hamarsendanum",
+    "city": "Dalur",
+    "feature_type": 3,
+    "feature_length": 305,
+    "feature_width": 480,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 17,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.749716667717666,
+     61.81986944365865,
+     33.39310000000114
+    ]
+   },
+   "properties": {
+    "objectid": 17,
+    "name": "Skarvanesvegurin vi\u00c3\u00b0 St\u00c3\u00b3ravatn",
+    "city": "Skarvanes",
+    "feature_type": 3,
+    "feature_length": 287,
+    "feature_width": 400,
+    "construction_year": -1,
+    "condition_assessment": 4,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Liggur 5 cm oc l\u00c3\u00a1gt. Skal helst skiftast sum skj\u00c3\u00b3tast",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "martins",
+    "modified_date": 1636986083000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 18,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.752030555236411,
+     61.810688887891565,
+     50.77650000000722
+    ]
+   },
+   "properties": {
+    "objectid": 18,
+    "name": "Skarvanesvegurin \u00c3\u00ad Dj\u00c3\u00bapadali Heimari",
+    "city": "Skarvanes",
+    "feature_type": 3,
+    "feature_length": 338,
+    "feature_width": 398,
+    "construction_year": -1,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "\u00c3\u00a1tti at veri\u00c3\u00b0 tiki\u00c3\u00b0 burtur, ikki br\u00c3\u00bakt \u00c3\u00ad ca 20-25 \u00c3\u00a1r",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 19,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.753019444060639,
+     61.80575277766355,
+     44.01600000000326
+    ]
+   },
+   "properties": {
+    "objectid": 19,
+    "name": "Skarvanesvegurin \u00c3\u00ad Dj\u00c3\u00bapuni uttaru",
+    "city": "Skarvanes",
+    "feature_type": 3,
+    "feature_length": 339,
+    "feature_width": 398,
+    "construction_year": -1,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "\u00c3\u00a1tti at veri\u00c3\u00b0 tiki\u00c3\u00b0 burtur, ikki br\u00c3\u00bakt \u00c3\u00ad ca 20-25 \u00c3\u00a1r",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 20,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.752566667299996,
+     61.80309722152545,
+     65.20140000000538
+    ]
+   },
+   "properties": {
+    "objectid": 20,
+    "name": "Skarvanesvegurin \u00c3\u00ad Skarv. Klivunum",
+    "city": "Skarvanes",
+    "feature_type": 1,
+    "feature_length": 304,
+    "feature_width": 335,
+    "construction_year": 2016,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 21,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.752027778239619,
+     61.79913333188006,
+     46.90210000000661
+    ]
+   },
+   "properties": {
+    "objectid": 21,
+    "name": "Skarvanesvegurin uttanfyri Klivarnar",
+    "city": "Skarvanes",
+    "feature_type": 3,
+    "feature_length": 285,
+    "feature_width": 400,
+    "construction_year": -1,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1514764800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": " ",
+    "collected_by": "ADMIN",
+    "collection_date": 1535985707000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 422,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.547959927710475,
+     62.35371999129402,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 422,
+    "name": "Vi\u00c3\u00b0arei\u00c3\u00b0isvegurin",
+    "city": "Vi\u00c3\u00b0arei\u00c3\u00b0i",
+    "feature_type": 2,
+    "feature_length": 700,
+    "feature_width": 340,
+    "construction_year": 1992,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1559125473000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 423,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792749971920621,
+     62.35811999445791,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 423,
+    "name": null,
+    "city": "Tr\u00c3\u00b8llanes",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1591275629000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279682000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 424,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.527542088253261,
+     62.28370191164297,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 424,
+    "name": "Nortoftavegurin",
+    "city": "Depil",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": 2019,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1569317148000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Er skift",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvarja",
+    "modified_date": 1618997885000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 425,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.69977009488417,
+     62.274749990815906,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 425,
+    "name": null,
+    "city": "H\u00c3\u00basar",
+    "feature_type": 3,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 4,
+    "condition_assessment_date": 1591279221000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Skiftast ",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279277000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 426,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.699090066159036,
+     62.27128999055583,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 426,
+    "name": null,
+    "city": "H\u00c3\u00basar",
+    "feature_type": 3,
+    "feature_length": 400,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1591279188000,
+    "status": 1,
+    "to_repair": 3,
+    "comment": "Helst skiftast",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279194000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 428,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.688300010786235,
+     62.26003998987778,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 428,
+    "name": null,
+    "city": "H\u00c3\u00basar",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": 2015,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1591279071000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279095000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 430,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.677812162604511,
+     62.25233693460783,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 430,
+    "name": "Kn\u00c3\u00basdalur",
+    "city": "Sy\u00c3\u00b0radalur, Kalsoy",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": 0,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1591278989000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279046000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 432,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.535969920409861,
+     62.32198999199768,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 432,
+    "name": "Vi\u00c3\u00b0arei\u00c3\u00b0isvegurin",
+    "city": "Hvannasund",
+    "feature_type": 2,
+    "feature_length": 800,
+    "feature_width": 350,
+    "construction_year": 1992,
+    "condition_assessment": 1,
+    "condition_assessment_date": 1559124977000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 433,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.797589917783493,
+     62.359059991644656,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 433,
+    "name": null,
+    "city": "Tr\u00c3\u00b8llanes",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1591275463000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279578000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 434,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.800979974398948,
+     62.35808999167836,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 434,
+    "name": null,
+    "city": "Tr\u00c3\u00b8llanes",
+    "feature_type": 3,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1591275074000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279551000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 435,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.516679946201257,
+     62.27593998847019,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 435,
+    "name": "Nortoftavegurin",
+    "city": "Nor\u00c3\u00b0toftir",
+    "feature_type": 1,
+    "feature_length": 500,
+    "feature_width": 300,
+    "construction_year": 2018,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1559122245000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 436,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778359937404713,
+     62.33524999552904,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 436,
+    "name": "",
+    "city": "Mikladalur",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": 2020,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1600610701000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Ok",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1603199347000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 437,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.539360000701846,
+     62.253209992998485,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 437,
+    "name": "\u00c3\u0081rnafj\u00c3\u00b8r\u00c3\u00b0ur",
+    "city": "\u00c3\u0081rnafj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": 3,
+    "feature_length": 660,
+    "feature_width": 300,
+    "construction_year": 1991,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1559121418000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 438,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.530018721991553,
+     62.2978540448072,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 438,
+    "name": "M\u00c3\u00balavegurin",
+    "city": "Nor\u00c3\u00b0depil",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": 2021,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1619000299000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Skift",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1619000313000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 439,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778060079314115,
+     62.33112999204564,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 439,
+    "name": null,
+    "city": "Mikladalur",
+    "feature_type": 2,
+    "feature_length": 600,
+    "feature_width": 350,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1591279465000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Undir skinnarar tardir",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279479000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 440,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.54717993642052,
+     62.310599988454555,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 440,
+    "name": "M\u00c3\u00balavegurin",
+    "city": "Nor\u00c3\u00b0depil",
+    "feature_type": 3,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": 19089,
+    "condition_assessment": 5,
+    "condition_assessment_date": 1559123848000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 441,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.768880062209441,
+     62.33065999598566,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 441,
+    "name": null,
+    "city": "Mikladalur",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1591276527000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279436000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 442,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.666980078413117,
+     62.28672999847014,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 442,
+    "name": "Kunoy",
+    "city": "Kunoy",
+    "feature_type": 3,
+    "feature_length": 800,
+    "feature_width": 300,
+    "construction_year": 2004,
+    "condition_assessment": 4,
+    "condition_assessment_date": 1559120308000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 443,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.566079964663705,
+     62.32588998899792,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 443,
+    "name": "M\u00c3\u00balavegurin",
+    "city": "M\u00c3\u00bali",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 300,
+    "construction_year": 2015,
+    "condition_assessment": 1,
+    "condition_assessment_date": 1559123473000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Hevur ikki breiddina av vegnum",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 444,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766909919678967,
+     62.33353999566062,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 444,
+    "name": null,
+    "city": "Mikladalur",
+    "feature_type": 3,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 4,
+    "condition_assessment_date": 1591276726000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Skiftast",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279414000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 445,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.580609993365147,
+     62.346529992709655,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 445,
+    "name": "M\u00c3\u00balavegurin",
+    "city": "M\u00c3\u00bali",
+    "feature_type": 3,
+    "feature_length": 380,
+    "feature_width": 300,
+    "construction_year": 1987,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1559123084000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 446,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.759420009324684,
+     62.31872999402995,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 446,
+    "name": null,
+    "city": "Mikladalur",
+    "feature_type": 3,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1591279362000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Undur sl\u00c3\u00b8\u00c3\u00b0ini vanalig",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279376000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 447,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.599790092532036,
+     62.26939999743129,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 447,
+    "name": "Haraldsund",
+    "city": "Haraldssund",
+    "feature_type": 3,
+    "feature_length": 800,
+    "feature_width": 300,
+    "construction_year": 1989,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1559119719000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvarja",
+    "modified_date": 1652947659000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 448,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.719689945861368,
+     62.29061998841315,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 448,
+    "name": null,
+    "city": "H\u00c3\u00basar",
+    "feature_type": 3,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1591279315000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Skiftast",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1591279330000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 449,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.432169936069516,
+     62.10828999450857,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 449,
+    "name": "G\u00c3\u00a1sadalur",
+    "city": "G\u00c3\u00a1sadalur",
+    "feature_type": 3,
+    "feature_length": 350,
+    "feature_width": 600,
+    "construction_year": 2018,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1534978800000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1640007607000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 450,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.397229929355099,
+     62.09137999050819,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 450,
+    "name": null,
+    "city": "B\u00c3\u00b8ur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 600,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1640008225000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1640008265000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 451,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.390259971291643,
+     62.08797998772553,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 451,
+    "name": null,
+    "city": "B\u00c3\u00b8ur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 760,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1640008473000,
+    "status": 1,
+    "to_repair": 1,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1640008619000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 453,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3500399981540285,
+     62.081409994963536,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 453,
+    "name": null,
+    "city": "B\u00c3\u00b8ur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 651,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1581433481000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1582536111000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 454,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.323020051483999,
+     62.07617998879376,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 454,
+    "name": null,
+    "city": "S\u00c3\u00b8rv\u00c3\u00a1gur",
+    "feature_type": 2,
+    "feature_length": 320,
+    "feature_width": 648,
+    "construction_year": null,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1581432681000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Portur umv\u00c3\u00a6last. ",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1582536098000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 456,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.153420054899812,
+     62.08563999266586,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 456,
+    "name": "Sandav\u00c3\u00a1gsh\u00c3\u00a1lsur",
+    "city": "Sandav\u00c3\u00a1gur",
+    "feature_type": 1,
+    "feature_length": 340,
+    "feature_width": 800,
+    "construction_year": 2022,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1658444400000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "M\u00c3\u00a1ta upp til at b\u00c3\u00adleggja n\u00c3\u00bdtt \u00c3\u00ad 2020 at seta ni\u00c3\u00b0ur \u00c3\u00ad 2021. M\u00c3\u00b8guliga skal ta\u00c3\u00b0 ikki gerast \u00c3\u00ad fullari h\u00c3\u00a6dd fyri at sleppa undan at stoypa.\n\n28/5-21 v\u00c3\u00b3r\u00c3\u00b0u vit noyddir at fylla upp vi\u00c3\u00b0 sandi\n22/8 -2022 n\u00c3\u00bdtt r\u00c3\u00b8rportur",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1660571680000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 457,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.145420034455263,
+     62.10329999067811,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 457,
+    "name": null,
+    "city": "Sandav\u00c3\u00a1gur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 600,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643812857000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Rekverk er roti og m\u00c3\u00a1 skiftast oh endurskin mangla",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643819422000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 458,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.013010005098052,
+     62.210719994952456,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 458,
+    "name": "Nesv\u00c3\u00adk",
+    "city": "Nesv\u00c3\u00adk",
+    "feature_type": 2,
+    "feature_length": 340,
+    "feature_width": 700,
+    "construction_year": null,
+    "condition_assessment": 5,
+    "condition_assessment_date": 1579891970000,
+    "status": 1,
+    "to_repair": 3,
+    "comment": "sandur er koyrdur \u00c3\u00ad og streymur lagdur til, men b\u00c3\u00b3ndin klagar um, at sey\u00c3\u00b0ur gongur um hana, hava veri \u00c3\u00bat s\u00c3\u00ad\u00c3\u00b0ani. 05.02.2020 Kanna um vit f\u00c3\u00a1a br\u00c3\u00bakt rulluportri\u00c3\u00b0 \u00c3\u00a1 Sandv\u00c3\u00adkarhjalla.\n\n12-01-2023: N\u00c3\u00bdtt rulliportur er b\u00c3\u00adlagt.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvmool",
+    "modified_date": 1673518475000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 459,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.147450009069494,
+     62.14942999681194,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 459,
+    "name": null,
+    "city": "V\u00c3\u00a1lur",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 840,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643816520000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643816660000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 460,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.176439942782463,
+     62.24562999163876,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 460,
+    "name": null,
+    "city": "Saksun",
+    "feature_type": 3,
+    "feature_length": 350,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1645185237000,
+    "status": 1,
+    "to_repair": 3,
+    "comment": "Rekkverk manglar",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1645185375000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 461,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.977940059585063,
+     62.11719999743047,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 461,
+    "name": null,
+    "city": "Kollafj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 1000,
+    "construction_year": null,
+    "condition_assessment": 5,
+    "condition_assessment_date": 1643893690000,
+    "status": 1,
+    "to_repair": 5,
+    "comment": "sveisa javnan skoyti\u00c3\u00b0 millum ristirnar, t\u00c3\u00ad ta\u00c3\u00b0 loysnar.Rulluportri liggur lest, ta\u00c3\u00b0 m\u00c3\u00a1 leggjast undir.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1675421964000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 464,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.829449928006592,
+     61.97197999380045,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 464,
+    "name": null,
+    "city": "Kirkjub\u00c3\u00b8ur",
+    "feature_type": 1,
+    "feature_length": 350,
+    "feature_width": 900,
+    "construction_year": 2022,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643917190000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Hava fylt sand \u00c3\u00ad mi\u00c3\u00b0juna t\u00c3\u00ad hon er farin, b\u00c3\u00adleggja n\u00c3\u00bdtt, so skj\u00c3\u00b3tt dimensi\u00c3\u00b3nirnar eru m\u00c3\u00a1ta\u00c3\u00b0ar. Hava avtala vi\u00c3\u00b0 EST, at teir lata okkum tilfar til umkoyringarveg, t\u00c3\u00a1 vit hava sett av fyri hann. R\u00c3\u00b8ktarin er kunna\u00c3\u00b0ur, og hevur sagt gott fyri umkoyring.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1661243048000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 466,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.849495626500784,
+     61.98330221371951,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 466,
+    "name": null,
+    "city": "Velbasta\u00c3\u00b0ur",
+    "feature_type": 1,
+    "feature_length": 3000,
+    "feature_width": 6000,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643901962000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643901994000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 467,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8686287451026855,
+     61.98826581675252,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 467,
+    "name": null,
+    "city": "Velbasta\u00c3\u00b0ur",
+    "feature_type": 3,
+    "feature_length": 350,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1583761346000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Portri\u00c3\u00b0 er dotti\u00c3\u00b0 av, botnurin er fullur av vatni\u00c3\u00b0 og eini listin er brotna\u00c3\u00b0ur",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1583761455000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 468,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.875398510583005,
+     61.98955435577312,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 468,
+    "name": null,
+    "city": "Velbasta\u00c3\u00b0ur",
+    "feature_type": 3,
+    "feature_length": 350,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1583761164000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Eitt r\u00c3\u00b8r er gli\u00c3\u00b0i\u00c3\u00b0 \u00c3\u00bar boylunum, og nakrir boylar mangla",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1583761212000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 469,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.880129033570269,
+     61.99156600662994,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 469,
+    "name": null,
+    "city": "Velbasta\u00c3\u00b0ur",
+    "feature_type": 3,
+    "feature_length": 340,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 1,
+    "condition_assessment_date": 1583760913000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Nakrir boyler mangla",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1583760954000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 470,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.887669935752822,
+     61.9963899922605,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 470,
+    "name": null,
+    "city": "Velbasta\u00c3\u00b0ur",
+    "feature_type": 3,
+    "feature_length": 335,
+    "feature_width": 550,
+    "construction_year": null,
+    "condition_assessment": 1,
+    "condition_assessment_date": 1583760678000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Nakrir boylar mangla",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1583760723000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 471,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.891122903555969,
+     61.998675076469056,
+     117.10640000000421
+    ]
+   },
+   "properties": {
+    "objectid": 471,
+    "name": null,
+    "city": "Velbasta\u00c3\u00b0ur",
+    "feature_type": 3,
+    "feature_length": 600,
+    "feature_width": 350,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1647438042000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1647438151000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 472,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.908769857934116,
+     62.00690610662072,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 472,
+    "name": null,
+    "city": "Sy\u00c3\u00b0radalur, Streymoy",
+    "feature_type": 3,
+    "feature_length": 340,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1583760244000,
+    "status": 1,
+    "to_repair": 3,
+    "comment": "Kantarnir brotnir ",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1647438846000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 473,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.041939913830835,
+     62.22455999485206,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 473,
+    "name": null,
+    "city": "Nesv\u00c3\u00adk",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": 2016,
+    "condition_assessment": 0,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 474,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.090780073370523,
+     62.11731999361373,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 474,
+    "name": null,
+    "city": "Kv\u00c3\u00adv\u00c3\u00adk",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 1020,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643815608000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Gonguportri manglar",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643815842000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 475,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.926029988108873,
+     62.042209991800156,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 475,
+    "name": null,
+    "city": "Nor\u00c3\u00b0radalur",
+    "feature_type": 3,
+    "feature_length": 350,
+    "feature_width": 5000,
+    "construction_year": null,
+    "condition_assessment": 1,
+    "condition_assessment_date": 1643895569000,
+    "status": 1,
+    "to_repair": 1,
+    "comment": "Boylar mangla,vinkiljarn skiftast og endurskin",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643895664000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 476,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778640039731103,
+     62.04423999468031,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 476,
+    "name": "Rulliportri er burturbeint",
+    "city": "Hv\u00c3\u00adtanes",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": 2010,
+    "condition_assessment": -1,
+    "condition_assessment_date": 1643902325000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Ver\u00c3\u00b0ur tikin burtur t\u00c3\u00a1 vegurin ver\u00c3\u00b0ur gj\u00c3\u00b8rdur, kann br\u00c3\u00bakast a\u00c3\u00b0rasta\u00c3\u00b0ni",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643902328000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 477,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.910043124844769,
+     62.020883551010186,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 477,
+    "name": null,
+    "city": "Sy\u00c3\u00b0radalur, Streymoy",
+    "feature_type": 3,
+    "feature_length": 340,
+    "feature_width": 600,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1583759678000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1647439341000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 481,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.832720049298447,
+     61.9811799970479,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 481,
+    "name": null,
+    "city": "Velbasta\u00c3\u00b0ur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 9000,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643900209000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643900228000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 482,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.03505456073093,
+     62.1098743944184,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 482,
+    "name": null,
+    "city": "Leynar",
+    "feature_type": 3,
+    "feature_length": 340,
+    "feature_width": 4,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643818046000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Endurskin mangla",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643819238000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 483,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.167439979854636,
+     62.2424599914744,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 483,
+    "name": null,
+    "city": "Saksun",
+    "feature_type": 3,
+    "feature_length": 280,
+    "feature_width": 360,
+    "construction_year": null,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1645184964000,
+    "status": 1,
+    "to_repair": 5,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1645184985000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 484,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.948790039632765,
+     62.04068999445084,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 484,
+    "name": null,
+    "city": "Nor\u00c3\u00b0radalur",
+    "feature_type": 3,
+    "feature_length": 340,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643895033000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643895062000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 485,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.909490050430308,
+     62.0616999914067,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 485,
+    "name": "Kaldbaksbotnur",
+    "city": "Sund",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 1000,
+    "construction_year": 2010,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643898177000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "\u00c3\u00a6tla at br\u00c3\u00baka hesa onkra a\u00c3\u00b0rasta\u00c3\u00b0ni, n\u00c3\u00ba hegni\u00c3\u00b0 er li\u00c3\u00b0ugt. Tosa\u00c3\u00b0 vi\u00c3\u00b0 b\u00c3\u00b3ndan, J\u00c3\u00a1kup Petersen tlf. 210287, um hvat skal gerast fyri at kunna taka hesa burtur.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643898203000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 486,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.007970060736676,
+     62.09821999140353,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 486,
+    "name": null,
+    "city": "Sk\u00c3\u00a6lingur",
+    "feature_type": 3,
+    "feature_length": 350,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643818461000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643818572000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 487,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.903580067113092,
+     62.06432999208621,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 487,
+    "name": null,
+    "city": "Kaldbak",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 600,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643897732000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643897743000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 488,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1042699862849155,
+     62.28742999156382,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 488,
+    "name": "Hald\u00c3\u00b3rsv\u00c3\u00adk",
+    "city": "Hald\u00c3\u00b3rsv\u00c3\u00adk",
+    "feature_type": 1,
+    "feature_length": 340,
+    "feature_width": 445,
+    "construction_year": 2021,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1636934400000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Karl setur dupult spora rulluportur upp \u00c3\u00ad sambandi \u00c3\u00ad samband vi\u00c3\u00b0 brei\u00c3\u00b0king av vegi. Ta\u00c3\u00b0 sum vit \u00c3\u00a6tla\u00c3\u00b0u at seta upp her ver\u00c3\u00b0ur sett upp omanfyri Funning.                                              N\u00c3\u00bdtt r\u00c3\u00b8rportur er sett \u00c3\u00ad vegin",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1636973754000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 489,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.008000007183317,
+     62.09554999590372,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 489,
+    "name": null,
+    "city": "Sk\u00c3\u00a6lingur",
+    "feature_type": 3,
+    "feature_length": 350,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1643818674000,
+    "status": 1,
+    "to_repair": 1,
+    "comment": "Rekkverk og timburbj\u00c3\u00a1lki roti",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643826579000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 490,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.872496195596811,
+     62.06088675174789,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 490,
+    "name": null,
+    "city": "Kaldbak",
+    "feature_type": 3,
+    "feature_length": 340,
+    "feature_width": 600,
+    "construction_year": null,
+    "condition_assessment": 5,
+    "condition_assessment_date": 1643897456000,
+    "status": 1,
+    "to_repair": 5,
+    "comment": "Eitt r\u00c3\u00b8r er broti\u00c3\u00b0, n\u00c3\u00b3gvir boylar mangla og einki hegn. Undirliggjandi bj\u00c3\u00a1lki er illi rotin.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643897660000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 492,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.129015117382343,
+     62.2224584397623,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 492,
+    "name": null,
+    "city": "Hvalv\u00c3\u00adk",
+    "feature_type": 1,
+    "feature_length": 350,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1645183494000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Manglar rekkverk \u00c3\u00a1 b\u00c3\u00a1\u00c3\u00b0um s\u00c3\u00ad\u00c3\u00b0um",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1645184489000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 493,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.85904009197644,
+     62.05798999504527,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 493,
+    "name": null,
+    "city": "Kaldbak",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 650,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1583750275000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Hevur havt tr\u00c3\u00a1\u00c3\u00b0, er slitna\u00c3\u00b0ur",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1583750490000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 496,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.008970004996331,
+     62.182969995505914,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 496,
+    "name": null,
+    "city": "Hvalv\u00c3\u00adk",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 1000,
+    "construction_year": null,
+    "condition_assessment": 1,
+    "condition_assessment_date": 1643884045000,
+    "status": 1,
+    "to_repair": 1,
+    "comment": "Kann liftast upp, ta\u00c3\u00b0 klikkjur",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643884303000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 498,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.807299928455999,
+     61.95800998774895,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 498,
+    "name": "Kirkjub\u00c3\u00b8",
+    "city": "Kirkjub\u00c3\u00b8ur",
+    "feature_type": 1,
+    "feature_length": 3500,
+    "feature_width": 4000,
+    "construction_year": 2020,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643901045000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "skift s\u00c3\u00ad\u00c3\u00b0st \u00c3\u00ad 2020",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643901092000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 499,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.82163993008668,
+     61.96646999064707,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 499,
+    "name": "Gamlar\u00c3\u00a6tt/Kirkjub\u00c3\u00b8",
+    "city": "Kirkjub\u00c3\u00b8ur",
+    "feature_type": 1,
+    "feature_length": 3000,
+    "feature_width": 1000,
+    "construction_year": 2019,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1572220800000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "N\u00c3\u00bdtt r\u00c3\u00b8rportur gj\u00c3\u00b8rt. ",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643901463000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 500,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.059269971094421,
+     62.23870999704855,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 500,
+    "name": null,
+    "city": "Langasandur",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": 2016,
+    "condition_assessment": 0,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 505,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.066349990520377,
+     62.303369991027026,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 505,
+    "name": null,
+    "city": "Ei\u00c3\u00b0i",
+    "feature_type": 3,
+    "feature_length": 340,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": 1643886451000,
+    "status": 1,
+    "to_repair": 1,
+    "comment": "Endurskin mangla, kundi veri stoypt ni\u00c3\u00b0urvi\u00c3\u00b0 so yvirgangurin var betri",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643886566000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 506,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.690459934515691,
+     62.07171999340465,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 506,
+    "name": null,
+    "city": "\u00c3\u0086\u00c3\u00b0uv\u00c3\u00adk",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 507,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8560999606271,
+     62.14629999597945,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 507,
+    "name": null,
+    "city": "Selatra\u00c3\u00b0",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 508,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.764809962991936,
+     62.14312999003882,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 508,
+    "name": null,
+    "city": "Innan Glyvur",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 509,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.85530999281691,
+     62.27257999007812,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 509,
+    "name": null,
+    "city": "Oyndarfj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 511,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.930569975815107,
+     62.23416999396778,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 511,
+    "name": "Funningsbotnur",
+    "city": "Funningsfj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 580,
+    "construction_year": 2019,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1557183600000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "N\u00c3\u00bdtt r\u00c3\u00b8rportur nov.2019.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643890219000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 512,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.999740071989182,
+     62.2077499897611,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 512,
+    "name": "Oyrabakki",
+    "city": "Oyrarbakki",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 800,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1557413315000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "b\u00c3\u00b3ndin hevur bi\u00c3\u00b0i\u00c3\u00b0 um n\u00c3\u00bdtt s\u00c3\u00ad\u00c3\u00b0uportur. Streymur er \u00c3\u00a1.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643884850000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 513,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.032710010843021,
+     62.23458999728866,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 513,
+    "name": null,
+    "city": "Sv\u00c3\u00adn\u00c3\u00a1ir",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643885630000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643885747000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 514,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.005289949182591,
+     62.28552999615891,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 514,
+    "name": null,
+    "city": "Funningur",
+    "feature_type": 3,
+    "feature_length": 300,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 3,
+    "condition_assessment_date": 1643887170000,
+    "status": 1,
+    "to_repair": 5,
+    "comment": "R\u00c3\u00b8r brotna og boylar mangla",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643887427000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 516,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.849099958821506,
+     62.13878999540255,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 516,
+    "name": null,
+    "city": "Morskranes",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 518,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.862159939499223,
+     62.267159995998824,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 518,
+    "name": "Oyndafj\u00c3\u00b8r\u00c3\u00b0ur",
+    "city": "Oyndarfj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": 1,
+    "feature_length": 4000,
+    "feature_width": 3000,
+    "construction_year": 1922,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1652914800000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "R\u00c3\u00b8rp vi\u00c3\u00b0 IRF Oyndafj.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lverva",
+    "modified_date": 1656680912000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 519,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.970629968330977,
+     62.298159994790005,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 519,
+    "name": "Gj\u00c3\u00b3gv ovara",
+    "city": "Funningur",
+    "feature_type": 1,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": 2019,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1572302231000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "fylt sandi \u00c3\u00ad \u00c3\u00ad 2018, er b\u00c3\u00adl\u00c3\u00b8gd, og kemur helst \u00c3\u00ad viku 20, 2019. Er skift \u00c3\u00bat.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 521,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.845759955957908,
+     62.133969993731384,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 521,
+    "name": null,
+    "city": "Morskranes",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 523,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.867010052516147,
+     62.25878999446243,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 523,
+    "name": "Oyndarfj\u00c3\u00b8r\u00c3\u00b0ur vi\u00c3\u00b0 Laks\u00c3\u00a1",
+    "city": "Oyndarfj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 400,
+    "construction_year": 2021,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1619823600000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "Sett upp \u00c3\u00ad mai 2021",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "martins",
+    "modified_date": 1636988376000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 524,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.956410041806854,
+     62.32010999593313,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 524,
+    "name": "Gj\u00c3\u00b3gv ni\u00c3\u00b0ara",
+    "city": "Gj\u00c3\u00b3gv",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": 2020,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1613347200000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "fylt sandi \u00c3\u00ad \u00c3\u00ad 2018, er b\u00c3\u00adl\u00c3\u00b8gd, og kemur helst \u00c3\u00ad viku 20, 2019. 05.02.2020 Fara at grava fyri umkoyring \u00c3\u00ad ovara bor\u00c3\u00b0i. Byrja helst at stoypa \u00c3\u00ad mars. Skift \u00c3\u00ad 2020",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1613380737000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 526,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.834859965211497,
+     62.12587999284485,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 526,
+    "name": null,
+    "city": "Kolbeinagj\u00c3\u00b3gv",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 527,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.917420054249959,
+     62.28280999063501,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 527,
+    "name": null,
+    "city": "Elduv\u00c3\u00adk",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 528,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.852630079607566,
+     62.2581399941918,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 528,
+    "name": null,
+    "city": "Hellurnar",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 529,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.988129966764877,
+     62.284629994341444,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 529,
+    "name": null,
+    "city": "Funningur",
+    "feature_type": 3,
+    "feature_length": 300,
+    "feature_width": 450,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643888357000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643888410000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 530,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.697196674123191,
+     62.09549148367807,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 530,
+    "name": null,
+    "city": "Rituv\u00c3\u00adk",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1583763483000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 531,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.791037124553799,
+     62.110806318028075,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 531,
+    "name": null,
+    "city": "Kolbeinagj\u00c3\u00b3gv",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 532,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.937009936284038,
+     62.273209990305965,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 532,
+    "name": null,
+    "city": "Funningsfj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 533,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.847790019892901,
+     62.26152999563955,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 533,
+    "name": null,
+    "city": "Hellurnar",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 534,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.978682210351896,
+     62.28771017502876,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 534,
+    "name": null,
+    "city": "Funningur",
+    "feature_type": 3,
+    "feature_length": 340,
+    "feature_width": 445,
+    "construction_year": null,
+    "condition_assessment": 5,
+    "condition_assessment_date": 1643888752000,
+    "status": 1,
+    "to_repair": 5,
+    "comment": "fr\u00c3\u00a1bo\u00c3\u00b0an 31.05.2019, um at r\u00c3\u00b8r liggja leys og betongfundamentini eru brotin",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1652080360000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 536,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94433000400336,
+     62.24808998888208,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 536,
+    "name": null,
+    "city": "Funningsfj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 537,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.863390015895842,
+     62.21481999718607,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 537,
+    "name": null,
+    "city": "Sk\u00c3\u00a1lafj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 538,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.957509981131387,
+     62.27081999482372,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 538,
+    "name": null,
+    "city": "Funningur",
+    "feature_type": 2,
+    "feature_length": 345,
+    "feature_width": 750,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643889177000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643889313000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 540,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.963400038554245,
+     62.26152998993118,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 540,
+    "name": null,
+    "city": "Funningur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 750,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643889383000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643889422000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 542,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.950210086156925,
+     62.24408999546229,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 542,
+    "name": null,
+    "city": "Funningsfj\u00c3\u00b8r\u00c3\u00b0ur",
+    "feature_type": 2,
+    "feature_length": 340,
+    "feature_width": 700,
+    "construction_year": null,
+    "condition_assessment": 5,
+    "condition_assessment_date": 1643889796000,
+    "status": 1,
+    "to_repair": 5,
+    "comment": "H- bj\u00c3\u00a1lkarnir brotna\u00c3\u00b0ir, filt sand \u00c3\u00ad.\n\n12-01-2023: N\u00c3\u00bdtt rulliportur er b\u00c3\u00adlagt.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvmool",
+    "modified_date": 1673518521000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 543,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.129129939268199,
+     62.22259759523865,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 543,
+    "name": null,
+    "city": "Saksun",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 550,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.861371342519162,
+     61.518416125415946,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 550,
+    "name": "Mosav\u00c3\u00b8lsheyggjur (F\u00c3\u00a1mjin)",
+    "city": "F\u00c3\u00a1mjin",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 300,
+    "construction_year": 2004,
+    "condition_assessment": 0,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Fyrsta rulluportur, sum er gj\u00c3\u00b8rt \u00c3\u00ad smi\u00c3\u00b0juna \u00c3\u00ad Su\u00c3\u00b0ri.",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvruan",
+    "modified_date": 1643032672000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 562,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.752721453534127,
+     61.4816705573377,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 562,
+    "name": null,
+    "city": "Porkeri",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvbjpe",
+    "modified_date": 1620301286000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 563,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7516122550886175,
+     61.47633366443635,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 563,
+    "name": "Klivinum",
+    "city": "Porkeri",
+    "feature_type": 2,
+    "feature_length": 800,
+    "feature_width": 350,
+    "construction_year": 1987,
+    "condition_assessment": 4,
+    "condition_assessment_date": 1571838351000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Skal skiftast \u00c3\u00bat \u00c3\u00ad 2020",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 574,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.157366644343765,
+     62.14433451277708,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 574,
+    "name": "Kr\u00c3\u00a1agil",
+    "city": "V\u00c3\u00a1lur",
+    "feature_type": 2,
+    "feature_length": 343,
+    "feature_width": 858,
+    "construction_year": null,
+    "condition_assessment": 5,
+    "condition_assessment_date": 1643816268000,
+    "status": 1,
+    "to_repair": 5,
+    "comment": "Fylt vi\u00c3\u00b0 0-8",
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1644837846000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 575,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.841681603673722,
+     62.00139300971975,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 575,
+    "name": "Rulliportri er burturbeint",
+    "city": "Velbasta\u00c3\u00b0ur",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": 1643902301000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643902308000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 576,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.277698936336456,
+     62.06981333648503,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 576,
+    "name": null,
+    "city": "S\u00c3\u00b8rv\u00c3\u00a1gur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 860,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643810432000,
+    "status": 1,
+    "to_repair": null,
+    "comment": null,
+    "collected_by": "ADMIN",
+    "collection_date": 1557148593000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643810626000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 980,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5304641490321504,
+     62.314078791849695,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 980,
+    "name": "Vidarei\u00c3\u00b0isvegurin",
+    "city": "Hvannasund",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": 2018,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1559124718000,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Er gj\u00c3\u00b8rt eftur avtalu vi\u00c3\u00b0 b\u00c3\u00b8ndan, verkatlan vi\u00c3\u00b0arei\u00c3\u00b0istunnilin. Vegurin seygafr\u00c3\u00ad\u00c3\u00b0ur b\u00c3\u00b3ndin hevur hegna, lv goldi\u00c3\u00b0 hegn og pelar og uppsetan",
+    "collected_by": "lverva",
+    "collection_date": 1559124601000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 981,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.524850127114554,
+     62.30530840180251,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 981,
+    "name": "Vi\u00c3\u00b0arei\u00c3\u00b0isvegurin",
+    "city": "Hvannasund",
+    "feature_type": 2,
+    "feature_length": 800,
+    "feature_width": 350,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": null,
+    "comment": "Sk\u00c3\u00a6l takast burtur eftur avtalu vi\u00c3\u00b0 b\u00c3\u00b3ndan hann hevur hegna vegin seygafr\u00c3\u00ad\u00c3\u00b0an avtala vi\u00c3\u00b0 verkatlana vi\u00c3\u00b0arei\u00c3\u00b0istunnilin, Anna portur er set \u00c3\u00a1 gamla vi\u00c3\u00b0arei\u00c3\u00b0isvegin.",
+    "collected_by": "lverva",
+    "collection_date": 1559128952000,
+    "modified_by": "ADMIN",
+    "modified_date": 1580907914000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2180,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.260554907397853,
+     62.07087954500968,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 2180,
+    "name": null,
+    "city": "S\u00c3\u00b8rv\u00c3\u00a1gur",
+    "feature_type": 3,
+    "feature_length": 340,
+    "feature_width": 600,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643810818000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvbjpe",
+    "collection_date": 1581600446000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643810973000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2581,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.692916065366912,
+     62.26258342859115,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 2581,
+    "name": null,
+    "city": "H\u00c3\u00basar",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1591279134000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1591272456000,
+    "modified_by": "ADMIN",
+    "modified_date": 1618085464000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2582,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.668796844442135,
+     62.24688316298577,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 2582,
+    "name": null,
+    "city": "Sy\u00c3\u00b0radalur, Kalsoy",
+    "feature_type": 3,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 1,
+    "condition_assessment_date": 1591278539000,
+    "status": 1,
+    "to_repair": 3,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1591278784000,
+    "modified_by": "ADMIN",
+    "modified_date": 1618085464000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3780,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.143905284716401,
+     62.28905946154871,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 3780,
+    "name": null,
+    "city": "Tj\u00c3\u00b8rnuv\u00c3\u00adk",
+    "feature_type": 2,
+    "feature_length": 270,
+    "feature_width": 360,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1639577122000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1639574958000,
+    "modified_by": "lvmool",
+    "modified_date": 1640170762000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3781,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.140007635094516,
+     62.29096990014633,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 3781,
+    "name": null,
+    "city": "Tj\u00c3\u00b8rnuv\u00c3\u00adk",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 490,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1639526400000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1639575177000,
+    "modified_by": "lvmool",
+    "modified_date": 1640170890000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3783,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1040792442333895,
+     62.28741869083182,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 3783,
+    "name": "Tj\u00c3\u00b8rnuv\u00c3\u00adkarvegur \u00c3\u00a1 markinum",
+    "city": "Hald\u00c3\u00b3rsv\u00c3\u00adk",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 700,
+    "construction_year": 2021,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1639576161000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1639576320000,
+    "modified_by": "ADMIN",
+    "modified_date": 1639616431000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3784,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.059092072493928,
+     62.238741162431374,
+     42.90589999999793
+    ]
+   },
+   "properties": {
+    "objectid": 3784,
+    "name": null,
+    "city": "Langasandur",
+    "feature_type": 1,
+    "feature_length": 300,
+    "feature_width": 500,
+    "construction_year": 2016,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1639577068000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1639577074000,
+    "modified_by": "ADMIN",
+    "modified_date": 1639616431000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3785,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.041939913830835,
+     62.22455999485206,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 3785,
+    "name": null,
+    "city": "Nesv\u00c3\u00adk",
+    "feature_type": 1,
+    "feature_length": 500,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1639577702000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1639577723000,
+    "modified_by": "ADMIN",
+    "modified_date": 1639616431000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3786,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.013010005098052,
+     62.210719994952456,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 3786,
+    "name": null,
+    "city": "Nesv\u00c3\u00adk",
+    "feature_type": 2,
+    "feature_length": 340,
+    "feature_width": 700,
+    "construction_year": null,
+    "condition_assessment": 5,
+    "condition_assessment_date": 1639578136000,
+    "status": 1,
+    "to_repair": 5,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1639578208000,
+    "modified_by": "ADMIN",
+    "modified_date": 1639616431000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4180,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3500399981540285,
+     62.081409994963536,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 4180,
+    "name": null,
+    "city": "B\u00c3\u00b8ur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 650,
+    "construction_year": null,
+    "condition_assessment": 5,
+    "condition_assessment_date": 1640010274000,
+    "status": 1,
+    "to_repair": 5,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1640010306000,
+    "modified_by": "lvpoih",
+    "modified_date": 1643819590000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4181,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.323020051483999,
+     62.07617998879376,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 4181,
+    "name": null,
+    "city": "S\u00c3\u00b8rv\u00c3\u00a1gur",
+    "feature_type": 2,
+    "feature_length": 350,
+    "feature_width": 650,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1640010497000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1640010600000,
+    "modified_by": "ADMIN",
+    "modified_date": 1640048422000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4581,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.848407907957225,
+     61.51779861645761,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 4581,
+    "name": null,
+    "city": "F\u00c3\u00a1mjin",
+    "feature_type": 2,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": -1,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvruan",
+    "collection_date": 1643033003000,
+    "modified_by": "lvruan",
+    "modified_date": 1643189071000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4980,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.848389215929119,
+     61.51779965369027,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 4980,
+    "name": null,
+    "city": "F\u00c3\u00a1mjin",
+    "feature_type": null,
+    "feature_length": null,
+    "feature_width": null,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvruan",
+    "collection_date": 1643189083000,
+    "modified_by": "ADMIN",
+    "modified_date": 1643245231000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5381,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.224002022384634,
+     62.04945739421111,
+     35.94789999999921
+    ]
+   },
+   "properties": {
+    "objectid": 5381,
+    "name": null,
+    "city": "Mi\u00c3\u00b0v\u00c3\u00a1gur",
+    "feature_type": 1,
+    "feature_length": 350,
+    "feature_width": 840,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1643814322000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1643814329000,
+    "modified_by": "ADMIN",
+    "modified_date": 1643850032000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5780,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.10772004669145,
+     62.2076914211918,
+     66.4829000000027
+    ]
+   },
+   "properties": {
+    "objectid": 5780,
+    "name": null,
+    "city": "Hvalv\u00c3\u00adk",
+    "feature_type": 3,
+    "feature_length": 350,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1645185927000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1645185964000,
+    "modified_by": "ADMIN",
+    "modified_date": 1645405217000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5781,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.060743506131248,
+     62.19479142674319,
+     8.417199999996228
+    ]
+   },
+   "properties": {
+    "objectid": 5781,
+    "name": null,
+    "city": "Hvalv\u00c3\u00adk",
+    "feature_type": 3,
+    "feature_length": 350,
+    "feature_width": 400,
+    "construction_year": null,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1645186315000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lvpoih",
+    "collection_date": 1645186364000,
+    "modified_by": "ADMIN",
+    "modified_date": 1645405217000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6180,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5406971017215625,
+     62.3567467059945,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 6180,
+    "name": null,
+    "city": "Vi\u00c3\u00b0arei\u00c3\u00b0i",
+    "feature_type": 1,
+    "feature_length": 600,
+    "feature_width": 300,
+    "construction_year": 2021,
+    "condition_assessment": 0,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1646211410000,
+    "modified_by": "ADMIN",
+    "modified_date": 1646269228000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6980,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.668338973697089,
+     62.24826962752574,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 6980,
+    "name": "R\u00c3\u00b8rportur lagt ni\u00c3\u00b0ur 4.mai 2022",
+    "city": null,
+    "feature_type": 2,
+    "feature_length": 5000,
+    "feature_width": 3000,
+    "construction_year": 2022,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1652914800000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": "G\u00c3\u00b3\u00c3\u00b0um standi",
+    "collected_by": "lvarja",
+    "collection_date": 1652944983000,
+    "modified_by": "lvarja",
+    "modified_date": 1652944983000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7380,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.93931470093604,
+     62.24410140011928,
+     37
+    ]
+   },
+   "properties": {
+    "objectid": 7380,
+    "name": null,
+    "city": null,
+    "feature_type": 1,
+    "feature_length": 400,
+    "feature_width": 300,
+    "construction_year": 1922,
+    "condition_assessment": 0,
+    "condition_assessment_date": 1656681736000,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1656681684000,
+    "modified_by": "lverva",
+    "modified_date": 1656681793000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7781,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.320320606660601,
+     62.319663998584076,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 7781,
+    "name": null,
+    "city": null,
+    "feature_type": 3,
+    "feature_length": 400,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 4,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": 3,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1662449326000,
+    "modified_by": "lverva",
+    "modified_date": 1662449381000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7782,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.319789140605474,
+     62.32068599797707,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 7782,
+    "name": null,
+    "city": null,
+    "feature_type": 3,
+    "feature_length": 400,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1662449891000,
+    "modified_by": "lverva",
+    "modified_date": 1662449891000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7783,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.287757111679629,
+     62.32242077221983,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 7783,
+    "name": "Uppi \u00c3\u00a1 krossi",
+    "city": null,
+    "feature_type": 3,
+    "feature_length": 400,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 4,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1662450084000,
+    "modified_by": "lverva",
+    "modified_date": 1662450084000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7784,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.288336161891989,
+     62.326422920227124,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 7784,
+    "name": null,
+    "city": null,
+    "feature_type": 3,
+    "feature_length": 400,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 4,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1662450157000,
+    "modified_by": "lverva",
+    "modified_date": 1662450157000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7785,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.286927297148241,
+     62.33137877426752,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 7785,
+    "name": null,
+    "city": null,
+    "feature_type": 3,
+    "feature_length": 400,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 4,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1662450216000,
+    "modified_by": "lverva",
+    "modified_date": 1662450216000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7786,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2776449383125765,
+     62.33227102997482,
+     0
+    ]
+   },
+   "properties": {
+    "objectid": 7786,
+    "name": null,
+    "city": null,
+    "feature_type": 3,
+    "feature_length": 400,
+    "feature_width": 300,
+    "construction_year": null,
+    "condition_assessment": 2,
+    "condition_assessment_date": null,
+    "status": 1,
+    "to_repair": 0,
+    "comment": null,
+    "collected_by": "lverva",
+    "collection_date": 1662450260000,
+    "modified_by": "lverva",
+    "modified_date": 1662450260000
+   }
+  }
+ ]
+}

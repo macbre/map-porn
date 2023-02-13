@@ -10,6 +10,8 @@ import requests
 
 NO_PAGINATION = False
 
+ARCGIS_SERVER = 'gis.us.fo'
+
 # https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/48
 # FOLDER = 'lendiskort'
 # SERVICE = 'us_lendiskort'
@@ -39,7 +41,16 @@ NO_PAGINATION = False
 # PROPERTY_VALUE = None
 # NO_PAGINATION = True
 
-ACGIS_URL = f'https://gis.us.fo/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
+# https://gis.lv.fo/arcgis/rest/services/rulluportur/rulluportur_alment/MapServer
+ARCGIS_SERVER = 'gis.lv.fo'  # Landsverk
+FOLDER = 'rulluportur'
+SERVICE = 'rulluportur_alment'
+MAP_ID = 0
+PROPERTY_NAME = None
+PROPERTY_VALUE = 'cattle_grid'
+
+
+ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 
 DIR = path.abspath(path.dirname(__file__))
 GEOJSON_FILE = path.join(DIR, '..', 'geojson', f'us-{FOLDER}-{SERVICE}-{MAP_ID}-{PROPERTY_VALUE or "main"}.json')
@@ -114,7 +125,7 @@ def get_features_from_arcgis(url: str) -> Generator:
     Yields a stream of geo features from provided ArcGIS service
     """
     logger = logging.getLogger('features')
-    logger.info(f'Using <{url}> as a base')
+    logger.info(f'Using <{url}> as a base', extra={'pagination': NO_PAGINATION})
 
     offset = 0
 
@@ -183,5 +194,5 @@ def main():
 
 
 if __name__ == '__main__':
-    logging.basicConfig(level=logging.INFO)
+    logging.basicConfig(level=logging.DEBUG)
     main()

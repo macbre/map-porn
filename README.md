@@ -122,3 +122,5 @@ curl 'https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/
 ### Ireland
 
 * [Ordnance Survey Ireland](https://data-osi.opendata.arcgis.com/)
+* [GeoHive](https://www.geohive.ie/pages/data)
+* [Ireland and NI via Data Extracts](https://download.geofabrik.de/europe/ireland-and-northern-ireland.html)
