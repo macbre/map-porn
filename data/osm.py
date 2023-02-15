@@ -33,8 +33,12 @@ TAG_KEY = 'amenity'
 TAG_VALUE = 'ferry_terminal'
 
 # https://wiki.openstreetmap.org/wiki/Tag:barrier%3Dcattle_grid
-TAG_KEY = 'barrier'
-TAG_VALUE = 'cattle_grid'
+# TAG_KEY = 'barrier'
+# TAG_VALUE = 'cattle_grid'
+
+# https://wiki.openstreetmap.org/wiki/Tag:diplomatic%3Dconsulate
+# TAG_KEY = 'diplomatic'
+# TAG_VALUE = 'consulate'
 
 
 def cache_osm_file():

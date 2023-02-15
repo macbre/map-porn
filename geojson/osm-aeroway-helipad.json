@@ -1,0 +1,254 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7744527,
+     61.5436929
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad",
+    "name": "Frooba Heliport",
+    "source": "ourairports.com"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5763003,
+     62.2176209
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad",
+    "name": "Klaksvik Heliport",
+    "source": "ourairports.com"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9634762,
+     61.9846009
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.341602,
+     62.2766293
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4346561,
+     62.1083794
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774629,
+     62.0015275
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6459571,
+     62.102196
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad",
+    "wikidata": "Q56160766"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3132065,
+     62.317227
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7585568,
+     61.6853176
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad",
+    "icao": "EKSR",
+    "name:en": "St\u00f3ra D\u00edmun Heliport"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9406312,
+     62.3232064
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7575131,
+     62.021728
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad",
+    "lit": "yes",
+    "name": "T\u00f3rshavn/Bo\u00f0anes Heliport",
+    "source": "ourairports.com"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7880306,
+     62.3623653
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8034828,
+     61.7695034
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad",
+    "name": "Sk\u00favoy Heliport",
+    "source": "ourairports.com",
+    "wikidata": "Q11708861"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5762043,
+     62.2176271
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad",
+    "name": "Heliport Klaksvik",
+    "ref": "EKKV"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8843415,
+     61.9045678
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2763381,
+     62.3302501
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2794053,
+     62.0658882
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2799954,
+     62.0660311
+    ]
+   },
+   "properties": {
+    "aeroway": "helipad"
+   }
+  }
+ ]
+}
