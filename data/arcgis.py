@@ -56,6 +56,14 @@ MAP_ID = 43
 PROPERTY_NAME = "tunnel"  # "tunnel": 1 // "under_construction": 1
 PROPERTY_VALUE = '1'
 
+# https://gis.us.fo/arcgis/rest/services/matriklar/us_matr/MapServer?f=jsapi
+# https://gis.us.fo/arcgis/rest/services/matriklar/us_matr/MapServer/2
+FOLDER = 'matriklar'
+SERVICE = 'us_matr'
+MAP_ID = 2
+PROPERTY_NAME = None
+PROPERTY_VALUE = "contour"
+
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 
