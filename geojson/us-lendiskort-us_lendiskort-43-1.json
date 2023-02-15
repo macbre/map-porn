@@ -1,0 +1,2145 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 2972,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.783067084753881,
+      62.345482917796915,
+      0
+     ],
+     [
+      -6.7851966019289325,
+      62.34749364105989,
+      0
+     ],
+     [
+      -6.794451877732283,
+      62.35622918600699,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 2972,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": "Kalsoyarvegur",
+    "designation": null,
+    "route_no": 76,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1334.974606116977
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5705,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.781856568747871,
+      61.99552787109321,
+      0
+     ],
+     [
+      -6.782014961502223,
+      61.995313957505,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 5705,
+    "road_type": 110,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": 0,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 25.243435723371732
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5867,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.78341243654099,
+      62.02150971210479,
+      0
+     ],
+     [
+      -6.783382263958609,
+      62.02167382445978,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 5867,
+    "road_type": 110,
+    "under_construction": null,
+    "road_surface": 5,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": 1,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 18.357735712227694
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6032,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.793840922738222,
+      61.528441105112265,
+      0
+     ],
+     [
+      -6.793752499871643,
+      61.52836192394609,
+      0
+     ],
+     [
+      -6.793666586999269,
+      61.52828211171986,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6032,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 14,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 2460.457590634388
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6043,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.769239495545443,
+      61.437928629982345,
+      0
+     ],
+     [
+      -6.764633477513948,
+      61.43552859682108,
+      0
+     ],
+     [
+      -6.764188385390185,
+      61.43530161538358,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6043,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 30,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 3232.47221392645
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6051,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.575729979252154,
+      62.255226272036374,
+      0
+     ],
+     [
+      -6.5441673224842365,
+      62.25790701044889,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6051,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": "\u00c1rnfjar\u00f0arvegur",
+    "designation": null,
+    "route_no": 70,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1666.9027086754645
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6054,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.529787257875891,
+      62.31372308463229,
+      0
+     ],
+     [
+      -6.529776866207529,
+      62.313885412206126,
+      0
+     ],
+     [
+      -6.529734097055999,
+      62.31411439434724,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6054,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 70,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1953.0359464300163
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6067,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.521255937247882,
+      62.27474475317606,
+      0
+     ],
+     [
+      -6.543439475222014,
+      62.25878147575187,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6067,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": "Hvannasundsvegur",
+    "designation": null,
+    "route_no": 70,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 2119.6286242241304
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6079,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -7.012604879699258,
+      62.127922902316875,
+      0
+     ],
+     [
+      -7.012680213926586,
+      62.12791274566788,
+      0
+     ],
+     [
+      -7.012771947880733,
+      62.127899787284,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6079,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 11,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 747.5333437190869
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6092,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.770897608739974,
+      62.32855188452158,
+      0
+     ],
+     [
+      -6.760064075215343,
+      62.31980330625421,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6092,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": "Kalsoyarvegur",
+    "designation": null,
+    "route_no": 76,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1125.2141848447166
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6095,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.775213631350654,
+      62.33806488867931,
+      0
+     ],
+     [
+      -6.783067084753881,
+      62.345482917796915,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6095,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": "Kalsoyarvegur",
+    "designation": null,
+    "route_no": 76,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 921.4492413593925
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6142,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -7.403679068360295,
+      62.09972646266081,
+      0
+     ],
+     [
+      -7.404025433548398,
+      62.099843484650165,
+      0
+     ],
+     [
+      -7.427327781080638,
+      62.10623525715439,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6142,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 45,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1432.3487258378846
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6181,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.754214576854203,
+      62.31726711715756,
+      0
+     ],
+     [
+      -6.74664702720214,
+      62.31218660991242,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6181,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": "Kalsoyarvegur",
+    "designation": null,
+    "route_no": 76,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 688.9210398370193
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6188,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.74641036184476,
+      62.30876539960244,
+      0
+     ],
+     [
+      -6.746451524915166,
+      62.308467740400644,
+      0
+     ],
+     [
+      -6.746431606930613,
+      62.308243602703385,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6188,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": "Kalsoyarvegur",
+    "designation": null,
+    "route_no": 76,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1209.063320257376
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6211,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.599859580136886,
+      62.26747283269989,
+      0
+     ],
+     [
+      -6.657678370657213,
+      62.27228147581871,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6211,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": "Kunoyarvegur",
+    "designation": null,
+    "route_no": 71,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 3050.225155406787
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6218,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.779259977243143,
+      62.346499333551,
+      0
+     ],
+     [
+      -6.783067084753881,
+      62.345482917796915,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6218,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 227.43803627995032
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6219,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.930996828365426,
+      61.62361982499282,
+      0
+     ],
+     [
+      -6.926299946774745,
+      61.610380625847576,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6219,
+    "road_type": 40,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 34,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1496.2595698933658
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6521,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -7.1164307240307085,
+      62.099045244584474,
+      0
+     ],
+     [
+      -7.115628966076886,
+      62.098843769986296,
+      0
+     ],
+     [
+      -7.115338176472446,
+      62.09877585288198,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6521,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 11,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 4913.7666883683205
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6586,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.978364979686886,
+      62.21879510562559,
+      0
+     ],
+     [
+      -6.930975200956774,
+      62.223086777490394,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6586,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 13,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 2511.1063883363922
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6851,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.719236879875646,
+      62.21500152153025,
+      0
+     ],
+     [
+      -6.721083806452521,
+      62.21518918566633,
+      0
+     ],
+     [
+      -6.724845921195553,
+      62.215286753480946,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6851,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 10,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 2199.3248904312486
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6891,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.681501032986625,
+      62.20751449744868,
+      0
+     ],
+     [
+      -6.681005341634381,
+      62.20736520100413,
+      0
+     ],
+     [
+      -6.6781033613522025,
+      62.20648123394916,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 6891,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": " ",
+    "designation": null,
+    "route_no": 10,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 6173.310431807494
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8439,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.773681616897577,
+      62.0345434801204,
+      0
+     ],
+     [
+      -6.773590863840783,
+      62.0345494510509,
+      0
+     ],
+     [
+      -6.773539198727205,
+      62.03462829478537,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 8439,
+    "road_type": 110,
+    "under_construction": null,
+    "road_surface": 5,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 58.4566732603657
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8530,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.92784997370791,
+      62.07032221809516,
+      0
+     ],
+     [
+      -6.931085457990462,
+      62.07793771022622,
+      0
+     ],
+     [
+      -6.93336693756381,
+      62.08330553395017,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 8530,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": 11,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 2801.750336172489
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9535,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.780674365115046,
+      62.04670074485003,
+      0
+     ],
+     [
+      -6.780693472560448,
+      62.046700522156634,
+      0
+     ],
+     [
+      -6.780789002665801,
+      62.04669926295901,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9535,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": 10,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 7415.997577970497
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9536,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.733118624020735,
+      62.110612022942476,
+      0
+     ],
+     [
+      -6.7331115448258485,
+      62.11060368753502,
+      0
+     ],
+     [
+      -6.733104484416863,
+      62.11059534340076,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9536,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": 10,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 2160.9983491112516
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9537,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.755467578164705,
+      62.11315583289989,
+      0
+     ],
+     [
+      -6.75549614690126,
+      62.11313247844176,
+      0
+     ],
+     [
+      -6.755544051103567,
+      62.11309362969069,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9537,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": 15,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1687.998638076232
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9538,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.758423657415318,
+      62.09813104419982,
+      0
+     ],
+     [
+      -6.758274648625524,
+      62.09829090454128,
+      0
+     ],
+     [
+      -6.758228811320655,
+      62.09833670283145,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9538,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 56.60104094140783
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9539,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.758331714594006,
+      62.09864638966255,
+      0
+     ],
+     [
+      -6.758322451669871,
+      62.09863439660939,
+      0
+     ],
+     [
+      -6.758321440005198,
+      62.098633028967164,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9539,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 58.913063538891784
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9540,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.757670773130261,
+      62.09861877745319,
+      0
+     ],
+     [
+      -6.757657719069913,
+      62.09862588134206,
+      0
+     ],
+     [
+      -6.757646720198862,
+      62.098631864475195,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9540,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 53.13563709428976
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9541,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.7567594739162296,
+      62.098811255597575,
+      0
+     ],
+     [
+      -6.7568370863242055,
+      62.098806105435635,
+      0
+     ],
+     [
+      -6.756911363879663,
+      62.098802361249,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9541,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 53.76556588725507
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9542,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.757823681291848,
+      62.09887007045177,
+      0
+     ],
+     [
+      -6.757861427324616,
+      62.09888115881623,
+      0
+     ],
+     [
+      -6.757921034067639,
+      62.09889866681024,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9542,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 59.88979789633207
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9543,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.758477258223674,
+      62.099296904834645,
+      0
+     ],
+     [
+      -6.758415987511918,
+      62.09921177571088,
+      0
+     ],
+     [
+      -6.7583593751565765,
+      62.099125788290365,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9543,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 59.45387960058263
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9544,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.758331714594006,
+      62.09864638966255,
+      0
+     ],
+     [
+      -6.758322228882813,
+      62.09863640067165,
+      0
+     ],
+     [
+      -6.758312111038916,
+      62.098627282457294,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9544,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 30.549214724535943
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9545,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.75784631201476,
+      62.09855025382921,
+      0
+     ],
+     [
+      -6.757826436376804,
+      62.09855433199618,
+      0
+     ],
+     [
+      -6.757805664215521,
+      62.09855931333229,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9545,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 12.124727706450434
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9546,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.757670773130261,
+      62.09861877745319,
+      0
+     ],
+     [
+      -6.757657777144048,
+      62.09862914935697,
+      0
+     ],
+     [
+      -6.757648495285271,
+      62.09863773087944,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9546,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 29.22141648755891
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9547,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.757763856316217,
+      62.098853125032434,
+      0
+     ],
+     [
+      -6.757783030602449,
+      62.098859355427386,
+      0
+     ],
+     [
+      -6.757802997134904,
+      62.09886501106379,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9547,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 3.6557065628602925
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9548,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.757823681291848,
+      62.09887007045177,
+      0
+     ],
+     [
+      -6.757835119969356,
+      62.09887254729779,
+      0
+     ],
+     [
+      -6.757844995570412,
+      62.09887451536495,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9548,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 31.683122514492688
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9549,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.758330549412576,
+      62.098779948169685,
+      0
+     ],
+     [
+      -6.758338096987211,
+      62.09877076552284,
+      0
+     ],
+     [
+      -6.758338867140802,
+      62.0987697334256,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9549,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": 1,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 15.269801137501108
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9550,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.815276316938553,
+      61.96166555799024,
+      0
+     ],
+     [
+      -6.814877850446362,
+      61.96152380777313,
+      0
+     ],
+     [
+      -6.814477845363532,
+      61.961386459299696,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9550,
+    "road_type": 20,
+    "under_construction": 1,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": 1,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": 12,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 10785.601975939922
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9556,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.881945148257514,
+      61.56424987167099,
+      0
+     ],
+     [
+      -6.882385508086977,
+      61.56429609007078,
+      0
+     ],
+     [
+      -6.882825202608556,
+      61.564348259483076,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9556,
+    "road_type": 20,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": 34,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 2557.1732195343593
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9562,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.67666313898207,
+      61.80470889714028,
+      0
+     ],
+     [
+      -6.676573119492979,
+      61.804600845982485,
+      0
+     ],
+     [
+      -6.676487168305591,
+      61.80448953131811,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9562,
+    "road_type": 20,
+    "under_construction": 1,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 2159.9132182104017
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9847,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.5409922203693105,
+      62.257847063173365,
+      0
+     ],
+     [
+      -6.54084343041516,
+      62.25800479626556,
+      0
+     ],
+     [
+      -6.54069052984317,
+      62.25815854799373,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9847,
+    "road_type": 20,
+    "under_construction": 1,
+    "road_surface": null,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 2246.2737744841797
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9848,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.578762324509878,
+      62.25109151863504,
+      0
+     ],
+     [
+      -6.578396297277869,
+      62.251212191007944,
+      0
+     ],
+     [
+      -6.578028152030992,
+      62.25132623851276,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 9848,
+    "road_type": 20,
+    "under_construction": 1,
+    "road_surface": null,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1963.7107219210689
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10104,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.796739021449156,
+      62.03187032124307,
+      0
+     ],
+     [
+      -6.796838563811611,
+      62.031893305486605,
+      0
+     ],
+     [
+      -6.796942025234959,
+      62.03191719688274,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 10104,
+    "road_type": 110,
+    "under_construction": null,
+    "road_surface": 5,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 11.840642952023586
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10152,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.789084269781857,
+      62.03685581446035,
+      0
+     ],
+     [
+      -6.788950784726591,
+      62.036642995219246,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 10152,
+    "road_type": 110,
+    "under_construction": null,
+    "road_surface": 5,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 24.725270352414753
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10158,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.772000801781187,
+      62.02956655078118,
+      0
+     ],
+     [
+      -6.771982669950201,
+      62.0295444004749,
+      0
+     ],
+     [
+      -6.771818586225678,
+      62.029481998564506,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 10158,
+    "road_type": 110,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 15.202145859748661
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10253,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.775678263119858,
+      62.01477472767542,
+      0
+     ],
+     [
+      -6.7747285207532775,
+      62.01388148085391,
+      0
+     ],
+     [
+      -6.774311065400926,
+      62.01397338993225,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 10253,
+    "road_type": 93,
+    "under_construction": null,
+    "road_surface": 1,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": 1,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": "H\u00fasag\u00f8ta",
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 271.57196343873267
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10418,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.79127770630281,
+      62.036946067133485,
+      0
+     ],
+     [
+      -6.79191470698282,
+      62.03710543963867,
+      0
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 10418,
+    "road_type": 100,
+    "under_construction": 1,
+    "road_surface": 5,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 37.773403522055034
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10450,
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      -6.829973937820044,
+      61.52948989725438,
+      103.5801000000065
+     ],
+     [
+      -6.830094460558586,
+      61.529385595435855,
+      104.46210000000428
+     ],
+     [
+      -6.830285138985532,
+      61.52923487425534,
+      105.76579999999376
+     ]
+    ]
+   },
+   "properties": {
+    "objectid": 10450,
+    "road_type": 20,
+    "under_construction": 1,
+    "road_surface": null,
+    "recommended_speed": null,
+    "max_weight_exception": null,
+    "oneway": null,
+    "tunnel": 1,
+    "parking_lot": null,
+    "toll": null,
+    "restricted_access": null,
+    "road_elevation_level": null,
+    "street_name": null,
+    "designation": null,
+    "route_no": null,
+    "imported_from_usgis_db": null,
+    "imported_from_usgis": 1675954436000,
+    "stairs": null,
+    "st_length(shape)": 1249.9719364197056
+   }
+  }
+ ]
+}

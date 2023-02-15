@@ -42,12 +42,19 @@ ARCGIS_SERVER = 'gis.us.fo'
 # NO_PAGINATION = True
 
 # https://gis.lv.fo/arcgis/rest/services/rulluportur/rulluportur_alment/MapServer
-ARCGIS_SERVER = 'gis.lv.fo'  # Landsverk
-FOLDER = 'rulluportur'
-SERVICE = 'rulluportur_alment'
-MAP_ID = 0
-PROPERTY_NAME = None
-PROPERTY_VALUE = 'cattle_grid'
+# ARCGIS_SERVER = 'gis.lv.fo'  # Landsverk
+# FOLDER = 'rulluportur'
+# SERVICE = 'rulluportur_alment'
+# MAP_ID = 0
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = 'cattle_grid'
+
+# https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/43
+FOLDER = 'lendiskort'
+SERVICE = 'us_lendiskort'
+MAP_ID = 43
+PROPERTY_NAME = "tunnel"  # "tunnel": 1 // "under_construction": 1
+PROPERTY_VALUE = '1'
 
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
@@ -69,7 +76,7 @@ def filter_feature(feature: dict) -> bool:
         return True
 
     props = feature.get('properties', {})
-    prop_value: str = props.get(PROPERTY_NAME)
+    prop_value = str(props.get(PROPERTY_NAME))
     return prop_value and PROPERTY_VALUE in prop_value.lower()
 
 
@@ -149,7 +156,11 @@ def get_features_from_arcgis(url: str) -> Generator:
         resp.raise_for_status()
 
         # e.g. https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/48/query?where=1%3D1&geometryType=esriGeometryEnvelope&geometryPrecision=6&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=2000&returnGeometry=true&returnZ=false&returnM=false&returnIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&returnTrueCurves=false&returnExtentsOnly=false&f=geojson
-        data = json.loads(resp.text)
+        try:
+            data = json.loads(resp.text)
+        except json.JSONDecodeError:
+            logger.error(f'JSON decoding failed, got: {resp.text}', exc_info=True)
+            raise
 
         # report errors (they come as HTTP 200 response, yikes!)
         if error := data.get('error'):
