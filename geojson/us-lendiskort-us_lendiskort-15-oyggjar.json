@@ -1,0 +1,583 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 1,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.727341999550729,
+     61.40112977769977
+    ]
+   },
+   "properties": {
+    "objectid": 1,
+    "st_area(shape)": 74873.658716375,
+    "name": "Sumbiarh\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792490040967152,
+     61.44206689127836
+    ]
+   },
+   "properties": {
+    "objectid": 2,
+    "st_area(shape)": 30067.733994985,
+    "name": "Lopransh\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.694510417931316,
+     61.44630812300636
+    ]
+   },
+   "properties": {
+    "objectid": 3,
+    "st_area(shape)": 6604.930737015,
+    "name": "Baglh\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.742606101389023,
+     61.49733404730641
+    ]
+   },
+   "properties": {
+    "objectid": 4,
+    "st_area(shape)": 12676.31495406,
+    "name": "Hovsh\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77537947604003,
+     61.53339683185777
+    ]
+   },
+   "properties": {
+    "objectid": 5,
+    "st_area(shape)": 69541.37433181,
+    "name": "Tjaldav\u00edksh\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.813229977122148,
+     61.548330972922734
+    ]
+   },
+   "properties": {
+    "objectid": 6,
+    "st_area(shape)": 1780.45377807,
+    "name": "L\u00edtlih\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.705711460512096,
+     61.637651992420594
+    ]
+   },
+   "properties": {
+    "objectid": 7,
+    "st_area(shape)": 826495.987126295,
+    "name": "L\u00edtla D\u00edmun",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.920582138769838,
+     61.65119932112096
+    ]
+   },
+   "properties": {
+    "objectid": 8,
+    "st_area(shape)": 164619471.9504656,
+    "name": "Su\u00f0uroy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.763405669713676,
+     61.70638035268148
+    ]
+   },
+   "properties": {
+    "objectid": 9,
+    "st_area(shape)": 2609668.99936347,
+    "name": "St\u00f3ra D\u00edmun",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.850559979293973,
+     61.78749579052532
+    ]
+   },
+   "properties": {
+    "objectid": 10,
+    "st_area(shape)": 9885838.2264637,
+    "name": "Sk\u00fagvoy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 11,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.951053777189626,
+     61.91414527323098
+    ]
+   },
+   "properties": {
+    "objectid": 11,
+    "st_area(shape)": 111233643.29308766,
+    "name": "Sandoy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.96034754435251,
+     61.92062853296497
+    ]
+   },
+   "properties": {
+    "objectid": 12,
+    "st_area(shape)": 185562.088848775,
+    "name": "Tr\u00f8llh\u00f8vdi",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 13,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798841239705976,
+     61.95054487747752
+    ]
+   },
+   "properties": {
+    "objectid": 13,
+    "st_area(shape)": 20113.88546327,
+    "name": "Kirkjub\u00f8h\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 14,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.924676276755339,
+     61.970025848768735
+    ]
+   },
+   "properties": {
+    "objectid": 14,
+    "st_area(shape)": 5930736.5020704,
+    "name": "Hestur",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 15,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.007881951835053,
+     62.000037299397306
+    ]
+   },
+   "properties": {
+    "objectid": 15,
+    "st_area(shape)": 2298015.13262156,
+    "name": "Koltur",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 16,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.690383239574565,
+     62.022779616463126
+    ]
+   },
+   "properties": {
+    "objectid": 16,
+    "st_area(shape)": 10290286.4488037,
+    "name": "N\u00f3lsoy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 17,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.75016676092522,
+     62.02896348999125
+    ]
+   },
+   "properties": {
+    "objectid": 17,
+    "st_area(shape)": 5850.347063165,
+    "name": "Hoyv\u00edksh\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 18,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.760090625955213,
+     62.0621233976827
+    ]
+   },
+   "properties": {
+    "objectid": 18,
+    "st_area(shape)": 107.9684979,
+    "name": null,
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 19,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.760424946662878,
+     62.062590252136545
+    ]
+   },
+   "properties": {
+    "objectid": 19,
+    "st_area(shape)": 23.263777095,
+    "name": null,
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 20,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7575238941128655,
+     62.06401345473717
+    ]
+   },
+   "properties": {
+    "objectid": 20,
+    "st_area(shape)": 110.510946625,
+    "name": null,
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 21,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4596634787391825,
+     62.081516599132044
+    ]
+   },
+   "properties": {
+    "objectid": 21,
+    "st_area(shape)": 92116.6501624,
+    "name": "G\u00e1sh\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 22,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.437769462813956,
+     62.08204929339293
+    ]
+   },
+   "properties": {
+    "objectid": 22,
+    "st_area(shape)": 614102.58229829,
+    "name": "Tindurh\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 23,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6660920381687,
+     62.10193832918196
+    ]
+   },
+   "properties": {
+    "objectid": 23,
+    "st_area(shape)": 411193.605381675,
+    "name": "Mykinesh\u00f3lmur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 24,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.59356642639969,
+     62.116918031327614
+    ]
+   },
+   "properties": {
+    "objectid": 24,
+    "st_area(shape)": 9568816.79664501,
+    "name": "Mykines",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 25,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.248388262200595,
+     62.15964676921277
+    ]
+   },
+   "properties": {
+    "objectid": 25,
+    "st_area(shape)": 176427206.7420064,
+    "name": "V\u00e1gar",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.326556157972044,
+     62.305300822775635
+    ]
+   },
+   "properties": {
+    "objectid": 26,
+    "st_area(shape)": 27239416.53762098,
+    "name": "Sv\u00ednoy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 27,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.165931561631484,
+     62.30900330925848
+    ]
+   },
+   "properties": {
+    "objectid": 27,
+    "st_area(shape)": 375013378.7471682,
+    "name": "Streymoy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 28,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.169410817316384,
+     62.31018886789476
+    ]
+   },
+   "properties": {
+    "objectid": 28,
+    "st_area(shape)": 36868.111542535,
+    "name": "Tj\u00f8rnuv\u00edksstakkur",
+    "feature_type": "H\u00f3lmur"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 29,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.987113683829819,
+     62.34175862586837
+    ]
+   },
+   "properties": {
+    "objectid": 29,
+    "st_area(shape)": 286376814.81499195,
+    "name": "Eysturoy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.311325010488468,
+     62.35458400817364
+    ]
+   },
+   "properties": {
+    "objectid": 30,
+    "st_area(shape)": 10993924.396504436,
+    "name": "Fugloy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 31,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.60071236434035,
+     62.36001141578
+    ]
+   },
+   "properties": {
+    "objectid": 31,
+    "st_area(shape)": 94686398.68202075,
+    "name": "Bor\u00f0oy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 32,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.693136203939346,
+     62.367560812918754
+    ]
+   },
+   "properties": {
+    "objectid": 32,
+    "st_area(shape)": 35301870.29640856,
+    "name": "Kunoy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 33,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.807995139970677,
+     62.37274130778099
+    ]
+   },
+   "properties": {
+    "objectid": 33,
+    "st_area(shape)": 30543979.74133862,
+    "name": "Kalsoy",
+    "feature_type": "Oyggj"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 34,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.558866303733317,
+     62.39405923893068
+    ]
+   },
+   "properties": {
+    "objectid": 34,
+    "st_area(shape)": 40591826.658731975,
+    "name": "Vi\u00f0oy",
+    "feature_type": "Oyggj"
+   }
+  }
+ ]
+}

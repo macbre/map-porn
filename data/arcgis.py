@@ -50,19 +50,27 @@ ARCGIS_SERVER = 'gis.us.fo'
 # PROPERTY_VALUE = 'cattle_grid'
 
 # https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/43
-FOLDER = 'lendiskort'
-SERVICE = 'us_lendiskort'
-MAP_ID = 43
-PROPERTY_NAME = "tunnel"  # "tunnel": 1 // "under_construction": 1
-PROPERTY_VALUE = '1'
+# FOLDER = 'lendiskort'
+# SERVICE = 'us_lendiskort'
+# MAP_ID = 43
+# PROPERTY_NAME = "tunnel"  # "tunnel": 1 // "under_construction": 1
+# PROPERTY_VALUE = '1'
 
 # https://gis.us.fo/arcgis/rest/services/matriklar/us_matr/MapServer?f=jsapi
 # https://gis.us.fo/arcgis/rest/services/matriklar/us_matr/MapServer/2
-FOLDER = 'matriklar'
-SERVICE = 'us_matr'
-MAP_ID = 2
+# FOLDER = 'matriklar'
+# SERVICE = 'us_matr'
+# MAP_ID = 2
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "contour"
+
+# https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/15
+# TODO: keep the polygons
+FOLDER = 'lendiskort'
+SERVICE = 'us_lendiskort'
+MAP_ID = 15  # Oyggjar
 PROPERTY_NAME = None
-PROPERTY_VALUE = "contour"
+PROPERTY_VALUE = "oyggjar"
 
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
