@@ -56,13 +56,13 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 }
 
 .leaflet-paper-pane {
-    /* background-image: url(paper.jpg); */
+    background-image: url(paper.jpg);
     /* background-image: url(paper-beige.jpg); */
-    /* background-blend-mode:  soft-light; */
+    background-blend-mode:  soft-light;
     filter: saturate(1.5) grayscale(.9);
     width: var(--map-width);
     height: var(--map-height);
-    opacity: 0.2;
+    opacity: 0.4;
 }
 
 /* foreground */
