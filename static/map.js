@@ -2,7 +2,6 @@
 // https://www.geoapify.com/create-custom-map-marker-icon
 function getIcon(color /* green | blue | yellow */) {
     let size = 16;
-    if (color === 'green') size = 24;
 
     // https://leafletjs.com/reference.html#divicon
     return L.divIcon({
@@ -21,15 +20,15 @@ function setupMap(wrapperId, options, center, zoom) {
     // L.marker([lat, lon]).addTo(map);
 
     // https://leaflet-extras.github.io/leaflet-providers/preview/
-    const ESRI = L.tileLayer.provider('Esri.WorldGrayCanvas')
+    // const ESRI = L.tileLayer.provider('Esri.WorldGrayCanvas')
 
-    const CartoDB_VoyagerNoLabels = L.tileLayer.provider('CartoDB.VoyagerNoLabels');
+    // const CartoDB_VoyagerNoLabels = L.tileLayer.provider('CartoDB.VoyagerNoLabels');
 
-    const Stamen_TonerLite = L.tileLayer.provider('Stamen.TonerLite');
-    const Stamen_Watercolor = L.tileLayer.provider('Stamen.Watercolor');
+    // const Stamen_TonerLite = L.tileLayer.provider('Stamen.TonerLite');
+    // const Stamen_Watercolor = L.tileLayer.provider('Stamen.Watercolor');
 
-    Stamen_Watercolor.addTo(map); // first background
-    Stamen_Watercolor._level.el.id = 'watercolor';
+    // Stamen_Watercolor.addTo(map); // first background
+    // Stamen_Watercolor._level.el.id = 'watercolor';
 
     // Stamen_TonerLite.addTo(map); // then foreground
     // Stamen_TonerLite._level.el.id = 'toner-lite';
@@ -49,13 +48,21 @@ function setupMap(wrapperId, options, center, zoom) {
 // now load the GeoJSON data
 // https://leafletjs.com/examples/geojson/
 async function addGeoJSONLayer(map, url, color, label_en, label_pl) {
-    const res = await fetch(url);
-    const geojsonFeatures = JSON.parse(await res.text());
+    const geojsonFeatures = await fetchGeoJSON(url);
+
+    // https://leafletjs.com/examples/map-panes/
+    map.createPane(`markers-${color}`);
+    map.getPane(`markers-${color}`).style.zIndex = {
+        'blue': 500,
+        'green': 600,
+        'yellow': 700,
+    }[color];
+
     // console.log('GeoJSON', geojsonFeatures);
     L.geoJSON(geojsonFeatures, {
         onEachFeature: (feature, _layer) => {
             const geo = feature.geometry.coordinates;
-            L.marker([geo[1], geo[0]], {icon: getIcon(color)}).addTo(map);
+            L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
         }
     });
 
@@ -68,4 +75,15 @@ async function addGeoJSONLayer(map, url, color, label_en, label_pl) {
         `<span class="tally">${geojsonFeatures.features.length}</span>`;
 
     document.querySelector('legend ul').appendChild(legendEntry);
+}
+
+/**
+ * @param {string} url 
+ * @returns {string}
+ */
+async function fetchGeoJSON(url) {
+    console.log(`Fetching GeoJSON from <${url}> ...`);
+
+    const res = await fetch(url);
+    return JSON.parse(await res.text());
 }

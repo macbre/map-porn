@@ -17,19 +17,20 @@ body {
     width: var(--map-width);
     height: var(--map-height);
     border: solid 5px #3c91d0aa;
-    background-color: rgba(76, 76, 107, 1);
+    /* background-color: rgba(76, 76, 107, 1); */
     position: relative;
     overflow: hidden;
+    background-color: #cfe2f466;
 }
 
 #logo {
-    opacity: .1;
-    /* filter: invert(0.5); */
+    opacity: .15;
+    filter: invert(0.5);
     width: 400px;
     position: absolute;
     transform: rotate(-45deg);
-    left: -150px;
-    top: -150px;
+    left: -135px;
+    top: -135px;
     z-index: 20;
     background-blend-mode: screen;
 }
@@ -44,13 +45,25 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
  * Maps styling
  */
 #map {
-    position: absolute;
+    /* position: absolute;
     z-index: 10;
     top: 0;
-    left: 0;
+    left: 0; */
     width: var(--map-width);
     height: var(--map-height);
-    background-color: #3c91d0;
+    /* background-color: #cfe2f466; */
+    background-color: inherit;
+}
+
+.leaflet-paper-pane {
+    background-image: url(paper.jpg);
+    /* background-image: url(paper-beige.jpg); */
+    background-blend-mode:  soft-light;
+    filter: hue-rotate(150deg);
+    filter: brightness(1.1) saturate(1.5);
+    width: var(--map-width);
+    height: var(--map-height);
+    opacity: 0.25;
 }
 
 /* foreground */
@@ -71,20 +84,9 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     filter: saturate(1.2) contrast(1.1) hue-rotate(190deg);
 }
 
-#map-overlay {
-    display: none;
-    /* backdrop-filter: sepia(90%); */
-    width: 100%;
-    height: 100%;
-    background-color: #fff;
-    z-index: 15;
-    position: absolute;
-    opacity: 0.2;
-}
-
-.leaflet-map-pane {
-    filter: sepia(.1);
-}
+/* .leaflet-map-pane {
+    filter: sepia(.4);
+} */
 
 /************************************************************************************************
  * Markers / dots
@@ -106,7 +108,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 .marker.green  { background-color: #abdda4; }
 .marker.blue   { background-color: #3288bd; }
 .marker.yellow { background-color: #fee08b; }
-
+/* 
 #map .marker.green {
     width: 24px;
     height: 24px;
@@ -117,7 +119,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     width: 24px;
     height: 24px;
     outline: solid 2px #fee08b66;
- }
+ } */
 
 /************************************************************************************************
  * Copyrights
@@ -146,6 +148,30 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     border-bottom: solid 1px #666a;
 }
 
+/* https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/ */
+.leaflet-countour-pane svg {
+    /* offset-x offset-y blur-radius color */
+    filter: drop-shadow(0px 0px 350px #68a7c4);
+    /* filter: drop-shadow(0px 0px 20px #eee); */
+    /* filter: drop-shadow(0px 0px 50px #fff); */
+}
+
+#map .leaflet-control {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 2.2em;
+    font-weight: bold;
+    letter-spacing: -0.05em;
+    margin: 25px;
+    text-align: center;
+}
+
+#map .leaflet-control-scale-line {
+    background-color: transparent;
+    border: none;
+    border-bottom: solid #3c91d0cc 5px;
+    color: #3c91d0ee;
+}
+
 /************************************************************************************************
  * Legends
  */
@@ -156,7 +182,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     padding: 75px 25px;
     width: calc(calc(100%) - 50px);
 
-    background-image: linear-gradient(360deg, transparent 0%, #ffffff77 40% );
+    /* background-image: linear-gradient(360deg, transparent 0%, #ffffff77 40% ); */
 }
 
 #overlay h1, #overlay h2 {

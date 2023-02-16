@@ -50,7 +50,6 @@
 			</legend>
 
 			<div id="map"></div>
-			<div id="map-overlay"></div>
 		</section>
 
 		<script>
@@ -59,10 +58,46 @@
 			const zoom = 10;
 			const options = {
 				zoomControl: false,
-				attributionControl: true,
+				attributionControl: false,
 			};
 
 			const map = setupMap('map', options, center, zoom);
+
+			// paper-like background
+			map.createPane('paper');
+
+			// add a countour of the Faroe Islands
+			// https://leafletjs.com/examples/map-panes/
+			map.createPane('countour');
+
+			// https://leafletjs.com/examples/geojson/
+			var geojson = L.geoJson(
+				await fetchGeoJSON('/geojson/us-lendiskort-us_lendiskort-15-oyggjar.json'),
+				{
+					style: {
+						// https://leafletjs.com/reference.html#path-option
+						stroke: true,
+						color: "#3c91d0aa",   // stroke
+						fillColor: "#f8e7c6", // fill
+						fillOpacity: 1,
+						weight: 5,
+						opacity: 1,
+					},
+					filter: function(feature, layer) {
+     				   return true;
+    				},
+					pane: 'countour'
+				}
+			).addTo(map);
+
+
+			// https://leafletjs.com/reference.html#control-scale
+			L.control.scale({
+				metric: true,
+				imperial: false,
+				maxWidth: 350,
+				position: 'bottomright',
+			}).addTo(map);
 
 			// green / blue / yellow
 			await addGeoJSONLayer(map, '/data/bus_stop-bus_stop.json', 'blue', 'bus stops', 'przystanki autobusowe')
