@@ -11,6 +11,7 @@ import requests
 NO_PAGINATION = False
 
 ARCGIS_SERVER = 'gis.us.fo'
+POLYGONS_TO_POINTS = True
 
 # https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/48
 # FOLDER = 'lendiskort'
@@ -71,6 +72,7 @@ SERVICE = 'us_lendiskort'
 MAP_ID = 15  # Oyggjar
 PROPERTY_NAME = None
 PROPERTY_VALUE = "oyggjar"
+POLYGONS_TO_POINTS = False  # keep the polygons as we need islands shapes
 
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
@@ -124,6 +126,9 @@ def from_polygon_to_point(feature: dict) -> dict:
         ]
     }
     """
+    if POLYGONS_TO_POINTS is False:
+        return feature
+
     geometry_type = feature.get('geometry', {}).get('type')
     if geometry_type != 'Polygon':
         # allow only lat, lon and elevation data
