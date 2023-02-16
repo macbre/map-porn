@@ -104,9 +104,9 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 }
 
 /* https://colorbrewer2.org/#type=diverging&scheme=Spectral&n=10 */
-.marker.green  { background-color: #abdda4; }
+.marker.green  { background-color: #abdda4; outline-width: 0; }
 .marker.blue   { background-color: #3288bd; }
-.marker.yellow { background-color: #fee08b; }
+.marker.yellow { background-color: #fee08b; outline-width: 4px; }
 /* 
 #map .marker.green {
     width: 24px;

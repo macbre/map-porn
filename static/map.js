@@ -47,8 +47,9 @@ function setupMap(wrapperId, options, center, zoom) {
 
 // now load the GeoJSON data
 // https://leafletjs.com/examples/geojson/
-async function addGeoJSONLayer(map, url, color, label_en, label_pl) {
+async function addGeoJSONLayer(map, url, color, label_en, label_pl, filter) {
     const geojsonFeatures = await fetchGeoJSON(url);
+    let count = 0;
 
     // https://leafletjs.com/examples/map-panes/
     map.createPane(`markers-${color}`);
@@ -61,18 +62,24 @@ async function addGeoJSONLayer(map, url, color, label_en, label_pl) {
     // console.log('GeoJSON', geojsonFeatures);
     L.geoJSON(geojsonFeatures, {
         onEachFeature: (feature, _layer) => {
+            if (typeof filter === 'function' && filter(feature) === false) {
+                return;
+            }
+
             const geo = feature.geometry.coordinates;
             L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
+
+            count++;
         }
     });
 
-    console.log(`Added GeoJSON layer: ${geojsonFeatures.features.length} nodes, color ${color}, from ${url}`);
+    console.log(`Added GeoJSON layer: ${count} nodes, color ${color}, from ${url}`);
 
     // add a label
     const legendEntry = document.createElement('li');
     legendEntry.innerHTML = `<span class="marker ${color}"></span>` + 
         `<span lang="en">${label_en}</span><span lang="pl">${label_pl}</span>` + 
-        `<span class="tally">${geojsonFeatures.features.length}</span>`;
+        `<span class="tally">${count}</span>`;
 
     document.querySelector('legend ul').appendChild(legendEntry);
 }

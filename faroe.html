@@ -58,7 +58,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Landsverk, Umhvørvisstovan, OpenStreetMaps, WikiData
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Landsverk, Umhvørvisstovan, Strandfaraskip Landsins.
 					</p>
 				</div>
 
@@ -148,9 +148,12 @@
 			}).addTo(map);
 
 			// green / blue / yellow
-			await addGeoJSONLayer(map, '/data/bus_stop-bus_stop.json', 'blue', 'bus stops', 'przystanki autobusowe')
-			await addGeoJSONLayer(map, '/geojson/us-lendiskort-us_lendiskort-48-Tyrluplass.json', 'yellow', 'helipads', 'lądowiska dla helikopterów');
-			await addGeoJSONLayer(map, '/geojson/osm-amenity-ferry_terminal.json', 'green', 'ferry terminals', 'promy');
+			await addGeoJSONLayer(map, '/geojson/sona-busses.json', 'blue', 'intercity bus stops', 'przystanki autobusowe', (item) => {
+				// properties: {name: '0032 Skopun', operator: 'SSL'}
+				return item.properties.operator === 'SSL';
+			});
+			await addGeoJSONLayer(map, '/geojson/osm-amenity-ferry_terminal.json', 'yellow', 'ferry terminals', 'promy');
+			await addGeoJSONLayer(map, '/geojson/us-lendiskort-us_lendiskort-48-Tyrluplass.json', 'green', 'helipads', 'lądowiska dla helikopterów');
 
 			// L.marker([61.961667, -6.9675], {icon: getIcon('green')}).addTo(map);
 
