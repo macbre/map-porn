@@ -8,19 +8,18 @@ body {
     margin: 25px;
     background-color: #3c91d055;
     background-color: white;
-    width: var(--map-width);
-    height: var(--map-height);
     font-size: 0.5em;
 }
 
 #wrapper {
     width: var(--map-width);
-    height: var(--map-height);
+    /* height: var(--map-height); */
     border: solid 5px #3c91d0aa;
     /* background-color: rgba(76, 76, 107, 1); */
     position: relative;
     overflow: hidden;
     background-color: #cfe2f466;
+    box-sizing: content-box;
 }
 
 #logo {
@@ -161,7 +160,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     font-size: 2.2em;
     font-weight: bold;
     letter-spacing: -0.05em;
-    margin: 25px;
+    margin: 50px;
     text-align: center;
 }
 
@@ -180,7 +179,9 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     position: absolute;
     z-index: 20;
     padding: 75px 25px;
-    width: calc(calc(100%) - 50px);
+    width: calc(var(--map-width) - 50px);
+    height: calc(var(--map-height) - 150px);
+
 
     /* background-image: linear-gradient(360deg, transparent 0%, #ffffff77 40% ); */
 }
@@ -210,9 +211,8 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 
 legend {
     position: absolute;
-    z-index: 20;
     margin: 25px;
-    bottom: 0;
+    bottom: 25px;
     background-color: #fff7;
     box-shadow: #fff 0px 0px 250px 0;
     border: solid 1px #3c91d055;
@@ -223,6 +223,7 @@ legend {
 }
 
 legend ul {
+    font-family: 'IBM Plex Sans', sans-serif;
     list-style: none;
     line-height: 2.5em;
     font-size: 3em;
@@ -259,4 +260,38 @@ legend li .tally {
     float: right;
     font-weight: normal;
     font-size: 1.2em;
+}
+
+/************************************************************************************************
+ * Info section
+ */
+section.info {
+    display: flex;
+    font-family: Lora, serif;
+    border-top: solid 2px #3c91d044;
+    background-color: #fffa;
+}
+
+section.info div {
+    padding: 25px 50px;
+    flex: 0 0 calc(calc(50%) - 100px);
+}
+
+section.info div:nth-child(2) {
+    text-align: right;
+    vertical-align: middle;
+    background-color: #3c91d011;
+    border-left: solid 2px #3c91d044;
+
+    /* flex: 0 0 calc(calc(40%) - 100px); */
+}
+
+img.cc {
+    opacity: 0.5;
+}
+
+section.info p {
+    margin: .5em 0;
+    font-size: 2.2em;
+    line-height: 1.5em;
 }

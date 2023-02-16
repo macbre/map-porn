@@ -14,6 +14,8 @@
 	<link rel="stylesheet" href="static/map.css">
 	<script src="static/map.js"></script>
 
+	<link rel="license" href="https://creativecommons.org/licenses/by/4.0/" />
+
 	<body lang="en">
 		<div id="wrapper">
 			<section id="overlay">
@@ -22,34 +24,56 @@
 
 				<h2 lang="en">Public Transport</h2>
 				<h2 lang="pl">Transport publiczny</h2>
+
+				<legend>
+					<p lang="en">
+						The Faroe Islands is served by an internal transport system based on <b>roads, ferries, and helicopters</b>.
+					<br><br>
+						<b>Strandfaraskip Landsins</b> operates a network of ferries and the rural blue buses.
+					<br><br>
+						Helicopters operated by <b>Atlantic Airways</b> provide domestic scheduled transportation, medical evacuation, and search & rescue activities.
+					</p>
+					<p lang="pl">
+						Komunikacja na Wyspach Owczych oparta jest o system dróg, tuneli, promów i połączeń realizowanych przez helikoptery.
+					<br><br>
+						Państwowa spółka <b>Strandfaraskip Landsins</b> odpowiada za autobusowe połączenia między miastami oraz sieć promową.
+					<br><br>
+						Helikoptery linii <b>Atlantic Airways</b> zapewniają rozkładowe loty oraz transport ładunków. Biorą także udział w akcjach ratowniczych i&nbsp;poszukiwawczych.
+					</p>
+					<ul>
+						<!-- cat faroe-islands-latest.osm.bz2 | bzip2 -d | grep 'ferry_terminal' -c -->
+						<!-- <li><span class="marker green"></span>bus stops<span class="tally">173</span></li>
+						<li><span class="marker blue"></span>helipads<span class="tally">18</span></li>
+						<li><span class="marker yellow"></span>ferries ports<span class="tally">23</span></li> -->
+					</ul>
+				</legend>
 			</section>
 
 			<img id="logo" src="static/logo.png" />
 
-			<legend>
-				<p lang="en">
-					The Faroe Islands is served by an internal transport system based on <b>roads, ferries, and helicopters</b>.
-				<br><br>
-					<b>Strandfaraskip Landsins</b> operates a network of ferries and the rural blue buses.
-				<br><br>
-					Helicopters operated by <b>Atlantic Airways</b> provide domestic scheduled transportation, medical evacuation, and search & rescue activities.
-				</p>
-				<p lang="pl">
-					Komunikacja na Wyspach Owczych oparta jest o system dróg, tuneli, promów i połączeń realizowanych przez helikoptery.
-				<br><br>
-					Państwowa spółka <b>Strandfaraskip Landsins</b> odpowiada za autobusowe połączenia między miastami oraz sieć promową.
-				<br><br>
-					Helikoptery linii <b>Atlantic Airways</b> zapewniają rozkładowe loty oraz transport ładunków. Biorą także udział w akcjach ratowniczych i&nbsp;poszukiwawczych.
-				</p>
-				<ul>
-					<!-- cat faroe-islands-latest.osm.bz2 | bzip2 -d | grep 'ferry_terminal' -c -->
-					<!-- <li><span class="marker green"></span>bus stops<span class="tally">173</span></li>
-					<li><span class="marker blue"></span>helipads<span class="tally">18</span></li>
-					<li><span class="marker yellow"></span>ferries ports<span class="tally">23</span></li> -->
-				</ul>
-			</legend>
-
 			<div id="map"></div>
+			<section class="info">
+				<div>
+					<p>
+						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
+					</p>
+					<p>
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Landsverk, Umhvørvisstovan, OpenStreetMaps, WikiData
+					</p>
+				</div>
+
+				<div>
+					<p>
+						<strong lang="en">Maps by</strong><strong lang="pl">Mapy</strong>: Leaflet
+					</p>
+					<p lang="en">
+						<strong>Licensed under</strong> Creative Commons Attribution 4.0.
+					</p>
+					<p lang="pl">
+						<strong>Licencja</strong> Creative Commons Uznanie autorstwa.
+					</p>
+				</div>
+			</section>
 		</section>
 
 		<script>
@@ -105,6 +129,13 @@
 			await addGeoJSONLayer(map, '/data/aeroway-helipad.json', 'yellow', 'helipads', 'lądowiska dla helikopterów');
 
 			// L.marker([61.961667, -6.9675], {icon: getIcon('green')}).addTo(map);
+
+			// what's the size of the webpage?
+			const wrapper = document.getElementById('wrapper');
+			console.log('Page size: ', {
+				width: wrapper.clientWidth + 50 /* margin x2 */ + 10 /* border x2 */,
+				height: wrapper.clientHeight + 50 + 10,
+			});
 		})();
 		</script>
 
