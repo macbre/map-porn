@@ -1,330 +1,283 @@
 {
- "type": "FeatureCollection",
- "features": [
-  {
-   "type": "Feature",
-   "id": 3806,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -7.286266996565066,
-     62.0656602855875
-    ]
-   },
-   "properties": {
-    "objectid": 3806,
-    "feature_id": 6882,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 380,
-    "city": "S\u00f8rv\u00e1gur",
-    "municipality_no": 36,
-    "municipality": "S\u00f8rv\u00e1gs",
-    "st_area(shape)": 78761.01598452,
-    "st_length(shape)": 3981.725941793552
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4487,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.75887489105503,
-     61.68532782343736
-    ]
-   },
-   "properties": {
-    "objectid": 4487,
-    "feature_id": 585,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 286,
-    "city": "St\u00f3ra D\u00edmun",
-    "municipality_no": 43,
-    "municipality": "Sk\u00favoyar",
-    "st_area(shape)": 1771.819421245,
-    "st_length(shape)": 150.55505454740947
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4488,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.576567881382178,
-     62.21774448618639
-    ]
-   },
-   "properties": {
-    "objectid": 4488,
-    "feature_id": 586,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 700,
-    "city": "Klaksv\u00edk",
-    "municipality_no": 5,
-    "municipality": "Klaksv\u00edkar",
-    "st_area(shape)": 710.726181775,
-    "st_length(shape)": 95.62928832048371
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4489,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.9409698955033665,
-     62.323156919746864
-    ]
-   },
-   "properties": {
-    "objectid": 4489,
-    "feature_id": 588,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 476,
-    "city": "Gj\u00f3gv",
-    "municipality_no": 18,
-    "municipality": "Sunda",
-    "st_area(shape)": 189.6584209,
-    "st_length(shape)": 49.59659050785507
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4490,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -7.43491355297286,
-     62.10842770148877
-    ]
-   },
-   "properties": {
-    "objectid": 4490,
-    "feature_id": 589,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 387,
-    "city": "G\u00e1sadalur",
-    "municipality_no": 36,
-    "municipality": "S\u00f8rv\u00e1gs",
-    "st_area(shape)": 164.530515625,
-    "st_length(shape)": 45.55365264092495
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4491,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -7.645849366632882,
-     62.10220279576569
-    ]
-   },
-   "properties": {
-    "objectid": 4491,
-    "feature_id": 590,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 388,
-    "city": "Mykines",
-    "municipality_no": 36,
-    "municipality": "S\u00f8rv\u00e1gs",
-    "st_area(shape)": 108.78025786,
-    "st_length(shape)": 37.040307359454964
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4492,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.788142098181714,
-     62.36234153510415
-    ]
-   },
-   "properties": {
-    "objectid": 4492,
-    "feature_id": 591,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 798,
-    "city": "Tr\u00f8llanes",
-    "municipality_no": 5,
-    "municipality": "Klaksv\u00edkar",
-    "st_area(shape)": 106.719339705,
-    "st_length(shape)": 37.2040474344393
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4493,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.313434514318613,
-     62.31708989619534
-    ]
-   },
-   "properties": {
-    "objectid": 4493,
-    "feature_id": 592,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 766,
-    "city": "Kirkja",
-    "municipality_no": 1,
-    "municipality": "Fugloyar",
-    "st_area(shape)": 106.699865635,
-    "st_length(shape)": 37.100513192347286
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4494,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.774460168315997,
-     61.54365263095566
-    ]
-   },
-   "properties": {
-    "objectid": 4494,
-    "feature_id": 593,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 825,
-    "city": "Fro\u00f0ba",
-    "municipality_no": 45,
-    "municipality": "Tv\u00f8royrar",
-    "st_area(shape)": 79.52278956,
-    "st_length(shape)": 31.98586946407153
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4495,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.884344644018752,
-     61.90448492866317
-    ]
-   },
-   "properties": {
-    "objectid": 4495,
-    "feature_id": 595,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 240,
-    "city": "Skopun",
-    "municipality_no": 40,
-    "municipality": "Skopunar",
-    "st_area(shape)": 275.67458474,
-    "st_length(shape)": 59.154043269904484
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4496,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.803606684036844,
-     61.76960721803515
-    ]
-   },
-   "properties": {
-    "objectid": 4496,
-    "feature_id": 596,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 260,
-    "city": "Sk\u00fagvoy",
-    "municipality_no": 43,
-    "municipality": "Sk\u00favoyar",
-    "st_area(shape)": 207.138535375,
-    "st_length(shape)": 51.377365231254906
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4501,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.276726543558873,
-     62.33031832409649
-    ]
-   },
-   "properties": {
-    "objectid": 4501,
-    "feature_id": 602,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 767,
-    "city": "Hattarv\u00edk",
-    "municipality_no": 1,
-    "municipality": "Fugloyar",
-    "st_area(shape)": 195.27585484,
-    "st_length(shape)": 50.01815620137551
-   }
-  },
-  {
-   "type": "Feature",
-   "id": 4507,
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.341580255874594,
-     62.276685312900526
-    ]
-   },
-   "properties": {
-    "objectid": 4507,
-    "feature_id": 612,
-    "layer": "Tyrluplass flogvollur",
-    "area_type": "Tyrluplass flogvollur",
-    "area_date": null,
-    "area_source": null,
-    "zip": 765,
-    "city": "Sv\u00ednoy",
-    "municipality_no": 5,
-    "municipality": "Klaksv\u00edkar",
-    "st_area(shape)": 180.05066316,
-    "st_length(shape)": 47.95823878378877
-   }
-  }
- ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 3806,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.286267,
+          62.06566
+        ]
+      },
+      "properties": {
+        "objectid": 3806,
+        "feature_id": 6882,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 380,
+        "city": "Sørvágur",
+        "municipality_no": 36,
+        "municipality": "Sørvágs",
+        "st_area(shape)": 78761.01598452,
+        "st_length(shape)": 3981.725941793552
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.758875,
+          61.685328
+        ]
+      },
+      "properties": {
+        "objectid": 4487,
+        "feature_id": 585,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 286,
+        "city": "Stóra Dímun",
+        "municipality_no": 43,
+        "municipality": "Skúvoyar",
+        "st_area(shape)": 1771.819421245,
+        "st_length(shape)": 150.55505454740947
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.576568,
+          62.217744
+        ]
+      },
+      "properties": {
+        "objectid": 4488,
+        "feature_id": 586,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 700,
+        "city": "Klaksvík",
+        "municipality_no": 5,
+        "municipality": "Klaksvíkar",
+        "st_area(shape)": 710.726181775,
+        "st_length(shape)": 95.62928832048371
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4489,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.757421,
+          62.02167
+        ]
+      },
+      "properties": {
+        "marker-color": "#555555",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "objectid": 4489,
+        "feature_id": 588,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 476,
+        "city": "Gjógv",
+        "municipality_no": 18,
+        "municipality": "Sunda",
+        "st_area(shape)": 189.6584209,
+        "st_length(shape)": 49.59659050785507
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.645849,
+          62.102203
+        ]
+      },
+      "properties": {
+        "objectid": 4491,
+        "feature_id": 590,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 388,
+        "city": "Mykines",
+        "municipality_no": 36,
+        "municipality": "Sørvágs",
+        "st_area(shape)": 108.78025786,
+        "st_length(shape)": 37.040307359454964
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4492,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.788142,
+          62.362342
+        ]
+      },
+      "properties": {
+        "objectid": 4492,
+        "feature_id": 591,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 798,
+        "city": "Trøllanes",
+        "municipality_no": 5,
+        "municipality": "Klaksvíkar",
+        "st_area(shape)": 106.719339705,
+        "st_length(shape)": 37.2040474344393
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4493,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.313435,
+          62.31709
+        ]
+      },
+      "properties": {
+        "objectid": 4493,
+        "feature_id": 592,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 766,
+        "city": "Kirkja",
+        "municipality_no": 1,
+        "municipality": "Fugloyar",
+        "st_area(shape)": 106.699865635,
+        "st_length(shape)": 37.100513192347286
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4494,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77446,
+          61.543653
+        ]
+      },
+      "properties": {
+        "objectid": 4494,
+        "feature_id": 593,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 825,
+        "city": "Froðba",
+        "municipality_no": 45,
+        "municipality": "Tvøroyrar",
+        "st_area(shape)": 79.52278956,
+        "st_length(shape)": 31.98586946407153
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.803607,
+          61.769607
+        ]
+      },
+      "properties": {
+        "objectid": 4496,
+        "feature_id": 596,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 260,
+        "city": "Skúgvoy",
+        "municipality_no": 43,
+        "municipality": "Skúvoyar",
+        "st_area(shape)": 207.138535375,
+        "st_length(shape)": 51.377365231254906
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4501,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.276727,
+          62.330318
+        ]
+      },
+      "properties": {
+        "objectid": 4501,
+        "feature_id": 602,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 767,
+        "city": "Hattarvík",
+        "municipality_no": 1,
+        "municipality": "Fugloyar",
+        "st_area(shape)": 195.27585484,
+        "st_length(shape)": 50.01815620137551
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4507,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.34158,
+          62.276685
+        ]
+      },
+      "properties": {
+        "objectid": 4507,
+        "feature_id": 612,
+        "layer": "Tyrluplass flogvollur",
+        "area_type": "Tyrluplass flogvollur",
+        "area_date": null,
+        "area_source": null,
+        "zip": 765,
+        "city": "Svínoy",
+        "municipality_no": 5,
+        "municipality": "Klaksvíkar",
+        "st_area(shape)": 180.05066316,
+        "st_length(shape)": 47.95823878378877
+      }
+    }
+  ]
 }
