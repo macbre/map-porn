@@ -52,17 +52,17 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     height: var(--map-height);
     /* background-color: #cfe2f466; */
     background-color: inherit;
+    filter: sepia(0.15);
 }
 
 .leaflet-paper-pane {
-    background-image: url(paper.jpg);
+    /* background-image: url(paper.jpg); */
     /* background-image: url(paper-beige.jpg); */
-    background-blend-mode:  soft-light;
-    filter: hue-rotate(150deg);
-    filter: brightness(1.1) saturate(1.5);
+    /* background-blend-mode:  soft-light; */
+    filter: saturate(1.5) grayscale(.9);
     width: var(--map-width);
     height: var(--map-height);
-    opacity: 0.25;
+    opacity: 0.2;
 }
 
 /* foreground */
@@ -148,11 +148,14 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 }
 
 /* https://css-tricks.com/adding-shadows-to-svg-icons-with-css-and-svg-filters/ */
-.leaflet-countour-pane svg {
-    /* offset-x offset-y blur-radius color */
-    filter: drop-shadow(0px 0px 350px #68a7c4);
+/* .leaflet-countour-pane svg {
+    filter: drop-shadow(0px 0px 20px #eee);
+    filter: drop-shadow(0px 0px 10px #fff);
+} */
+
+.leaflet-countour-fg-pane svg {
     /* filter: drop-shadow(0px 0px 20px #eee); */
-    /* filter: drop-shadow(0px 0px 50px #fff); */
+    filter: drop-shadow(0px 0px 150px #3c91d0cc);
 }
 
 #map .leaflet-control {
@@ -269,7 +272,7 @@ section.info {
     display: flex;
     font-family: Lora, serif;
     border-top: solid 2px #3c91d044;
-    background-color: #fffa;
+    background-color: #fffc;
 }
 
 section.info div {
