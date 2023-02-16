@@ -1,0 +1,11079 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780124,
+     62.009357
+    ]
+   },
+   "properties": {
+    "name": "1440 J\u00f3annesar Paturssonar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774559,
+     62.031956
+    ]
+   },
+   "properties": {
+    "name": "1301 Atlag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784202,
+     61.996965
+    ]
+   },
+   "properties": {
+    "name": "1030 Albert Hall",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788901,
+     61.996199
+    ]
+   },
+   "properties": {
+    "name": "1540 Glyvursvegur/Tra\u00f0ag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780079,
+     62.003897
+    ]
+   },
+   "properties": {
+    "name": "1470 \u00e1 Fr\u00e6lsinum (Eirargar\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775777,
+     62.017425
+    ]
+   },
+   "properties": {
+    "name": "1410 R. C. Effers\u00f8es g\u00f8ta (L\u00e6knami\u00f0st\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781892,
+     62.02196
+    ]
+   },
+   "properties": {
+    "name": "1380 T\u00f3rsbreyt (Sortud\u00edki\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788358,
+     62.026905
+    ]
+   },
+   "properties": {
+    "name": "1350 \u00d3luvug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.791078,
+     62.033067
+    ]
+   },
+   "properties": {
+    "name": "4010 Millum Gilja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785628,
+     62.024223
+    ]
+   },
+   "properties": {
+    "name": "1170 Sundsvegur/Birnug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781833,
+     62.004935
+    ]
+   },
+   "properties": {
+    "name": "1090 Fr\u00e6lsi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.779928,
+     61.999202
+    ]
+   },
+   "properties": {
+    "name": "1060 Argjavegur (Sj\u00f3savni\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.783966,
+     61.997015
+    ]
+   },
+   "properties": {
+    "name": "1530 Albert Hall",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777232,
+     61.996411
+    ]
+   },
+   "properties": {
+    "name": "1040 Tra\u00f0ag\u00f8ta/Ross\u00e1g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77208,
+     62.029189
+    ]
+   },
+   "properties": {
+    "name": "1321 Hoyv\u00edkar Kirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784418,
+     62.029335
+    ]
+   },
+   "properties": {
+    "name": "4260 Flatarvegur/M\u00f3ritsarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774169,
+     62.011268
+    ]
+   },
+   "properties": {
+    "name": "1120 Steinat\u00fan (Su\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777531,
+     62.020817
+    ]
+   },
+   "properties": {
+    "name": "1390 Svimjih\u00f8llin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77589,
+     62.020651
+    ]
+   },
+   "properties": {
+    "name": "1400 H\u00f8llin \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775275,
+     62.028057
+    ]
+   },
+   "properties": {
+    "name": "1330 Vegurin Langi/oman Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772916,
+     62.013844
+    ]
+   },
+   "properties": {
+    "name": "1420 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766608,
+     62.034399
+    ]
+   },
+   "properties": {
+    "name": "1251 Vegurin Langi/Klingran",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.779752,
+     61.999057
+    ]
+   },
+   "properties": {
+    "name": "1500 Argjavegur (Sj\u00f3savni\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.782744,
+     62.028782
+    ]
+   },
+   "properties": {
+    "name": "1340 Vegurin Langi/Flatarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787544,
+     62.031511
+    ]
+   },
+   "properties": {
+    "name": "4270 Flatarvegur/Onnug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775584,
+     61.993711
+    ]
+   },
+   "properties": {
+    "name": "1550 Hamarin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77529,
+     62.020401
+    ]
+   },
+   "properties": {
+    "name": "1150 Uppi \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776853,
+     61.998211
+    ]
+   },
+   "properties": {
+    "name": "1050 Argjavegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773264,
+     62.014634
+    ]
+   },
+   "properties": {
+    "name": "1130 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777516,
+     62.002724
+    ]
+   },
+   "properties": {
+    "name": "1080 Landssj\u00fakrah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778098,
+     62.002215
+    ]
+   },
+   "properties": {
+    "name": "1480 Landssj\u00fakrah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.779327,
+     62.032098
+    ]
+   },
+   "properties": {
+    "name": "1311 L\u00f8gmannabreyt/H\u00e1kunarg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781436,
+     62.022308
+    ]
+   },
+   "properties": {
+    "name": "1160 T\u00f3rsbreyt",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.771107,
+     62.037086
+    ]
+   },
+   "properties": {
+    "name": "1261 Inni \u00e1 G\u00f8tu",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788897,
+     62.026221
+    ]
+   },
+   "properties": {
+    "name": "1180 Berjabrekka",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780533,
+     62.036455
+    ]
+   },
+   "properties": {
+    "name": "1271 D\u00fdrindalsg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776281,
+     61.997931
+    ]
+   },
+   "properties": {
+    "name": "1510 Argjavegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788734,
+     62.025741
+    ]
+   },
+   "properties": {
+    "name": "1360 Berjabrekka",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785132,
+     62.023956
+    ]
+   },
+   "properties": {
+    "name": "1370 Sundsvegur/Birnug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787622,
+     62.027004
+    ]
+   },
+   "properties": {
+    "name": "1190 \u00d3luvug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780039,
+     62.00926
+    ]
+   },
+   "properties": {
+    "name": "1110 J\u00f3annesar Paturssonar g\u00f8ta ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789397,
+     61.996482
+    ]
+   },
+   "properties": {
+    "name": "1020 Glyvursvegur/Tra\u00f0ag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785565,
+     62.007252
+    ]
+   },
+   "properties": {
+    "name": "1460 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781785,
+     62.028529
+    ]
+   },
+   "properties": {
+    "name": "1200 Vegurin Langi/Flatarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777609,
+     61.996477
+    ]
+   },
+   "properties": {
+    "name": "1520 Tra\u00f0ag\u00f8ta/Ross\u00e1g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785342,
+     62.007268
+    ]
+   },
+   "properties": {
+    "name": "1100 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776503,
+     62.02781
+    ]
+   },
+   "properties": {
+    "name": "1210 Vegurin Langi/oman Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.78118,
+     62.034439
+    ]
+   },
+   "properties": {
+    "name": "1291 Sk\u00falin vi\u00f0 L\u00f8gmannabreyt",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767947,
+     62.030186
+    ]
+   },
+   "properties": {
+    "name": "1231 Hoyv\u00edkar Sk\u00fali",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.770195,
+     62.029058
+    ]
+   },
+   "properties": {
+    "name": "1221 Vegurin Langi (Dagstovnurin \u00ed Hoyv\u00edk)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766436,
+     62.03245
+    ]
+   },
+   "properties": {
+    "name": "1241 Vegurin Langi/Brekkut\u00fan",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785498,
+     62.030205
+    ]
+   },
+   "properties": {
+    "name": "4020 Flatarvegur/S\u00edvarsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780949,
+     62.001026
+    ]
+   },
+   "properties": {
+    "name": "1070 Doktara Dahls g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774508,
+     62.011344
+    ]
+   },
+   "properties": {
+    "name": "1430 Steinat\u00fan (Nor\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781207,
+     62.000899
+    ]
+   },
+   "properties": {
+    "name": "1490 Doktara Dahls g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774939,
+     61.993717
+    ]
+   },
+   "properties": {
+    "name": "1010 Hamarin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.782449,
+     62.005108
+    ]
+   },
+   "properties": {
+    "name": "1450 Fr\u00e6lsi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775212,
+     62.018276
+    ]
+   },
+   "properties": {
+    "name": "1140 R. C. Effers\u00f8es g\u00f8ta/Tjaldursvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798033,
+     62.001108
+    ]
+   },
+   "properties": {
+    "name": "2040 Velbasta\u00f0vegur/Smi\u00f0juger\u00f0i ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7876246,
+     62.001442
+    ]
+   },
+   "properties": {
+    "name": "7325 Velbasta\u00f0vegur/\u00ed Vika",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778098,
+     62.002215
+    ]
+   },
+   "properties": {
+    "name": "1480 Landssj\u00fakrah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773264,
+     62.014634
+    ]
+   },
+   "properties": {
+    "name": "1130 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793564,
+     62.004115
+    ]
+   },
+   "properties": {
+    "name": "2440 Musikksk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.764892,
+     62.020897
+    ]
+   },
+   "properties": {
+    "name": "2220 Hoyv\u00edksvegur/Mannaskar\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765482,
+     62.018351
+    ]
+   },
+   "properties": {
+    "name": "2210 Hoyv\u00edksvegur/F\u00fatal\u00e1g",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77529,
+     62.020401
+    ]
+   },
+   "properties": {
+    "name": "1150 Uppi \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.804801,
+     62.000001
+    ]
+   },
+   "properties": {
+    "name": "2470 Gamli Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777538,
+     62.006683
+    ]
+   },
+   "properties": {
+    "name": "2400 J.C. Svabos g\u00f8ta (Landsb\u00f3kasavni\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776579,
+     62.005175
+    ]
+   },
+   "properties": {
+    "name": "2410 Hornab\u00f8ur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765805,
+     62.018259
+    ]
+   },
+   "properties": {
+    "name": "2300 Hoyv\u00edksvegur/F\u00fatal\u00e1g",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766154,
+     62.021941
+    ]
+   },
+   "properties": {
+    "name": "2230 Mi\u00f0lon",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.762166,
+     62.014213
+    ]
+   },
+   "properties": {
+    "name": "2190 Eystursk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792864,
+     62.00422
+    ]
+   },
+   "properties": {
+    "name": "2060 Musikksk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.761812,
+     62.01419
+    ]
+   },
+   "properties": {
+    "name": "2330 Eystursk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778536,
+     62.009064
+    ]
+   },
+   "properties": {
+    "name": "2130 Fr\u00ed\u00f0riks Petersens g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.808667,
+     62.000009
+    ]
+   },
+   "properties": {
+    "name": "2020 Velbasta\u00f0vegur/Gamli Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.762002,
+     62.008451
+    ]
+   },
+   "properties": {
+    "name": "2160 Skansin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775777,
+     62.017425
+    ]
+   },
+   "properties": {
+    "name": "1410 R. C. Effers\u00f8es g\u00f8ta (L\u00e6knami\u00f0st\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7876246,
+     62.001442
+    ]
+   },
+   "properties": {
+    "name": "7345 Velbasta\u00f0vegur/Heygsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772111,
+     62.021191
+    ]
+   },
+   "properties": {
+    "name": "2270 Staravegur/Falkavegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.804713,
+     61.999886
+    ]
+   },
+   "properties": {
+    "name": "2030 Gamli Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789635,
+     62.005627
+    ]
+   },
+   "properties": {
+    "name": "2420 Landavegur/\u00cdslandsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798707,
+     62.002955
+    ]
+   },
+   "properties": {
+    "name": "2450 Landavegur (SEV)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774508,
+     62.011344
+    ]
+   },
+   "properties": {
+    "name": "1430 Steinat\u00fan (Nor\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776708,
+     62.004374
+    ]
+   },
+   "properties": {
+    "name": "2110 Hornab\u00f8ur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7735257,
+     62.0194229
+    ]
+   },
+   "properties": {
+    "name": "2260 T\u00edtlingsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.810274,
+     61.999939
+    ]
+   },
+   "properties": {
+    "name": "2480 Velbasta\u00f0vegur/Gamli Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772597,
+     62.021225
+    ]
+   },
+   "properties": {
+    "name": "2240 Staravegur/Falkavegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765336,
+     62.020237
+    ]
+   },
+   "properties": {
+    "name": "2290 Hoyv\u00edksvegur/Mannaskar\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.759276,
+     62.011518
+    ]
+   },
+   "properties": {
+    "name": "2350 Yviri vi\u00f0 Strond",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774169,
+     62.011268
+    ]
+   },
+   "properties": {
+    "name": "1120 Steinat\u00fan (Su\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777532,
+     62.007053
+    ]
+   },
+   "properties": {
+    "name": "2120 J.C. Svabos g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.797917,
+     62.000775
+    ]
+   },
+   "properties": {
+    "name": "2460 Velbasta\u00f0vegur/Smi\u00f0juger\u00f0i",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8282,
+     61.999926
+    ]
+   },
+   "properties": {
+    "name": "2010 Nor\u00f0asta Horn",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.761237,
+     62.016957
+    ]
+   },
+   "properties": {
+    "name": "2310 F\u00fatal\u00e1g",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77589,
+     62.020651
+    ]
+   },
+   "properties": {
+    "name": "1400 H\u00f8llin \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.761528,
+     62.017117
+    ]
+   },
+   "properties": {
+    "name": "2200 F\u00fatal\u00e1g",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789246,
+     62.005676
+    ]
+   },
+   "properties": {
+    "name": "2080 Landavegur/\u00cdslandsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.762064,
+     62.015324
+    ]
+   },
+   "properties": {
+    "name": "2320 Stoffal\u00e1g",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784631,
+     62.00083
+    ]
+   },
+   "properties": {
+    "name": "7330 Velbasta\u00f0vegur/B\u00edggjarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787813,
+     62.003102
+    ]
+   },
+   "properties": {
+    "name": "2426 Heygsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.761872,
+     62.008712
+    ]
+   },
+   "properties": {
+    "name": "2360 Skansin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.758751,
+     62.014022
+    ]
+   },
+   "properties": {
+    "name": "2340 T\u00f3rgar\u00f0sg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.758451,
+     62.014019
+    ]
+   },
+   "properties": {
+    "name": "2180 T\u00f3rgar\u00f0sg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765543,
+     62.021842
+    ]
+   },
+   "properties": {
+    "name": "2280 Mi\u00f0lon",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775212,
+     62.018276
+    ]
+   },
+   "properties": {
+    "name": "1140 R. C. Effers\u00f8es g\u00f8ta/Tjaldursvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778845,
+     62.009111
+    ]
+   },
+   "properties": {
+    "name": "2390 Fr\u00ed\u00f0riks Petersens g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79784,
+     62.003025
+    ]
+   },
+   "properties": {
+    "name": "2050 Landavegur (SEV)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767007,
+     62.010528
+    ]
+   },
+   "properties": {
+    "name": "2370 J\u00f3nas Broncks g\u00f8ta (Fr\u00fautr\u00f8\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784753,
+     62.000925
+    ]
+   },
+   "properties": {
+    "name": "7340 Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777516,
+     62.002724
+    ]
+   },
+   "properties": {
+    "name": "1080 Landssj\u00fakrah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.758946,
+     62.011689
+    ]
+   },
+   "properties": {
+    "name": "2170 Yviri vi\u00f0 Strond",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.78751,
+     62.002909
+    ]
+   },
+   "properties": {
+    "name": "2084 Heygsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766031,
+     62.036816
+    ]
+   },
+   "properties": {
+    "name": "3210 Hv\u00edtanesvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788901,
+     61.996199
+    ]
+   },
+   "properties": {
+    "name": "1540 Glyvursvegur/Tra\u00f0ag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775777,
+     62.017425
+    ]
+   },
+   "properties": {
+    "name": "1410 R. C. Effers\u00f8es g\u00f8ta (L\u00e6knami\u00f0st\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793404,
+     61.996251
+    ]
+   },
+   "properties": {
+    "name": "3020 L\u00f8kjat\u00fan",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784418,
+     62.029335
+    ]
+   },
+   "properties": {
+    "name": "4260 Flatarvegur/M\u00f3ritsarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.791078,
+     62.033067
+    ]
+   },
+   "properties": {
+    "name": "4010 Millum Gilja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787606,
+     62.013992
+    ]
+   },
+   "properties": {
+    "name": "3330 Dalavegur (ovast)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777531,
+     62.020817
+    ]
+   },
+   "properties": {
+    "name": "1390 Svimjih\u00f8llin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.769236,
+     62.019285
+    ]
+   },
+   "properties": {
+    "name": "3160 Tjaldursvegur (\u00e1 H\u00e1lsi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785498,
+     62.030205
+    ]
+   },
+   "properties": {
+    "name": "4020 Flatarvegur/S\u00edvarsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.802605,
+     62.005155
+    ]
+   },
+   "properties": {
+    "name": "3370 Marknagil  (Glasir)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.790986,
+     62.021477
+    ]
+   },
+   "properties": {
+    "name": "4090 Villingadalsvegur/S\u00fdrug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77871,
+     62.013117
+    ]
+   },
+   "properties": {
+    "name": "4130 Var\u00f0ag\u00f8ta (Sankta Frans sk\u00fali)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781892,
+     62.02196
+    ]
+   },
+   "properties": {
+    "name": "1380 T\u00f3rsbreyt (Sortud\u00edki\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787266,
+     62.019401
+    ]
+   },
+   "properties": {
+    "name": "4100 Var\u00f0ag\u00f8ta (ovast)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.782744,
+     62.028782
+    ]
+   },
+   "properties": {
+    "name": "1340 Vegurin Langi/Flatarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775584,
+     61.993711
+    ]
+   },
+   "properties": {
+    "name": "1550 Hamarin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788358,
+     62.026905
+    ]
+   },
+   "properties": {
+    "name": "1350 \u00d3luvug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775275,
+     62.028057
+    ]
+   },
+   "properties": {
+    "name": "1330 Vegurin Langi/oman Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.770802,
+     62.041848
+    ]
+   },
+   "properties": {
+    "name": "3220 Hv\u00edtanes",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774508,
+     62.011344
+    ]
+   },
+   "properties": {
+    "name": "1430 Steinat\u00fan (Nor\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776354,
+     62.011385
+    ]
+   },
+   "properties": {
+    "name": "4140 Tr\u00f3ndarg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.78169,
+     62.012078
+    ]
+   },
+   "properties": {
+    "name": "3320 Dalavegur/Pedda vi\u00f0 Stein g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.80196,
+     62.00382
+    ]
+   },
+   "properties": {
+    "name": "3040 Marknagilsvegur/Hans Andriasar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.797756,
+     61.995479
+    ]
+   },
+   "properties": {
+    "name": "3010 AB v\u00f8llurin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.795593,
+     62.026949
+    ]
+   },
+   "properties": {
+    "name": "4070 Villingadalsvegur/Brobbersg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.768282,
+     62.027758
+    ]
+   },
+   "properties": {
+    "name": "3190 Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794392,
+     62.024228
+    ]
+   },
+   "properties": {
+    "name": "4075 Villingadalsvegur/Baraldsg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785132,
+     62.023956
+    ]
+   },
+   "properties": {
+    "name": "1370 Sundsvegur/Birnug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.770195,
+     62.029058
+    ]
+   },
+   "properties": {
+    "name": "1221 Vegurin Langi (Dagstovnurin \u00ed Hoyv\u00edk)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774939,
+     61.993717
+    ]
+   },
+   "properties": {
+    "name": "1010 Hamarin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793906,
+     62.011544
+    ]
+   },
+   "properties": {
+    "name": "3340 Marknagilsvegur/Svalbardsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.783134,
+     62.008786
+    ]
+   },
+   "properties": {
+    "name": "3110 Gr\u00f8nlandsvegur/J\u00e1kup Nols\u00f8es g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788734,
+     62.025741
+    ]
+   },
+   "properties": {
+    "name": "1360 Berjabrekka",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.796146,
+     61.999855
+    ]
+   },
+   "properties": {
+    "name": "3400 Glyvursvegur/Gamli Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.764892,
+     62.020897
+    ]
+   },
+   "properties": {
+    "name": "2220 Hoyv\u00edksvegur/Mannaskar\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785833,
+     62.017955
+    ]
+   },
+   "properties": {
+    "name": "4110 Var\u00f0ag\u00f8ta/Brattabrekka",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787675,
+     62.046832
+    ]
+   },
+   "properties": {
+    "name": "6120 Brennist\u00f8\u00f0in",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793625,
+     61.996309
+    ]
+   },
+   "properties": {
+    "name": "3410 L\u00f8kjat\u00fan",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.801332,
+     62.00757
+    ]
+   },
+   "properties": {
+    "name": "3050 Marknagil (Glasir)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.795478,
+     62.010454
+    ]
+   },
+   "properties": {
+    "name": "3070 Marknagilsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789397,
+     61.996482
+    ]
+   },
+   "properties": {
+    "name": "1020 Glyvursvegur/Tra\u00f0ag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774169,
+     62.011268
+    ]
+   },
+   "properties": {
+    "name": "1120 Steinat\u00fan (Su\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787232,
+     62.009652
+    ]
+   },
+   "properties": {
+    "name": "3100 Gr\u00f8nlandsvegur/Krossl\u00ed\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765043,
+     62.029044
+    ]
+   },
+   "properties": {
+    "name": "3200 Hv\u00edtanesvegur/Gar\u00f0avegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.783216,
+     62.015985
+    ]
+   },
+   "properties": {
+    "name": "4120 Var\u00f0ag\u00f8ta/Dalag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.763762,
+     62.022499
+    ]
+   },
+   "properties": {
+    "name": "3180 \u00d3\u00f0insh\u00e6dd",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780039,
+     62.00926
+    ]
+   },
+   "properties": {
+    "name": "1110 J\u00f3annesar Paturssonar g\u00f8ta ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775212,
+     62.018276
+    ]
+   },
+   "properties": {
+    "name": "1140 R. C. Effers\u00f8es g\u00f8ta/Tjaldursvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.802007,
+     62.003271
+    ]
+   },
+   "properties": {
+    "name": "3380 Marknagilsvegur/Hans Andriasar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.800594,
+     62.008491
+    ]
+   },
+   "properties": {
+    "name": "3360 Marknagilsvegur/Kerjag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773264,
+     62.014634
+    ]
+   },
+   "properties": {
+    "name": "1130 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792809,
+     62.011795
+    ]
+   },
+   "properties": {
+    "name": "3080 Marknagilsvegur/Svalbardsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77589,
+     62.020651
+    ]
+   },
+   "properties": {
+    "name": "1400 H\u00f8llin \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.799308,
+     62.008827
+    ]
+   },
+   "properties": {
+    "name": "3060 Marknagilsvegur/Kerjag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.796482,
+     62.010141
+    ]
+   },
+   "properties": {
+    "name": "3350 Marknagilsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794607,
+     62.028309
+    ]
+   },
+   "properties": {
+    "name": "4060 undir Br\u00fanni",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793481,
+     62.030273
+    ]
+   },
+   "properties": {
+    "name": "4050 Sundsvegur/undir Br\u00fanni",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767947,
+     62.030186
+    ]
+   },
+   "properties": {
+    "name": "1231 Hoyv\u00edkar Sk\u00fali",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766436,
+     62.03245
+    ]
+   },
+   "properties": {
+    "name": "1241 Vegurin Langi/Brekkut\u00fan",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766608,
+     62.034399
+    ]
+   },
+   "properties": {
+    "name": "1251 Vegurin Langi/Klingran",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789624,
+     62.010822
+    ]
+   },
+   "properties": {
+    "name": "3090 Svalbardsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787544,
+     62.031511
+    ]
+   },
+   "properties": {
+    "name": "4270 Flatarvegur/Onnug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.791577,
+     62.028816
+    ]
+   },
+   "properties": {
+    "name": "4040 Sundsvegur/Turi\u00f0arg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.797917,
+     62.000775
+    ]
+   },
+   "properties": {
+    "name": "2460 Velbasta\u00f0vegur/Smi\u00f0juger\u00f0i",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798033,
+     62.001108
+    ]
+   },
+   "properties": {
+    "name": "2040 Velbasta\u00f0vegur/Smi\u00f0juger\u00f0i ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.797772,
+     61.995579
+    ]
+   },
+   "properties": {
+    "name": "3420 AB v\u00f8llurin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772916,
+     62.013844
+    ]
+   },
+   "properties": {
+    "name": "1420 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774508,
+     62.011344
+    ]
+   },
+   "properties": {
+    "name": "1430 Steinat\u00fan (Nor\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798033,
+     62.001108
+    ]
+   },
+   "properties": {
+    "name": "2040 Velbasta\u00f0vegur/Smi\u00f0juger\u00f0i ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787266,
+     62.019401
+    ]
+   },
+   "properties": {
+    "name": "4100 Var\u00f0ag\u00f8ta (ovast)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787245,
+     62.020415
+    ]
+   },
+   "properties": {
+    "name": "4190 Gundadalsvegur/\u00c1argeil",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776579,
+     62.005175
+    ]
+   },
+   "properties": {
+    "name": "2410 Hornab\u00f8ur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766608,
+     62.034399
+    ]
+   },
+   "properties": {
+    "name": "1251 Vegurin Langi/Klingran",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788897,
+     62.026221
+    ]
+   },
+   "properties": {
+    "name": "1180 Berjabrekka",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789635,
+     62.005627
+    ]
+   },
+   "properties": {
+    "name": "2420 Landavegur/\u00cdslandsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7866176,
+     62.0178296
+    ]
+   },
+   "properties": {
+    "name": "4280 Vestari ringvegur/Oyggjarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794392,
+     62.024228
+    ]
+   },
+   "properties": {
+    "name": "4075 Villingadalsvegur/Baraldsg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.80196,
+     62.00382
+    ]
+   },
+   "properties": {
+    "name": "3040 Marknagilsvegur/Hans Andriasar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781436,
+     62.022308
+    ]
+   },
+   "properties": {
+    "name": "1160 T\u00f3rsbreyt",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.800594,
+     62.008491
+    ]
+   },
+   "properties": {
+    "name": "3360 Marknagilsvegur/Kerjag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788358,
+     62.026905
+    ]
+   },
+   "properties": {
+    "name": "1350 \u00d3luvug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.779327,
+     62.032098
+    ]
+   },
+   "properties": {
+    "name": "1311 L\u00f8gmannabreyt/H\u00e1kunarg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792809,
+     62.011795
+    ]
+   },
+   "properties": {
+    "name": "3080 Marknagilsvegur/Svalbardsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.799308,
+     62.008827
+    ]
+   },
+   "properties": {
+    "name": "3060 Marknagilsvegur/Kerjag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.782744,
+     62.028782
+    ]
+   },
+   "properties": {
+    "name": "1340 Vegurin Langi/Flatarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.770195,
+     62.029058
+    ]
+   },
+   "properties": {
+    "name": "1221 Vegurin Langi (Dagstovnurin \u00ed Hoyv\u00edk)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.791577,
+     62.028816
+    ]
+   },
+   "properties": {
+    "name": "4040 Sundsvegur/Turi\u00f0arg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784753,
+     62.000925
+    ]
+   },
+   "properties": {
+    "name": "7340 Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79784,
+     62.003025
+    ]
+   },
+   "properties": {
+    "name": "2050 Landavegur (SEV)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766436,
+     62.03245
+    ]
+   },
+   "properties": {
+    "name": "1241 Vegurin Langi/Brekkut\u00fan",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793481,
+     62.030273
+    ]
+   },
+   "properties": {
+    "name": "4050 Sundsvegur/undir Br\u00fanni",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.795607,
+     62.004773
+    ]
+   },
+   "properties": {
+    "name": "2445 Sk\u00falin vi\u00f0 Fl\u00f8tum",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788812,
+     62.018689
+    ]
+   },
+   "properties": {
+    "name": "5050 Vestari Ringvegur/Oyggjarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793906,
+     62.011544
+    ]
+   },
+   "properties": {
+    "name": "3340 Marknagilsvegur/Svalbardsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780124,
+     62.009357
+    ]
+   },
+   "properties": {
+    "name": "1440 J\u00f3annesar Paturssonar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8050266,
+     62.0042944
+    ]
+   },
+   "properties": {
+    "name": "3030 Janusarg\u00f8ta (Glasir)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785565,
+     62.007252
+    ]
+   },
+   "properties": {
+    "name": "1460 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778098,
+     62.002215
+    ]
+   },
+   "properties": {
+    "name": "1480 Landssj\u00fakrah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780533,
+     62.036455
+    ]
+   },
+   "properties": {
+    "name": "1271 D\u00fdrindalsg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777538,
+     62.006683
+    ]
+   },
+   "properties": {
+    "name": "2400 J.C. Svabos g\u00f8ta (Landsb\u00f3kasavni\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778172,
+     62.017946
+    ]
+   },
+   "properties": {
+    "name": "4170 Gundadalur (\u00cdtr\u00f3ttar\u00f8ki)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773264,
+     62.014634
+    ]
+   },
+   "properties": {
+    "name": "1130 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775275,
+     62.028057
+    ]
+   },
+   "properties": {
+    "name": "1330 Vegurin Langi/oman Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.771107,
+     62.037086
+    ]
+   },
+   "properties": {
+    "name": "1261 Inni \u00e1 G\u00f8tu",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788017,
+     62.014603
+    ]
+   },
+   "properties": {
+    "name": "5040 Marknagilsvegur/Dalavegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77871,
+     62.013117
+    ]
+   },
+   "properties": {
+    "name": "4130 Var\u00f0ag\u00f8ta (Sankta Frans sk\u00fali)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.802007,
+     62.003271
+    ]
+   },
+   "properties": {
+    "name": "3380 Marknagilsvegur/Hans Andriasar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780039,
+     62.00926
+    ]
+   },
+   "properties": {
+    "name": "1110 J\u00f3annesar Paturssonar g\u00f8ta ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792864,
+     62.00422
+    ]
+   },
+   "properties": {
+    "name": "2060 Musikksk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.783572,
+     62.01919
+    ]
+   },
+   "properties": {
+    "name": "4180 Gundadalsvegur (Badmintonh\u00f8llin)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.802605,
+     62.005155
+    ]
+   },
+   "properties": {
+    "name": "3370 Marknagil  (Glasir)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.790986,
+     62.021477
+    ]
+   },
+   "properties": {
+    "name": "4090 Villingadalsvegur/S\u00fdrug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.796482,
+     62.010141
+    ]
+   },
+   "properties": {
+    "name": "3350 Marknagilsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785833,
+     62.017955
+    ]
+   },
+   "properties": {
+    "name": "4110 Var\u00f0ag\u00f8ta/Brattabrekka",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767947,
+     62.030186
+    ]
+   },
+   "properties": {
+    "name": "1231 Hoyv\u00edkar Sk\u00fali",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77589,
+     62.020651
+    ]
+   },
+   "properties": {
+    "name": "1400 H\u00f8llin \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772916,
+     62.013844
+    ]
+   },
+   "properties": {
+    "name": "1420 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794607,
+     62.028309
+    ]
+   },
+   "properties": {
+    "name": "4060 undir Br\u00fanni",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.783216,
+     62.015985
+    ]
+   },
+   "properties": {
+    "name": "4120 Var\u00f0ag\u00f8ta/Dalag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776354,
+     62.011385
+    ]
+   },
+   "properties": {
+    "name": "4140 Tr\u00f3ndarg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785342,
+     62.007268
+    ]
+   },
+   "properties": {
+    "name": "1100 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.801332,
+     62.00757
+    ]
+   },
+   "properties": {
+    "name": "3050 Marknagil (Glasir)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77208,
+     62.029189
+    ]
+   },
+   "properties": {
+    "name": "1321 Hoyv\u00edkar Kirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.795593,
+     62.026949
+    ]
+   },
+   "properties": {
+    "name": "4070 Villingadalsvegur/Brobbersg\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.78118,
+     62.034439
+    ]
+   },
+   "properties": {
+    "name": "1291 Sk\u00falin vi\u00f0 L\u00f8gmannabreyt",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785354,
+     62.021634
+    ]
+   },
+   "properties": {
+    "name": "4200 Nor\u00f0urlandah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777531,
+     62.020817
+    ]
+   },
+   "properties": {
+    "name": "1390 Svimjih\u00f8llin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789246,
+     62.005676
+    ]
+   },
+   "properties": {
+    "name": "2080 Landavegur/\u00cdslandsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785628,
+     62.024223
+    ]
+   },
+   "properties": {
+    "name": "1170 Sundsvegur/Birnug\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793564,
+     62.004115
+    ]
+   },
+   "properties": {
+    "name": "2440 Musikksk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7997492,
+     62.0013168
+    ]
+   },
+   "properties": {
+    "name": "7355  Velbasta\u00f0vegur/L\u00edtlager\u00f0i",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774559,
+     62.031956
+    ]
+   },
+   "properties": {
+    "name": "1301 Atlag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775777,
+     62.017425
+    ]
+   },
+   "properties": {
+    "name": "1410 R. C. Effers\u00f8es g\u00f8ta (L\u00e6knami\u00f0st\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.795478,
+     62.010454
+    ]
+   },
+   "properties": {
+    "name": "3070 Marknagilsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7876246,
+     62.001442
+    ]
+   },
+   "properties": {
+    "name": "7345 Velbasta\u00f0vegur/Heygsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774169,
+     62.011268
+    ]
+   },
+   "properties": {
+    "name": "1120 Steinat\u00fan (Su\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.830441,
+     62.059531
+    ]
+   },
+   "properties": {
+    "name": "6180 Kaldbak (Sk\u00falin)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789246,
+     62.005676
+    ]
+   },
+   "properties": {
+    "name": "2080 Landavegur/\u00cdslandsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772916,
+     62.013844
+    ]
+   },
+   "properties": {
+    "name": "1420 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.769255,
+     62.027638
+    ]
+   },
+   "properties": {
+    "name": "3250 Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.91033,
+     62.065701
+    ]
+   },
+   "properties": {
+    "name": "6160 Kaldbaksvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8282,
+     61.999926
+    ]
+   },
+   "properties": {
+    "name": "2010 Nor\u00f0asta Horn",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780124,
+     62.009357
+    ]
+   },
+   "properties": {
+    "name": "1440 J\u00f3annesar Paturssonar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794074,
+     62.047801
+    ]
+   },
+   "properties": {
+    "name": "6100 \u00e1 Hjalla (Brennist\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785342,
+     62.007268
+    ]
+   },
+   "properties": {
+    "name": "1100 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798707,
+     62.002955
+    ]
+   },
+   "properties": {
+    "name": "2450 Landavegur (SEV)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.862101,
+     61.987688
+    ]
+   },
+   "properties": {
+    "name": "6090 Velbasta\u00f0ur (Fr\u00edsk\u00falin)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.848972,
+     61.981049
+    ]
+   },
+   "properties": {
+    "name": "6040 Velbasta\u00f0ur (\u00dati \u00e1 Heyggi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773264,
+     62.014634
+    ]
+   },
+   "properties": {
+    "name": "1130 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79784,
+     62.003025
+    ]
+   },
+   "properties": {
+    "name": "2050 Landavegur (SEV)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.810274,
+     61.999939
+    ]
+   },
+   "properties": {
+    "name": "2480 Velbasta\u00f0vegur/Gamli Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.857753,
+     61.983971
+    ]
+   },
+   "properties": {
+    "name": "6060 Velbasta\u00f0ur (Ger\u00f0isbreyt)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775212,
+     62.018276
+    ]
+   },
+   "properties": {
+    "name": "1140 R. C. Effers\u00f8es g\u00f8ta/Tjaldursvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.808667,
+     62.000009
+    ]
+   },
+   "properties": {
+    "name": "2020 Velbasta\u00f0vegur/Gamli Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.763585,
+     62.03004
+    ]
+   },
+   "properties": {
+    "name": "3240 Hv\u00edtanesvegur/\u00e1 M\u00fdrini",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785565,
+     62.007252
+    ]
+   },
+   "properties": {
+    "name": "1460 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77529,
+     62.020401
+    ]
+   },
+   "properties": {
+    "name": "1150 Uppi \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.770802,
+     62.041848
+    ]
+   },
+   "properties": {
+    "name": "3220 Hv\u00edtanes",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77589,
+     62.020651
+    ]
+   },
+   "properties": {
+    "name": "1400 H\u00f8llin \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.854043,
+     61.983568
+    ]
+   },
+   "properties": {
+    "name": "6070 Velbasta\u00f0ur (Ervavegur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765478,
+     62.035735
+    ]
+   },
+   "properties": {
+    "name": "3230 Hv\u00edtanesvegur/Vegurin Langi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.855845,
+     61.98217
+    ]
+   },
+   "properties": {
+    "name": "6050 Velbasta\u00f0ur (Sk\u00falin)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775777,
+     62.017425
+    ]
+   },
+   "properties": {
+    "name": "1410 R. C. Effers\u00f8es g\u00f8ta (L\u00e6knami\u00f0st\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792864,
+     62.00422
+    ]
+   },
+   "properties": {
+    "name": "2060 Musikksk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765043,
+     62.029044
+    ]
+   },
+   "properties": {
+    "name": "3200 Hv\u00edtanesvegur/Gar\u00f0avegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794033,
+     61.952043
+    ]
+   },
+   "properties": {
+    "name": "6010 Kirkjub\u00f8ur (Vi\u00f0 kirkjuna)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.846373,
+     62.056802
+    ]
+   },
+   "properties": {
+    "name": "6170 Kaldbak/inni \u00e1 Fl\u00f8tum",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798063,
+     61.954227
+    ]
+   },
+   "properties": {
+    "name": "6020 Kirkjub\u00f8ur (\u00ed L\u00e1gab\u00f8)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793564,
+     62.004115
+    ]
+   },
+   "properties": {
+    "name": "2440 Musikksk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789635,
+     62.005627
+    ]
+   },
+   "properties": {
+    "name": "2420 Landavegur/\u00cdslandsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.913112,
+     62.063314
+    ]
+   },
+   "properties": {
+    "name": "6150 Kaldbaksbotnur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774508,
+     62.011344
+    ]
+   },
+   "properties": {
+    "name": "1430 Steinat\u00fan (Nor\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.801741,
+     61.955406
+    ]
+   },
+   "properties": {
+    "name": "6030 Kirkjub\u00f8ur (Inni \u00e1 Fj\u00f3si)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780039,
+     62.00926
+    ]
+   },
+   "properties": {
+    "name": "1110 J\u00f3annesar Paturssonar g\u00f8ta ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.802718,
+     62.048572
+    ]
+   },
+   "properties": {
+    "name": "6110 Sandv\u00edkarhjalli",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774169,
+     62.011268
+    ]
+   },
+   "properties": {
+    "name": "1120 Steinat\u00fan (Su\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.768282,
+     62.027758
+    ]
+   },
+   "properties": {
+    "name": "3190 Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766031,
+     62.036816
+    ]
+   },
+   "properties": {
+    "name": "3210 Hv\u00edtanesvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77529,
+     62.020401
+    ]
+   },
+   "properties": {
+    "name": "1150 Uppi \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766341,
+     62.009966
+    ]
+   },
+   "properties": {
+    "name": "2150 J\u00f3nas Broncks g\u00f8ta (Fr\u00fautr\u00f8\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766031,
+     62.036816
+    ]
+   },
+   "properties": {
+    "name": "3210 Hv\u00edtanesvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778098,
+     62.002215
+    ]
+   },
+   "properties": {
+    "name": "1480 Landssj\u00fakrah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.830441,
+     62.059531
+    ]
+   },
+   "properties": {
+    "name": "6180 Kaldbak (Sk\u00falin)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788812,
+     62.018689
+    ]
+   },
+   "properties": {
+    "name": "5050 Vestari Ringvegur/Oyggjarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.769255,
+     62.027638
+    ]
+   },
+   "properties": {
+    "name": "3250 Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.763585,
+     62.03004
+    ]
+   },
+   "properties": {
+    "name": "3240 Hv\u00edtanesvegur/\u00e1 M\u00fdrini",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.796482,
+     62.010141
+    ]
+   },
+   "properties": {
+    "name": "3350 Marknagilsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765043,
+     62.029044
+    ]
+   },
+   "properties": {
+    "name": "3200 Hv\u00edtanesvegur/Gar\u00f0avegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785354,
+     62.021634
+    ]
+   },
+   "properties": {
+    "name": "4200 Nor\u00f0urlandah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.888949,
+     62.119223
+    ]
+   },
+   "properties": {
+    "name": "7040 Kollafj\u00f8r\u00f0ur (\u00e1 Todnesi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792809,
+     62.011795
+    ]
+   },
+   "properties": {
+    "name": "3080 Marknagilsvegur/Svalbardsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.800594,
+     62.008491
+    ]
+   },
+   "properties": {
+    "name": "3360 Marknagilsvegur/Kerjag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780079,
+     62.003897
+    ]
+   },
+   "properties": {
+    "name": "1470 \u00e1 Fr\u00e6lsinum (Eirargar\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780039,
+     62.00926
+    ]
+   },
+   "properties": {
+    "name": "1110 J\u00f3annesar Paturssonar g\u00f8ta ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772916,
+     62.013844
+    ]
+   },
+   "properties": {
+    "name": "1420 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784753,
+     62.000925
+    ]
+   },
+   "properties": {
+    "name": "7340 Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794074,
+     62.047801
+    ]
+   },
+   "properties": {
+    "name": "6100 \u00e1 Hjalla (Brennist\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.801332,
+     62.00757
+    ]
+   },
+   "properties": {
+    "name": "3050 Marknagil (Glasir)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793906,
+     62.011544
+    ]
+   },
+   "properties": {
+    "name": "3340 Marknagilsvegur/Svalbardsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.768282,
+     62.027758
+    ]
+   },
+   "properties": {
+    "name": "3190 Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785565,
+     62.007252
+    ]
+   },
+   "properties": {
+    "name": "1460 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767007,
+     62.010528
+    ]
+   },
+   "properties": {
+    "name": "2370 J\u00f3nas Broncks g\u00f8ta (Fr\u00fautr\u00f8\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.802007,
+     62.003271
+    ]
+   },
+   "properties": {
+    "name": "3380 Marknagilsvegur/Hans Andriasar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9405431,
+     62.1017692
+    ]
+   },
+   "properties": {
+    "name": "7150  Kollafj\u00f8r\u00f0ur (Havnalagi\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774508,
+     62.011344
+    ]
+   },
+   "properties": {
+    "name": "1430 Steinat\u00fan (Nor\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.786893,
+     62.021709
+    ]
+   },
+   "properties": {
+    "name": "4210 Nor\u00f0urlandah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.943871,
+     62.101615
+    ]
+   },
+   "properties": {
+    "name": "7120 Kollafj\u00f8r\u00f0ur (Inni \u00ed Fir\u00f0i)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.914491,
+     62.110458
+    ]
+   },
+   "properties": {
+    "name": "7080 Kollafj\u00f8r\u00f0ur (Polatr\u00f8\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773264,
+     62.014634
+    ]
+   },
+   "properties": {
+    "name": "1130 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.875216,
+     62.124161
+    ]
+   },
+   "properties": {
+    "name": "7020 Kollafj\u00f8r\u00f0ur (Nor\u00f0uri \u00ed Sundum)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.782449,
+     62.005108
+    ]
+   },
+   "properties": {
+    "name": "1450 Fr\u00e6lsi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.913112,
+     62.063314
+    ]
+   },
+   "properties": {
+    "name": "6150 Kaldbaksbotnur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.929018,
+     62.096177
+    ]
+   },
+   "properties": {
+    "name": "7130 Signab\u00f8ur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7997492,
+     62.0013168
+    ]
+   },
+   "properties": {
+    "name": "7310  Velbasta\u00f0vegur/Glyvursvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.802718,
+     62.048572
+    ]
+   },
+   "properties": {
+    "name": "6110 Sandv\u00edkarhjalli",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.881024,
+     62.119673
+    ]
+   },
+   "properties": {
+    "name": "7030 Kollafj\u00f8r\u00f0ur (\u00e1 Kjalnesi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780124,
+     62.009357
+    ]
+   },
+   "properties": {
+    "name": "1440 J\u00f3annesar Paturssonar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.795478,
+     62.010454
+    ]
+   },
+   "properties": {
+    "name": "3070 Marknagilsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777531,
+     62.020817
+    ]
+   },
+   "properties": {
+    "name": "1390 Svimjih\u00f8llin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.925208,
+     62.104908
+    ]
+   },
+   "properties": {
+    "name": "7100 Kollafj\u00f8r\u00f0ur (\u00ed L\u00ed\u00f0ini)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.905913,
+     62.116524
+    ]
+   },
+   "properties": {
+    "name": "7070 Kollafj\u00f8r\u00f0ur (Sk\u00falin)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.797917,
+     62.000775
+    ]
+   },
+   "properties": {
+    "name": "2460 Velbasta\u00f0vegur/Smi\u00f0juger\u00f0i",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774169,
+     62.011268
+    ]
+   },
+   "properties": {
+    "name": "1120 Steinat\u00fan (Su\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784631,
+     62.00083
+    ]
+   },
+   "properties": {
+    "name": "7330 Velbasta\u00f0vegur/B\u00edggjarvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798033,
+     62.001108
+    ]
+   },
+   "properties": {
+    "name": "2040 Velbasta\u00f0vegur/Smi\u00f0juger\u00f0i ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.899492,
+     62.117429
+    ]
+   },
+   "properties": {
+    "name": "7050 Kollafj\u00f8r\u00f0ur (vi\u00f0 Sj\u00f3gv)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.764879,
+     62.007989
+    ]
+   },
+   "properties": {
+    "name": "7200 Eystara Bryggja (Farst\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.777516,
+     62.002724
+    ]
+   },
+   "properties": {
+    "name": "1080 Landssj\u00fakrah\u00fasi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775777,
+     62.017425
+    ]
+   },
+   "properties": {
+    "name": "1410 R. C. Effers\u00f8es g\u00f8ta (L\u00e6knami\u00f0st\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781833,
+     62.004935
+    ]
+   },
+   "properties": {
+    "name": "1090 Fr\u00e6lsi\u00f0",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.770802,
+     62.041848
+    ]
+   },
+   "properties": {
+    "name": "3220 Hv\u00edtanes",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775212,
+     62.018276
+    ]
+   },
+   "properties": {
+    "name": "1140 R. C. Effers\u00f8es g\u00f8ta/Tjaldursvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.917285,
+     62.108257
+    ]
+   },
+   "properties": {
+    "name": "7090 Kollafj\u00f8r\u00f0ur (\u00e1 Lygnnesi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77589,
+     62.020651
+    ]
+   },
+   "properties": {
+    "name": "1400 H\u00f8llin \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.939295,
+     62.101366
+    ]
+   },
+   "properties": {
+    "name": "7110 Kollafj\u00f8r\u00f0ur (Vi\u00f0 havnalagi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.80196,
+     62.00382
+    ]
+   },
+   "properties": {
+    "name": "3040 Marknagilsvegur/Hans Andriasar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.944567,
+     62.09575
+    ]
+   },
+   "properties": {
+    "name": "7140 Kollafj\u00f8r\u00f0ur (Vi\u00f0 tunnilsmunnan)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.802605,
+     62.005155
+    ]
+   },
+   "properties": {
+    "name": "3370 Marknagil  (Glasir)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785342,
+     62.007268
+    ]
+   },
+   "properties": {
+    "name": "1100 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.799308,
+     62.008827
+    ]
+   },
+   "properties": {
+    "name": "3060 Marknagilsvegur/Kerjag\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.846373,
+     62.056802
+    ]
+   },
+   "properties": {
+    "name": "6170 Kaldbak/inni \u00e1 Fl\u00f8tum",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765478,
+     62.035735
+    ]
+   },
+   "properties": {
+    "name": "3230 Hv\u00edtanesvegur/Vegurin Langi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.913112,
+     62.063314
+    ]
+   },
+   "properties": {
+    "name": "6150 Kaldbaksbotnur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775212,
+     62.018276
+    ]
+   },
+   "properties": {
+    "name": "1140 R. C. Effers\u00f8es g\u00f8ta/Tjaldursvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765043,
+     62.029044
+    ]
+   },
+   "properties": {
+    "name": "3200 Hv\u00edtanesvegur/Gar\u00f0avegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772916,
+     62.013844
+    ]
+   },
+   "properties": {
+    "name": "1420 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798707,
+     62.002955
+    ]
+   },
+   "properties": {
+    "name": "2450 Landavegur (SEV)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79784,
+     62.003025
+    ]
+   },
+   "properties": {
+    "name": "2050 Landavegur (SEV)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77589,
+     62.020651
+    ]
+   },
+   "properties": {
+    "name": "1400 H\u00f8llin \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.855845,
+     61.98217
+    ]
+   },
+   "properties": {
+    "name": "6050 Velbasta\u00f0ur (Sk\u00falin)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8282,
+     61.999926
+    ]
+   },
+   "properties": {
+    "name": "2010 Nor\u00f0asta Horn",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.91033,
+     62.065701
+    ]
+   },
+   "properties": {
+    "name": "6160 Kaldbaksvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.939295,
+     62.101366
+    ]
+   },
+   "properties": {
+    "name": "7110 Kollafj\u00f8r\u00f0ur (Vi\u00f0 havnalagi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765478,
+     62.035735
+    ]
+   },
+   "properties": {
+    "name": "3230 Hv\u00edtanesvegur/Vegurin Langi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.792864,
+     62.00422
+    ]
+   },
+   "properties": {
+    "name": "2060 Musikksk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785565,
+     62.007252
+    ]
+   },
+   "properties": {
+    "name": "1460 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780124,
+     62.009357
+    ]
+   },
+   "properties": {
+    "name": "1440 J\u00f3annesar Paturssonar g\u00f8ta",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.810274,
+     61.999939
+    ]
+   },
+   "properties": {
+    "name": "2480 Velbasta\u00f0vegur/Gamli Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766031,
+     62.036816
+    ]
+   },
+   "properties": {
+    "name": "3210 Hv\u00edtanesvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.763585,
+     62.03004
+    ]
+   },
+   "properties": {
+    "name": "3240 Hv\u00edtanesvegur/\u00e1 M\u00fdrini",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.899492,
+     62.117429
+    ]
+   },
+   "properties": {
+    "name": "7050 Kollafj\u00f8r\u00f0ur (vi\u00f0 Sj\u00f3gv)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.888949,
+     62.119223
+    ]
+   },
+   "properties": {
+    "name": "7040 Kollafj\u00f8r\u00f0ur (\u00e1 Todnesi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.769255,
+     62.027638
+    ]
+   },
+   "properties": {
+    "name": "3250 Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.881024,
+     62.119673
+    ]
+   },
+   "properties": {
+    "name": "7030 Kollafj\u00f8r\u00f0ur (\u00e1 Kjalnesi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.929018,
+     62.096177
+    ]
+   },
+   "properties": {
+    "name": "7130 Signab\u00f8ur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.917285,
+     62.108257
+    ]
+   },
+   "properties": {
+    "name": "7090 Kollafj\u00f8r\u00f0ur (\u00e1 Lygnnesi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.768282,
+     62.027758
+    ]
+   },
+   "properties": {
+    "name": "3190 Hoydalar",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773264,
+     62.014634
+    ]
+   },
+   "properties": {
+    "name": "1130 SMS",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.905913,
+     62.116524
+    ]
+   },
+   "properties": {
+    "name": "7070 Kollafj\u00f8r\u00f0ur (Sk\u00falin)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798063,
+     61.954227
+    ]
+   },
+   "properties": {
+    "name": "6020 Kirkjub\u00f8ur (\u00ed L\u00e1gab\u00f8)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789246,
+     62.005676
+    ]
+   },
+   "properties": {
+    "name": "2080 Landavegur/\u00cdslandsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775777,
+     62.017425
+    ]
+   },
+   "properties": {
+    "name": "1410 R. C. Effers\u00f8es g\u00f8ta (L\u00e6knami\u00f0st\u00f8\u00f0in)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.846373,
+     62.056802
+    ]
+   },
+   "properties": {
+    "name": "6170 Kaldbak/inni \u00e1 Fl\u00f8tum",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794033,
+     61.952043
+    ]
+   },
+   "properties": {
+    "name": "6010 Kirkjub\u00f8ur (Vi\u00f0 kirkjuna)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.830441,
+     62.059531
+    ]
+   },
+   "properties": {
+    "name": "6180 Kaldbak (Sk\u00falin)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.914491,
+     62.110458
+    ]
+   },
+   "properties": {
+    "name": "7080 Kollafj\u00f8r\u00f0ur (Polatr\u00f8\u00f0)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.857753,
+     61.983971
+    ]
+   },
+   "properties": {
+    "name": "6060 Velbasta\u00f0ur (Ger\u00f0isbreyt)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774508,
+     62.011344
+    ]
+   },
+   "properties": {
+    "name": "1430 Steinat\u00fan (Nor\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780039,
+     62.00926
+    ]
+   },
+   "properties": {
+    "name": "1110 J\u00f3annesar Paturssonar g\u00f8ta ",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.943871,
+     62.101615
+    ]
+   },
+   "properties": {
+    "name": "7120 Kollafj\u00f8r\u00f0ur (Inni \u00ed Fir\u00f0i)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.808667,
+     62.000009
+    ]
+   },
+   "properties": {
+    "name": "2020 Velbasta\u00f0vegur/Gamli Velbasta\u00f0vegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.925208,
+     62.104908
+    ]
+   },
+   "properties": {
+    "name": "7100 Kollafj\u00f8r\u00f0ur (\u00ed L\u00ed\u00f0ini)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77529,
+     62.020401
+    ]
+   },
+   "properties": {
+    "name": "1150 Uppi \u00e1 H\u00e1lsi",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789635,
+     62.005627
+    ]
+   },
+   "properties": {
+    "name": "2420 Landavegur/\u00cdslandsvegur",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.944567,
+     62.09575
+    ]
+   },
+   "properties": {
+    "name": "7140 Kollafj\u00f8r\u00f0ur (Vi\u00f0 tunnilsmunnan)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.854043,
+     61.983568
+    ]
+   },
+   "properties": {
+    "name": "6070 Velbasta\u00f0ur (Ervavegur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.848972,
+     61.981049
+    ]
+   },
+   "properties": {
+    "name": "6040 Velbasta\u00f0ur (\u00dati \u00e1 Heyggi)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793564,
+     62.004115
+    ]
+   },
+   "properties": {
+    "name": "2440 Musikksk\u00falin",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.875216,
+     62.124161
+    ]
+   },
+   "properties": {
+    "name": "7020 Kollafj\u00f8r\u00f0ur (Nor\u00f0uri \u00ed Sundum)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.801741,
+     61.955406
+    ]
+   },
+   "properties": {
+    "name": "6030 Kirkjub\u00f8ur (Inni \u00e1 Fj\u00f3si)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785342,
+     62.007268
+    ]
+   },
+   "properties": {
+    "name": "1100 Vesturkirkja",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774169,
+     62.011268
+    ]
+   },
+   "properties": {
+    "name": "1120 Steinat\u00fan (Su\u00f0ur)",
+    "operator": "T\u00f3rshavn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774939,
+     61.993717
+    ]
+   },
+   "properties": {
+    "name": "1010 Hamarin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765166667,
+     62.00808333
+    ]
+   },
+   "properties": {
+    "name": "0081 T\u00f3rshavn Farst\u00f8\u00f0in",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767033333,
+     62.01051667
+    ]
+   },
+   "properties": {
+    "name": "0082 T\u00f3rshavn J\u00f3nas Broncks g\u00f8ta",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773366667,
+     62.01463333
+    ]
+   },
+   "properties": {
+    "name": "0083 T\u00f3rshavn SMS",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775366667,
+     62.02048333
+    ]
+   },
+   "properties": {
+    "name": "0084 T\u00f3rshavn Johannes Berg",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.763166667,
+     62.03011667
+    ]
+   },
+   "properties": {
+    "name": "0085 T\u00f3rshavn Mannbrekka",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766066667,
+     62.03685
+    ]
+   },
+   "properties": {
+    "name": "0086 T\u00f3rshavn vi\u00f0 Klingruna",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7708,
+     62.04183333
+    ]
+   },
+   "properties": {
+    "name": "0087 Hv\u00edtanes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9445,
+     62.09578333
+    ]
+   },
+   "properties": {
+    "name": "0088 Kollfj\u00f8r\u00f0ur vi\u00f0 tunnilin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.982983333,
+     62.11891667
+    ]
+   },
+   "properties": {
+    "name": "0089 Kollafj\u00f8r\u00f0ur Effo Kollfjar\u00f0adalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.04475,
+     62.12041667
+    ]
+   },
+   "properties": {
+    "name": "0090 Leynar",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.051866667,
+     62.11558333
+    ]
+   },
+   "properties": {
+    "name": "0091 Stykki\u00f0",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.076766667,
+     62.11866667
+    ]
+   },
+   "properties": {
+    "name": "0092 Kv\u00edv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.147583333,
+     62.1536
+    ]
+   },
+   "properties": {
+    "name": "0093 Vestmanna",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.166216667,
+     62.1541
+    ]
+   },
+   "properties": {
+    "name": "0094 Vestmanna Skipasmi\u00f0jan",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1751,
+     62.15386667
+    ]
+   },
+   "properties": {
+    "name": "0095 Vestmanna Flatnavegur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.166383333,
+     62.15398333
+    ]
+   },
+   "properties": {
+    "name": "0096 Vestmanna Skipasmi\u00f0jan",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.147583333,
+     62.1535
+    ]
+   },
+   "properties": {
+    "name": "0097 Vestmanna Fiskivinnusk\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765366667,
+     62.03575
+    ]
+   },
+   "properties": {
+    "name": "0122 Hoyv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765066667,
+     62.00801667
+    ]
+   },
+   "properties": {
+    "name": "0060 T\u00f3rshavn Farst\u00f8\u00f0in",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.76705,
+     62.01035
+    ]
+   },
+   "properties": {
+    "name": "0061 T\u00f3rshavn J\u00f3nas Broncks g\u00f8ta 7",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774416667,
+     62.01135
+    ]
+   },
+   "properties": {
+    "name": "0062 T\u00f3rshavn Steinat\u00fan",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.782366667,
+     62.00515
+    ]
+   },
+   "properties": {
+    "name": "0063 T\u00f3rshavn Fr\u00e6lsinum",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778033333,
+     62.00221667
+    ]
+   },
+   "properties": {
+    "name": "0064 T\u00f3rshavn Landssj\u00fakrah\u00fasi\u00f0",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787783333,
+     62.00103333
+    ]
+   },
+   "properties": {
+    "name": "0065 T\u00f3rshavn Velbasta\u00f0arvegurin 36",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798116667,
+     62.0011
+    ]
+   },
+   "properties": {
+    "name": "0066 T\u00f3rshavn Purkuger\u00f0i\u00f0",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8285,
+     61.99978333
+    ]
+   },
+   "properties": {
+    "name": "0067 T\u00f3rshavn Nor\u00f0astahorn",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.85405,
+     61.98355
+    ]
+   },
+   "properties": {
+    "name": "0068 Velbasta\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.802,
+     61.95538333
+    ]
+   },
+   "properties": {
+    "name": "0069 Kirkjub\u00f8\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.797966667,
+     61.9542
+    ]
+   },
+   "properties": {
+    "name": "0070 Kirkjub\u00f8\u00f0ur Gamlivegur 16",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79405,
+     61.95203333
+    ]
+   },
+   "properties": {
+    "name": "0071 Kirkjub\u00f8\u00f0ur St\u00f3ra vendipl\u00e1ssi\u00f0",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8188,
+     61.96265
+    ]
+   },
+   "properties": {
+    "name": "0072 Gamlar\u00e6tt",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794233333,
+     62.00071667
+    ]
+   },
+   "properties": {
+    "name": "0073 T\u00f3rshavn Velbasta\u00f0arvegurin 60",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787733333,
+     62.00096667
+    ]
+   },
+   "properties": {
+    "name": "0074 T\u00f3rshavn Velbasta\u00f0arvegur 36",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7775,
+     62.00275
+    ]
+   },
+   "properties": {
+    "name": "0075 T\u00f3rshavn Landssj\u00fakrah\u00fasi\u00f0",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781866667,
+     62.00475
+    ]
+   },
+   "properties": {
+    "name": "0076 T\u00f3rshavn Fr\u00e6lsinum",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784566667,
+     62.00648333
+    ]
+   },
+   "properties": {
+    "name": "0077 T\u00f3rshavn Landavegur 59",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784183333,
+     62.00798333
+    ]
+   },
+   "properties": {
+    "name": "0078 T\u00f3rshavn J. P\u00e6tursonarg\u00f8ta 74",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77415,
+     62.01131667
+    ]
+   },
+   "properties": {
+    "name": "0079 T\u00f3rshavn Steinat\u00fan",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767216667,
+     62.01053333
+    ]
+   },
+   "properties": {
+    "name": "0080 T\u00f3rshavn J\u00f3nas Broncks g\u00f8ta 10",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.996383333,
+     62.20118333
+    ]
+   },
+   "properties": {
+    "name": "0130 Oyrarbakki",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.003083333,
+     62.21275
+    ]
+   },
+   "properties": {
+    "name": "0131 Nor\u00f0sk\u00e1li",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.015216667,
+     62.22101667
+    ]
+   },
+   "properties": {
+    "name": "0132 Nor\u00f0sk\u00e1li",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0305,
+     62.2334
+    ]
+   },
+   "properties": {
+    "name": "0133 Sv\u00edn\u00e1ir",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.060283333,
+     62.2668
+    ]
+   },
+   "properties": {
+    "name": "0134 Lj\u00f3s\u00e1ir",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.09165,
+     62.29931667
+    ]
+   },
+   "properties": {
+    "name": "0135 Ei\u00f0i",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.996383333,
+     62.20118333
+    ]
+   },
+   "properties": {
+    "name": "0130 Oyrarbakki",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.943816667,
+     62.32518333
+    ]
+   },
+   "properties": {
+    "name": "0136 Gj\u00f3gv",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.96925,
+     62.28705
+    ]
+   },
+   "properties": {
+    "name": "0137 Funningur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.931633333,
+     62.23616667
+    ]
+   },
+   "properties": {
+    "name": "0138 Funningsfj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9324,
+     62.23941667
+    ]
+   },
+   "properties": {
+    "name": "0139 Funningsfj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1468,
+     62.28893333
+    ]
+   },
+   "properties": {
+    "name": "0123 Tj\u00f8rnuv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.093733333,
+     62.27481667
+    ]
+   },
+   "properties": {
+    "name": "0124 Hald\u00f3rsv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.08845,
+     62.2715
+    ]
+   },
+   "properties": {
+    "name": "0125 Hald\u00f3rsv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.053333333,
+     62.23516667
+    ]
+   },
+   "properties": {
+    "name": "0126 Langasandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.020366667,
+     62.21533333
+    ]
+   },
+   "properties": {
+    "name": "0127 Nesv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.999083333,
+     62.20725
+    ]
+   },
+   "properties": {
+    "name": "0128 Oyrarbakki",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.987733333,
+     62.19121667
+    ]
+   },
+   "properties": {
+    "name": "0129 Oyri",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.996383333,
+     62.20118333
+    ]
+   },
+   "properties": {
+    "name": "0130 Oyrarbakki",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.987733333,
+     62.19121667
+    ]
+   },
+   "properties": {
+    "name": "0129 Oyri",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.996383333,
+     62.20118333
+    ]
+   },
+   "properties": {
+    "name": "0130 Oyrarbakki",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.157283333,
+     62.0536
+    ]
+   },
+   "properties": {
+    "name": "0120 Sandav\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3256,
+     62.07015
+    ]
+   },
+   "properties": {
+    "name": "0111 S\u00f8rv\u00e1gur Effo st\u00f8\u00f0in",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767033333,
+     62.01051667
+    ]
+   },
+   "properties": {
+    "name": "0082 T\u00f3rshavn J\u00f3nas Broncks g\u00f8ta",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.193316667,
+     62.0483
+    ]
+   },
+   "properties": {
+    "name": "0117 Mi\u00f0v\u00e1gur Magn",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.30155,
+     62.07028333
+    ]
+   },
+   "properties": {
+    "name": "0108 S\u00f8rv\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9445,
+     62.09578333
+    ]
+   },
+   "properties": {
+    "name": "0088 Kollfj\u00f8r\u00f0ur vi\u00f0 tunnilin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775366667,
+     62.02048333
+    ]
+   },
+   "properties": {
+    "name": "0084 T\u00f3rshavn Johannes Berg",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.280433333,
+     62.06776667
+    ]
+   },
+   "properties": {
+    "name": "0107 Flogv\u00f8llurin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.209516667,
+     62.0464
+    ]
+   },
+   "properties": {
+    "name": "0104 Mi\u00f0v\u00e1gur FK",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766066667,
+     62.03685
+    ]
+   },
+   "properties": {
+    "name": "0086 T\u00f3rshavn vi\u00f0 Klingruna",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7708,
+     62.04183333
+    ]
+   },
+   "properties": {
+    "name": "0087 Hv\u00edtanes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.306066667,
+     62.07235
+    ]
+   },
+   "properties": {
+    "name": "0109 S\u00f8rv\u00e1gur Blindtarmurin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.15055,
+     62.05695
+    ]
+   },
+   "properties": {
+    "name": "0121 Sandav\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765166667,
+     62.00808333
+    ]
+   },
+   "properties": {
+    "name": "0081 T\u00f3rshavn Farst\u00f8\u00f0in",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.191866667,
+     62.04841667
+    ]
+   },
+   "properties": {
+    "name": "0103 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.199433333,
+     62.04826667
+    ]
+   },
+   "properties": {
+    "name": "0116 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.312966667,
+     62.0703
+    ]
+   },
+   "properties": {
+    "name": "0113 S\u00f8rv\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.182716667,
+     62.04825
+    ]
+   },
+   "properties": {
+    "name": "0102 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.15745,
+     62.05365
+    ]
+   },
+   "properties": {
+    "name": "0099 Sandav\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773366667,
+     62.01463333
+    ]
+   },
+   "properties": {
+    "name": "0083 T\u00f3rshavn SMS",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.249583333,
+     62.07185
+    ]
+   },
+   "properties": {
+    "name": "0105 Vatnsoyri H\u00f8v\u00f0usvegurin (verandi)",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.150466667,
+     62.05715
+    ]
+   },
+   "properties": {
+    "name": "0098 Sandav\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.249233333,
+     62.07256667
+    ]
+   },
+   "properties": {
+    "name": "0106 Vatnsoyri (ikki \u00ed br\u00fak)",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.189016667,
+     62.04863333
+    ]
+   },
+   "properties": {
+    "name": "0118 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.982983333,
+     62.11891667
+    ]
+   },
+   "properties": {
+    "name": "0089 Kollafj\u00f8r\u00f0ur Effo Kollfjar\u00f0adalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.207416667,
+     62.04671667
+    ]
+   },
+   "properties": {
+    "name": "0115 Mi\u00f0v\u00e1gur FK",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.165383333,
+     62.04758333
+    ]
+   },
+   "properties": {
+    "name": "0100 Giljanes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.31855,
+     62.06978333
+    ]
+   },
+   "properties": {
+    "name": "0110 S\u00f8rv\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.367116667,
+     62.08528333
+    ]
+   },
+   "properties": {
+    "name": "0114 B\u00f8",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.763166667,
+     62.03011667
+    ]
+   },
+   "properties": {
+    "name": "0085 T\u00f3rshavn Mannbrekka",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.326416667,
+     62.07075
+    ]
+   },
+   "properties": {
+    "name": "0112 S\u00f8rv\u00e1gur Mykineslei\u00f0in",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.16365,
+     62.0481
+    ]
+   },
+   "properties": {
+    "name": "0119 Giljanes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.176966667,
+     62.04766667
+    ]
+   },
+   "properties": {
+    "name": "0101 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765366667,
+     62.03575
+    ]
+   },
+   "properties": {
+    "name": "0122 Hoyv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.801332,
+     62.00757
+    ]
+   },
+   "properties": {
+    "name": "3050 Marknagil (Glasir)",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765066667,
+     62.00801667
+    ]
+   },
+   "properties": {
+    "name": "0060 T\u00f3rshavn Farst\u00f8\u00f0in",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.982983333,
+     62.11891667
+    ]
+   },
+   "properties": {
+    "name": "0089 Kollafj\u00f8r\u00f0ur Effo Kollfjar\u00f0adalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.150466667,
+     62.05715
+    ]
+   },
+   "properties": {
+    "name": "0098 Sandav\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.15745,
+     62.05365
+    ]
+   },
+   "properties": {
+    "name": "0099 Sandav\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.176966667,
+     62.04766667
+    ]
+   },
+   "properties": {
+    "name": "0101 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.182716667,
+     62.04825
+    ]
+   },
+   "properties": {
+    "name": "0102 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.191866667,
+     62.04841667
+    ]
+   },
+   "properties": {
+    "name": "0103 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.209516667,
+     62.0464
+    ]
+   },
+   "properties": {
+    "name": "0104 Mi\u00f0v\u00e1gur FK",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.280433333,
+     62.06776667
+    ]
+   },
+   "properties": {
+    "name": "0107 Flogv\u00f8llurin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.30155,
+     62.07028333
+    ]
+   },
+   "properties": {
+    "name": "0108 S\u00f8rv\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.31855,
+     62.06978333
+    ]
+   },
+   "properties": {
+    "name": "0110 S\u00f8rv\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.312966667,
+     62.0703
+    ]
+   },
+   "properties": {
+    "name": "0113 S\u00f8rv\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.207416667,
+     62.04671667
+    ]
+   },
+   "properties": {
+    "name": "0115 Mi\u00f0v\u00e1gur FK",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.199433333,
+     62.04826667
+    ]
+   },
+   "properties": {
+    "name": "0116 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.193316667,
+     62.0483
+    ]
+   },
+   "properties": {
+    "name": "0117 Mi\u00f0v\u00e1gur Magn",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.189016667,
+     62.04863333
+    ]
+   },
+   "properties": {
+    "name": "0118 Mi\u00f0v\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.157283333,
+     62.0536
+    ]
+   },
+   "properties": {
+    "name": "0120 Sandav\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.15055,
+     62.05695
+    ]
+   },
+   "properties": {
+    "name": "0121 Sandav\u00e1gur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765116667,
+     62.00805
+    ]
+   },
+   "properties": {
+    "name": "0186 T\u00f3rshavn Farst\u00f8\u00f0in",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9439,
+     62.10153333
+    ]
+   },
+   "properties": {
+    "name": "0187 Kollafj\u00f8r\u00f0ur Langasandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.93915,
+     62.10138333
+    ]
+   },
+   "properties": {
+    "name": "0188 Kollafj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.902916667,
+     62.1165
+    ]
+   },
+   "properties": {
+    "name": "0189 Kollafj\u00f8r\u00f0ur vi\u00f0 Sj\u00f3gv",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.874866667,
+     62.12443333
+    ]
+   },
+   "properties": {
+    "name": "0190 Kollafj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94315,
+     62.15153333
+    ]
+   },
+   "properties": {
+    "name": "0191 H\u00f3sv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9726,
+     62.17191667
+    ]
+   },
+   "properties": {
+    "name": "0192 vi\u00f0 \u00c1ir",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0264,
+     62.1857
+    ]
+   },
+   "properties": {
+    "name": "0193 Hvalv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.027333333,
+     62.19071667
+    ]
+   },
+   "properties": {
+    "name": "0194 Streymnes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.75025,
+     62.188
+    ]
+   },
+   "properties": {
+    "name": "0195 Syru G\u00f8ta",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.747666667,
+     62.19126667
+    ]
+   },
+   "properties": {
+    "name": "0196 G\u00f8tugj\u00f3gv nor\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.747466667,
+     62.19158333
+    ]
+   },
+   "properties": {
+    "name": "0197 G\u00f8tugj\u00f3gv su\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7434,
+     62.19896667
+    ]
+   },
+   "properties": {
+    "name": "0198 Nor\u00f0ag\u00f8ta",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.749433333,
+     62.2016
+    ]
+   },
+   "properties": {
+    "name": "0199 Nor\u00f0ag\u00f8ta",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.756816667,
+     62.20336667
+    ]
+   },
+   "properties": {
+    "name": "0200 G\u00f8tudalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.713116667,
+     62.21135
+    ]
+   },
+   "properties": {
+    "name": "0201 Leirv\u00edk su\u00f0urgangandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.71275,
+     62.21103333
+    ]
+   },
+   "properties": {
+    "name": "0202 Leirv\u00edk nor\u00f0urgangandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7042,
+     62.2089
+    ]
+   },
+   "properties": {
+    "name": "0203 Leirv\u00edk su\u00f0urgangandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7033,
+     62.2089
+    ]
+   },
+   "properties": {
+    "name": "0204 Leirv\u00edk nor\u00f0urgangandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.573283333,
+     62.22391667
+    ]
+   },
+   "properties": {
+    "name": "0205 Klaksv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.585133333,
+     62.22651667
+    ]
+   },
+   "properties": {
+    "name": "0206 Klaksv\u00edk (farst\u00f8\u00f0in)",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.588466667,
+     62.23051667
+    ]
+   },
+   "properties": {
+    "name": "0207 Klaksv\u00edk keiin Sam",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.573716667,
+     62.22306667
+    ]
+   },
+   "properties": {
+    "name": "0208 Klaksv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.853683333,
+     62.20101667
+    ]
+   },
+   "properties": {
+    "name": "0159 Sk\u00e1labotnur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772833333,
+     62.17348333
+    ]
+   },
+   "properties": {
+    "name": "0162 Skipanes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.771933333,
+     62.1734
+    ]
+   },
+   "properties": {
+    "name": "0163 Skipanes su\u00f0ureftir",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7615,
+     62.1683
+    ]
+   },
+   "properties": {
+    "name": "0164 Skipaneskrossurin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7543,
+     62.15955
+    ]
+   },
+   "properties": {
+    "name": "0165 S\u00f8ldarfj\u00f8r\u00f0ur sk\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.751733333,
+     62.15665
+    ]
+   },
+   "properties": {
+    "name": "0166 S\u00f8ldarfj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728866667,
+     62.13435
+    ]
+   },
+   "properties": {
+    "name": "0168 Glyvrar",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.726583333,
+     62.13101667
+    ]
+   },
+   "properties": {
+    "name": "0169 Glyvrar B\u00f3nus",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723783333,
+     62.12645
+    ]
+   },
+   "properties": {
+    "name": "0170 Glyvrar",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722516667,
+     62.12283333
+    ]
+   },
+   "properties": {
+    "name": "0171 Glyvrar sk\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.721933333,
+     62.11845
+    ]
+   },
+   "properties": {
+    "name": "0172 Saltangar\u00e1",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722616667,
+     62.11666667
+    ]
+   },
+   "properties": {
+    "name": "0173 Saltangar\u00e1",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722666667,
+     62.11393333
+    ]
+   },
+   "properties": {
+    "name": "0174 Saltangar\u00e1",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723333333,
+     62.10923333
+    ]
+   },
+   "properties": {
+    "name": "0175 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7204,
+     62.10498333
+    ]
+   },
+   "properties": {
+    "name": "0176 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.739,
+     62.09216667
+    ]
+   },
+   "properties": {
+    "name": "0180 Toftir kei\u00f8ki",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.73965,
+     62.09771667
+    ]
+   },
+   "properties": {
+    "name": "0181 Toftir",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.743833333,
+     62.1037
+    ]
+   },
+   "properties": {
+    "name": "0182 Saltnes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7447,
+     62.10748333
+    ]
+   },
+   "properties": {
+    "name": "0183 Saltnes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.725266667,
+     62.1087
+    ]
+   },
+   "properties": {
+    "name": "0184 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723116667,
+     62.10918333
+    ]
+   },
+   "properties": {
+    "name": "0185 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765116667,
+     62.00805
+    ]
+   },
+   "properties": {
+    "name": "0186 T\u00f3rshavn Farst\u00f8\u00f0in",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9439,
+     62.10153333
+    ]
+   },
+   "properties": {
+    "name": "0187 Kollafj\u00f8r\u00f0ur Langasandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.93915,
+     62.10138333
+    ]
+   },
+   "properties": {
+    "name": "0188 Kollafj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.902916667,
+     62.1165
+    ]
+   },
+   "properties": {
+    "name": "0189 Kollafj\u00f8r\u00f0ur vi\u00f0 Sj\u00f3gv",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.874866667,
+     62.12443333
+    ]
+   },
+   "properties": {
+    "name": "0190 Kollafj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94315,
+     62.15153333
+    ]
+   },
+   "properties": {
+    "name": "0191 H\u00f3sv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9726,
+     62.17191667
+    ]
+   },
+   "properties": {
+    "name": "0192 vi\u00f0 \u00c1ir",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0264,
+     62.1857
+    ]
+   },
+   "properties": {
+    "name": "0193 Hvalv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.027333333,
+     62.19071667
+    ]
+   },
+   "properties": {
+    "name": "0194 Streymnes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.756816667,
+     62.20336667
+    ]
+   },
+   "properties": {
+    "name": "0200 G\u00f8tudalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.713116667,
+     62.21135
+    ]
+   },
+   "properties": {
+    "name": "0201 Leirv\u00edk su\u00f0urgangandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.71275,
+     62.21103333
+    ]
+   },
+   "properties": {
+    "name": "0202 Leirv\u00edk nor\u00f0urgangandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7042,
+     62.2089
+    ]
+   },
+   "properties": {
+    "name": "0203 Leirv\u00edk su\u00f0urgangandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7033,
+     62.2089
+    ]
+   },
+   "properties": {
+    "name": "0204 Leirv\u00edk nor\u00f0urgangandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.813883333,
+     62.24431667
+    ]
+   },
+   "properties": {
+    "name": "0216 Fuglafj\u00f8r\u00f0ur sk\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.815283333,
+     62.2421
+    ]
+   },
+   "properties": {
+    "name": "0217 Fuglafj\u00f8r\u00f0ur Mentanarh\u00fasi\u00f0",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.821833333,
+     62.24106667
+    ]
+   },
+   "properties": {
+    "name": "0218 Fuglafj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.815983333,
+     62.22005
+    ]
+   },
+   "properties": {
+    "name": "0219 Kambsdalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.812483333,
+     62.21983333
+    ]
+   },
+   "properties": {
+    "name": "0220 Kambsdalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.80955,
+     62.21958333
+    ]
+   },
+   "properties": {
+    "name": "0221 Kambsdalur Studentask\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.808716667,
+     62.22041667
+    ]
+   },
+   "properties": {
+    "name": "0222 Kambsdalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5809,
+     62.22538333
+    ]
+   },
+   "properties": {
+    "name": "0223 Klaksv\u00edk (\u00cdtr\u00f3ttar\u00f8ki)",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7204,
+     62.10498333
+    ]
+   },
+   "properties": {
+    "name": "0176 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.769383333,
+     62.14586667
+    ]
+   },
+   "properties": {
+    "name": "0152 Sk\u00e1la",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.759083333,
+     62.13826667
+    ]
+   },
+   "properties": {
+    "name": "0151 Innan Glyvur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765266667,
+     62.10358333
+    ]
+   },
+   "properties": {
+    "name": "0146 Strendur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722666667,
+     62.11393333
+    ]
+   },
+   "properties": {
+    "name": "0174 Saltangar\u00e1",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.751733333,
+     62.15665
+    ]
+   },
+   "properties": {
+    "name": "0166 S\u00f8ldarfj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787683333,
+     62.16245
+    ]
+   },
+   "properties": {
+    "name": "0157 Sk\u00e1la",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.725266667,
+     62.1087
+    ]
+   },
+   "properties": {
+    "name": "0184 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728866667,
+     62.13435
+    ]
+   },
+   "properties": {
+    "name": "0168 Glyvrar",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.771933333,
+     62.1734
+    ]
+   },
+   "properties": {
+    "name": "0163 Skipanes su\u00f0ureftir",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773833333,
+     62.14921667
+    ]
+   },
+   "properties": {
+    "name": "0153 Sk\u00e1la",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.761316667,
+     62.10851667
+    ]
+   },
+   "properties": {
+    "name": "0147 Strendur sk\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723333333,
+     62.10923333
+    ]
+   },
+   "properties": {
+    "name": "0175 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7615,
+     62.1683
+    ]
+   },
+   "properties": {
+    "name": "0164 Skipaneskrossurin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.756016667,
+     62.12333333
+    ]
+   },
+   "properties": {
+    "name": "0150 Strendur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7447,
+     62.10748333
+    ]
+   },
+   "properties": {
+    "name": "0183 Saltnes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.753716667,
+     62.1186
+    ]
+   },
+   "properties": {
+    "name": "0149 Strendur sk\u00falab\u00f8rn",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.739,
+     62.09216667
+    ]
+   },
+   "properties": {
+    "name": "0180 Toftir kei\u00f8ki",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723783333,
+     62.12645
+    ]
+   },
+   "properties": {
+    "name": "0170 Glyvrar",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.874033333,
+     62.15681667
+    ]
+   },
+   "properties": {
+    "name": "0143 Selatra\u00f0",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722516667,
+     62.12283333
+    ]
+   },
+   "properties": {
+    "name": "0171 Glyvrar sk\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.721933333,
+     62.11845
+    ]
+   },
+   "properties": {
+    "name": "0172 Saltangar\u00e1",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.842433333,
+     62.13108333
+    ]
+   },
+   "properties": {
+    "name": "0144 Morskranes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8845,
+     62.16096667
+    ]
+   },
+   "properties": {
+    "name": "0142 Selatra\u00f0",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772833333,
+     62.17348333
+    ]
+   },
+   "properties": {
+    "name": "0162 Skipanes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778,
+     62.1563
+    ]
+   },
+   "properties": {
+    "name": "0154 Sk\u00e1la",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722616667,
+     62.11666667
+    ]
+   },
+   "properties": {
+    "name": "0173 Saltangar\u00e1",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.853683333,
+     62.20101667
+    ]
+   },
+   "properties": {
+    "name": "0159 Sk\u00e1labotnur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7806,
+     62.15798333
+    ]
+   },
+   "properties": {
+    "name": "0155 Sk\u00e1la",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7543,
+     62.15955
+    ]
+   },
+   "properties": {
+    "name": "0165 S\u00f8ldarfj\u00f8r\u00f0ur sk\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.730366667,
+     62.14106667
+    ]
+   },
+   "properties": {
+    "name": "0167 Lambarei\u00f0i",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.73965,
+     62.09771667
+    ]
+   },
+   "properties": {
+    "name": "0181 Toftir",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.855683333,
+     62.19528333
+    ]
+   },
+   "properties": {
+    "name": "0158 Sk\u00e1lafir\u00f0i",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.754083333,
+     62.11576667
+    ]
+   },
+   "properties": {
+    "name": "0148 Strendur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788583333,
+     62.10921667
+    ]
+   },
+   "properties": {
+    "name": "0145 Kolbeinagj\u00f3gv",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723116667,
+     62.10918333
+    ]
+   },
+   "properties": {
+    "name": "0185 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785366667,
+     62.16081667
+    ]
+   },
+   "properties": {
+    "name": "0156 Sk\u00e1la",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.743833333,
+     62.1037
+    ]
+   },
+   "properties": {
+    "name": "0182 Saltnes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.726583333,
+     62.13101667
+    ]
+   },
+   "properties": {
+    "name": "0169 Glyvrar B\u00f3nus",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728866667,
+     62.13435
+    ]
+   },
+   "properties": {
+    "name": "0168 Glyvrar",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.726583333,
+     62.13101667
+    ]
+   },
+   "properties": {
+    "name": "0169 Glyvrar B\u00f3nus",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723783333,
+     62.12645
+    ]
+   },
+   "properties": {
+    "name": "0170 Glyvrar",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722516667,
+     62.12283333
+    ]
+   },
+   "properties": {
+    "name": "0171 Glyvrar sk\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.721933333,
+     62.11845
+    ]
+   },
+   "properties": {
+    "name": "0172 Saltangar\u00e1",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722616667,
+     62.11666667
+    ]
+   },
+   "properties": {
+    "name": "0173 Saltangar\u00e1",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722666667,
+     62.11393333
+    ]
+   },
+   "properties": {
+    "name": "0174 Saltangar\u00e1",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723333333,
+     62.10923333
+    ]
+   },
+   "properties": {
+    "name": "0175 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7204,
+     62.10498333
+    ]
+   },
+   "properties": {
+    "name": "0176 Runav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.693533333,
+     62.09723333
+    ]
+   },
+   "properties": {
+    "name": "0177 Rituv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.685916667,
+     62.10773333
+    ]
+   },
+   "properties": {
+    "name": "0178 Rituv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.69425,
+     62.06943333
+    ]
+   },
+   "properties": {
+    "name": "0179 \u00c6\u00f0uv\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.853683333,
+     62.20101667
+    ]
+   },
+   "properties": {
+    "name": "0159 Sk\u00e1labotnur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.739,
+     62.09216667
+    ]
+   },
+   "properties": {
+    "name": "0180 Toftir kei\u00f8ki",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.73965,
+     62.09771667
+    ]
+   },
+   "properties": {
+    "name": "0181 Toftir",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.756816667,
+     62.20336667
+    ]
+   },
+   "properties": {
+    "name": "0200 G\u00f8tudalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.815983333,
+     62.22005
+    ]
+   },
+   "properties": {
+    "name": "0219 Kambsdalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.812483333,
+     62.21983333
+    ]
+   },
+   "properties": {
+    "name": "0220 Kambsdalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.80955,
+     62.21958333
+    ]
+   },
+   "properties": {
+    "name": "0221 Kambsdalur Studentask\u00falin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.808716667,
+     62.22041667
+    ]
+   },
+   "properties": {
+    "name": "0222 Kambsdalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.982983333,
+     62.11891667
+    ]
+   },
+   "properties": {
+    "name": "0089 Kollafj\u00f8r\u00f0ur Effo Kollfjar\u00f0adalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.996383333,
+     62.20118333
+    ]
+   },
+   "properties": {
+    "name": "0130 Oyrarbakki",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.853683333,
+     62.20101667
+    ]
+   },
+   "properties": {
+    "name": "0159 Sk\u00e1labotnur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.84535,
+     62.26295
+    ]
+   },
+   "properties": {
+    "name": "0160 Hellur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.855216667,
+     62.27625
+    ]
+   },
+   "properties": {
+    "name": "0161 Oyndarfj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.585133333,
+     62.22651667
+    ]
+   },
+   "properties": {
+    "name": "0206 Klaksv\u00edk (farst\u00f8\u00f0in)",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.53735,
+     62.25491667
+    ]
+   },
+   "properties": {
+    "name": "0224 \u00c1rnafj\u00f8r\u00f0ur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.527816667,
+     62.29791667
+    ]
+   },
+   "properties": {
+    "name": "0225 Nor\u00f0depil",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.521516667,
+     62.29925
+    ]
+   },
+   "properties": {
+    "name": "0226 Hvannasund",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.531366667,
+     62.35701667
+    ]
+   },
+   "properties": {
+    "name": "0227 Vi\u00f0arei\u00f0i",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.53095,
+     62.36006667
+    ]
+   },
+   "properties": {
+    "name": "0228 Vi\u00f0arei\u00f0i (hotelli\u00f0)",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5809,
+     62.22538333
+    ]
+   },
+   "properties": {
+    "name": "0223 Klaksv\u00edk (\u00cdtr\u00f3ttar\u00f8ki)",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.600516667,
+     62.26973333
+    ]
+   },
+   "properties": {
+    "name": "0224 Haraldsund",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.671066667,
+     62.29231667
+    ]
+   },
+   "properties": {
+    "name": "0225 Kunoy",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.66495,
+     62.2464
+    ]
+   },
+   "properties": {
+    "name": "0211 Sy\u00f0radalur keiin",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.668133333,
+     62.24596667
+    ]
+   },
+   "properties": {
+    "name": "0212 Sy\u00f0radalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.69635,
+     62.2652
+    ]
+   },
+   "properties": {
+    "name": "0213 H\u00fasar",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7669,
+     62.33508333
+    ]
+   },
+   "properties": {
+    "name": "0214 Mikladalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.78865,
+     62.3615
+    ]
+   },
+   "properties": {
+    "name": "0215 Tr\u00f8llanes",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.878383333,
+     61.90303333
+    ]
+   },
+   "properties": {
+    "name": "0030 Skopun",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.88925,
+     61.90326667
+    ]
+   },
+   "properties": {
+    "name": "0031 Skopun",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.88085,
+     61.90278333
+    ]
+   },
+   "properties": {
+    "name": "0032 Skopun",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.831733333,
+     61.85743333
+    ]
+   },
+   "properties": {
+    "name": "0033 Meginsk\u00falin \u00e1 Sandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.820516667,
+     61.83685
+    ]
+   },
+   "properties": {
+    "name": "0034 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.820066667,
+     61.83536667
+    ]
+   },
+   "properties": {
+    "name": "0035 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.818166667,
+     61.83378333
+    ]
+   },
+   "properties": {
+    "name": "0036 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.81745,
+     61.83268333
+    ]
+   },
+   "properties": {
+    "name": "0037 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.81465,
+     61.83143333
+    ]
+   },
+   "properties": {
+    "name": "0038 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.810066667,
+     61.82973333
+    ]
+   },
+   "properties": {
+    "name": "0040 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.81245,
+     61.83263333
+    ]
+   },
+   "properties": {
+    "name": "0041 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8149,
+     61.8334
+    ]
+   },
+   "properties": {
+    "name": "0042 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.809116667,
+     61.84035
+    ]
+   },
+   "properties": {
+    "name": "0043 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8049,
+     61.83893333
+    ]
+   },
+   "properties": {
+    "name": "0044 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.67455,
+     61.83
+    ]
+   },
+   "properties": {
+    "name": "0045 Sk\u00e1lav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.662516667,
+     61.83145
+    ]
+   },
+   "properties": {
+    "name": "0046 Skalav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.657866667,
+     61.82958333
+    ]
+   },
+   "properties": {
+    "name": "0047 Sk\u00e1lav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.659933333,
+     61.82873333
+    ]
+   },
+   "properties": {
+    "name": "0048 Sk\u00e1lav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.663883333,
+     61.82798333
+    ]
+   },
+   "properties": {
+    "name": "0049 Sk\u00e1lav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6676,
+     61.82768333
+    ]
+   },
+   "properties": {
+    "name": "0050 Sk\u00e1lav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.67345,
+     61.82866667
+    ]
+   },
+   "properties": {
+    "name": "0051 Sk\u00e1lav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.878383333,
+     61.90303333
+    ]
+   },
+   "properties": {
+    "name": "0030 Skopun",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.88925,
+     61.90326667
+    ]
+   },
+   "properties": {
+    "name": "0031 Skopun",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.88085,
+     61.90278333
+    ]
+   },
+   "properties": {
+    "name": "0032 Skopun",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.831733333,
+     61.85743333
+    ]
+   },
+   "properties": {
+    "name": "0033 Meginsk\u00falin \u00e1 Sandi",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.820516667,
+     61.83685
+    ]
+   },
+   "properties": {
+    "name": "0034 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.820066667,
+     61.83536667
+    ]
+   },
+   "properties": {
+    "name": "0035 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.818166667,
+     61.83378333
+    ]
+   },
+   "properties": {
+    "name": "0036 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.81745,
+     61.83268333
+    ]
+   },
+   "properties": {
+    "name": "0037 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.81465,
+     61.83143333
+    ]
+   },
+   "properties": {
+    "name": "0038 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.810833333,
+     61.82765
+    ]
+   },
+   "properties": {
+    "name": "0039 Sandur / Sk\u00favoyarlei\u00f0in",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.810066667,
+     61.82973333
+    ]
+   },
+   "properties": {
+    "name": "0040 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.81245,
+     61.83263333
+    ]
+   },
+   "properties": {
+    "name": "0041 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8149,
+     61.8334
+    ]
+   },
+   "properties": {
+    "name": "0042 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.809116667,
+     61.84035
+    ]
+   },
+   "properties": {
+    "name": "0043 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8049,
+     61.83893333
+    ]
+   },
+   "properties": {
+    "name": "0044 Sandur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6765,
+     61.7846
+    ]
+   },
+   "properties": {
+    "name": "0052 Dalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.679916667,
+     61.78456667
+    ]
+   },
+   "properties": {
+    "name": "0053 Dalur",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.675166667,
+     61.80495
+    ]
+   },
+   "properties": {
+    "name": "0054 H\u00fasav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.672366667,
+     61.80608333
+    ]
+   },
+   "properties": {
+    "name": "0055 H\u00fasav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.680266667,
+     61.80928333
+    ]
+   },
+   "properties": {
+    "name": "0056 H\u00fasav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.685633333,
+     61.81036667
+    ]
+   },
+   "properties": {
+    "name": "0057 H\u00fasav\u00edk",
+    "operator": "SSL"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.03622,
+     62.18709
+    ]
+   },
+   "properties": {
+    "name": "Hvalv\u00edk - Kirkjan",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.04088,
+     62.18992
+    ]
+   },
+   "properties": {
+    "name": "Hvalv\u00edk - Sk\u00falin",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0283751,
+     62.1856734
+    ]
+   },
+   "properties": {
+    "name": "Hvalv\u00edk - undir Hamri",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94328,
+     62.15173
+    ]
+   },
+   "properties": {
+    "name": "H\u00f3sv\u00edk - Bussste\u00f0gista\u00f0i\u00f0",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.00102,
+     62.21035
+    ]
+   },
+   "properties": {
+    "name": "Nor\u00f0sk\u00e1li - Handils\u00f8ki\u00f0",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0073,
+     62.2183
+    ]
+   },
+   "properties": {
+    "name": "Nor\u00f0sk\u00e1li - Kirkjan",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0029,
+     62.2128
+    ]
+   },
+   "properties": {
+    "name": "Nor\u00f0sk\u00e1li - Nor\u00f0sk\u00e1lavegur",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0148,
+     62.221
+    ]
+   },
+   "properties": {
+    "name": "Nor\u00f0sk\u00e1li - R\u00e6ttargar\u00f0ar",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.997,
+     62.2054
+    ]
+   },
+   "properties": {
+    "name": "Oyrarbakki - Sk\u00falin vi\u00f0 Streymin",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9962,
+     62.2013
+    ]
+   },
+   "properties": {
+    "name": "Oyrarbakki - undir Bj\u00f8rgum",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9908,
+     62.1927
+    ]
+   },
+   "properties": {
+    "name": "Oyri - Oyrarvegur",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9882,
+     62.1912
+    ]
+   },
+   "properties": {
+    "name": "Oyri - R\u00e6ttart\u00fan",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9829,
+     62.1892
+    ]
+   },
+   "properties": {
+    "name": "Oyri - \u00dat \u00e1 Bakka",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.02649,
+     62.19059
+    ]
+   },
+   "properties": {
+    "name": "Streymnes - Neystavegur",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.03649,
+     62.18992
+    ]
+   },
+   "properties": {
+    "name": "Streymnes - Tra\u00f0avegur",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.04234,
+     62.19314
+    ]
+   },
+   "properties": {
+    "name": "Streymnes - vi\u00f0 Marg\u00e1ir",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.09283,
+     62.2739
+    ]
+   },
+   "properties": {
+    "name": "Hald\u00f3rsv\u00edk - Bakkavegur",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.09439,
+     62.27581
+    ]
+   },
+   "properties": {
+    "name": "Hald\u00f3rsv\u00edk - Ovari Vegur",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.08848,
+     62.27145
+    ]
+   },
+   "properties": {
+    "name": "Hald\u00f3rsv\u00edk - \u00dati \u00e1 Leiti",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.05363,
+     62.23516
+    ]
+   },
+   "properties": {
+    "name": "Langasandur - Myllnug\u00f8ta",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.04998,
+     62.23291
+    ]
+   },
+   "properties": {
+    "name": "Langasandur - Skorpisoyravegur",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.00102,
+     62.21035
+    ]
+   },
+   "properties": {
+    "name": "Nor\u00f0sk\u00e1li - Handils\u00f8ki\u00f0",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.997,
+     62.2054
+    ]
+   },
+   "properties": {
+    "name": "Oyrarbakki - Sk\u00falin vi\u00f0 Streymin",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9962,
+     62.2013
+    ]
+   },
+   "properties": {
+    "name": "Oyrarbakki - undir Bj\u00f8rgum",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.02649,
+     62.19059
+    ]
+   },
+   "properties": {
+    "name": "Streymnes - Neystavegur",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.03649,
+     62.18992
+    ]
+   },
+   "properties": {
+    "name": "Streymnes - Tra\u00f0avegur",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.04234,
+     62.19314
+    ]
+   },
+   "properties": {
+    "name": "Streymnes - vi\u00f0 Marg\u00e1ir",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.14658,
+     62.28884
+    ]
+   },
+   "properties": {
+    "name": "Tj\u00f8rnuv\u00edk - Bussste\u00f0gista\u00f0i\u00f0",
+    "operator": "Sunda Kommuna"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.595113763,
+     62.229716517
+    ]
+   },
+   "properties": {
+    "name": "4 Klaksv\u00edksvegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.579087315,
+     62.223492117
+    ]
+   },
+   "properties": {
+    "name": "18 B\u00f8g\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.585270316,
+     62.226440569
+    ]
+   },
+   "properties": {
+    "name": "1 Sandurin",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.587398604,
+     62.232748378
+    ]
+   },
+   "properties": {
+    "name": "25 Kjalarvegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.59149966,
+     62.235012746
+    ]
+   },
+   "properties": {
+    "name": "31 Stengavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.600506,
+     62.237247777
+    ]
+   },
+   "properties": {
+    "name": "8 Stoksoyravegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.588489661,
+     62.235259489
+    ]
+   },
+   "properties": {
+    "name": "27 Helnabrekka",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.544355514,
+     62.213424614
+    ]
+   },
+   "properties": {
+    "name": "38 Fornavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.542159461,
+     62.210922924
+    ]
+   },
+   "properties": {
+    "name": "37 Flatnavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.582013455,
+     62.221692838
+    ]
+   },
+   "properties": {
+    "name": "16 Oman Ei\u00f0",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.584217557,
+     62.230665922
+    ]
+   },
+   "properties": {
+    "name": "24 Kjalarvegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.598841738,
+     62.235277478
+    ]
+   },
+   "properties": {
+    "name": "7 Stoksoyravegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.541143472,
+     62.209464363
+    ]
+   },
+   "properties": {
+    "name": "36 Flatnavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.598031111,
+     62.231669416
+    ]
+   },
+   "properties": {
+    "name": "5 Stoksoyravegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.547153194,
+     62.215637794
+    ]
+   },
+   "properties": {
+    "name": "39 Fornavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.59087178,
+     62.234060521
+    ]
+   },
+   "properties": {
+    "name": "32 Stengavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.578998946,
+     62.225559577
+    ]
+   },
+   "properties": {
+    "name": "20 Ger\u00f0ag\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.590874324,
+     62.237006177
+    ]
+   },
+   "properties": {
+    "name": "29 Sk\u00e1ltavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.592709785,
+     62.228238455
+    ]
+   },
+   "properties": {
+    "name": "3 Klaksv\u00edksvegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.593441112,
+     62.224788075
+    ]
+   },
+   "properties": {
+    "name": "14 Undir Fossum",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.582328285,
+     62.224893724
+    ]
+   },
+   "properties": {
+    "name": "19 B\u00f8g\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.592205102,
+     62.236630655
+    ]
+   },
+   "properties": {
+    "name": "30 Stengavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.587523684,
+     62.229971782
+    ]
+   },
+   "properties": {
+    "name": "34 N. P\u00e1lsg\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.579878663,
+     62.227841859
+    ]
+   },
+   "properties": {
+    "name": "22 Kr\u00e1arg\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.599876662,
+     62.228736219
+    ]
+   },
+   "properties": {
+    "name": "12 Undir Halsi",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.589718476,
+     62.226818474
+    ]
+   },
+   "properties": {
+    "name": "2 Klaksv\u00edksvegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.576620157,
+     62.222052036
+    ]
+   },
+   "properties": {
+    "name": "17 Oman Ei\u00f0",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.589451328,
+     62.234732819
+    ]
+   },
+   "properties": {
+    "name": "28 Sk\u00e1ltavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.577066782,
+     62.226480649
+    ]
+   },
+   "properties": {
+    "name": "21 Kr\u00e1arg\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.588341964,
+     62.223022342
+    ]
+   },
+   "properties": {
+    "name": "15 Undir Fossum",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.602350186,
+     62.232064821
+    ]
+   },
+   "properties": {
+    "name": "11 Undir Klakki",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.589817368,
+     62.231894687
+    ]
+   },
+   "properties": {
+    "name": "33 Stengavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.602383737,
+     62.237158653
+    ]
+   },
+   "properties": {
+    "name": "9 Undir Klakki",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.602986016,
+     62.234697447
+    ]
+   },
+   "properties": {
+    "name": "10 Undir Klakki",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.59849821,
+     62.233405119
+    ]
+   },
+   "properties": {
+    "name": "6 Stoksoyravegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.597395758,
+     62.226474805
+    ]
+   },
+   "properties": {
+    "name": "13 Undir Halsi",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.59363,
+     62.23764
+    ]
+   },
+   "properties": {
+    "name": "50 K\u00f3sin",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.582045722,
+     62.228934605
+    ]
+   },
+   "properties": {
+    "name": "23 Kr\u00e1arg\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.589773961,
+     62.237992804
+    ]
+   },
+   "properties": {
+    "name": "26 Helnabrekka",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.584822907,
+     62.228353413
+    ]
+   },
+   "properties": {
+    "name": "35 N. P\u00e1lsg\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.585270316,
+     62.226440569
+    ]
+   },
+   "properties": {
+    "name": "1 Sandurin",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.578998946,
+     62.225559577
+    ]
+   },
+   "properties": {
+    "name": "20 Ger\u00f0ag\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.592205102,
+     62.236630655
+    ]
+   },
+   "properties": {
+    "name": "30 Stengavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.59149966,
+     62.235012746
+    ]
+   },
+   "properties": {
+    "name": "31 Stengavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.59087178,
+     62.234060521
+    ]
+   },
+   "properties": {
+    "name": "32 Stengavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.589817368,
+     62.231894687
+    ]
+   },
+   "properties": {
+    "name": "33 Stengavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.587523684,
+     62.229971782
+    ]
+   },
+   "properties": {
+    "name": "34 N. P\u00e1lsg\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.584822907,
+     62.228353413
+    ]
+   },
+   "properties": {
+    "name": "35 N. P\u00e1lsg\u00f8ta",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.541143472,
+     62.209464363
+    ]
+   },
+   "properties": {
+    "name": "36 Flatnavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.542159461,
+     62.210922924
+    ]
+   },
+   "properties": {
+    "name": "37 Flatnavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.544355514,
+     62.213424614
+    ]
+   },
+   "properties": {
+    "name": "38 Fornavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.547153194,
+     62.215637794
+    ]
+   },
+   "properties": {
+    "name": "39 Fornavegur",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.579903659,
+     62.252422026
+    ]
+   },
+   "properties": {
+    "name": "40 \u00c1nirnar",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.520930826,
+     62.251284606
+    ]
+   },
+   "properties": {
+    "name": "41 \u00ed Ger\u00f0unum",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.523500412,
+     62.252166448
+    ]
+   },
+   "properties": {
+    "name": "42 \u00ed Ger\u00f0unum",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.529764124,
+     62.25408443
+    ]
+   },
+   "properties": {
+    "name": "43 Vi\u00f0urbyrgi",
+    "operator": "Klaksv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.536199384,
+     62.255096466
+    ]
+   },
+   "properties": {
+    "name": "44 Vagli\u00f0",
+    "operator": "Klaksv\u00edk"
+   }
+  }
+ ]
+}
