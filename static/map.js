@@ -54,8 +54,8 @@ async function addGeoJSONLayer(map, url, color, label_en, label_pl) {
     map.createPane(`markers-${color}`);
     map.getPane(`markers-${color}`).style.zIndex = {
         'blue': 500,
-        'green': 600,
-        'yellow': 700,
+        'yellow': 600,
+        'green': 700,
     }[color];
 
     // console.log('GeoJSON', geojsonFeatures);
