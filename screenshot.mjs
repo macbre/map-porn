@@ -30,7 +30,7 @@ log.info('Rendering', `<${url}> ...`);
   // await new Promise(resolve => setTimeout(resolve, 5000));
 
   log.info('Taking a screenshot');
-  await page.setViewport({width: 1310, height: 2160, deviceScaleFactor: 2});
+  await page.setViewport({width: 1310, height: 2291, deviceScaleFactor: 2});
   await page.screenshot({path: 'map_faroe.png'});
 
   log.info('Taking a screenshot with lang=pl');
