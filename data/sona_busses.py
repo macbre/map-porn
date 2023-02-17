@@ -4,7 +4,7 @@ import json
 from dataclasses import dataclass
 from os import path
 
-from shared import Node, get_http_client
+from shared import Node, get_http_client, nodes_to_geojson_collection
 
 import requests
 
@@ -85,15 +85,8 @@ def main():
     logger.info(f'Writing {len(nodes)} node(s) GeoJSON to {geojson_file} ...')
 
     with open(geojson_file, 'wt') as f:
-        # f.write('const points = ')
         json.dump(
-            {
-                'type': 'FeatureCollection',
-                'features': [
-                    node.to_geojson()
-                    for node in nodes
-                ],
-            },
+            obj=nodes_to_geojson_collection(nodes),
             fp=f,
             indent=True
         )

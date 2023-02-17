@@ -31,6 +31,19 @@ class Node:
         }
 
 
+def nodes_to_geojson_collection(nodes: list[Node]) -> dict:
+    """
+    Return a valid GeoJSON structure with all the provided nodes
+    """
+    return {
+        'type': 'FeatureCollection',
+        'features': [
+            node.to_geojson()
+            for node in nodes
+        ],
+    }
+
+
 _http_client = None
 
 def get_http_client() -> requests.Session:
