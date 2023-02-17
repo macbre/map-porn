@@ -4,6 +4,8 @@ import json
 from dataclasses import dataclass
 from os import path
 
+from shared import Node, get_http_client
+
 import requests
 
 DIR = path.abspath(path.dirname(__file__))
@@ -15,32 +17,6 @@ DIR = path.abspath(path.dirname(__file__))
 # https://buscms.sona.fo/v2/routes/32 -> the route
 BASE_URL = 'https://buscms.sona.fo/v2'
 
-@dataclass
-class Node:
-    lat: str
-    lon: str
-    tags: list[tuple[str, str]]
-
-    def to_geojson(self) -> dict:
-        """
-        Emits GeoJSON-compatible entry
-
-        @see https://geojson.org/
-        @see https://geojson.io/
-        """
-        return {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [float(self.lon), float(self.lat)]
-            },
-            "properties": {
-                # e.g. ('name', '43 Viðurbyrgi')
-                key: value
-                for (key, value) in self.tags 
-            }
-        }
-
 
 def fetch_json(url: str) -> object:
     """
@@ -48,7 +24,7 @@ def fetch_json(url: str) -> object:
     url = BASE_URL + url
 
     logger = logging.getLogger(name="http")
-    resp = requests.get(url, headers={'user-agent': 'sona_busses.py'})
+    resp = get_http_client().get(url)
     resp.raise_for_status()
 
     logger.info(f'HTTP {resp.status_code} {url}')
