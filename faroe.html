@@ -150,7 +150,7 @@
 			// green / blue / yellow
 			await addGeoJSONLayer(map, '/geojson/sona-busses.json', 'blue', 'intercity bus stops', 'przystanki autobusowe', (item) => {
 				// properties: {name: '0032 Skopun', operator: 'SSL'}
-				return item.properties.operator === 'SSL';
+				return item.properties.operator === 'SSL' || item.properties.bus === 'yes' /* from OSM */;
 			});
 			await addGeoJSONLayer(map, '/geojson/osm-amenity-ferry_terminal.json', 'yellow', 'ferry terminals', 'promy');
 			await addGeoJSONLayer(map, '/geojson/us-lendiskort-us_lendiskort-48-Tyrluplass.json', 'green', 'helipads', 'lądowiska dla helikopterów');
