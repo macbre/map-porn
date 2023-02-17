@@ -1,0 +1,574 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7645515,
+     62.0082566
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Havnarg\u00f8ta",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7638013,
+     62.0085875
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Yviri vi\u00f0 Strond",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7661095,
+     62.0362174
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "maxspeed:type": "FO:urban",
+    "name": "Hv\u00edtanesvegur",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7815488,
+     62.0215189
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Nor\u00f0ari Ringvegur",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7766624,
+     62.0212496
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Nor\u00f0ari Ringvegur",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7849103,
+     62.006964
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Landavegur",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7807,
+     62.0016936
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Velbasta\u00f0vegur",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9575009,
+     62.1045867
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "name": "Inni \u00ed Fir\u00f0i",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7233825,
+     62.1086933
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "oneway": "yes",
+    "ref": "10",
+    "surface": "paved"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0050119,
+     62.2233753
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "maxspeed": "80",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.76166,
+     62.2044847
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.57358,
+     62.2236398
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5837671,
+     62.2256061
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "oneway": "yes",
+    "ref": "70",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7209779,
+     62.1147377
+    ]
+   },
+   "properties": {
+    "highway": "tertiary",
+    "junction": "roundabout"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7604507,
+     62.1677316
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7734254,
+     61.9927629
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "name": "Glyvursvegur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7729265,
+     62.0142609
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "R.C. Effers\u00f8es g\u00f8ta",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7830338,
+     62.0368994
+    ]
+   },
+   "properties": {
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Klingran",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2081724,
+     62.0466861
+    ]
+   },
+   "properties": {
+    "cycleway:right": "no",
+    "highway": "primary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Leitisvegur",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5857254,
+     62.2222198
+    ]
+   },
+   "properties": {
+    "highway": "residential",
+    "junction": "roundabout",
+    "name": "Undir Fossum",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7891906,
+     62.0266892
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7011419,
+     62.21115
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "ref": "10"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7964081,
+     62.000533
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7904441,
+     61.9965375
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7333774,
+     62.1113213
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "ref": "10/15",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7776491,
+     62.0346692
+    ]
+   },
+   "properties": {
+    "highway": "residential",
+    "junction": "roundabout",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7782226,
+     62.0356886
+    ]
+   },
+   "properties": {
+    "highway": "residential",
+    "junction": "roundabout",
+    "oneway": "yes",
+    "surface": "asphalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0416321,
+     62.1236066
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "maxspeed": "80",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2791951,
+     62.0690708
+    ]
+   },
+   "properties": {
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Flogv\u00f8llurin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7098966,
+     62.2119699
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7789829,
+     62.0443307
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "name": "Hv\u00edtanesvegur",
+    "ref": "10"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7581229,
+     62.0989155
+    ]
+   },
+   "properties": {
+    "bicycle": "no",
+    "foot": "no",
+    "highway": "primary",
+    "horse": "no",
+    "junction": "roundabout",
+    "layer": "-1",
+    "maxspeed": "30",
+    "motor_vehicle": "yes",
+    "name": "Eysturoyartunnilin",
+    "name:da": "Eysturoytunnel",
+    "name:en": "Eysturoy Tunnel",
+    "old_name": "Sk\u00e1lafjar\u00f0artunnilin",
+    "oneway": "yes",
+    "ref": "10",
+    "surface": "asphalt",
+    "toll": "yes",
+    "tunnel": "yes",
+    "wikidata": "Q27830387",
+    "wikipedia": "fo:Eysturoyartunnilin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7887838,
+     62.0059473
+    ]
+   },
+   "properties": {
+    "highway": "secondary",
+    "junction": "roundabout",
+    "oneway": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.151524,
+     62.0564184
+    ]
+   },
+   "properties": {
+    "highway": "primary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "ref": "11"
+   }
+  }
+ ]
+}

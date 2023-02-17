@@ -44,8 +44,17 @@ DIR = path.abspath(path.dirname(__file__))
 # TAG_VALUE = 'consulate'
 
 # https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dlighthouse
-TAG_KEY = 'man_made'
-TAG_VALUE = 'lighthouse'
+# TAG_KEY = 'man_made'
+# TAG_VALUE = 'lighthouse'
+
+# https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtraffic_signals
+# <tag k="highway" v="traffic_signals"/>
+# TAG_KEY = 'highway'
+# TAG_VALUE = 'traffic_signals'
+
+# https://wiki.openstreetmap.org/wiki/Tag:junction%3Droundabout
+TAG_KEY = 'junction'
+TAG_VALUE = 'roundabout'
 
 
 def cache_osm_file():
