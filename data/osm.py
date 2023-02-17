@@ -10,6 +10,8 @@ from typing import Callable, Generator
 from xml import sax
 from xml.sax import handler, xmlreader
 
+from shared import Node, nodes_to_geojson_collection
+
 import requests
 
 DIR = path.abspath(path.dirname(__file__))
@@ -18,8 +20,10 @@ DIR = path.abspath(path.dirname(__file__))
 
 # https://wiki.openstreetmap.org/wiki/Buses#Stops_and_bus_stations
 # <tag k="highway" v="bus_stop"/>
-# TAG_KEY = 'highway'
-# TAG_VALUE = 'bus_stop'
+# Some mappers use bus=yes with public_transport=platform to specify a bus stop,
+# instead of or in addition to highway=bus_stop
+TAG_KEY = 'highway'
+TAG_VALUE = 'bus_stop'
 
 # https://wiki.openstreetmap.org/wiki/Tag:aeroway%3Dhelipad
 # <tag k="aeroway" v="helipad"/>
@@ -29,8 +33,8 @@ DIR = path.abspath(path.dirname(__file__))
 
 # https://wiki.openstreetmap.org/wiki/Tag:amenity%3Dferry_terminal
 # <tag k="amenity" v="ferry_terminal"/>
-TAG_KEY = 'amenity'
-TAG_VALUE = 'ferry_terminal'
+# TAG_KEY = 'amenity'
+# TAG_VALUE = 'ferry_terminal'
 
 # https://wiki.openstreetmap.org/wiki/Tag:barrier%3Dcattle_grid
 # TAG_KEY = 'barrier'
@@ -195,13 +199,6 @@ def iterate_xml(xml_file, node_callback: callable):
         reader.parse(f)
 
 
-@dataclass
-class Node:
-    lat: str
-    lon: str
-    tags: list[tuple[str, str]]
-
-
 def main():
     logger = logging.getLogger(name="osm")
     logger.info(f'Looking for "{TAG_KEY}" = "{TAG_VALUE}" ...')
@@ -237,29 +234,8 @@ def main():
     logger.info(f'Writing {len(nodes)} node(s) GeoJSON to {geojson_file} ...')
 
     with open(geojson_file, 'wt') as f:
-        # https://geojson.org/ // https://geojson.io/
-        features = [
-            {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [float(node.lon), float(node.lat)]
-                },
-                "properties": {
-                    # e.g. ('name', 'Jóannesar Paturssonar gøta')
-                    key: value
-                    for (key, value) in node.tags 
-                }
-            }
-            for node in nodes
-        ]
-
-        # f.write('const points = ')
         json.dump(
-            {
-                'type': 'FeatureCollection',
-                'features': features,
-            },
+            obj=nodes_to_geojson_collection(nodes),
             fp=f,
             indent=True
         )
