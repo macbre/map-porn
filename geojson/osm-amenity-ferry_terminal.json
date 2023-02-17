@@ -247,21 +247,6 @@
         "public_transport": "station",
         "wheelchair": "no"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.763478,
-          61.686125
-        ]
-      },
-      "properties": {
-        "amenity": "ferry_terminal",
-        "ferry": "yes",
-        "public_transport": "station"
-      }
     }
   ]
 }
