@@ -1,0 +1,2399 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 1,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.771456297630287,
+     61.99584167317555
+    ]
+   },
+   "properties": {
+    "objectid": 1,
+    "postnr": 160,
+    "stad": "Argir",
+    "island": "Streymoy",
+    "size": 2,
+    "font_size_annotation": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.536296814842601,
+     62.255401216015365
+    ]
+   },
+   "properties": {
+    "objectid": 2,
+    "postnr": 727,
+    "stad": "\u00c1rnafj\u00f8r\u00f0ur",
+    "island": "Bor\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.676419100456452,
+     61.78430203240973
+    ]
+   },
+   "properties": {
+    "objectid": 3,
+    "postnr": 235,
+    "stad": "Dalur",
+    "island": "Sandoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.091042534377067,
+     62.29960777273075
+    ]
+   },
+   "properties": {
+    "objectid": 4,
+    "postnr": 470,
+    "stad": "Ei\u00f0i",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9118322165194686,
+     62.282279158297705
+    ]
+   },
+   "properties": {
+    "objectid": 5,
+    "postnr": 478,
+    "stad": "Elduv\u00edk",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.879270552476606,
+     61.524686539117816
+    ]
+   },
+   "properties": {
+    "objectid": 6,
+    "postnr": 870,
+    "stad": "F\u00e1mjin",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775269681602015,
+     61.546871989474006
+    ]
+   },
+   "properties": {
+    "objectid": 7,
+    "postnr": 825,
+    "stad": "Fro\u00f0ba",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.693642867555588,
+     62.06968999959643
+    ]
+   },
+   "properties": {
+    "objectid": 8,
+    "postnr": 645,
+    "stad": "\u00c6\u00f0uv\u00edk",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.757488583010027,
+     61.45628957562597
+    ]
+   },
+   "properties": {
+    "objectid": 9,
+    "postnr": 927,
+    "stad": "Akrar",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.579898353014249,
+     62.25290593044408
+    ]
+   },
+   "properties": {
+    "objectid": 10,
+    "postnr": 726,
+    "stad": "\u00c1nirnar",
+    "island": "Bor\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 11,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3714548835494105,
+     62.08797799657533
+    ]
+   },
+   "properties": {
+    "objectid": 11,
+    "postnr": 386,
+    "stad": "B\u00f8ur",
+    "island": "V\u00e1gar",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.528930262027226,
+     62.28689019686813
+    ]
+   },
+   "properties": {
+    "objectid": 12,
+    "postnr": 735,
+    "stad": "Depil",
+    "island": "Bor\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 13,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.813321975697008,
+     62.243844623040516
+    ]
+   },
+   "properties": {
+    "objectid": 13,
+    "postnr": 530,
+    "stad": "Fuglafj\u00f8r\u00f0ur",
+    "island": "Eysturoy",
+    "size": 3,
+    "font_size_annotation": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 14,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.931516524672795,
+     62.236489914099586
+    ]
+   },
+   "properties": {
+    "objectid": 14,
+    "postnr": 477,
+    "stad": "Funningsfj\u00f8r\u00f0ur",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 15,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.966344143279181,
+     62.28707008129733
+    ]
+   },
+   "properties": {
+    "objectid": 15,
+    "postnr": 475,
+    "stad": "Funningur",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 16,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.436009382604254,
+     62.10973801960944
+    ]
+   },
+   "properties": {
+    "objectid": 16,
+    "postnr": 387,
+    "stad": "G\u00e1sadalur",
+    "island": "V\u00e1gar",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 17,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.943029668116241,
+     62.32574282565872
+    ]
+   },
+   "properties": {
+    "objectid": 17,
+    "postnr": 476,
+    "stad": "Gj\u00f3gv",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 18,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.724005438906202,
+     62.12836026238704
+    ]
+   },
+   "properties": {
+    "objectid": 18,
+    "postnr": 625,
+    "stad": "Glyvrar",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 19,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.747068479416461,
+     62.19251476997667
+    ]
+   },
+   "properties": {
+    "objectid": 19,
+    "postnr": 511,
+    "stad": "G\u00f8tugj\u00f3gv",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 20,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.094000906573705,
+     62.27588660577771
+    ]
+   },
+   "properties": {
+    "objectid": 20,
+    "postnr": 440,
+    "stad": "Hald\u00f3rsv\u00edk",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 21,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.275643727204127,
+     62.32955449339747
+    ]
+   },
+   "properties": {
+    "objectid": 21,
+    "postnr": 767,
+    "stad": "Hattarv\u00edk",
+    "island": "Fugloy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 22,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.845135904308116,
+     62.262989112365645
+    ]
+   },
+   "properties": {
+    "objectid": 22,
+    "postnr": 695,
+    "stad": "Hellurnar",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 23,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.883050949222184,
+     61.95562351329762
+    ]
+   },
+   "properties": {
+    "objectid": 23,
+    "postnr": 280,
+    "stad": "Hestur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 24,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.943400826829188,
+     62.15280968360096
+    ]
+   },
+   "properties": {
+    "objectid": 24,
+    "postnr": 420,
+    "stad": "H\u00f3sv\u00edk",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 25,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.755742332403316,
+     61.50693578189066
+    ]
+   },
+   "properties": {
+    "objectid": 25,
+    "postnr": 960,
+    "stad": "Hov",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774549536572501,
+     62.032149745108434
+    ]
+   },
+   "properties": {
+    "objectid": 26,
+    "postnr": 188,
+    "stad": "Hoyv\u00edk",
+    "island": "Streymoy",
+    "size": 2,
+    "font_size_annotation": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 27,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6971213602279525,
+     62.264912137019415
+    ]
+   },
+   "properties": {
+    "objectid": 27,
+    "postnr": 796,
+    "stad": "H\u00fasar",
+    "island": "Kalsoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 28,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6796209489847564,
+     61.80988940441263
+    ]
+   },
+   "properties": {
+    "objectid": 28,
+    "postnr": 230,
+    "stad": "H\u00fasav\u00edk",
+    "island": "Sandoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 29,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9568336739741055,
+     61.60062807153202
+    ]
+   },
+   "properties": {
+    "objectid": 29,
+    "postnr": 850,
+    "stad": "Hvalba",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.036297557456958,
+     62.18700996642273
+    ]
+   },
+   "properties": {
+    "objectid": 30,
+    "postnr": 430,
+    "stad": "Hvalv\u00edk",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 31,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.520132730858635,
+     62.29793826592159
+    ]
+   },
+   "properties": {
+    "objectid": 31,
+    "postnr": 740,
+    "stad": "Hvannasund",
+    "island": "Vi\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 32,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772600605520017,
+     62.044658438876816
+    ]
+   },
+   "properties": {
+    "objectid": 32,
+    "postnr": 187,
+    "stad": "Hv\u00edtanes",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 33,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.759936748668433,
+     62.13952922416863
+    ]
+   },
+   "properties": {
+    "objectid": 33,
+    "postnr": 494,
+    "stad": "Innan Glyvur",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 34,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.831425859583527,
+     62.060080614729664
+    ]
+   },
+   "properties": {
+    "objectid": 34,
+    "postnr": 180,
+    "stad": "Kaldbak",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 35,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.910908548557349,
+     62.06572952679175
+    ]
+   },
+   "properties": {
+    "objectid": 35,
+    "postnr": 185,
+    "stad": "Kaldbaksbotnur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 36,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.31633672367159,
+     62.318518782360734
+    ]
+   },
+   "properties": {
+    "objectid": 36,
+    "postnr": 766,
+    "stad": "Kirkja",
+    "island": "Fugloy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 37,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7934063579576005,
+     61.95370777246894
+    ]
+   },
+   "properties": {
+    "objectid": 37,
+    "postnr": 175,
+    "stad": "Kirkjub\u00f8ur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 38,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.583687811563278,
+     62.22542530358552
+    ]
+   },
+   "properties": {
+    "objectid": 38,
+    "postnr": 700,
+    "stad": "Klaksv\u00edk",
+    "island": "Bor\u00f0oy",
+    "size": 3,
+    "font_size_annotation": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 39,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785963679279551,
+     62.110038152972734
+    ]
+   },
+   "properties": {
+    "objectid": 39,
+    "postnr": 495,
+    "stad": "Kolbeinagj\u00f3gv",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 40,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.902420066082065,
+     62.117393815353104
+    ]
+   },
+   "properties": {
+    "objectid": 40,
+    "postnr": 410,
+    "stad": "Kollafj\u00f8r\u00f0ur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 41,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.967695049386642,
+     61.98617619722611
+    ]
+   },
+   "properties": {
+    "objectid": 41,
+    "postnr": 285,
+    "stad": "Koltur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 42,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.670032665152802,
+     62.2929410556518
+    ]
+   },
+   "properties": {
+    "objectid": 42,
+    "postnr": 780,
+    "stad": "Kunoy",
+    "island": "Kunoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 43,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.076383523633439,
+     62.119616401637074
+    ]
+   },
+   "properties": {
+    "objectid": 43,
+    "postnr": 340,
+    "stad": "Kv\u00edv\u00edk",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 8
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 44,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.710149404934246,
+     62.142101841357146
+    ]
+   },
+   "properties": {
+    "objectid": 44,
+    "postnr": 627,
+    "stad": "Lamba",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 45,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7317130473611835,
+     62.14272962196238
+    ]
+   },
+   "properties": {
+    "objectid": 45,
+    "postnr": 626,
+    "stad": "Lambarei\u00f0i",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 46,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.606286068284359,
+     62.273760535528005
+    ]
+   },
+   "properties": {
+    "objectid": 46,
+    "postnr": 785,
+    "stad": "Haraldssund",
+    "island": "Kunoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 47,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0509534609127975,
+     62.2334634407995
+    ]
+   },
+   "properties": {
+    "objectid": 47,
+    "postnr": 438,
+    "stad": "Langasandur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 48,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.707897944292434,
+     62.20960754828802
+    ]
+   },
+   "properties": {
+    "objectid": 48,
+    "postnr": 520,
+    "stad": "Leirv\u00edk",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 49,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.040855579486278,
+     62.11700045693944
+    ]
+   },
+   "properties": {
+    "objectid": 49,
+    "postnr": 335,
+    "stad": "Leynar",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 50,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0614284669684,
+     62.26693955636134
+    ]
+   },
+   "properties": {
+    "objectid": 50,
+    "postnr": 466,
+    "stad": "Lj\u00f3s\u00e1",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 51,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7703364346303125,
+     61.443110034466564
+    ]
+   },
+   "properties": {
+    "objectid": 51,
+    "postnr": 926,
+    "stad": "Lopra",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 52,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.192203848631283,
+     62.04795479554528
+    ]
+   },
+   "properties": {
+    "objectid": 52,
+    "postnr": 370,
+    "stad": "Mi\u00f0v\u00e1gur",
+    "island": "V\u00e1gar",
+    "size": 2,
+    "font_size_annotation": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 53,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766084867176888,
+     62.33518922983966
+    ]
+   },
+   "properties": {
+    "objectid": 53,
+    "postnr": 797,
+    "stad": "Mikladalur",
+    "island": "Kalsoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 54,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.941890016002264,
+     62.07038005830901
+    ]
+   },
+   "properties": {
+    "objectid": 54,
+    "postnr": null,
+    "stad": "Mj\u00f8rkadalur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 55,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.838420192623308,
+     62.13059917935746
+    ]
+   },
+   "properties": {
+    "objectid": 55,
+    "postnr": 496,
+    "stad": "Morskranes",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 56,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.582207983165703,
+     62.35111724094723
+    ]
+   },
+   "properties": {
+    "objectid": 56,
+    "postnr": 737,
+    "stad": "M\u00fali",
+    "island": "Bor\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 57,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.647648008706908,
+     62.10425152844943
+    ]
+   },
+   "properties": {
+    "objectid": 57,
+    "postnr": 388,
+    "stad": "Mykines",
+    "island": "Mykines",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 58,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.71952746636936,
+     62.07780794244318
+    ]
+   },
+   "properties": {
+    "objectid": 58,
+    "postnr": 655,
+    "stad": "Nes, Eysturoy",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 59,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.00817711784603,
+     62.207285256850426
+    ]
+   },
+   "properties": {
+    "objectid": 59,
+    "postnr": 437,
+    "stad": "Nesv\u00edk",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 60,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.673583790654928,
+     62.00968887424181
+    ]
+   },
+   "properties": {
+    "objectid": 60,
+    "postnr": 270,
+    "stad": "N\u00f3lsoy",
+    "island": "N\u00f3lsoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 61,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.526394580120423,
+     62.29585918593164
+    ]
+   },
+   "properties": {
+    "objectid": 61,
+    "postnr": 730,
+    "stad": "Nor\u00f0depil",
+    "island": "Bor\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 62,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.543577933240682,
+     62.21338441229353
+    ]
+   },
+   "properties": {
+    "objectid": 62,
+    "postnr": 725,
+    "stad": "Nor\u00f0oyri",
+    "island": "Bor\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 63,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.925223122250899,
+     62.03975969688342
+    ]
+   },
+   "properties": {
+    "objectid": 63,
+    "postnr": 178,
+    "stad": "Nor\u00f0radalur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 64,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.741981253798642,
+     62.20107962680072
+    ]
+   },
+   "properties": {
+    "objectid": 64,
+    "postnr": 512,
+    "stad": "Nor\u00f0rag\u00f8ta",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 65,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.001253947516212,
+     62.214060573209345
+    ]
+   },
+   "properties": {
+    "objectid": 65,
+    "postnr": 460,
+    "stad": "Nor\u00f0sk\u00e1li",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 66,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5149241481569184,
+     62.27528610991747
+    ]
+   },
+   "properties": {
+    "objectid": 66,
+    "postnr": 736,
+    "stad": "Nor\u00f0toftir",
+    "island": "Bor\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 67,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.810922822323974,
+     61.5326599860417
+    ]
+   },
+   "properties": {
+    "objectid": 67,
+    "postnr": 827,
+    "stad": "\u00d8r\u00f0av\u00edk",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 68,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.822011097932146,
+     61.547938029321294
+    ]
+   },
+   "properties": {
+    "objectid": 68,
+    "postnr": null,
+    "stad": "\u00d8r\u00f0av\u00edksl\u00ed\u00f0",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 69,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.854075072316523,
+     62.27716732392683
+    ]
+   },
+   "properties": {
+    "objectid": 69,
+    "postnr": 690,
+    "stad": "Oyndarfj\u00f8r\u00f0ur",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 70,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.99467954562264,
+     62.20386005827547
+    ]
+   },
+   "properties": {
+    "objectid": 70,
+    "postnr": 400,
+    "stad": "Oyrarbakki",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 71,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.947330789500231,
+     62.098590549286975
+    ]
+   },
+   "properties": {
+    "objectid": 71,
+    "postnr": 415,
+    "stad": "Oyrareingir",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 72,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.985055109923475,
+     62.190391570224314
+    ]
+   },
+   "properties": {
+    "objectid": 72,
+    "postnr": 450,
+    "stad": "Oyri",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 73,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.746296388062344,
+     61.48195910660054
+    ]
+   },
+   "properties": {
+    "objectid": 73,
+    "postnr": 950,
+    "stad": "Porkeri",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 74,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.682066762684685,
+     62.10747099257657
+    ]
+   },
+   "properties": {
+    "objectid": 74,
+    "postnr": 640,
+    "stad": "Rituv\u00edk",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 75,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7216673127552475,
+     62.10839782299087
+    ]
+   },
+   "properties": {
+    "objectid": 75,
+    "postnr": 620,
+    "stad": "Runav\u00edk",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 76,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.171246880511414,
+     62.244230216340746
+    ]
+   },
+   "properties": {
+    "objectid": 76,
+    "postnr": 436,
+    "stad": "Saksun",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 77,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.720205388682902,
+     62.11891578449824
+    ]
+   },
+   "properties": {
+    "objectid": 77,
+    "postnr": 600,
+    "stad": "Saltangar\u00e1",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 78,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7437903029605435,
+     62.1080147586164
+    ]
+   },
+   "properties": {
+    "objectid": 78,
+    "postnr": 656,
+    "stad": "Saltnes",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 79,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.151071765545642,
+     62.054476741809516
+    ]
+   },
+   "properties": {
+    "objectid": 79,
+    "postnr": 360,
+    "stad": "Sandav\u00e1gur",
+    "island": "V\u00e1gar",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 80,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.816719314101169,
+     61.83485023285601
+    ]
+   },
+   "properties": {
+    "objectid": 80,
+    "postnr": 210,
+    "stad": "Sandur",
+    "island": "Sandoy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 81,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.92883778600842,
+     61.63417665465828
+    ]
+   },
+   "properties": {
+    "objectid": 81,
+    "postnr": 860,
+    "stad": "Sandv\u00edk",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 82,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.877888012686405,
+     62.16006511543531
+    ]
+   },
+   "properties": {
+    "objectid": 82,
+    "postnr": 497,
+    "stad": "Selatra\u00f0",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 83,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9237482338645515,
+     62.096549916598924
+    ]
+   },
+   "properties": {
+    "objectid": 83,
+    "postnr": 416,
+    "stad": "Signab\u00f8ur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 84,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.007055640675502,
+     62.09514925423336
+    ]
+   },
+   "properties": {
+    "objectid": 84,
+    "postnr": 336,
+    "stad": "Sk\u00e6lingur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 85,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7873149275844575,
+     62.16321664420808
+    ]
+   },
+   "properties": {
+    "objectid": 85,
+    "postnr": 480,
+    "stad": "Sk\u00e1la",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 86,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.664032058657503,
+     61.8302676389925
+    ]
+   },
+   "properties": {
+    "objectid": 86,
+    "postnr": 220,
+    "stad": "Sk\u00e1lav\u00edk",
+    "island": "Sandoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 87,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.74813263964776,
+     61.79414492621253
+    ]
+   },
+   "properties": {
+    "objectid": 87,
+    "postnr": 236,
+    "stad": "Skarvanes",
+    "island": "Sandoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 88,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.770242470953034,
+     62.17346579741891
+    ]
+   },
+   "properties": {
+    "objectid": 88,
+    "postnr": 665,
+    "stad": "Skipanes",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 89,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.884643574058565,
+     61.903942029990944
+    ]
+   },
+   "properties": {
+    "objectid": 89,
+    "postnr": 240,
+    "stad": "Skopun",
+    "island": "Sandoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 90,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.805875303550673,
+     61.77074226308932
+    ]
+   },
+   "properties": {
+    "objectid": 90,
+    "postnr": 260,
+    "stad": "Sk\u00fagvoy",
+    "island": "Sk\u00fagvoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 91,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.75256321855191,
+     62.15750656127476
+    ]
+   },
+   "properties": {
+    "objectid": 91,
+    "postnr": 660,
+    "stad": "S\u00f8ldarfj\u00f8r\u00f0ur",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 92,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3060467913337215,
+     62.07074542055677
+    ]
+   },
+   "properties": {
+    "objectid": 92,
+    "postnr": 380,
+    "stad": "S\u00f8rv\u00e1gur",
+    "island": "V\u00e1gar",
+    "size": 2,
+    "font_size_annotation": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 93,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.754486133715826,
+     61.68532208669669
+    ]
+   },
+   "properties": {
+    "objectid": 93,
+    "postnr": 286,
+    "stad": "St\u00f3ra D\u00edmun",
+    "island": "St\u00f3ra D\u00edmun",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 94,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.761216336484772,
+     62.109482702696795
+    ]
+   },
+   "properties": {
+    "objectid": 94,
+    "postnr": 490,
+    "stad": "Strendur",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 95,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.032100027960037,
+     62.191806889052
+    ]
+   },
+   "properties": {
+    "objectid": 95,
+    "postnr": 435,
+    "stad": "Streymnes",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 96,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.049686887309972,
+     62.11606331338862
+    ]
+   },
+   "properties": {
+    "objectid": 96,
+    "postnr": 330,
+    "stad": "Stykki\u00f0",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 97,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.711736198823367,
+     61.4033267525232
+    ]
+   },
+   "properties": {
+    "objectid": 97,
+    "postnr": 970,
+    "stad": "Sumba",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 98,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8500802006183275,
+     62.04935016790242
+    ]
+   },
+   "properties": {
+    "objectid": 98,
+    "postnr": 186,
+    "stad": "Sund",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 99,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0269723066673295,
+     62.230042539763716
+    ]
+   },
+   "properties": {
+    "objectid": 99,
+    "postnr": 465,
+    "stad": "Sv\u00edn\u00e1ir",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 100,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.342355445353702,
+     62.27803210207042
+    ]
+   },
+   "properties": {
+    "objectid": 100,
+    "postnr": 765,
+    "stad": "Sv\u00ednoy",
+    "island": "Sv\u00ednoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 101,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.66777178026393,
+     62.2452742316132
+    ]
+   },
+   "properties": {
+    "objectid": 101,
+    "postnr": 795,
+    "stad": "Sy\u00f0radalur, Kalsoy",
+    "island": "Kalsoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 102,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.91323904878951,
+     62.01872926293599
+    ]
+   },
+   "properties": {
+    "objectid": 102,
+    "postnr": 177,
+    "stad": "Sy\u00f0radalur, Streymoy",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 103,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.755902893738783,
+     62.18568831330952
+    ]
+   },
+   "properties": {
+    "objectid": 103,
+    "postnr": 513,
+    "stad": "Sy\u00f0rug\u00f8ta",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 104,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.149202603582618,
+     62.28950016085746
+    ]
+   },
+   "properties": {
+    "objectid": 104,
+    "postnr": 445,
+    "stad": "Tj\u00f8rnuv\u00edk",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 105,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.732242124504168,
+     62.09097035879997
+    ]
+   },
+   "properties": {
+    "objectid": 105,
+    "postnr": 650,
+    "stad": "Toftir",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 106,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7715189468887145,
+     62.01028602180903
+    ]
+   },
+   "properties": {
+    "objectid": 106,
+    "postnr": 100,
+    "stad": "T\u00f3rshavn",
+    "island": "Streymoy",
+    "size": 3,
+    "font_size_annotation": 13
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 107,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787584677353576,
+     62.36128183519615
+    ]
+   },
+   "properties": {
+    "objectid": 107,
+    "postnr": 798,
+    "stad": "Tr\u00f8llanes",
+    "island": "Kalsoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 108,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.839567923255353,
+     61.56402798748141
+    ]
+   },
+   "properties": {
+    "objectid": 108,
+    "postnr": 826,
+    "stad": "Trongisv\u00e1gur",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 109,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.804682370322434,
+     61.55532942246489
+    ]
+   },
+   "properties": {
+    "objectid": 109,
+    "postnr": 800,
+    "stad": "Tv\u00f8royri",
+    "island": "Su\u00f0uroy",
+    "size": 3,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 110,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775701686901057,
+     62.17602763804079
+    ]
+   },
+   "properties": {
+    "objectid": 110,
+    "postnr": 666,
+    "stad": "Undir G\u00f8tuei\u00f0i",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 111,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.811462160024181,
+     61.473886025386896
+    ]
+   },
+   "properties": {
+    "objectid": 111,
+    "postnr": 900,
+    "stad": "V\u00e1gur",
+    "island": "Su\u00f0uroy",
+    "size": 3,
+    "font_size_annotation": 11
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 112,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.250134890185422,
+     62.07461083015162
+    ]
+   },
+   "properties": {
+    "objectid": 112,
+    "postnr": 385,
+    "stad": "Vatnsoyrar",
+    "island": "V\u00e1gar",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 113,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1529134743873195,
+     62.1500832535159
+    ]
+   },
+   "properties": {
+    "objectid": 113,
+    "postnr": 358,
+    "stad": "V\u00e1lur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 114,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.855217658370259,
+     61.98284064728202
+    ]
+   },
+   "properties": {
+    "objectid": 114,
+    "postnr": 176,
+    "stad": "Velbasta\u00f0ur",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 115,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.174756243256833,
+     62.15520488900472
+    ]
+   },
+   "properties": {
+    "objectid": 115,
+    "postnr": 350,
+    "stad": "Vestmanna",
+    "island": "Streymoy",
+    "size": 3,
+    "font_size_annotation": 9
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 116,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.535461816502829,
+     62.36020035416173
+    ]
+   },
+   "properties": {
+    "objectid": 116,
+    "postnr": 750,
+    "stad": "Vi\u00f0arei\u00f0i",
+    "island": "Vi\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 117,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728207435482741,
+     61.44264810185874
+    ]
+   },
+   "properties": {
+    "objectid": 117,
+    "postnr": 928,
+    "stad": "V\u00edkarbyrgi",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 118,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.85732650730912,
+     62.1957204456692
+    ]
+   },
+   "properties": {
+    "objectid": 118,
+    "postnr": 485,
+    "stad": "Sk\u00e1lafj\u00f8r\u00f0ur",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 119,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.166014169201302,
+     62.04803524568565
+    ]
+   },
+   "properties": {
+    "objectid": 119,
+    "postnr": null,
+    "stad": "Giljanes",
+    "island": "V\u00e1gar",
+    "size": 1,
+    "font_size_annotation": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 120,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.532263044145626,
+     62.301474379105485
+    ]
+   },
+   "properties": {
+    "objectid": 120,
+    "postnr": null,
+    "stad": "Foss\u00e1nes",
+    "island": "Bor\u00f0oy",
+    "size": 1,
+    "font_size_annotation": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 121,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.812000923518235,
+     62.22108132496953
+    ]
+   },
+   "properties": {
+    "objectid": 121,
+    "postnr": null,
+    "stad": "Kambsdalur",
+    "island": "Eysturoy",
+    "size": 1,
+    "font_size_annotation": 7
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 122,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.973210555528569,
+     62.172947948296255
+    ]
+   },
+   "properties": {
+    "objectid": 122,
+    "postnr": null,
+    "stad": "Vi\u00f0 \u00c1ir",
+    "island": "Streymoy",
+    "size": 1,
+    "font_size_annotation": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 123,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.244542983132377,
+     62.15503709211653
+    ]
+   },
+   "properties": {
+    "objectid": 123,
+    "postnr": null,
+    "stad": "Sl\u00e6ttanes",
+    "island": "V\u00e1goy",
+    "size": 1,
+    "font_size_annotation": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 124,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.929556626219852,
+     61.59322668765837
+    ]
+   },
+   "properties": {
+    "objectid": 124,
+    "postnr": null,
+    "stad": "Nes, Hvalba",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 125,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.762904475735214,
+     61.471365229998064
+    ]
+   },
+   "properties": {
+    "objectid": 125,
+    "postnr": 925,
+    "stad": "Nes, V\u00e1gur",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 6
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 126,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.68083499510141,
+     61.39532013719361
+    ]
+   },
+   "properties": {
+    "objectid": 126,
+    "postnr": null,
+    "stad": "Akraberg",
+    "island": "Su\u00f0uroy",
+    "size": 1,
+    "font_size_annotation": 6
+   }
+  }
+ ]
+}

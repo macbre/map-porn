@@ -8,6 +8,9 @@ from os import path
 from typing import Generator
 import requests
 
+from shared import get_http_client
+
+
 NO_PAGINATION = False
 
 ARCGIS_SERVER = 'gis.us.fo'
@@ -66,14 +69,19 @@ POLYGONS_TO_POINTS = True
 # PROPERTY_VALUE = "contour"
 
 # https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/15
-# TODO: keep the polygons
-FOLDER = 'lendiskort'
-SERVICE = 'us_lendiskort'
-MAP_ID = 15  # Oyggjar
-PROPERTY_NAME = None
-PROPERTY_VALUE = "oyggjar"
-POLYGONS_TO_POINTS = False  # keep the polygons as we need islands shapes
+# FOLDER = 'lendiskort'
+# SERVICE = 'us_lendiskort'
+# MAP_ID = 15  # Oyggjar
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "oyggjar"
+# POLYGONS_TO_POINTS = False  # keep the polygons as we need islands shapes
 
+# https://gis.us.fo/arcgis/rest/services/bygdir/us_bygdir/MapServer
+FOLDER = 'bygdir'
+SERVICE = 'us_bygdir'
+MAP_ID = 0
+PROPERTY_NAME = None
+PROPERTY_VALUE = "bygdir"
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 
@@ -173,7 +181,7 @@ def get_features_from_arcgis(url: str) -> Generator:
         if NO_PAGINATION:
             del query_params['resultOffset']
 
-        resp = requests.get(url, headers={'user-agent': 'acrgis.py'}, params=query_params)
+        resp = get_http_client().get(url, params=query_params)
         resp.raise_for_status()
 
         # e.g. https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/48/query?where=1%3D1&geometryType=esriGeometryEnvelope&geometryPrecision=6&spatialRel=esriSpatialRelIntersects&outFields=*&resultOffset=2000&returnGeometry=true&returnZ=false&returnM=false&returnIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&returnTrueCurves=false&returnExtentsOnly=false&f=geojson
