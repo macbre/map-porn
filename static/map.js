@@ -54,9 +54,10 @@ async function addGeoJSONLayer(map, url, color, label_en, label_pl, filter) {
     // https://leafletjs.com/examples/map-panes/
     map.createPane(`markers-${color}`);
     map.getPane(`markers-${color}`).style.zIndex = {
-        'blue': 500,
-        'yellow': 600,
-        'green': 700,
+        'blue': 600,
+        'yellow': 700,
+        'green': 800,
+        'red': 900,
     }[color];
 
     // console.log('GeoJSON', geojsonFeatures);

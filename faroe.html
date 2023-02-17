@@ -58,16 +58,16 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Landsverk, Umhvørvisstovan, Strandfaraskip Landsins.
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, OpenStreetMaps.
 					</p>
 				</div>
 
 				<div>
 					<p>
-						<strong lang="en">Maps by</strong><strong lang="pl">Mapy</strong>: Leaflet
+						<strong lang="en">Maps rendered with</strong><strong lang="pl">Mapy</strong> Leaflet
 					</p>
 					<p lang="en">
-						<strong>Licensed under</strong> Creative Commons Attribution 4.0.
+						<strong>Licensed under</strong> Creative Commons Attribution.
 					</p>
 					<p lang="pl">
 						<strong>Licencja</strong> Creative Commons Uznanie autorstwa.
@@ -96,7 +96,7 @@
 				// https://leafletjs.com/reference.html#path-option
 				stroke: true,
 				color: "#3c91d0ee",   // stroke
-				fillColor: "#ede2cbee", // fill
+				fillColor: "#faf5eb", // fill
 				fillOpacity: 1,
 				weight: 3,
 				opacity: 1,
@@ -152,8 +152,8 @@
 				// properties: {name: '0032 Skopun', operator: 'SSL'}
 				return item.properties.operator === 'SSL' || item.properties.bus === 'yes' /* from OSM */;
 			});
-			await addGeoJSONLayer(map, '/geojson/osm-amenity-ferry_terminal.json', 'yellow', 'ferry terminals', 'promy');
 			await addGeoJSONLayer(map, '/geojson/us-lendiskort-us_lendiskort-48-Tyrluplass.json', 'green', 'helipads', 'lądowiska dla helikopterów');
+			await addGeoJSONLayer(map, '/geojson/osm-amenity-ferry_terminal.json', 'red', 'ferry terminals', 'promy');
 
 			// L.marker([61.961667, -6.9675], {icon: getIcon('green')}).addTo(map);
 
@@ -165,6 +165,18 @@
 			});
 		})();
 		</script>
+
+		<style>
+			/**
+			 * @see https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient
+			 */
+			.marker.red {
+				background: conic-gradient(transparent 0, transparent 180deg, #d73027 180deg);
+			}
+			.marker.green { 
+				background: conic-gradient(#1a9850 0, #1a9850 180deg, transparent 180deg);
+			}
+		</style>
 
 	</body>
 </html>

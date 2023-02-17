@@ -93,7 +93,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 
 .marker {
     --marker-size: 16px;
-    opacity: 0.8;
+    opacity: 0.9;
     content: ' ';
     display: inline-block;
     width: var(--marker-size);
@@ -103,10 +103,11 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     /* filter: sepia(0.2); */
 }
 
-/* https://colorbrewer2.org/#type=diverging&scheme=Spectral&n=10 */
-.marker.green  { background-color: #abdda4; outline-width: 0; }
-.marker.blue   { background-color: #3288bd; }
-.marker.yellow { background-color: #fee08b; outline-width: 4px; }
+/* https://colorbrewer2.org/#type=diverging&scheme=RdYlGn&n=10 */
+.marker.green  { background-color: #1a9850 }
+.marker.blue   { background-color: #4575b4 } /* https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10 */
+.marker.yellow { background-color: #fee08b }
+.marker.red    { background-color: #d73027 }
 /* 
 #map .marker.green {
     width: 24px;
@@ -277,7 +278,7 @@ section.info {
 
 section.info div {
     padding: 25px 50px;
-    flex: 0 0 calc(calc(50%) - 100px);
+    flex: 0 0 calc(calc(60%) - 100px);
 }
 
 section.info div:nth-child(2) {
@@ -286,7 +287,7 @@ section.info div:nth-child(2) {
     background-color: #3c91d011;
     border-left: solid 2px #3c91d044;
 
-    /* flex: 0 0 calc(calc(40%) - 100px); */
+    flex: 0 0 calc(calc(40%) - 100px);
 }
 
 img.cc {
