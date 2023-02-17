@@ -1,0 +1,2717 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1932612,
+     62.0482742
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1890712,
+     62.0485577
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2790277,
+     62.0676645
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7231635,
+     62.1090601
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Runav\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7234152,
+     62.1090494
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Runav\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7227144,
+     62.1140363
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Saltangar\u00e1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7225162,
+     62.1227973
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Glyvrar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8537422,
+     62.2009983
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Sk\u00e1labotn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7614065,
+     62.1683635
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Skipanes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7841809,
+     61.9969555
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tra\u00f0ag\u00f8ta",
+    "public_transport": "platform",
+    "ref": "170"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7841865,
+     61.9969862
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tra\u00f0ag\u00f8ta",
+    "public_transport": "platform",
+    "ref": "103"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8285046,
+     61.9998542
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nor\u00f0asta Horn",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7501586,
+     62.1880449
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Sy\u00f0rugota"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9829485,
+     62.1189222
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kollfjar\u00f0ardalur (effo st\u00f8\u00f0in)",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7741292,
+     62.0112992
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2022-07-30",
+    "highway": "bus_stop",
+    "name": "Steinat\u00fan",
+    "public_transport": "platform",
+    "ref": "112",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7732293,
+     62.0146125
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "SMS",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7756832,
+     62.0174327
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7635643,
+     62.0300361
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7753585,
+     62.0204089
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "\u00c1 H\u00e1lsi",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7742187,
+     62.0290967
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7813041,
+     62.0340055
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1656875,
+     62.1539208
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Torgi\u00f0",
+    "shelter": "yes",
+    "tactile_paving": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0519808,
+     62.1155801
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stykki\u00f0",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765091,
+     62.0080289
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Farst\u00f8\u00f0in",
+    "operator": "Strandfaraskip Landsins",
+    "public_transport": "platform",
+    "ref": "100, 101, 300, 400"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6858233,
+     62.1077189
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Rituv\u00edk1"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8189601,
+     61.9625439
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Ferry terminal Gamlar\u00e6tt",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1751949,
+     62.1538904
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vestmanna",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5850488,
+     62.2263827
+    ]
+   },
+   "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Klaskvik",
+    "shelter": "no",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.944479,
+     62.0957334
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kollfjar\u00f0ardalur (Tunnilin)",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8785315,
+     61.9030609
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.761549,
+     62.0170788
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "221",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7655896,
+     62.0183094
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "222",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7637514,
+     62.0225083
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "\u00d3\u00f0insh\u00e6dd (Posth\u00fasi\u00f0)",
+    "public_transport": "platform",
+    "ref": "223",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.758661,
+     62.0140789
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "T\u00f3rgar\u00f0sg\u00f8ta",
+    "public_transport": "platform",
+    "ref": "219",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7621888,
+     62.0142142
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Eystursk\u00falin",
+    "public_transport": "platform",
+    "ref": "220",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7774959,
+     62.0027573
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Landssj\u00fakrah\u00fasi\u00f0",
+    "public_transport": "platform",
+    "ref": "108",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7845925,
+     62.0008844
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7773564,
+     62.00673
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7657443,
+     62.0182561
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "340",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7649994,
+     62.0210884
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "\u00d3\u00f0insh\u00e6dd (Posth\u00fasi\u00f0)",
+    "public_transport": "platform",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7763006,
+     62.01139
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77865,
+     62.0131476
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7800024,
+     62.014108
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7830733,
+     62.015974
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7857939,
+     62.0179143
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787204,
+     62.0193379
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7658379,
+     62.0097647
+    ]
+   },
+   "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "216",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.762158,
+     62.0084408
+    ]
+   },
+   "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yviri vi\u00f0 Strond (Eik banki)",
+    "public_transport": "platform",
+    "ref": "217",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7592795,
+     62.0115148
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7589495,
+     62.0117189
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yviri vi\u00f0 Strond",
+    "public_transport": "platform",
+    "ref": "218",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.04473,
+     62.1202814
+    ]
+   },
+   "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Leynar",
+    "public_transport": "platform",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766024,
+     62.0368353
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "226",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7617925,
+     62.0141916
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Eystursk\u00falin",
+    "public_transport": "platform",
+    "ref": "343",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7708644,
+     62.0419334
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hv\u00edtanes",
+    "public_transport": "platform",
+    "ref": "227",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7670208,
+     62.0105216
+    ]
+   },
+   "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7692866,
+     62.0276562
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Studentask\u00falin",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7683021,
+     62.0277932
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Studentask\u00falin",
+    "public_transport": "platform",
+    "ref": "224A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7618804,
+     62.0086427
+    ]
+   },
+   "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yviri vi\u00f0 Strond (Eik banki)",
+    "public_transport": "platform",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7612409,
+     62.0169625
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "341",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7631865,
+     62.030032
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "225"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7656564,
+     62.035937
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7729627,
+     62.0139685
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "SMS",
+    "public_transport": "platform",
+    "ref": "153",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7752944,
+     62.018419
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7850021,
+     62.024023
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7858833,
+     62.0242195
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7887101,
+     62.0258418
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7881956,
+     62.0269206
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7875831,
+     62.0271029
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7763041,
+     62.0278954
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7751554,
+     62.0280218
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7796077,
+     62.0284017
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7826619,
+     62.0286809
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7706863,
+     62.0287199
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "332"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7826407,
+     62.0287369
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7700146,
+     62.0290845
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "235",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7677113,
+     62.0302375
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7679836,
+     62.0301832
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7663593,
+     62.0325516
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7662989,
+     62.0331436
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7665278,
+     62.0344581
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7665193,
+     62.0349543
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8026165,
+     62.0485648
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7939296,
+     62.0477911
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "\u00c1 Hjalla",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7757735,
+     62.020734
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "\u00c1 H\u00e1lsi",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7948413,
+     62.0007231
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8021556,
+     62.0034314
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7818763,
+     62.0049375
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "1090 Fr\u00e6lsi\u00f0",
+    "public_transport": "platform",
+    "ref": "1090 Fr\u00e6lsi\u00f0",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7845929,
+     62.006502
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8019291,
+     62.0072637
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name:en": "Handilssk\u00f9lin",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785567,
+     62.0072375
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8002478,
+     62.0086493
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name:en": "145",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7888581,
+     62.0186264
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7776343,
+     62.020863
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7854692,
+     62.0216281
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774384,
+     62.0113745
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Steinat\u00fan",
+    "public_transport": "platform",
+    "ref": "154",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8447019,
+     62.2632575
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Hellur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7897212,
+     62.032251
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7843761,
+     62.0292861
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7855771,
+     62.0302887
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7912479,
+     62.0331329
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7980383,
+     62.0030289
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "SEV Landavegin",
+    "public_transport": "platform",
+    "ref": "306",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7975147,
+     62.0031814
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "SEV Landavegin",
+    "public_transport": "platform",
+    "ref": "355"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7937852,
+     62.0039585
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "307",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7916463,
+     62.0046952
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "308",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.791858,
+     62.0047092
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "353",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7892899,
+     62.0057786
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "352",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7799615,
+     62.0093125
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "J\u00f3annesar Paturssonar g\u00f8ta",
+    "public_transport": "platform",
+    "ref": "151"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780086,
+     62.0093251
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "J\u00f3annesar Paturssonar g\u00f8ta",
+    "public_transport": "platform",
+    "ref": "248"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7995453,
+     62.0001505
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "304"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7944772,
+     62.0038534
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "354",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7748628,
+     61.9935435
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hamarin",
+    "operator": "T\u00f3rshavnar kommuna",
+    "public_transport": "stop_position"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1655465,
+     62.0474413
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name": "Midvagur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7980214,
+     62.0009902
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7929338,
+     62.0118366
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "147",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1570689,
+     62.053597
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1827634,
+     62.0482543
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1504413,
+     62.0568929
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7567214,
+     62.2033705
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1769229,
+     62.0476889
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.076329,
+     62.1186067
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name:en": "Kv\u00edv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2078865,
+     62.0466664
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2492944,
+     62.0726428
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3130922,
+     62.0702436
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3060116,
+     62.0723634
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5309244,
+     62.3600329
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7096658,
+     62.2115495
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9432664,
+     62.1517339
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9724332,
+     62.171866
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9991182,
+     62.2072321
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name:en": "Oyrarbakki"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7994902,
+     62.0088436
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name:en": "145",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8577492,
+     61.9840003
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7980714,
+     61.9541958
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name:en": "Kirkjub\u00f8ur",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7941483,
+     61.9520554
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8540633,
+     61.9835851
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7964638,
+     62.0101608
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8111897,
+     61.5326579
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "\u00d8rav\u00edk",
+    "public_transport": "platform",
+    "source": "Mapillary"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3258217,
+     62.0702001
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name:en": "sorvagur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5361478,
+     62.255056
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7115771,
+     61.4034278
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.178681,
+     62.0477687
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.808777,
+     62.2204025
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8171672,
+     61.5565653
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0916202,
+     62.299381
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Ei\u00f0i",
+    "operator": "Stran",
+    "public_transport": "platform",
+    "ref": "200",
+    "shelter": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.818247,
+     61.8339722
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "shelter_type": "pavilion"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8749142,
+     62.1243301
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0274132,
+     62.190724
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1504988,
+     62.0571416
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9398141,
+     62.1013
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5849324,
+     62.2265575
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7692667,
+     62.0193412
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tjaldursvegur4",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7709161,
+     62.0370005
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7262521,
+     62.1416659
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7853384,
+     62.0072799
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7665499,
+     61.4698878
+    ]
+   },
+   "properties": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7603384,
+     61.5068957
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hov",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8165639,
+     61.5465467
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "L\u00ed\u00f0art\u00fan",
+    "public_transport": "platform",
+    "source": "Mapillary"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.818289,
+     61.548162
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "Mapillary"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8181836,
+     61.5481411
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "Mapillary"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8180825,
+     61.5481199
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "Mapillary"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8183996,
+     61.5481832
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "Mapillary"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5737672,
+     62.2230448
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5732147,
+     62.2239122
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0602689,
+     62.2667815
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "operator": "Strandfaraskip Landsins",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0305171,
+     62.2334407
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0151982,
+     62.2209811
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.003111,
+     62.2127565
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "operator": "Strandfaraskip Landsins",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.996535,
+     62.2012138
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "operator": "Strandfaraskip Landsins",
+    "public_transport": "platform"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.999545,
+     62.206178
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name:en": "Oyrabakki Bus Stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9995133,
+     62.2061735
+    ]
+   },
+   "properties": {
+    "highway": "bus_stop",
+    "name:en": "Oyrabakki Bus Stop"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8152212,
+     62.2420353
+    ]
+   },
+   "properties": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7874975,
+     62.0028612
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Heygsvegur",
+    "operator": "T\u00f3rshavnar kommuna",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7871397,
+     62.009677
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2096919,
+     62.0464562
+    ]
+   },
+   "properties": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+   }
+  }
+ ]
+}
