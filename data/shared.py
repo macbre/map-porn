@@ -40,6 +40,7 @@ def nodes_to_geojson_collection(nodes: list[Node]) -> dict:
         'features': [
             node.to_geojson()
             for node in nodes
+            # if float(node.lat) < 61.56  # temp filtering
         ],
     }
 

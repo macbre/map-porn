@@ -22,8 +22,8 @@ DIR = path.abspath(path.dirname(__file__))
 # <tag k="highway" v="bus_stop"/>
 # Some mappers use bus=yes with public_transport=platform to specify a bus stop,
 # instead of or in addition to highway=bus_stop
-TAG_KEY = 'highway'
-TAG_VALUE = 'bus_stop'
+TAG_KEY = 'bus'
+TAG_VALUE = 'yes'
 
 # https://wiki.openstreetmap.org/wiki/Tag:aeroway%3Dhelipad
 # <tag k="aeroway" v="helipad"/>

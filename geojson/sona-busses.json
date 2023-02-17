@@ -11074,6 +11074,184 @@
     "name": "44 Vagli\u00f0",
     "operator": "Klaksv\u00edk"
    }
-  }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.8111897,
+      61.5326579
+     ]
+    },
+    "properties": {
+     "bus": "yes",
+     "highway": "bus_stop",
+     "name": "\u00d8rav\u00edk",
+     "public_transport": "platform",
+     "source": "Mapillary"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.7115771,
+      61.4034278
+     ]
+    },
+    "properties": {
+     "bus": "yes",
+     "highway": "bus_stop",
+     "public_transport": "platform"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.8171672,
+      61.5565653
+     ]
+    },
+    "properties": {
+     "bus": "yes",
+     "highway": "bus_stop",
+     "public_transport": "platform"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.7665499,
+      61.4698878
+     ]
+    },
+    "properties": {
+     "bench": "no",
+     "bus": "yes",
+     "highway": "bus_stop",
+     "public_transport": "platform",
+     "shelter": "yes"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.7603384,
+      61.5068957
+     ]
+    },
+    "properties": {
+     "bus": "yes",
+     "highway": "bus_stop",
+     "name": "Hov",
+     "public_transport": "platform"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.8165639,
+      61.5465467
+     ]
+    },
+    "properties": {
+     "bus": "yes",
+     "highway": "bus_stop",
+     "name": "L\u00ed\u00f0art\u00fan",
+     "public_transport": "platform",
+     "source": "Mapillary"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.818289,
+      61.548162
+     ]
+    },
+    "properties": {
+     "bus": "yes",
+     "highway": "bus_stop",
+     "public_transport": "platform",
+     "source": "Mapillary"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.8181836,
+      61.5481411
+     ]
+    },
+    "properties": {
+     "bus": "yes",
+     "highway": "bus_stop",
+     "public_transport": "platform",
+     "source": "Mapillary"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.8180825,
+      61.5481199
+     ]
+    },
+    "properties": {
+     "bus": "yes",
+     "highway": "bus_stop",
+     "public_transport": "platform",
+     "source": "Mapillary"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.8183996,
+      61.5481832
+     ]
+    },
+    "properties": {
+     "bus": "yes",
+     "highway": "bus_stop",
+     "public_transport": "platform",
+     "source": "Mapillary"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.8180902,
+      61.548316
+     ]
+    },
+    "properties": {
+     "amenity": "bus_station",
+     "building": "yes",
+     "bus": "yes",
+     "name": "Krambatangi",
+     "public_transport": "station"
+    }
+   }
  ]
 }
