@@ -10,9 +10,8 @@ from typing import Callable, Generator
 from xml import sax
 from xml.sax import handler, xmlreader
 
-from shared import Node, nodes_to_geojson_collection
+from shared import Node, nodes_to_geojson_collection, get_http_client
 
-import requests
 
 DIR = path.abspath(path.dirname(__file__))
 
@@ -22,8 +21,8 @@ DIR = path.abspath(path.dirname(__file__))
 # <tag k="highway" v="bus_stop"/>
 # Some mappers use bus=yes with public_transport=platform to specify a bus stop,
 # instead of or in addition to highway=bus_stop
-TAG_KEY = 'bus'
-TAG_VALUE = 'yes'
+# TAG_KEY = 'bus'
+# TAG_VALUE = 'yes'
 
 # https://wiki.openstreetmap.org/wiki/Tag:aeroway%3Dhelipad
 # <tag k="aeroway" v="helipad"/>
@@ -44,6 +43,10 @@ TAG_VALUE = 'yes'
 # TAG_KEY = 'diplomatic'
 # TAG_VALUE = 'consulate'
 
+# https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dlighthouse
+TAG_KEY = 'man_made'
+TAG_VALUE = 'lighthouse'
+
 
 def cache_osm_file():
     # https://download.geofabrik.de/europe/faroe-islands.html
@@ -58,7 +61,7 @@ def cache_osm_file():
 
     logger.info(f'The cached OSM XML not found at {LOCAL_FILE} -> fetching {URL} ...')
 
-    resp = requests.get(URL, headers={'user-agent': 'osm.py'})
+    resp = get_http_client().get(URL, headers={'user-agent': 'osm.py'})
     resp.raise_for_status()
 
     logger.info(f'HTTP {resp.status_code}')

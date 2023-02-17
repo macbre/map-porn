@@ -1,0 +1,506 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7631626,
+     62.0077021
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name:de": "Leuchtturm Skansin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.461,
+     62.0801667
+    ]
+   },
+   "properties": {
+    "ele": "66.83",
+    "man_made": "lighthouse",
+    "name:de": "Leuchtturm G\u00e5sholm",
+    "seamark:light:character": "Fl",
+    "seamark:light:colour": "white",
+    "seamark:light:group": "2",
+    "seamark:light:height": "32",
+    "seamark:light:period": "5",
+    "seamark:light:range": "5",
+    "seamark:light:reference": "L 4454.6",
+    "seamark:light:sequence": "0.7+(0.8)+0.7+(2.8)",
+    "seamark:name": "Gasholm",
+    "seamark:type": "light_minor",
+    "source": "Umhv\u00f8rvisstovan www.us.fo;US NGA Pub. 115. 2010-09-09.",
+    "us.fo:fixpunkt_lysing": "G\u00e1sh\u00f3lmur vitin",
+    "us.fo:fixpunkt_nr": "30009"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.261373,
+     62.3417286
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "Fugloyar viti"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8115903,
+     62.3702208
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "Kalsoyar viti",
+    "name:da": "Kallur Fyr",
+    "name:de": "Leuchtturm Kallur",
+    "seamark:light:1:character": "LFl",
+    "seamark:light:1:colour": "white",
+    "seamark:light:1:height": "240",
+    "seamark:light:1:period": "15",
+    "seamark:light:1:range": "10",
+    "seamark:light:1:sector_end": "312",
+    "seamark:light:1:sector_start": "10",
+    "seamark:light:1:sequence": "3+(12)",
+    "seamark:light:reference": "L 4430",
+    "seamark:name": "Kallur",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 115. 2010-09-09.",
+    "wikidata": "Q28374928"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8684807,
+     61.9324613
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8598253,
+     61.9817268
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "seamark:information": "Shown July 15 to June 1",
+    "seamark:light:1:character": "Fl",
+    "seamark:light:1:colour": "red",
+    "seamark:light:1:group": "2",
+    "seamark:light:1:period": "10",
+    "seamark:light:1:range": "8",
+    "seamark:light:1:sector_end": "78",
+    "seamark:light:1:sector_start": "0",
+    "seamark:light:1:sequence": "1+(1),1+(7)",
+    "seamark:light:2:character": "Fl",
+    "seamark:light:2:colour": "green",
+    "seamark:light:2:group": "2",
+    "seamark:light:2:period": "10",
+    "seamark:light:2:range": "8",
+    "seamark:light:2:sector_end": "108",
+    "seamark:light:2:sector_start": "78",
+    "seamark:light:2:sequence": "1+(1),1+(7)",
+    "seamark:light:3:character": "Fl",
+    "seamark:light:3:colour": "white",
+    "seamark:light:3:group": "2",
+    "seamark:light:3:period": "10",
+    "seamark:light:3:range": "12",
+    "seamark:light:3:sector_end": "120",
+    "seamark:light:3:sector_start": "108",
+    "seamark:light:3:sequence": "1+(1),1+(7)",
+    "seamark:light:4:character": "Fl",
+    "seamark:light:4:colour": "red",
+    "seamark:light:4:group": "2",
+    "seamark:light:4:period": "10",
+    "seamark:light:4:range": "8",
+    "seamark:light:4:sector_end": "135",
+    "seamark:light:4:sector_start": "120",
+    "seamark:light:4:sequence": "1+(1),1+(7)",
+    "seamark:light:5:character": "Fl",
+    "seamark:light:5:colour": "green",
+    "seamark:light:5:group": "2",
+    "seamark:light:5:period": "10",
+    "seamark:light:5:range": "8",
+    "seamark:light:5:sector_end": "327",
+    "seamark:light:5:sector_start": "288",
+    "seamark:light:5:sequence": "1+(1),1+(7)",
+    "seamark:light:6:character": "Fl",
+    "seamark:light:6:colour": "white",
+    "seamark:light:6:group": "2",
+    "seamark:light:6:period": "10",
+    "seamark:light:6:range": "12",
+    "seamark:light:6:sector_end": "0",
+    "seamark:light:6:sector_start": "327",
+    "seamark:light:6:sequence": "1+(1),1+(7)",
+    "seamark:light:reference": "L 4450",
+    "seamark:name": "Velbestad",
+    "seamark:type": "light_minor",
+    "source": "US NGA Pub. 115. 2010-09-09."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7492799,
+     62.0286911
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7049331,
+     61.486866
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "Porkeris Viti"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6791663,
+     61.3940007
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "Akraberg",
+    "name:de": "Leuchtturm Akraberg",
+    "seamark:fog_signal:category": "horn",
+    "seamark:fog_signal:group": "1",
+    "seamark:fog_signal:period": "60",
+    "seamark:light:1:character": "LFl",
+    "seamark:light:1:colour": "white",
+    "seamark:light:1:group": "2",
+    "seamark:light:1:height": "94",
+    "seamark:light:1:period": "20",
+    "seamark:light:1:range": "20",
+    "seamark:light:1:sector_end": "335",
+    "seamark:light:1:sector_start": "214",
+    "seamark:light:1:sequence": "2+(2),2+(14)",
+    "seamark:light:2:character": "LFl",
+    "seamark:light:2:colour": "red",
+    "seamark:light:2:group": "2",
+    "seamark:light:2:height": "94",
+    "seamark:light:2:period": "20",
+    "seamark:light:2:range": "14",
+    "seamark:light:2:sector_end": "355",
+    "seamark:light:2:sector_start": "335",
+    "seamark:light:2:sequence": "2+(2),2+(14)",
+    "seamark:light:3:character": "LFl",
+    "seamark:light:3:colour": "green",
+    "seamark:light:3:group": "2",
+    "seamark:light:3:height": "94",
+    "seamark:light:3:period": "20",
+    "seamark:light:3:range": "14",
+    "seamark:light:3:sector_end": "10",
+    "seamark:light:3:sector_start": "355",
+    "seamark:light:3:sequence": "2+(2),2+(14)",
+    "seamark:light:4:character": "LFl",
+    "seamark:light:4:colour": "white",
+    "seamark:light:4:group": "2",
+    "seamark:light:4:height": "94",
+    "seamark:light:4:period": "20",
+    "seamark:light:4:range": "20",
+    "seamark:light:4:sector_end": "80",
+    "seamark:light:4:sector_start": "10",
+    "seamark:light:4:sequence": "2+(2),2+(14)",
+    "seamark:light:reference": "L 4342",
+    "seamark:name": "Akraberg",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 115. 2010-09-09."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6144701,
+     61.9572351
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "N\u00f3lsoyar Viti",
+    "name:da": "N\u00f3lsoy Fyr",
+    "name:de": "Leuchtturm N\u00f3lsoy",
+    "name:en": "N\u00f3lsoy Lighthouse",
+    "seamark:information": "Shown July 20 to May 20",
+    "seamark:light:1:character": "LFl",
+    "seamark:light:1:colour": "white",
+    "seamark:light:1:height": "72",
+    "seamark:light:1:period": "30",
+    "seamark:light:1:range": "21",
+    "seamark:light:1:sector_end": "30",
+    "seamark:light:1:sector_start": "190",
+    "seamark:light:1:sequence": "2.5+(27.5)",
+    "seamark:light:reference": "L 4388",
+    "seamark:name": "Nolsoy",
+    "seamark:type": "light_minor",
+    "source": "US NGA Pub. 115. 2010-09-09.",
+    "start_date": "1893",
+    "wikidata": "Q28374859",
+    "wikimedia_commons": "File:Lighthouse N\u00f3lsoy.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6391667,
+     61.9486667
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name:da": "Bor\u00f0an Fyr",
+    "name:de": "Leuchtturm Bor\u00f0an",
+    "name:en": "Bor\u00f0an Lighthouse",
+    "seamark:fog_signal:category": "horn",
+    "seamark:fog_signal:group": "2",
+    "seamark:fog_signal:period": "60",
+    "seamark:light:1:character": "Iso",
+    "seamark:light:1:colour": "white",
+    "seamark:light:1:height": "39",
+    "seamark:light:1:period": "2",
+    "seamark:light:1:range": "9",
+    "seamark:light:1:sector_end": "74.7",
+    "seamark:light:1:sector_start": "303",
+    "seamark:light:2:character": "Iso",
+    "seamark:light:2:colour": "red",
+    "seamark:light:2:height": "39",
+    "seamark:light:2:period": "2",
+    "seamark:light:2:range": "7",
+    "seamark:light:2:sector_end": "96.6",
+    "seamark:light:2:sector_start": "74.7",
+    "seamark:light:3:character": "Iso",
+    "seamark:light:3:colour": "green",
+    "seamark:light:3:height": "39",
+    "seamark:light:3:period": "2",
+    "seamark:light:3:range": "7",
+    "seamark:light:3:sector_end": "126.9",
+    "seamark:light:3:sector_start": "96.6",
+    "seamark:light:4:character": "Iso",
+    "seamark:light:4:colour": "white",
+    "seamark:light:4:height": "39",
+    "seamark:light:4:period": "2",
+    "seamark:light:4:range": "9",
+    "seamark:light:4:sector_end": "150.1",
+    "seamark:light:4:sector_start": "126.9",
+    "seamark:light:5:character": "Iso",
+    "seamark:light:5:colour": "red",
+    "seamark:light:5:height": "39",
+    "seamark:light:5:period": "2",
+    "seamark:light:5:range": "7",
+    "seamark:light:5:sector_start": "150.1",
+    "seamark:light:reference": "L 4390",
+    "seamark:name": "Borin",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 115. 2010-09-09.",
+    "wikidata": "Q28374630",
+    "wikimedia_commons": "File:Bor\u00f0an Lighthouse-2.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3886691,
+     62.0786997
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "Mulin",
+    "name:de": "Leuchtturm Mulin",
+    "seamark:light:1:character": "Fl",
+    "seamark:light:1:colour": "green",
+    "seamark:light:1:height": "33",
+    "seamark:light:1:period": "3",
+    "seamark:light:1:range": "5",
+    "seamark:light:1:sector_end": "121",
+    "seamark:light:1:sector_start": "97",
+    "seamark:light:1:sequence": "0.7+(2.3)",
+    "seamark:light:2:character": "Fl",
+    "seamark:light:2:colour": "white",
+    "seamark:light:2:height": "33",
+    "seamark:light:2:period": "3",
+    "seamark:light:2:range": "8",
+    "seamark:light:2:sector_end": "125",
+    "seamark:light:2:sector_start": "121",
+    "seamark:light:2:sequence": "0.7+(2.3)",
+    "seamark:light:3:character": "Fl",
+    "seamark:light:3:colour": "red",
+    "seamark:light:3:height": "33",
+    "seamark:light:3:period": "3",
+    "seamark:light:3:range": "6",
+    "seamark:light:3:sector_end": "267",
+    "seamark:light:3:sector_start": "125",
+    "seamark:light:3:sequence": "0.7+(2.3)",
+    "seamark:light:reference": "L 4455",
+    "seamark:name": "Mulin",
+    "seamark:type": "light_minor",
+    "source": "US NGA Pub. 115. 2010-09-09."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5912737,
+     62.1293935
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "Mjovanes lighthouse"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7698356,
+     61.9975007
+    ]
+   },
+   "properties": {
+    "description": "Red beacon",
+    "man_made": "lighthouse",
+    "source": "http://www.portoftorshavn.com/get.file?ID=15644"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2450998,
+     62.1591429
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "seamark:type": "light_major"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6822237,
+     62.0972883
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "Mykines Holmur Lighthouse",
+    "name:de": "Leuchtturm Mykinesh\u00f3lmur",
+    "seamark:information": "Shown from July 20 to May 30",
+    "seamark:light:1:character": "Fl",
+    "seamark:light:1:colour": "white",
+    "seamark:light:1:group": "3",
+    "seamark:light:1:height": "125",
+    "seamark:light:1:period": "20",
+    "seamark:light:1:range": "21",
+    "seamark:light:1:sector_end": "235",
+    "seamark:light:1:sector_start": "275",
+    "seamark:light:1:sequence": "0.2+(3.8),0.2+(3.8),0.2+(11.8)",
+    "seamark:light:reference": "L 4460",
+    "seamark:name": "Mykines",
+    "seamark:type": "light_major",
+    "source": "US NGA Pub. 115. 2010-09-09.",
+    "wikidata": "Q28374633"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798,
+     61.5421667
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "G\u00e1lgetangy front",
+    "name:de": "Leuchtturm G\u00e1lgetangy Unterfeuer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8026667,
+     61.5428333
+    ]
+   },
+   "properties": {
+    "man_made": "lighthouse",
+    "name": "G\u00e1lgetangy rear",
+    "name:de": "Leuchtturm G\u00e1lgetangy Oberfeuer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7622185,
+     61.6826206
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "man_made": "lighthouse"
+   }
+  }
+ ]
+}
