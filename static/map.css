@@ -189,7 +189,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     box-sizing: content-box; */
 
 
-    /* background-image: linear-gradient(360deg, transparent 0%, #ffffff77 40% ); */
+    background-image: linear-gradient(360deg, transparent 0%, transparent 75%, #dee9f3 92% );
 }
 
 #overlay h1, #overlay h2 {

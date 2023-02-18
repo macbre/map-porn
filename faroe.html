@@ -9,6 +9,7 @@
 	<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"/>
 	<script src="static/leaflet-providers.js"></script>
+	<script src="static/L.Graticule.js"></script>
 
 	<!-- our assets -->
 	<link rel="stylesheet" href="static/map.css">
@@ -145,6 +146,17 @@
 				imperial: false,
 				maxWidth: 350,
 				position: 'bottomright',
+			}).addTo(map);
+
+			// https://github.com/turban/Leaflet.Graticule#example
+			// Specify bold red lines instead of thin grey lines
+			L.graticule({
+				// https://leafletjs.com/reference.html#path
+				style: {
+					color: '#3c91d033',
+					weight: 1
+				},
+				interval: 0.5
 			}).addTo(map);
 
 			// green / blue / yellow
