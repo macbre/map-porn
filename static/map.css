@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: Gudea, sans-serif;
     margin: 25px;
     background-color: #3c91d055;
     background-color: white;
@@ -160,7 +160,6 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 }
 
 #map .leaflet-control {
-    font-family: 'IBM Plex Sans', sans-serif;
     font-size: 2.2em;
     font-weight: bold;
     letter-spacing: -0.05em;
@@ -179,12 +178,15 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
  * Legends
  */
 #overlay {
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: Gudea, sans-serif;
     position: absolute;
     z-index: 20;
-    padding: 75px 25px;
+    padding: 50px 25px;
     width: calc(var(--map-width) - 50px);
-    height: calc(var(--map-height) - 150px);
+    height: calc(var(--map-height) - 100px);
+    /* width: var(--map-width);
+    height: var(--map-height);
+    box-sizing: content-box; */
 
 
     /* background-image: linear-gradient(360deg, transparent 0%, #ffffff77 40% ); */
@@ -193,12 +195,12 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 #overlay h1, #overlay h2 {
     margin: 0;
     padding: 0.25em 0.25em;
-    letter-spacing: -0.085em;
+    letter-spacing: -0.05em;
     font-weight: bold;
 }
 
 #overlay h1 {
-    font-size: 11em;
+    font-size: 12em;
     color: #3c91d0cc;
     border-bottom: double 6px #3c91d066;
     text-align: center;
@@ -227,10 +229,11 @@ legend {
 }
 
 legend ul {
-    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Gudea', sans-serif;
     list-style: none;
     line-height: 2.5em;
     font-size: 3em;
+    letter-spacing: -.025em;
     font-weight: bold;
     margin: 0.25em 1em;
     padding: 0;
@@ -271,8 +274,7 @@ legend li .tally {
  */
 section.info {
     display: flex;
-    font-family: Lora, serif;
-    border-top: solid 2px #3c91d044;
+    border-top: solid 2px #3c91d033;
     background-color: #fffc;
 }
 
@@ -285,7 +287,7 @@ section.info div:nth-child(2) {
     text-align: right;
     vertical-align: middle;
     background-color: #3c91d011;
-    border-left: solid 2px #3c91d044;
+    border-left: solid 2px #3c91d033;
 
     flex: 0 0 calc(calc(40%) - 100px);
 }
@@ -297,5 +299,6 @@ img.cc {
 section.info p {
     margin: .5em 0;
     font-size: 2.2em;
+    letter-spacing: -.025em;
     line-height: 1.5em;
 }
