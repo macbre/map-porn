@@ -270,6 +270,27 @@ legend li .tally {
 }
 
 /************************************************************************************************
+ * Labels
+ */
+#overlay label {
+    color: #3c91d0aa;
+    text-shadow: 0 0 5px #fff;
+}
+
+label#atlantic-ocean {
+    font-size: 5em;
+    font-style: italic;
+
+    width: 180px;
+    text-align: center;
+    display: inline-block;
+
+    position: absolute;
+    right: 175px;
+    top: 70%;
+}
+
+/************************************************************************************************
  * Info section
  */
 section.info {
