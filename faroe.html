@@ -35,13 +35,14 @@
 						Helicopters operated by <b>Atlantic Airways</b> provide domestic scheduled transportation, medical evacuation, and search & rescue activities.
 					</p>
 					<p lang="pl">
-						Komunikacja na Wyspach Owczych oparta jest o system dróg, tuneli, promów i połączeń realizowanych przez helikoptery.
+						Komunikacja na Wyspach Owczych oparta jest o system dróg, tuneli, promów i połączeń helikopterowych.
 					<br><br>
 						Państwowa spółka <b>Strandfaraskip Landsins</b> odpowiada za autobusowe połączenia między miastami oraz sieć promową.
 					<br><br>
 						Helikoptery linii <b>Atlantic Airways</b> zapewniają rozkładowe loty oraz transport ładunków. Biorą także udział w akcjach ratowniczych i&nbsp;poszukiwawczych.
 					</p>
 					<ul>
+						<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>
 						<!-- cat faroe-islands-latest.osm.bz2 | bzip2 -d | grep 'ferry_terminal' -c -->
 						<!-- <li><span class="marker green"></span>bus stops<span class="tally">173</span></li>
 						<li><span class="marker blue"></span>helipads<span class="tally">18</span></li>
@@ -101,7 +102,7 @@
 			const styleOptions = {
 				// https://leafletjs.com/reference.html#path-option
 				stroke: true,
-				color: "#3c91d0ee",   // stroke
+				color: "transparent",   // stroke
 				fillColor: "#f2efe9", // fill
 				fillOpacity: 1,
 				weight: 3,
@@ -112,6 +113,23 @@
 			// https://leafletjs.com/examples/map-panes/
 			map.createPane('countour');
 			map.createPane('countour-fg'); map.getPane('countour-fg').style.zIndex = 450;
+
+			// labels with Tórshavn and Klaksvik
+			// https://leafletjs.com/reference.html#tooltip
+			map.createPane('labels');
+			map.getPane('labels').style.zIndex = 1000;
+
+			L.tooltip({pane: 'labels'})
+				.setLatLng( L.latLng(62.01028602180903, -6.7715189468887145) )
+				.setContent('Tórshavn')
+				.addTo(map);
+
+
+			L.tooltip({pane: 'labels', direction: 'right'})
+				.setLatLng( L.latLng(62.22542530358552, -6.583687811563278) )
+				.setContent('Klaksvík')
+				.addTo(map);
+
 
 			// https://leafletjs.com/examples/geojson/
 			var geojson = L.geoJson(
