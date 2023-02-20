@@ -108,6 +108,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 .marker.blue   { background-color: #4575b4 } /* https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10 */
 .marker.yellow { background-color: #fee08b }
 .marker.red    { background-color: #d73027 }
+.marker.black  { background-color: #000a; border-radius: 0; }
 /* 
 #map .marker.green {
     width: 24px;
@@ -272,9 +273,9 @@ legend li .tally {
 /************************************************************************************************
  * Labels
  */
-#overlay label {
-    color: #3c91d0aa;
-    text-shadow: 0 0 5px #fff;
+#overlay label, .leaflet-tooltip {
+    color: #3c91d0ee;
+    text-shadow: 0 0 2px #fff;
 }
 
 label#atlantic-ocean {
@@ -288,6 +289,39 @@ label#atlantic-ocean {
     position: absolute;
     right: 175px;
     top: 70%;
+}
+
+/* added via L.tooltip (wuth a black marker) */
+.leaflet-tooltip {
+    font-family: Gudea, sans-serif;
+    background: transparent;
+    /* background-color: #fffa; */
+    padding: 0;
+    border: none;
+    box-shadow: none;
+    font-style: italic;
+    font-size: 2.1em;
+    letter-spacing: -0.025em;
+    /* color: #000a; */
+    color: #1b517aee;
+}
+
+.leaflet-tooltip-left {
+    padding-right: 5px;
+}
+
+.leaflet-tooltip-right {
+    padding-left: 5px;
+}
+
+.leaflet-tooltip-left:before,
+.leaflet-tooltip-right:before {
+    width: 10px;
+    height: 10px;
+    background: #000a;
+    outline: solid 2px #ffffffee;
+    border: none;
+    margin-top: -5px;
 }
 
 /************************************************************************************************
