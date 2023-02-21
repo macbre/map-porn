@@ -27,7 +27,7 @@ log.info('Rendering', `<${url}> ...`);
   const took = Date.now() - then;
 
   log.info(`Page loaded`, `in ${took} ms`);
-  // await new Promise(resolve => setTimeout(resolve, 5000));
+  await setTimeout(250); // allow all things to render
 
   log.info('Taking a screenshot');
   await page.setViewport({width: 1310, height: 2291, deviceScaleFactor: 2});
