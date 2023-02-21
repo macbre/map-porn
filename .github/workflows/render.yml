@@ -1,0 +1,41 @@
+# This workflow renders a map and commits any changes in the png files
+
+name: Render maps
+
+on:
+  #push:
+  #  branches: [ "master" ]
+  #pull_request:
+  #  branches: [ "master" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18.x
+        cache: 'npm'
+    - run: npm i
+
+    - name: Start a web server
+      run: |
+        npm start &
+        sleep 2
+
+    - name: Render the map
+      run: ./screenshot.mjs
+
+    - name: Commit the changes
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        ref: ${{ github.head_ref }}  # https://github.com/marketplace/actions/git-auto-commit#checkout-the-correct-branch
+        commit_message: Commit the maps
+        file_pattern: '*.png'
