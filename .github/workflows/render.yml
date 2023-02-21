@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  faroe:
 
     runs-on: ubuntu-latest
 
@@ -23,7 +23,7 @@ jobs:
       with:
         node-version: 18.x
         cache: 'npm'
-    - run: npm i
+    - run: npm ci
 
     - name: Start a web server
       run: |
