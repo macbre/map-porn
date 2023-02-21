@@ -11,6 +11,10 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+# allow this job to commit to the repository
+permissions:
+  contents: write
+
 jobs:
   faroe:
 
