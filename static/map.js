@@ -58,7 +58,7 @@ async function addGeoJSONLayer(map, url, color, label_en, label_pl, filter) {
         'yellow': 700,
         'green': 800,
         'red': 900,
-    }[color];
+    }[color] || 500;
 
     // console.log('GeoJSON', geojsonFeatures);
     L.geoJSON(geojsonFeatures, {

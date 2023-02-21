@@ -106,6 +106,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 
 /* https://colorbrewer2.org/#type=diverging&scheme=RdYlGn&n=10 */
 .marker.green  { background-color: #1a9850 }
+.marker.dark-green  { background-color: #006837 }
 .marker.blue   { background-color: #4575b4 } /* https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10 */
 .marker.yellow { background-color: #fee08b }
 .marker.red    { background-color: #d73027 }
@@ -228,6 +229,15 @@ legend {
     padding: 20px;
     width: 35%;
     backdrop-filter: blur(15px);
+}
+
+legend img {
+    display: block;
+    max-width: 100%;
+    opacity: .75;
+    filter: grayscale(.5) contrast(1.2) saturate(1.5);
+    box-shadow: 5px 5px 0 #3c91d0aa;
+    margin-bottom: 4em;
 }
 
 legend ul {
