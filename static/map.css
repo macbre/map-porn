@@ -1,6 +1,6 @@
 :root {
-    --map-width: 1250px;
-    --map-height: 2100px;
+    --map-width: 1500px;
+    --map-height: 2200px;
 }
 
 body {
@@ -23,13 +23,13 @@ body {
 }
 
 #logo {
-    opacity: .1;
+    opacity: .075;
     /* filter: invert(0.5); */
-    width: 400px;
+    width: 600px;
     position: absolute;
     transform: rotate(-45deg);
-    left: -135px;
-    top: -135px;
+    left: -200px;
+    top: -200px;
     z-index: 20;
     /* background-blend-mode: screen; */
     /* filter: invert(1); */
@@ -216,7 +216,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 }
 
 #overlay h1 {
-    font-size: 12em;
+    font-size: 16em;
     color: #3c91d0cc;
     border-bottom: double 6px #3c91d066;
     text-align: center;
@@ -224,7 +224,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 
 #overlay h2 {
     padding-top: 1em;
-    font-size: 4.5em;
+    font-size: 5em;
     color: #173953cc;
     text-align: center;
     text-transform: uppercase;
@@ -240,7 +240,7 @@ legend {
     border: solid 1px #3c91d055;
     border-top: solid 5px #3c91d0;
     padding: 20px;
-    width: 35%;
+    width: 30%;
     backdrop-filter: blur(15px);
 }
 
@@ -313,7 +313,7 @@ label#atlantic-ocean {
 
     position: absolute;
     right: 175px;
-    top: 70%;
+    top: 60%;
 }
 
 /* added via L.tooltip (wuth a black marker) */
@@ -378,7 +378,7 @@ img.cc {
 
 section.info p {
     margin: .5em 0;
-    font-size: 2.2em;
+    font-size: 3em;
     letter-spacing: -.025em;
     line-height: 1.5em;
 }
