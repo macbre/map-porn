@@ -17,7 +17,7 @@ async function initMap( callback ) {
     const bounds = [mapBounds.getNorthWest(), mapBounds.getSouthEast()];
 
     console.log('Map bounds', mapBounds, bounds);
-    L.rectangle(bounds, {color: 'red', weight: 1}).addTo(smallMap);
+    L.rectangle(bounds, {color: '#9f4342', weight: 1}).addTo(smallMap);
 
     // https://leaflet-extras.github.io/leaflet-providers/preview/
     L.tileLayer.provider('Stamen.TerrainBackground').addTo(smallMap);

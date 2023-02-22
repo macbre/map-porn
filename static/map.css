@@ -182,12 +182,12 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
  */
 #small-map {
     position: absolute;
-    bottom: 120px;
+    bottom: 150px;
     right: 50px;
     width: 275px;
     height: 275px;
-    border: solid 5px #3c91d0aa;
-    opacity: .5;
+    border: solid 1px #fff;
+    box-shadow: 0 0 25px #0003;
 }
 
 /************************************************************************************************
@@ -250,6 +250,7 @@ legend img {
     opacity: .75;
     filter: grayscale(.5) contrast(1.2) saturate(1.5);
     box-shadow: 5px 5px 0 #3c91d0aa;
+    border: solid 1px #fffa;
     margin-bottom: 4em;
 }
 
