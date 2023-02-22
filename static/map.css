@@ -178,6 +178,19 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 }
 
 /************************************************************************************************
+ * Small map
+ */
+#small-map {
+    position: absolute;
+    bottom: 120px;
+    right: 50px;
+    width: 275px;
+    height: 275px;
+    border: solid 5px #3c91d0aa;
+    opacity: .5;
+}
+
+/************************************************************************************************
  * Legends
  */
 #overlay {

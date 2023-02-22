@@ -1,12 +1,26 @@
+const MAP_CENTER = [61.951667, -6.9675]; // west of Tórshavn
+
 async function initMap( callback ) {
-    const center = [61.951667, -6.9675]; //west of Tórshavn
     const zoom = 10;
     const options = {
         zoomControl: false,
         attributionControl: false,
     };
 
-    const map = setupMap('map', options, center, zoom);
+    const map = setupMap('map', options, MAP_CENTER, zoom);
+
+    // render a small map showing the location of our main map
+    // https://leafletjs.com/reference.html#map-getbounds
+    const smallMap = setupMap('small-map', options, [58, 0], 4);
+
+    const mapBounds = map.getBounds();
+    const bounds = [mapBounds.getNorthWest(), mapBounds.getSouthEast()];
+
+    console.log('Map bounds', mapBounds, bounds);
+    L.rectangle(bounds, {color: 'red', weight: 1}).addTo(smallMap);
+
+    // https://leaflet-extras.github.io/leaflet-providers/preview/
+    L.tileLayer.provider('Stamen.TerrainBackground').addTo(smallMap);
 
     // paper-like background
     // map.createPane('paper');
