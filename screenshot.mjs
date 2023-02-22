@@ -30,7 +30,8 @@ log.info('Rendering', `<${url}> ...`);
   await setTimeout(250); // allow all things to render
 
   log.info('Taking a screenshot');
-  await page.setViewport({width: 1310, height: 2291, deviceScaleFactor: 2});
+  // Page size:  {width: 1560, height: 2419}
+  await page.setViewport({width: 1560, height: 2419, deviceScaleFactor: 2});
   await page.screenshot({path: 'map_faroe.png'});
 
   log.info('Taking a screenshot with lang=pl');
