@@ -52,12 +52,10 @@ async function initMap( callback ) {
         .setContent('Tórshavn')
         .addTo(map);
 
-
     L.tooltip({pane: 'labels', direction: 'right'})
         .setLatLng( L.latLng(62.22542530358552, -6.583687811563278) )
         .setContent('Klaksvík')
         .addTo(map);
-
 
     // https://leafletjs.com/examples/geojson/
     var geojson = L.geoJson(

@@ -24,29 +24,40 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Cattle grids</h2>
-				<h2 lang="pl">Owcze bramki</h2>
+				<h2 lang="en">under construction / í gerð</h2>
+				<h2 lang="pl">w budowie</h2>
 
-				<legend>
-					<img src="https://3.bp.blogspot.com/-d6oBGCensQ8/U2ADslYwc4I/AAAAAAAAIXM/SSR4NbDTxP8/s1600/IMG_0500.jpg">
+				<legend style="width: 41%">
+					<!-- <img src="https://3.bp.blogspot.com/-d6oBGCensQ8/U2ADslYwc4I/AAAAAAAAIXM/SSR4NbDTxP8/s1600/IMG_0500.jpg"> -->
 					<p lang="en">
-						<strong>Cattle grids</strong> (or <em>rulluportur</em> in Faroese) are quite common on Faroe Islands. With around 70&nbsp;thousand sheep grazing in
-						the Islands some means to control their journeys are necessary.
+						<!--The well developed Faroese road infrastructure is constantly being improved. New tunnels and roads are being built.
+						<br><br>-->
+						<strong>Nýggir Borðoyartunlarnir</strong> will replace two unlit single lane tunnels built in the late 60s.
 						<br><br>
-						Most of the gates are maintained by <strong>Landsverk</strong> - the administrator of the Faroese transportation network.
+						<strong>Innkomuvegurin</strong>, a new bypass road between Hvítanes and Tórshavn (including a short tunnel) is expected to be ready in 2025.
+						<br><br>
+						Sandoy will soon become a part of the Faroese "mainland". The 11-km long underwater <strong>Sandoyartunnilin</strong> is to be completed by the end of 2023.
+						Additionally, the narrow cliffside road between Dalur and Húsavík will be replaced by <strong>Dalstunnilin</strong>.
+						<br><br>
+						<strong>Fámjinstunnilin</strong> (to be completed in 2024) will connect Øravík with Fámjin, superseding the most windy Faroese road.
 					</p>
-					<p lang="pl">
-						<strong>Owcze bramki</strong> (po farersku zwane <em>rulluportur</em>) są częstym widokiem na Wyspach.
-						Hamują one turystyczne zapędy wszędobylskich owiec.
+					<p lang="pl" style="font-size: 1.6rem">
+						Dwa nowe tunele <strong>Nýggir Borðoyartunlarnir</strong> zastąpią do 2025 roku stare, wąskie, nieoświetlone przeprawy z lat 60-tych.
 						<br><br>
-						Pieczę nad większością bramek sprawuje <strong>Landsverk</strong> - publiczny zarządca farerskich dróg.
+						Nowa obwodnica Tórshavn (<strong>Innkomuvegurin</strong>) połączy Hvítanes i tunel na Eysturoy z zachodnią częścią stolicy. W planach przedłużenie do Hotelu Føroyar.
+						<br><br>
+						Za sprawą <strong>Sandoyartunnilin</strong> kolejna wyspa stanie się częścią farerskiego "mainlandu". Jedenastokilometrowy podwodny tunel połączy Sandoy ze Streymoy.
+						Zaś <strong>Dalstunnilin</strong> ominie wąską, wyciosaną w klifie drogę między Dalur a Húsavík.
+						<br><br>
+						<strong>Fámjinstunnilin</strong> zastąpi natomiast kręty i najbardziej na archipelagu wietrzny odcinek drogi między Øravík a Fámjin.
 					</p>
 					<ul>
-						<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>
-						<!-- cat faroe-islands-latest.osm.bz2 | bzip2 -d | grep 'ferry_terminal' -c -->
-						<!-- <li><span class="marker green"></span>bus stops<span class="tally">173</span></li>
-						<li><span class="marker blue"></span>helipads<span class="tally">18</span></li>
-						<li><span class="marker yellow"></span>ferries ports<span class="tally">23</span></li> -->
+						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
+						<li><span class="marker blue" style="background: #762a83"></span>Nýggir Borðoyartunlarnir</li>
+						<li><span class="marker blue" style="background: #a50026"></span>Innkomuvegurin</li>
+						<li><span class="marker blue" style="background: #006837"></span>Sandoyartunnilin</li>
+						<li><span class="marker blue" style="background: #8c510a"></span>Dalstunnilin</li>
+						<li><span class="marker blue" style="background: #4393c3"></span>Fámjinstunnilin</li>
 					</ul>
 				</legend>
 
@@ -59,7 +70,7 @@
 
 				</section>
 
-				<label style="
+				<!-- <label style="
 				position: absolute;
 				font-size: 12em;
 				filter: grayscale(1);
@@ -69,7 +80,7 @@
 				opacity: .8;
 				">
 					🐑
-				</label>
+				</label> -->
 			</section>
 
 			<img id="logo" src="static/logo.png" />
@@ -104,6 +115,59 @@
 			const gridsPerCity = {};
 
 			await initMap(async (map) => {
+				const geojson = await fetchGeoJSON('/geojson/us-vegir-us_vegir_loyvda_ferd_vegt-27-1.json');
+
+				map.createPane('features');
+				map.getPane('features').style.zIndex = 700;
+
+				L.geoJSON(geojson, {
+					pane: 'features',
+					style: function(feature) {
+						// return {
+						// 	color: '#d73027',
+						// 	weight: 5,
+						// };
+
+						const city = feature.properties.city;
+						const defaultStyle = {weight: 5};
+						console.log(city, feature);
+						switch (city) {
+							// https://colorbrewer2.org/#type=diverging&scheme=RdYlGn&n=11
+							case 'Hoyvík': case 'Tórshavn':			return {color: "#a50026", ...defaultStyle};
+							case 'Sandur': case 'Kirkjubøur':		return {color: "#006837", ...defaultStyle};
+							case "Dalur": case 'Húsavík':			return {color: "#8c510a", ...defaultStyle};
+							case "Árnafjørður": case "Klaksvík": case "Depil":
+																	return {color: "#762a83", ...defaultStyle};
+							case "Ørðavík":							return {color: "#4393c3", ...defaultStyle};
+
+							default:
+								console.log('Mapping missing for', city, feature)
+						}
+					}
+				}).addTo(map);
+
+				L.tooltip({pane: 'labels', direction: 'right'})
+					.setLatLng( L.latLng(61.833611111111, -6.8169444444444) )
+					.setContent('Sandur')
+					.addTo(map);
+
+				L.tooltip({pane: 'labels', direction: 'left'})
+					.setLatLng( L.latLng(61.526388888889, -6.8769444444444) )
+					.setContent('Fámjin')
+					.addTo(map);
+
+				L.tooltip({pane: 'labels', direction: 'right'})
+					.setLatLng( L.latLng(62.3601, -6.5333) )
+					.setContent('Viðareiði')
+					.addTo(map);
+
+					L.tooltip({pane: 'labels', direction: 'right'})
+					.setLatLng( L.latLng(61.7822, -6.6756) )
+					.setContent('Dalur')
+					.addTo(map);
+
+
+				/**
 				// green / blue / yellow
 				await addGeoJSONLayer(map, '/geojson/us-rulluportur-rulluportur_alment-0-cattle_grid.json', 'dark-green', 'cattle grids', 'owcze bramki', (feature) => {
 					const city = feature.properties.city;
@@ -112,9 +176,10 @@
 					if (typeof gridsPerCity[city] === 'undefined') gridsPerCity[city] = 0;
 					gridsPerCity[city]++;
 				});
+				**/
 			});
 
-			console.log(gridsPerCity);
+			// console.log(gridsPerCity);
 		})();
 		</script>
 
