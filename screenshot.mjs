@@ -15,7 +15,10 @@ const url = 'http://localhost:3000/faroe';
 log.info('Rendering', `<${url}> ...`);
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    // https://developer.chrome.com/articles/new-headless/
+    headless: "new"
+  });
   const page = await browser.newPage();
 
   page.on('requestfinished', (req) => {
