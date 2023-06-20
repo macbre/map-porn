@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Templates used to generate maps based on geo data for Faroe Islands and Ireland",
   "scripts": {
-    "start": "serve"
+    "start": "serve",
+    "screenshot": "node screenshot.mjs"
   },
   "repository": {
     "type": "git",
