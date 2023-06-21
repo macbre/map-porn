@@ -105,7 +105,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 }
 
 /* https://colorbrewer2.org/#type=diverging&scheme=RdYlGn&n=10 */
-.marker.green  { background-color: #1a9850 }
+.marker.green  { background-color: #a6d96a }
 .marker.dark-green  { background-color: #006837 }
 .marker.blue   { background-color: #4575b4 } /* https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10 */
 .marker.yellow { background-color: #fee08b }

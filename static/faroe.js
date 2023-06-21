@@ -45,17 +45,17 @@ async function initMap( callback ) {
     // labels with Tórshavn and Klaksvik
     // https://leafletjs.com/reference.html#tooltip
     map.createPane('labels');
-    map.getPane('labels').style.zIndex = 1000;
+    map.getPane('labels').style.zIndex = 500;
 
-    L.tooltip({pane: 'labels'})
-        .setLatLng( L.latLng(62.01028602180903, -6.7715189468887145) )
-        .setContent('Tórshavn')
-        .addTo(map);
+    // L.tooltip({pane: 'labels'})
+    //     .setLatLng( L.latLng(62.01028602180903, -6.7715189468887145) )
+    //     .setContent('Tórshavn')
+    //     .addTo(map);
 
-    L.tooltip({pane: 'labels', direction: 'right'})
-        .setLatLng( L.latLng(62.22542530358552, -6.583687811563278) )
-        .setContent('Klaksvík')
-        .addTo(map);
+    // L.tooltip({pane: 'labels', direction: 'right'})
+    //     .setLatLng( L.latLng(62.22542530358552, -6.583687811563278) )
+    //     .setContent('Klaksvík')
+    //     .addTo(map);
 
     // https://leafletjs.com/examples/geojson/
     var geojson = L.geoJson(

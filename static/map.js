@@ -42,6 +42,19 @@ function setupMap(wrapperId, options, center, zoom) {
     // L.marker([61.961667, -6.8675], {icon: getIcon('blue')}).addTo(map);
     // L.marker([61.951667, -6.9975], {icon: getIcon('yellow')}).addTo(map);
 
+    // create color panes
+    // https://leafletjs.com/examples/map-panes/
+    ['blue', 'yellow', 'green', 'red', 'dark-green'].forEach(color => {
+        map.createPane(`markers-${color}`);
+        map.getPane(`markers-${color}`).style.zIndex = {
+            'blue': 600,
+            'yellow': 700,
+            'green': 800,
+            'red': 900,
+            'dark-green': 1000,
+        }[color] || 500;
+    });
+
     return map;
 }
 
@@ -50,15 +63,6 @@ function setupMap(wrapperId, options, center, zoom) {
 async function addGeoJSONLayer(map, url, color, label_en, label_pl, filter) {
     const geojsonFeatures = await fetchGeoJSON(url);
     let count = 0;
-
-    // https://leafletjs.com/examples/map-panes/
-    map.createPane(`markers-${color}`);
-    map.getPane(`markers-${color}`).style.zIndex = {
-        'blue': 600,
-        'yellow': 700,
-        'green': 800,
-        'red': 900,
-    }[color] || 500;
 
     // console.log('GeoJSON', geojsonFeatures);
     L.geoJSON(geojsonFeatures, {
@@ -76,6 +80,10 @@ async function addGeoJSONLayer(map, url, color, label_en, label_pl, filter) {
 
     console.log(`Added GeoJSON layer: ${count} nodes, color ${color}, from ${url}`);
 
+    addLabel(color, label_en, label_pl, color);
+}
+
+function addLabel(color, label_en, label_pl, count) {
     // add a label
     const legendEntry = document.createElement('li');
     legendEntry.innerHTML = `<span class="marker ${color}"></span>` + 

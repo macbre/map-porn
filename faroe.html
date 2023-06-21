@@ -3,7 +3,7 @@
 	<title>Faroe Islands - map</title>
 
 	<!-- fonts -->
-	<link href="https://fonts.googleapis.com/css2?family=Gudea:wght@400;700&family=Josefin+Sans:wght@100;600&family=Lora:ital,wght@1,400;1,600&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Gudea:wght@400;700&family=Josefin+Sans:wght@100;600&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
 
 	<!-- leaflet -->
 	<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
@@ -24,40 +24,31 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">under construction / í gerð</h2>
-				<h2 lang="pl">w budowie</h2>
+				<h2 lang="en">place-names</h2>
+				<h2 lang="pl">toponimy</h2>
 
 				<legend style="width: 41%">
 					<!-- <img src="https://3.bp.blogspot.com/-d6oBGCensQ8/U2ADslYwc4I/AAAAAAAAIXM/SSR4NbDTxP8/s1600/IMG_0500.jpg"> -->
 					<p lang="en">
-						<!--The well developed Faroese road infrastructure is constantly being improved. New tunnels and roads are being built.
-						<br><br>-->
-						<strong>Nýggir Borðoyartunlarnir</strong> will replace two unlit single lane tunnels built in the late 60s.
+						Town and city names on Faroe Islands often reflect their location.
 						<br><br>
-						<strong>Innkomuvegurin</strong>, a new bypass road between Hvítanes and Tórshavn (including a short tunnel) is expected to be ready in 2025.
+						Numerous settlements lie by the <strong>bays</strong> (these have the <em>-vík</em> suffix).
+						Others are located at a bit longer and narrower kind of a bay - called <strong>fjord</strong> (<em>-fjørður</em>).
+						<br>
+						Smaller bays are called <strong>vág</strong> in Faroese (which is used in the <em>-vágur</em> form in place-names).
+						<br>
+						<strong>Valleys</strong> (<em>-dalur</em>) have their representatives as well as <strong>headlands</strong> (<em>-nes</em>).
 						<br><br>
-						Sandoy will soon become a part of the Faroese "mainland". The 11-km long underwater <strong>Sandoyartunnilin</strong> is to be completed by the end of 2023.
-						Additionally, the narrow cliffside road between Dalur and Húsavík will be replaced by <strong>Dalstunnilin</strong>.
-						<br><br>
-						<strong>Fámjinstunnilin</strong> (to be completed in 2024) will connect Øravík with Fámjin, superseding the most windy Faroese road.
 					</p>
-					<p lang="pl" style="font-size: 1.6rem">
-						Dwa nowe tunele <strong>Nýggir Borðoyartunlarnir</strong> zastąpią do 2025 roku stare, wąskie, nieoświetlone przeprawy z lat 60-tych.
+					<p lang="pl" _style="font-size: 1.6rem">
+						Nazwy farerskich osad i miasteczek najczęściej nawiązują od ich położenia.
 						<br><br>
-						Nowa obwodnica Tórshavn (<strong>Innkomuvegurin</strong>) połączy Hvítanes i tunel na Eysturoy z zachodnią częścią stolicy. W planach przedłużenie do Hotelu Føroyar.
-						<br><br>
-						Za sprawą <strong>Sandoyartunnilin</strong> kolejna wyspa stanie się częścią farerskiego "mainlandu". Jedenastokilometrowy podwodny tunel połączy Sandoy ze Streymoy.
-						Zaś <strong>Dalstunnilin</strong> ominie wąską, wyciosaną w klifie drogę między Dalur a Húsavík.
-						<br><br>
-						<strong>Fámjinstunnilin</strong> zastąpi natomiast kręty i najbardziej na archipelagu wietrzny odcinek drogi między Øravík a Fámjin.
+						Poszarpana linia brzegowa Wysp Owczych obfituje w liczne <strong>zatoki</strong> - położone przy nich miejscowości wyróżnia końcówka <em>-vík</em>. Nazwy osad położonych nad dłuższymi i węższymi zatokami zakończone są członem <em>-fjørður</em>. Język farerski wyróżnia także mniejszy rodzaj zatoki - <strong>vág</strong>, która w toponimach występuje w formie <em>-vágur</em>.
+						<br>
+						Swoich nazewniczych przedstawicieli mają również farerskie doliny (<em>-dalur</em>)<br>i półwyspy (<em>-nes</em>).
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
-						<li><span class="marker blue" style="background: #762a83"></span>Nýggir Borðoyartunlarnir</li>
-						<li><span class="marker blue" style="background: #a50026"></span>Innkomuvegurin</li>
-						<li><span class="marker blue" style="background: #006837"></span>Sandoyartunnilin</li>
-						<li><span class="marker blue" style="background: #8c510a"></span>Dalstunnilin</li>
-						<li><span class="marker blue" style="background: #4393c3"></span>Fámjinstunnilin</li>
 					</ul>
 				</legend>
 
@@ -92,7 +83,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Landsverk, Umhvørvisstovan<!--, Strandfaraskip Landsins, OpenStreetMaps-->.
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, -->Umhvørvisstovan<!--, Strandfaraskip Landsins, OpenStreetMaps-->.
 					</p>
 				</div>
 
@@ -111,60 +102,107 @@
 		</section>
 
 		<script>
-		(async() => {
-			const gridsPerCity = {};
+		(async() => {			
+			const colors = [
+				'blue', 'yellow', 'green', 'red', 'dark-green',
+			];
 
 			await initMap(async (map) => {
-				const geojson = await fetchGeoJSON('/geojson/us-vegir-us_vegir_loyvda_ferd_vegt-27-1.json');
+				const geojson = await fetchGeoJSON('/geojson/us-bygdir-us_bygdir-0-bygdir.json');
 
 				map.createPane('features');
 				map.getPane('features').style.zIndex = 700;
 
+				const suffixes = {
+					'vík': 0,
+					'nes': 0,
+					'dalur': 0,
+					'fjørður': 0,
+					'vágur': 0,
+				};
+
+				let otherTowns = 0;
+
 				L.geoJSON(geojson, {
 					pane: 'features',
-					style: function(feature) {
-						// return {
-						// 	color: '#d73027',
-						// 	weight: 5,
-						// };
+					filter: (feature, _layer) => {
+						let name = '' + feature.properties.stad;
+						const geo = feature.geometry.coordinates;
 
-						const city = feature.properties.city;
-						const defaultStyle = {weight: 5};
-						console.log(city, feature);
-						switch (city) {
-							// https://colorbrewer2.org/#type=diverging&scheme=RdYlGn&n=11
-							case 'Hoyvík': case 'Tórshavn':			return {color: "#a50026", ...defaultStyle};
-							case 'Sandur': case 'Kirkjubøur':		return {color: "#006837", ...defaultStyle};
-							case "Dalur": case 'Húsavík':			return {color: "#8c510a", ...defaultStyle};
-							case "Árnafjørður": case "Klaksvík": case "Depil":
-																	return {color: "#762a83", ...defaultStyle};
-							case "Ørðavík":							return {color: "#4393c3", ...defaultStyle};
+						let marked = false;
 
-							default:
-								console.log('Mapping missing for', city, feature)
+						// some filtering
+						if (['Giljanes'].includes(name)) {
+							return false;
 						}
+
+						// Syðradalur, Kalsoy
+						if (name.includes(',')) {
+							if (!name.startsWith('Nes,')) {
+								name = name.split(',')[0];
+							}
+							else {
+								// Nes, Hvalba
+								name = name.split(',')[1].trimLeft();
+							}
+						}
+
+						Object.keys(suffixes).forEach( (suffix, idx) => {
+							if (name.toLowerCase().endsWith(suffix)) {
+								const color = colors[idx];
+								suffixes[suffix]++;
+
+								console.log({name, geo, suffix, color, stad: feature.properties.stad});
+
+								L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
+
+								marked = true;
+							}
+						});
+
+						// mark "other towns"
+						if (!marked) {
+							L.tooltip({pane: 'labels', direction: 'left'})
+								.setLatLng( [geo[1], geo[0]] )
+								.addTo(map);
+
+							otherTowns++;
+						}
+
+						// L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
+
+						// count++;
+						return false; // do not add the default markers on the map
 					}
 				}).addTo(map);
 
-				L.tooltip({pane: 'labels', direction: 'right'})
-					.setLatLng( L.latLng(61.833611111111, -6.8169444444444) )
-					.setContent('Sandur')
-					.addTo(map);
+				console.log({suffixes});
 
-				L.tooltip({pane: 'labels', direction: 'left'})
-					.setLatLng( L.latLng(61.526388888889, -6.8769444444444) )
-					.setContent('Fámjin')
-					.addTo(map);
+				Object.keys(suffixes).forEach( (suffix, idx) => {
+					addLabel(colors[idx], `-${suffix} suffix`, `końcówka -${suffix}`, suffixes[suffix]);
+				});
 
-				L.tooltip({pane: 'labels', direction: 'right'})
-					.setLatLng( L.latLng(62.3601, -6.5333) )
-					.setContent('Viðareiði')
-					.addTo(map);
+				addLabel('black', 'other settlements', 'pozostałe miasta', otherTowns);
 
-					L.tooltip({pane: 'labels', direction: 'right'})
-					.setLatLng( L.latLng(61.7822, -6.6756) )
-					.setContent('Dalur')
-					.addTo(map);
+				// L.tooltip({pane: 'labels', direction: 'right'})
+				// 	.setLatLng( L.latLng(61.833611111111, -6.8169444444444) )
+				// 	.setContent('Sandur')
+				// 	.addTo(map);
+
+				// L.tooltip({pane: 'labels', direction: 'left'})
+				// 	.setLatLng( L.latLng(61.526388888889, -6.8769444444444) )
+				// 	.setContent('Fámjin')
+				// 	.addTo(map);
+
+				// L.tooltip({pane: 'labels', direction: 'right'})
+				// 	.setLatLng( L.latLng(62.3601, -6.5333) )
+				// 	.setContent('Viðareiði')
+				// 	.addTo(map);
+
+				// 	L.tooltip({pane: 'labels', direction: 'right'})
+				// 	.setLatLng( L.latLng(61.7822, -6.6756) )
+				// 	.setContent('Dalur')
+				// 	.addTo(map);
 
 
 				/**
@@ -187,12 +225,14 @@
 			/**
 			 * @see https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient
 			 */
+			 /**
 			.marker.red {
 				background: conic-gradient(transparent 0, transparent 180deg, #d73027 180deg);
 			}
 			.marker.green { 
 				background: conic-gradient(#1a9850 0, #1a9850 180deg, transparent 180deg);
 			}
+			/**/
 		</style>
 
 	</body>
