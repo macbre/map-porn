@@ -1,12 +1,13 @@
 // get a custom icon
 // https://www.geoapify.com/create-custom-map-marker-icon
-function getIcon(color /* green | blue | yellow */) {
+function getIcon(color /* green | blue | yellow */, label) {
     let size = 16;
+    label = label ? ` title="${label}"`: '';
 
     // https://leafletjs.com/reference.html#divicon
     return L.divIcon({
         className: 'marker-icon',
-        html: `<span class="marker ${color}">`,
+        html: `<span class="marker ${color}"${label}>`,
         iconSize: [size, size],
         // The coordinates of the "tip" of the icon (relative to its top left corner).
         // The icon will be aligned so that this point is at the marker's geographical location.

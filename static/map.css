@@ -52,8 +52,14 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     width: var(--map-width);
     height: var(--map-height);
     /* background-color: #cfe2f466; */
-    background-color: inherit;
-    filter: sepia(0.15);
+    /* background-color: inherit; */
+    /* filter: sepia(0.15); */
+    background-color: transparent;
+    z-index: 200;
+}
+
+.leaflet-map-pane {
+   filter: sepia(0.1) saturate(.95) opacity(0.9);
 }
 
 .leaflet-paper-pane {

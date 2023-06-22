@@ -132,12 +132,14 @@
 						let marked = false;
 
 						// some filtering
-						if (['Giljanes'].includes(name)) {
+						if (['Giljanes', 'Fossánes', 'Nes, Vágur'].includes(name)) {
 							return false;
 						}
 
 						// Syðradalur, Kalsoy
 						if (name.includes(',')) {
+							name = name.split(',')[0];
+/**
 							if (!name.startsWith('Nes,')) {
 								name = name.split(',')[0];
 							}
@@ -145,6 +147,7 @@
 								// Nes, Hvalba
 								name = name.split(',')[1].trimLeft();
 							}
+**/
 						}
 
 						Object.keys(suffixes).forEach( (suffix, idx) => {
@@ -154,7 +157,7 @@
 
 								console.log({name, geo, suffix, color, stad: feature.properties.stad});
 
-								L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
+								L.marker([geo[1], geo[0]], {icon: getIcon(color, /* label = */ name), pane: `markers-${color}`}).addTo(map);
 
 								marked = true;
 							}
@@ -233,6 +236,46 @@
 				background: conic-gradient(#1a9850 0, #1a9850 180deg, transparent 180deg);
 			}
 			/**/
+
+			/* marker with letters for better color-blind support */
+			.marker::before {
+				color: #fff;
+				font-style: italic;
+				font-weight: bold;
+				font-size: 1.1em;
+				position: relative;
+				left: 25%;
+				top: -10%;
+				text-shadow: 1px 1px rgba(0,0,0,.5);
+			}
+
+			legend .marker::before {
+				font-size: .7em;
+				top: -24px;
+				left: 2px;
+			}
+
+			.marker.green::before {
+				color: #000;
+				content: 'd';
+			}
+
+			.marker.blue::before { 
+				content: 'v';
+			}
+
+			.marker.yellow::before { 
+				color: #000;
+				content: 'n';
+			}
+
+			.marker.red::before { 
+				content: 'f';
+			}
+
+			.marker.dark-green::before { 
+				content: 'á';
+			}
 		</style>
 
 	</body>
