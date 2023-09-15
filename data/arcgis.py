@@ -87,15 +87,31 @@ POLYGONS_TO_POINTS = True
 # https://www.arcgis.com/home/webmap/viewer.html?url=https%3A%2F%2Fgis.us.fo%2Farcgis%2Frest%2Fservices%2Fvegir%2Fus_vegir_loyvda_ferd_vegt%2FMapServer&source=sd
 # i gert = ja
 #  under_construction ( type: esriFieldTypeSmallInteger, alias: í gerð , Coded Values: [1: Ja] )
-FOLDER = 'vegir'
-SERVICE = 'us_vegir_loyvda_ferd_vegt'
-MAP_ID = 27
-PROPERTY_NAME = "under_construction"
-PROPERTY_VALUE = "1"
-POLYGONS_TO_POINTS = False
+# FOLDER = 'vegir'
+# SERVICE = 'us_vegir_loyvda_ferd_vegt'
+# MAP_ID = 27
+# PROPERTY_NAME = "under_construction"
+# PROPERTY_VALUE = "1"
+# POLYGONS_TO_POINTS = False
 
 # https://gis.us.fo/arcgis/rest/services/vegir/us_hagagotur/MapServer
 # trails between villages
+
+
+# https://www.foroyakort.fo/tidindi/ferdsluhagtoel
+# https://gis.lv.fo/arcgis/rest/services/ferdsla/ferdsluteljingar_alment/MapServer/1
+# aadt - Annual Average Daily Traffic
+# aawt - Average Annual Weekday Traffic: The average 24-hour traffic volume occurring on weekdays over a full year.
+# https://archive.nptel.ac.in/content/storage2/courses/105101008/511_FundParams/point6/point.html
+# 
+ARCGIS_SERVER = 'gis.lv.fo'  # Landsverk
+FOLDER = 'ferdsla'
+SERVICE = 'ferdsluteljingar_alment'
+MAP_ID = 0
+
+PROPERTY_NAME = None
+PROPERTY_VALUE = "ferdsla"
+
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 

@@ -1,0 +1,913 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 2,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.073567112673072,
+     62.19686295034612
+    ]
+   },
+   "properties": {
+    "objectid": 2,
+    "globalid": "{BBD916BA-58BE-4BDB-9B1D-1F8F7F45C88B}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a80",
+    "place_id": 51100000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 53,
+    "road_name": "Saksunarvegur",
+    "road_type": "Landsvegur",
+    "road_section": 0,
+    "traffic_type": "Summarland",
+    "speed_limit": 80,
+    "aadt": 155,
+    "aawt": 101,
+    "aajt": 435,
+    "truck_aadt": 24,
+    "e10_high": 13,
+    "e10_low": 4,
+    "peak_hour": 122,
+    "peak_hour_datetime": 1689945300000,
+    "morning_peak_hour": 5,
+    "morning_peak_start_time": "08:11",
+    "evening_peak_hour": 23,
+    "evening_peak_start_time": "15:19",
+    "last_update_date": 1691452800000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784202550277652,
+     62.021627413329284
+    ]
+   },
+   "properties": {
+    "objectid": 4,
+    "globalid": "{B03A53B3-BF47-450E-8F3B-50FEF5AFD995}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a7e",
+    "place_id": 55001000,
+    "traffic_counter_type": "B\u00c3\u00adlegging - Fer\u00c3\u00b0teljing",
+    "owner": 980,
+    "road_nr": 1,
+    "road_name": "T\u00c3\u00b3rshavnar kommuna",
+    "road_type": "A\u00c3\u00b0rir vegir",
+    "road_section": 1,
+    "traffic_type": "REGIONALBA",
+    "speed_limit": 50,
+    "aadt": 12287,
+    "aawt": 13914,
+    "aajt": 11790,
+    "truck_aadt": 262,
+    "e10_high": 101,
+    "e10_low": 43,
+    "peak_hour": 1463,
+    "peak_hour_datetime": 1624550400000,
+    "morning_peak_hour": 984,
+    "morning_peak_start_time": "08:07",
+    "evening_peak_hour": 1349,
+    "evening_peak_start_time": "16:04",
+    "last_update_date": 1636934400000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.159254917656282,
+     62.05281853543008
+    ]
+   },
+   "properties": {
+    "objectid": 5,
+    "globalid": "{14B6E1B8-51C7-49A0-B505-8E5AB04BB6E6}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a7d",
+    "place_id": 41020000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 11,
+    "road_name": "Giljavegur",
+    "road_type": "Landsvegur",
+    "road_section": 1,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 50,
+    "aadt": 3888,
+    "aawt": 4089,
+    "aajt": 4532,
+    "truck_aadt": 220,
+    "e10_high": 115,
+    "e10_low": 51,
+    "peak_hour": 535,
+    "peak_hour_datetime": 1626526800000,
+    "morning_peak_hour": 310,
+    "morning_peak_start_time": "07:49",
+    "evening_peak_hour": 413,
+    "evening_peak_start_time": "15:47",
+    "last_update_date": 1634515200000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 53,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.844142839978451,
+     62.00163503022243
+    ]
+   },
+   "properties": {
+    "objectid": 53,
+    "globalid": "{F75C5AD8-DC71-458C-A585-109D4E7B6025}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a4d",
+    "place_id": 56010000,
+    "traffic_counter_type": "6",
+    "owner": 980,
+    "road_nr": 12,
+    "road_name": "Kirkjub\u00c3\u00b8arvegur",
+    "road_type": "Landsvegur",
+    "road_section": 0,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 80,
+    "avg_speed": null,
+    "fractile_pct_15": null,
+    "fractile_pct_85": null,
+    "pct_over_speed_limit": null,
+    "pct_over_speed_limit_p10": null,
+    "pct_over_speed_limit_p20": null,
+    "aadt": 1641,
+    "aawt": 1712,
+    "aajt": 1785,
+    "truck_aadt": 130,
+    "e10_high": 152,
+    "e10_low": 71,
+    "peak_hour": 190,
+    "peak_hour_datetime": 1648142100000,
+    "morning_peak_hour": 175,
+    "morning_peak_start_time": "08:15",
+    "evening_peak_hour": 186,
+    "evening_peak_start_time": "17:00",
+    "last_update_date": 1679011200000,
+    "last_update_year": 2022,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 54,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.811562855491983,
+     61.99968521149649
+    ]
+   },
+   "properties": {
+    "objectid": 54,
+    "globalid": "{2164D6A3-0E37-4B64-AB32-EEF437B0AF65}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a4c",
+    "place_id": 54060000,
+    "traffic_counter_type": "Fer\u00c3\u00b0g\u00c3\u00a1i",
+    "owner": 980,
+    "road_nr": 12,
+    "road_name": "Kirkjub\u00c3\u00b8arvegur",
+    "road_type": "Landsvegur",
+    "road_section": 0,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 60,
+    "aadt": 3798,
+    "aawt": 4152,
+    "aajt": 3874,
+    "truck_aadt": 232,
+    "e10_high": 106,
+    "e10_low": 46,
+    "peak_hour": 759,
+    "peak_hour_datetime": 1686728700000,
+    "morning_peak_hour": 306,
+    "morning_peak_start_time": "07:32",
+    "evening_peak_hour": 395,
+    "evening_peak_start_time": "15:42",
+    "last_update_date": 1694390400000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 60,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.885480607761591,
+     62.13454008376298
+    ]
+   },
+   "properties": {
+    "objectid": 60,
+    "globalid": "{49194DF9-3009-452A-ABA9-5DF74EFEF727}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a46",
+    "place_id": 51020000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 10,
+    "road_name": "Kollfjar\u00c3\u00b0arvegurin",
+    "road_type": "Landsvegur",
+    "road_section": 2,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 80,
+    "aadt": 2968,
+    "aawt": 2994,
+    "aajt": 3420,
+    "truck_aadt": 181,
+    "e10_high": 151,
+    "e10_low": 73,
+    "peak_hour": 436,
+    "peak_hour_datetime": 1687012200000,
+    "morning_peak_hour": 292,
+    "morning_peak_start_time": "07:12",
+    "evening_peak_hour": 336,
+    "evening_peak_start_time": "15:59",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 61,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7935838901430285,
+     62.162784813572344
+    ]
+   },
+   "properties": {
+    "objectid": 61,
+    "globalid": "{2100031B-56F8-4463-BA5F-8260FB42ACB0}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a45",
+    "place_id": 61060000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 15,
+    "road_name": "Sk\u00c3\u00a1la/Strendur",
+    "road_type": "Landsvegur",
+    "road_section": 2,
+    "traffic_type": "Landspartur",
+    "speed_limit": 80,
+    "aadt": 1347,
+    "aawt": 1427,
+    "aajt": 1314,
+    "truck_aadt": 70,
+    "e10_high": 42,
+    "e10_low": 21,
+    "peak_hour": 315,
+    "peak_hour_datetime": 1688839200000,
+    "morning_peak_hour": 154,
+    "morning_peak_start_time": "07:20",
+    "evening_peak_hour": 155,
+    "evening_peak_start_time": "15:55",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 62,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7609944686151895,
+     62.094739073907185
+    ]
+   },
+   "properties": {
+    "objectid": 62,
+    "globalid": "{5B8DE0DE-00C9-46E8-BD1E-940EB3A98267}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a44",
+    "place_id": 51110000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 999,
+    "road_nr": 10,
+    "road_name": "EST",
+    "road_type": "A\u00c3\u00b0rir vegir",
+    "road_section": 0,
+    "traffic_type": "Landspartur",
+    "speed_limit": 80,
+    "aadt": 4800,
+    "aawt": 5151,
+    "aajt": 4973,
+    "truck_aadt": 173,
+    "e10_high": 179,
+    "e10_low": 88,
+    "peak_hour": 744,
+    "peak_hour_datetime": 1691532000000,
+    "morning_peak_hour": 508,
+    "morning_peak_start_time": "07:30",
+    "evening_peak_hour": 559,
+    "evening_peak_start_time": "15:54",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 63,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.752081852115443,
+     62.09918340358503
+    ]
+   },
+   "properties": {
+    "objectid": 63,
+    "globalid": "{A4F453C5-2B26-4661-B897-AFBC3A3874A1}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a43",
+    "place_id": 61100000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 999,
+    "road_nr": 10,
+    "road_name": "EST",
+    "road_type": "A\u00c3\u00b0rir vegir",
+    "road_section": 0,
+    "traffic_type": "Landspartur",
+    "speed_limit": 80,
+    "aadt": 4624,
+    "aawt": 5025,
+    "aajt": 4659,
+    "truck_aadt": 167,
+    "e10_high": 171,
+    "e10_low": 84,
+    "peak_hour": 695,
+    "peak_hour_datetime": 1691532000000,
+    "morning_peak_hour": 478,
+    "morning_peak_start_time": "07:31",
+    "evening_peak_hour": 544,
+    "evening_peak_start_time": "15:52",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 64,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.759352809050329,
+     62.10037007507078
+    ]
+   },
+   "properties": {
+    "objectid": 64,
+    "globalid": "{F8BA69CA-DB62-4599-8DCD-0D2E50A12CEE}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a42",
+    "place_id": 61090000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 999,
+    "road_nr": 13,
+    "road_name": "EST",
+    "road_type": "A\u00c3\u00b0rir vegir",
+    "road_section": 0,
+    "traffic_type": "REGIONALBA",
+    "speed_limit": 80,
+    "aadt": 1736,
+    "aawt": 1915,
+    "aajt": 1625,
+    "truck_aadt": 43,
+    "e10_high": 44,
+    "e10_low": 23,
+    "peak_hour": 268,
+    "peak_hour_datetime": 1694102400000,
+    "morning_peak_hour": 198,
+    "morning_peak_start_time": "07:28",
+    "evening_peak_hour": 216,
+    "evening_peak_start_time": "15:52",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 65,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7657369184994876,
+     62.17791899620907
+    ]
+   },
+   "properties": {
+    "objectid": 65,
+    "globalid": "{D2F66531-0565-45AA-BB45-5CDFC210A922}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a41",
+    "place_id": 61020000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 10,
+    "road_name": "G\u00c3\u00b8tuvegur",
+    "road_type": "Landsvegur",
+    "road_section": 3,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 80,
+    "aadt": 6257,
+    "aawt": 6805,
+    "aajt": 6582,
+    "truck_aadt": 316,
+    "e10_high": 260,
+    "e10_low": 123,
+    "peak_hour": 907,
+    "peak_hour_datetime": 1687363200000,
+    "morning_peak_hour": 639,
+    "morning_peak_start_time": "07:27",
+    "evening_peak_hour": 732,
+    "evening_peak_start_time": "15:51",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 66,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.917150348831931,
+     62.21962612764051
+    ]
+   },
+   "properties": {
+    "objectid": 66,
+    "globalid": "{2F682B85-3A5B-4E66-B116-ABC33BE13447}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a40",
+    "place_id": 61010000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 13,
+    "road_name": "Nor\u00c3\u00b0sk\u00c3\u00a1lavegur",
+    "road_type": "Landsvegur",
+    "road_section": 2,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 80,
+    "aadt": 2329,
+    "aawt": 2357,
+    "aajt": 2629,
+    "truck_aadt": 166,
+    "e10_high": 128,
+    "e10_low": 64,
+    "peak_hour": 366,
+    "peak_hour_datetime": 1685898000000,
+    "morning_peak_hour": 226,
+    "morning_peak_start_time": "07:18",
+    "evening_peak_hour": 256,
+    "evening_peak_start_time": "15:53",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 68,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.144754766704792,
+     62.15222962510914
+    ]
+   },
+   "properties": {
+    "objectid": 68,
+    "globalid": "{BA2D7302-8373-42F2-8695-1D6C3A94224A}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a3e",
+    "place_id": 54050000,
+    "traffic_counter_type": "Fer\u00c3\u00b0g\u00c3\u00a1i",
+    "owner": 980,
+    "road_nr": 21,
+    "road_name": "Vestmannavegurin",
+    "road_type": "Landsvegur",
+    "road_section": 1,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 50,
+    "aadt": 1223,
+    "aawt": 1335,
+    "aajt": 1331,
+    "truck_aadt": 78,
+    "e10_high": 37,
+    "e10_low": 17,
+    "peak_hour": 370,
+    "peak_hour_datetime": 1681832700000,
+    "morning_peak_hour": 148,
+    "morning_peak_start_time": "07:14",
+    "evening_peak_hour": 144,
+    "evening_peak_start_time": "16:01",
+    "last_update_date": 1694390400000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 70,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.576407983427447,
+     62.25489983621945
+    ]
+   },
+   "properties": {
+    "objectid": 70,
+    "globalid": "{DCA0EFCE-8F21-4B1A-B410-4B49EC82A2EB}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a3c",
+    "place_id": 71020000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 70,
+    "road_name": "Vi\u00c3\u00b0arei\u00c3\u00b0isvegurin",
+    "road_type": "Landsvegur",
+    "road_section": 0,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 80,
+    "aadt": 1527,
+    "aawt": 1627,
+    "aajt": 1641,
+    "truck_aadt": 119,
+    "e10_high": 46,
+    "e10_low": 20,
+    "peak_hour": 206,
+    "peak_hour_datetime": 1626192000000,
+    "morning_peak_hour": 132,
+    "morning_peak_start_time": "07:03",
+    "evening_peak_hour": 158,
+    "evening_peak_start_time": "15:57",
+    "last_update_date": 1638489600000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 73,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5892143477411595,
+     62.24387799804981
+    ]
+   },
+   "properties": {
+    "objectid": 73,
+    "globalid": "{7B2B1429-B94D-4885-8F10-BB311DAD4B0B}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a39",
+    "place_id": 71010000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 64,
+    "road_name": "\u00c3\u0081rnafjar\u00c3\u00b0avegurin",
+    "road_type": "Landsvegur",
+    "road_section": 1,
+    "traffic_type": "Landspartur",
+    "speed_limit": 80,
+    "aadt": 3498,
+    "aawt": 3701,
+    "aajt": 3527,
+    "truck_aadt": 181,
+    "e10_high": 121,
+    "e10_low": 55,
+    "peak_hour": 480,
+    "peak_hour_datetime": 1686066300000,
+    "morning_peak_hour": 259,
+    "morning_peak_start_time": "07:34",
+    "evening_peak_hour": 374,
+    "evening_peak_start_time": "15:51",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 74,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5229881862155095,
+     62.30186015869364
+    ]
+   },
+   "properties": {
+    "objectid": 74,
+    "globalid": "{673A9C5A-31B0-4E1B-9194-5AD27AF84B88}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a38",
+    "place_id": 71040000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 70,
+    "road_name": "Vi\u00c3\u00b0arei\u00c3\u00b0isvegurin",
+    "road_type": "Landsvegur",
+    "road_section": 3,
+    "traffic_type": "\u00c3\u008d \u00c3\u00a1v\u00c3\u00adsan mun feria",
+    "speed_limit": 50,
+    "aadt": 690,
+    "aawt": 700,
+    "aajt": 744,
+    "truck_aadt": 31,
+    "e10_high": 16,
+    "e10_low": 6,
+    "peak_hour": 134,
+    "peak_hour_datetime": 1693073700000,
+    "morning_peak_hour": 46,
+    "morning_peak_start_time": "07:40",
+    "evening_peak_hour": 74,
+    "evening_peak_start_time": "15:30",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 76,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.823431110109716,
+     62.04827612968069
+    ]
+   },
+   "properties": {
+    "objectid": 76,
+    "globalid": "{EDDEA6FE-2613-4B8B-A11C-F6C95456BA43}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a36",
+    "place_id": 51010000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 10,
+    "road_name": "Kaldbaksvegurin",
+    "road_type": "Landsvegur",
+    "road_section": 1,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 80,
+    "aadt": 6461,
+    "aawt": 7200,
+    "aajt": 6947,
+    "truck_aadt": 477,
+    "e10_high": 315,
+    "e10_low": 145,
+    "peak_hour": 881,
+    "peak_hour_datetime": 1625497200000,
+    "morning_peak_hour": 668,
+    "morning_peak_start_time": "06:29",
+    "evening_peak_hour": 726,
+    "evening_peak_start_time": "15:17",
+    "last_update_date": 1634515200000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 77,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9664491173819965,
+     62.170109280007686
+    ]
+   },
+   "properties": {
+    "objectid": 77,
+    "globalid": "{95567757-BF2F-4DE8-9E74-3008E8655205}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a35",
+    "place_id": 51070000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 10,
+    "road_name": "Vi\u00c3\u00b0 \u00c3\u0081ir",
+    "road_type": "Landsvegur",
+    "road_section": 3,
+    "traffic_type": "Fjar\u00c3\u00b0",
+    "speed_limit": 80,
+    "aadt": 3274,
+    "aawt": 3462,
+    "aajt": 3772,
+    "truck_aadt": 308,
+    "e10_high": 225,
+    "e10_low": 105,
+    "peak_hour": 445,
+    "peak_hour_datetime": 1615186800000,
+    "morning_peak_hour": 328,
+    "morning_peak_start_time": "07:05",
+    "evening_peak_hour": 365,
+    "evening_peak_start_time": "16:01",
+    "last_update_date": 1634515200000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 78,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.796969441368391,
+     61.53042541434218
+    ]
+   },
+   "properties": {
+    "objectid": 78,
+    "globalid": "{7368362B-C1A4-48BF-B9D8-75826ED1D422}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a34",
+    "place_id": 21010000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 3,
+    "road_name": "\u00c3\u0098rav\u00c3\u00adkarvegurin",
+    "road_type": "Landsvegur",
+    "road_section": 3,
+    "traffic_type": "B\u00c3\u00bdur",
+    "speed_limit": 80,
+    "aadt": 1543,
+    "aawt": 1640,
+    "aajt": 1462,
+    "truck_aadt": 64,
+    "e10_high": 61,
+    "e10_low": 28,
+    "peak_hour": 317,
+    "peak_hour_datetime": 1682694000000,
+    "morning_peak_hour": 126,
+    "morning_peak_start_time": "07:31",
+    "evening_peak_hour": 191,
+    "evening_peak_start_time": "15:08",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 79,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.881404987943979,
+     61.5642001255396
+    ]
+   },
+   "properties": {
+    "objectid": 79,
+    "globalid": "{55739963-67B5-4756-AC9C-AAEBEA6452B7}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a33",
+    "place_id": 21070000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 34,
+    "road_name": "Hvalbiartunnilin",
+    "road_type": "Landsvegur",
+    "road_section": 3,
+    "traffic_type": "Landspartur",
+    "speed_limit": 80,
+    "aadt": 959,
+    "aawt": 1003,
+    "aajt": 952,
+    "truck_aadt": 80,
+    "e10_high": 40,
+    "e10_low": 17,
+    "peak_hour": 160,
+    "peak_hour_datetime": 1680452100000,
+    "morning_peak_hour": 82,
+    "morning_peak_start_time": "07:27",
+    "evening_peak_hour": 107,
+    "evening_peak_start_time": "15:18",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 80,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728848233247339,
+     62.13413261294673
+    ]
+   },
+   "properties": {
+    "objectid": 80,
+    "globalid": "{1A7C72FD-A9AD-4C58-8EEA-034CFB8D58F2}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a32",
+    "place_id": 61030000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 15,
+    "road_name": "Runav\u00c3\u00adkarvegurin",
+    "road_type": "Landsvegur",
+    "road_section": 10,
+    "traffic_type": "B\u00c3\u00ba\u00c3\u00b0sta\u00c3\u00b0ur-Arbei\u00c3\u00b0i",
+    "speed_limit": 80,
+    "aadt": 6987,
+    "aawt": 7486,
+    "aajt": 6847,
+    "truck_aadt": 347,
+    "e10_high": 268,
+    "e10_low": 131,
+    "peak_hour": 971,
+    "peak_hour_datetime": 1686152700000,
+    "morning_peak_hour": 709,
+    "morning_peak_start_time": "07:30",
+    "evening_peak_hour": 805,
+    "evening_peak_start_time": "15:46",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 81,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2270142086943885,
+     62.05087642639126
+    ]
+   },
+   "properties": {
+    "objectid": 81,
+    "globalid": "{35B5F4FB-FC1F-4CC4-B981-9FA33098A1B6}",
+    "feature_id": "BST980.fid-114d562_18a91014629_-2a31",
+    "place_id": 41060000,
+    "traffic_counter_type": "Spolateljing AUTO (M660,M680)",
+    "owner": 980,
+    "road_nr": 11,
+    "road_name": "S\u00c3\u00b8rv\u00c3\u00a1gsvegur",
+    "road_type": "Landsvegur",
+    "road_section": 0,
+    "traffic_type": "\u00c3\u008d \u00c3\u00a1v\u00c3\u00adsan mun feria",
+    "speed_limit": 80,
+    "aadt": 3497,
+    "aawt": 3505,
+    "aajt": 4260,
+    "truck_aadt": 107,
+    "e10_high": 85,
+    "e10_low": 46,
+    "peak_hour": 539,
+    "peak_hour_datetime": 1690472700000,
+    "morning_peak_hour": 264,
+    "morning_peak_start_time": "07:14",
+    "evening_peak_hour": 352,
+    "evening_peak_start_time": "15:04",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "import_comment": null
+   }
+  }
+ ]
+}
