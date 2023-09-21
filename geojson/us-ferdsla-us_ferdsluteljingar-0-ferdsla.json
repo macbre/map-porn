@@ -1,0 +1,737 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 12142,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0735671107522045,
+     62.19686295034714
+    ]
+   },
+   "properties": {
+    "objectid": 12142,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 155,
+    "aawt": 101,
+    "aajt": 435,
+    "e10_high": 13,
+    "e10_low": 4,
+    "peak_hour": 122,
+    "peak_hour_datetime": 1689945300000,
+    "morning_peak_hour": 5,
+    "morning_peak_start_time": "08:11",
+    "evening_peak_hour": 23,
+    "evening_peak_start_time": "15:19",
+    "last_update_date": 1691452800000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12143,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7842025483678485,
+     62.02162741332631
+    ]
+   },
+   "properties": {
+    "objectid": 12143,
+    "owner": "Landsverk",
+    "speed_limit": 50,
+    "aadt": 12287,
+    "aawt": 13914,
+    "aajt": 11790,
+    "e10_high": 101,
+    "e10_low": 43,
+    "peak_hour": 1463,
+    "peak_hour_datetime": 1624550400000,
+    "morning_peak_hour": 984,
+    "morning_peak_start_time": "08:07",
+    "evening_peak_hour": 1349,
+    "evening_peak_start_time": "16:04",
+    "last_update_date": 1636934400000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12144,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.159254915744516,
+     62.052818535432266
+    ]
+   },
+   "properties": {
+    "objectid": 12144,
+    "owner": "Landsverk",
+    "speed_limit": 50,
+    "aadt": 3888,
+    "aawt": 4089,
+    "aajt": 4532,
+    "e10_high": 115,
+    "e10_low": 51,
+    "peak_hour": 535,
+    "peak_hour_datetime": 1626526800000,
+    "morning_peak_hour": 310,
+    "morning_peak_start_time": "07:49",
+    "evening_peak_hour": 413,
+    "evening_peak_start_time": "15:47",
+    "last_update_date": 1634515200000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12145,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.844142839978451,
+     62.00163503022243
+    ]
+   },
+   "properties": {
+    "objectid": 12145,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "avg_speed": null,
+    "fractile_pct_15": null,
+    "fractile_pct_85": null,
+    "pct_over_speed_limit": null,
+    "pct_over_speed_limit_p10": null,
+    "pct_over_speed_limit_p20": null,
+    "aadt": 1641,
+    "aawt": 1712,
+    "aajt": 1785,
+    "e10_high": 152,
+    "e10_low": 71,
+    "peak_hour": 190,
+    "peak_hour_datetime": 1648142100000,
+    "morning_peak_hour": 175,
+    "morning_peak_start_time": "08:15",
+    "evening_peak_hour": 186,
+    "evening_peak_start_time": "17:00",
+    "last_update_date": 1679011200000,
+    "last_update_year": 2022,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12146,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.811562853583549,
+     61.99968521149391
+    ]
+   },
+   "properties": {
+    "objectid": 12146,
+    "owner": "Landsverk",
+    "speed_limit": 60,
+    "aadt": 3798,
+    "aawt": 4152,
+    "aajt": 3874,
+    "e10_high": 106,
+    "e10_low": 46,
+    "peak_hour": 759,
+    "peak_hour_datetime": 1686728700000,
+    "morning_peak_hour": 306,
+    "morning_peak_start_time": "07:32",
+    "evening_peak_hour": 395,
+    "evening_peak_start_time": "15:42",
+    "last_update_date": 1694390400000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12147,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.885480607761591,
+     62.13454008376298
+    ]
+   },
+   "properties": {
+    "objectid": 12147,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 2968,
+    "aawt": 2994,
+    "aajt": 3420,
+    "e10_high": 151,
+    "e10_low": 73,
+    "peak_hour": 436,
+    "peak_hour_datetime": 1687012200000,
+    "morning_peak_hour": 292,
+    "morning_peak_start_time": "07:12",
+    "evening_peak_hour": 336,
+    "evening_peak_start_time": "15:59",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12148,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793583888224333,
+     62.1627848135695
+    ]
+   },
+   "properties": {
+    "objectid": 12148,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 1347,
+    "aawt": 1427,
+    "aajt": 1314,
+    "e10_high": 42,
+    "e10_low": 21,
+    "peak_hour": 315,
+    "peak_hour_datetime": 1688839200000,
+    "morning_peak_hour": 154,
+    "morning_peak_start_time": "07:20",
+    "evening_peak_hour": 155,
+    "evening_peak_start_time": "15:55",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12149,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.760994466693737,
+     62.094739074801176
+    ]
+   },
+   "properties": {
+    "objectid": 12149,
+    "owner": "Eysturoyartunnilin",
+    "speed_limit": 80,
+    "aadt": 4800,
+    "aawt": 5151,
+    "aajt": 4973,
+    "e10_high": 179,
+    "e10_low": 88,
+    "peak_hour": 744,
+    "peak_hour_datetime": 1691532000000,
+    "morning_peak_hour": 508,
+    "morning_peak_start_time": "07:30",
+    "evening_peak_hour": 559,
+    "evening_peak_start_time": "15:54",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12150,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7520818521081205,
+     62.09918340448231
+    ]
+   },
+   "properties": {
+    "objectid": 12150,
+    "owner": "Eysturoyartunnilin",
+    "speed_limit": 80,
+    "aadt": 4624,
+    "aawt": 5025,
+    "aajt": 4659,
+    "e10_high": 171,
+    "e10_low": 84,
+    "peak_hour": 695,
+    "peak_hour_datetime": 1691532000000,
+    "morning_peak_hour": 478,
+    "morning_peak_start_time": "07:31",
+    "evening_peak_hour": 544,
+    "evening_peak_start_time": "15:52",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12151,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.759352807135581,
+     62.100370075067445
+    ]
+   },
+   "properties": {
+    "objectid": 12151,
+    "owner": "Eysturoyartunnilin",
+    "speed_limit": 80,
+    "aadt": 1736,
+    "aawt": 1915,
+    "aajt": 1625,
+    "e10_high": 44,
+    "e10_low": 23,
+    "peak_hour": 268,
+    "peak_hour_datetime": 1694102400000,
+    "morning_peak_hour": 198,
+    "morning_peak_start_time": "07:28",
+    "evening_peak_hour": 216,
+    "evening_peak_start_time": "15:52",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12152,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7657369184994876,
+     62.17791899620907
+    ]
+   },
+   "properties": {
+    "objectid": 12152,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 6257,
+    "aawt": 6805,
+    "aajt": 6582,
+    "e10_high": 260,
+    "e10_low": 123,
+    "peak_hour": 907,
+    "peak_hour_datetime": 1687363200000,
+    "morning_peak_hour": 639,
+    "morning_peak_start_time": "07:27",
+    "evening_peak_hour": 732,
+    "evening_peak_start_time": "15:51",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12153,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.917150348829471,
+     62.21962612853778
+    ]
+   },
+   "properties": {
+    "objectid": 12153,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 2329,
+    "aawt": 2357,
+    "aajt": 2629,
+    "e10_high": 128,
+    "e10_low": 64,
+    "peak_hour": 366,
+    "peak_hour_datetime": 1685898000000,
+    "morning_peak_hour": 226,
+    "morning_peak_start_time": "07:18",
+    "evening_peak_hour": 256,
+    "evening_peak_start_time": "15:53",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12154,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.144754764786757,
+     62.152229625111154
+    ]
+   },
+   "properties": {
+    "objectid": 12154,
+    "owner": "Landsverk",
+    "speed_limit": 50,
+    "aadt": 1223,
+    "aawt": 1335,
+    "aajt": 1331,
+    "e10_high": 37,
+    "e10_low": 17,
+    "peak_hour": 370,
+    "peak_hour_datetime": 1681832700000,
+    "morning_peak_hour": 148,
+    "morning_peak_start_time": "07:14",
+    "evening_peak_hour": 144,
+    "evening_peak_start_time": "16:01",
+    "last_update_date": 1694390400000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12155,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.576407983427447,
+     62.25489983621945
+    ]
+   },
+   "properties": {
+    "objectid": 12155,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 1527,
+    "aawt": 1627,
+    "aajt": 1641,
+    "e10_high": 46,
+    "e10_low": 20,
+    "peak_hour": 206,
+    "peak_hour_datetime": 1626192000000,
+    "morning_peak_hour": 132,
+    "morning_peak_start_time": "07:03",
+    "evening_peak_hour": 158,
+    "evening_peak_start_time": "15:57",
+    "last_update_date": 1638489600000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12156,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.58921434581735,
+     62.24387799804412
+    ]
+   },
+   "properties": {
+    "objectid": 12156,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 3498,
+    "aawt": 3701,
+    "aajt": 3527,
+    "e10_high": 121,
+    "e10_low": 55,
+    "peak_hour": 480,
+    "peak_hour_datetime": 1686066300000,
+    "morning_peak_hour": 259,
+    "morning_peak_start_time": "07:34",
+    "evening_peak_hour": 374,
+    "evening_peak_start_time": "15:51",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12157,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.522988184288014,
+     62.30186015868701
+    ]
+   },
+   "properties": {
+    "objectid": 12157,
+    "owner": "Landsverk",
+    "speed_limit": 50,
+    "aadt": 690,
+    "aawt": 700,
+    "aajt": 744,
+    "e10_high": 16,
+    "e10_low": 6,
+    "peak_hour": 134,
+    "peak_hour_datetime": 1693073700000,
+    "morning_peak_hour": 46,
+    "morning_peak_start_time": "07:40",
+    "evening_peak_hour": 74,
+    "evening_peak_start_time": "15:30",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12158,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.823431108193033,
+     62.04827613057551
+    ]
+   },
+   "properties": {
+    "objectid": 12158,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 6461,
+    "aawt": 7200,
+    "aajt": 6947,
+    "e10_high": 315,
+    "e10_low": 145,
+    "peak_hour": 881,
+    "peak_hour_datetime": 1625497200000,
+    "morning_peak_hour": 668,
+    "morning_peak_start_time": "06:29",
+    "evening_peak_hour": 726,
+    "evening_peak_start_time": "15:17",
+    "last_update_date": 1634515200000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12159,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.966449115462825,
+     62.17010928000723
+    ]
+   },
+   "properties": {
+    "objectid": 12159,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 3274,
+    "aawt": 3462,
+    "aajt": 3772,
+    "e10_high": 225,
+    "e10_low": 105,
+    "peak_hour": 445,
+    "peak_hour_datetime": 1615186800000,
+    "morning_peak_hour": 328,
+    "morning_peak_start_time": "07:05",
+    "evening_peak_hour": 365,
+    "evening_peak_start_time": "16:01",
+    "last_update_date": 1634515200000,
+    "last_update_year": 2021,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12160,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.796969441362537,
+     61.53042541523957
+    ]
+   },
+   "properties": {
+    "objectid": 12160,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 1543,
+    "aawt": 1640,
+    "aajt": 1462,
+    "e10_high": 61,
+    "e10_low": 28,
+    "peak_hour": 317,
+    "peak_hour_datetime": 1682694000000,
+    "morning_peak_hour": 126,
+    "morning_peak_start_time": "07:31",
+    "evening_peak_hour": 191,
+    "evening_peak_start_time": "15:08",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12161,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.881404987940555,
+     61.56420012643697
+    ]
+   },
+   "properties": {
+    "objectid": 12161,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 959,
+    "aawt": 1003,
+    "aajt": 952,
+    "e10_high": 40,
+    "e10_low": 17,
+    "peak_hour": 160,
+    "peak_hour_datetime": 1680452100000,
+    "morning_peak_hour": 82,
+    "morning_peak_start_time": "07:27",
+    "evening_peak_hour": 107,
+    "evening_peak_start_time": "15:18",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12162,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.72884823323932,
+     62.13413261384398
+    ]
+   },
+   "properties": {
+    "objectid": 12162,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 6987,
+    "aawt": 7486,
+    "aajt": 6847,
+    "e10_high": 268,
+    "e10_low": 131,
+    "peak_hour": 971,
+    "peak_hour_datetime": 1686152700000,
+    "morning_peak_hour": 709,
+    "morning_peak_start_time": "07:30",
+    "evening_peak_hour": 805,
+    "evening_peak_start_time": "15:46",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12163,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.227014206789441,
+     62.050876427291676
+    ]
+   },
+   "properties": {
+    "objectid": 12163,
+    "owner": "Landsverk",
+    "speed_limit": 80,
+    "aadt": 3497,
+    "aawt": 3505,
+    "aajt": 4260,
+    "e10_high": 85,
+    "e10_low": 46,
+    "peak_hour": 539,
+    "peak_hour_datetime": 1690472700000,
+    "morning_peak_hour": 264,
+    "morning_peak_start_time": "07:14",
+    "evening_peak_hour": 352,
+    "evening_peak_start_time": "15:04",
+    "last_update_date": 1694649600000,
+    "last_update_year": 2023,
+    "imported_date": 1694739616000,
+    "data_owner": "Landsverk",
+    "import_config_file": "lv_ferdsluteljingar.json",
+    "import_date": 1694754478000
+   }
+  }
+ ]
+}

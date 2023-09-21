@@ -1,0 +1,509 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 26798,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778063631007018,
+     61.49052552701536
+    ]
+   },
+   "properties": {
+    "objectid": 26798,
+    "id": "2020",
+    "location": "PH07",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26799,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781450867345849,
+     61.48936794795159
+    ]
+   },
+   "properties": {
+    "objectid": 26799,
+    "id": "2019",
+    "location": "PH06",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26800,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781449164410649,
+     61.4906752858807
+    ]
+   },
+   "properties": {
+    "objectid": 26800,
+    "id": "2018",
+    "location": "PH05",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26801,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784837983531569,
+     61.489517785117954
+    ]
+   },
+   "properties": {
+    "objectid": 26801,
+    "id": "2017",
+    "location": "PH04",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26802,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784837591759964,
+     61.49082327638281
+    ]
+   },
+   "properties": {
+    "objectid": 26802,
+    "id": "2016",
+    "location": "PH03",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26803,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788225838438865,
+     61.48966751056135
+    ]
+   },
+   "properties": {
+    "objectid": 26803,
+    "id": "2015",
+    "location": "PH02",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26804,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788226492990619,
+     61.49097250613106
+    ]
+   },
+   "properties": {
+    "objectid": 26804,
+    "id": "2014",
+    "location": "PH01",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26805,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.830509705567537,
+     62.02210681823334
+    ]
+   },
+   "properties": {
+    "objectid": 26805,
+    "id": "2001",
+    "location": "HH 01",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26806,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.832271695225678,
+     62.022990610828224
+    ]
+   },
+   "properties": {
+    "objectid": 26806,
+    "id": "2002",
+    "location": "HH 02",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26807,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8340320113196364,
+     62.023875686991005
+    ]
+   },
+   "properties": {
+    "objectid": 26807,
+    "id": "2003",
+    "location": "HH 03",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26808,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.835792525609451,
+     62.02476065460717
+    ]
+   },
+   "properties": {
+    "objectid": 26808,
+    "id": "2004",
+    "location": "HH 04",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26809,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8269115443490955,
+     62.02285909917928
+    ]
+   },
+   "properties": {
+    "objectid": 26809,
+    "id": "2005",
+    "location": "HH 05",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26810,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.828672377862522,
+     62.02374341716089
+    ]
+   },
+   "properties": {
+    "objectid": 26810,
+    "id": "2006",
+    "location": "HH 06",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26811,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.830433890928229,
+     62.02462761282191
+    ]
+   },
+   "properties": {
+    "objectid": 26811,
+    "id": "2007",
+    "location": "HH 07",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26812,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8321945700279985,
+     62.02551252237742
+    ]
+   },
+   "properties": {
+    "objectid": 26812,
+    "id": "2008",
+    "location": "HH 08",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26813,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8339565098145805,
+     62.02639724210549
+    ]
+   },
+   "properties": {
+    "objectid": 26813,
+    "id": "2009",
+    "location": "HH 09",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26814,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.835719182504145,
+     62.02728118449711
+    ]
+   },
+   "properties": {
+    "objectid": 26814,
+    "id": "2010",
+    "location": "HH 10",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26815,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.830356983143024,
+     62.02714893451759
+    ]
+   },
+   "properties": {
+    "objectid": 26815,
+    "id": "2013",
+    "location": "HH 13",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26816,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.828595933708906,
+     62.026264130533484
+    ]
+   },
+   "properties": {
+    "objectid": 26816,
+    "id": "2012",
+    "location": "HH 12",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26817,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.826835226251954,
+     62.025379469419825
+    ]
+   },
+   "properties": {
+    "objectid": 26817,
+    "id": "2011",
+    "location": "HH 11",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26818,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.692542984185319,
+     62.05828680444229
+    ]
+   },
+   "properties": {
+    "objectid": 26818,
+    "id": "20",
+    "location": "VINDMYLLA 2",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26819,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.693434634233958,
+     62.059526951272524
+    ]
+   },
+   "properties": {
+    "objectid": 26819,
+    "id": "25",
+    "location": "VINDMYLLA 3",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26820,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.696280554552756,
+     62.0581412962737
+    ]
+   },
+   "properties": {
+    "objectid": 26820,
+    "id": "9",
+    "location": "VINDMYLLA 1",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26821,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.709160810866635,
+     62.06874208292803
+    ]
+   },
+   "properties": {
+    "objectid": 26821,
+    "id": "183",
+    "location": "VINDMYLLA 4",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26822,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7108395911404815,
+     62.071018062638274
+    ]
+   },
+   "properties": {
+    "objectid": 26822,
+    "id": "184",
+    "location": "VINDMYLLA 5",
+    "feeder_make": "ENERCON",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26823,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.100574269938195,
+     62.167367189134275
+    ]
+   },
+   "properties": {
+    "objectid": 26823,
+    "id": "175",
+    "location": "S\u00d3LEY",
+    "feeder_make": "VESTAS",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26824,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.09688030475248,
+     62.16604743042212
+    ]
+   },
+   "properties": {
+    "objectid": 26824,
+    "id": "174",
+    "location": "JULIA",
+    "feeder_make": "VESTAS",
+    "data_owner": "SEV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26825,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.099902027801813,
+     62.16587050523764
+    ]
+   },
+   "properties": {
+    "objectid": 26825,
+    "id": "173",
+    "location": "B\u00c1RA",
+    "feeder_make": "VESTAS",
+    "data_owner": "SEV"
+   }
+  }
+ ]
+}

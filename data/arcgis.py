@@ -104,13 +104,29 @@ POLYGONS_TO_POINTS = True
 # aawt - Average Annual Weekday Traffic: The average 24-hour traffic volume occurring on weekdays over a full year.
 # https://archive.nptel.ac.in/content/storage2/courses/105101008/511_FundParams/point6/point.html
 # 
-ARCGIS_SERVER = 'gis.lv.fo'  # Landsverk
-FOLDER = 'ferdsla'
-SERVICE = 'ferdsluteljingar_alment'
-MAP_ID = 0
+# ARCGIS_SERVER = 'gis.lv.fo'  # Landsverk
+# FOLDER = 'ferdsla'
+# SERVICE = 'ferdsluteljingar_alment'
+# MAP_ID = 0
 
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "ferdsla"
+
+# https://gis.us.fo/arcgis/rest/services/ferdsla/us_ferdsluteljingar/MapServer/0
+# https://www.landsverk.fo/fo-fo/borgari/fer%C3%B0sluteljara-hagtoel
+# https://gis.us.fo/arcgis/rest/services/ferdsla/us_ferdsluteljingar/MapServer/0/query?where=1%3D1&f=pjson&outFields=*
+FOLDER = 'ferdsla'
+SERVICE = 'us_ferdsluteljingar'
+MAP_ID = 0
 PROPERTY_NAME = None
 PROPERTY_VALUE = "ferdsla"
+
+# https://gis.us.fo/arcgis/rest/services/sev/us_sev/MapServer/7
+FOLDER = 'sev'
+SERVICE = 'us_sev'
+MAP_ID = 7
+PROPERTY_NAME = None
+PROPERTY_VALUE = "vindmyllur"
 
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
