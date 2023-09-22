@@ -122,11 +122,27 @@ PROPERTY_NAME = None
 PROPERTY_VALUE = "ferdsla"
 
 # https://gis.us.fo/arcgis/rest/services/sev/us_sev/MapServer/7
-FOLDER = 'sev'
-SERVICE = 'us_sev'
-MAP_ID = 7
+# FOLDER = 'sev'
+# SERVICE = 'us_sev'
+# MAP_ID = 7
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "vindmyllur"
+
+# https://gis.us.fo/arcgis/rest/services/gron_orka/us_gron_orka/MapServer/1
+# FOLDER = 'gron_orka'
+# SERVICE = 'us_gron_orka'
+# MAP_ID = 1
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "geoheat"
+
+
+# https://gis.us.fo/arcgis/rest/services/foroya_tele/us_televarps_sendarar/MapServer/0
+# icon: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAWCAYAAAA4oUfxAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAU9JREFUSInF1j1ugzAUB/A/UkbugCw1vQFUjcoR6BZlaOduqM6SnqE5QuZ0iCxl6RGYmqVDIlVqkZAnLsBOJyIIfgYb0b4J+eP9/IwtmOAfYzJG0vn8IQIAId7eR8M976pUtR8OH1X/uU3K1LHGKch0fn0RWnwo2BVKfEw0DMOnJEk2LdwE5TzGbHYL3/fB2LQ3nuf5+VlZeZb99E5mGmmabrT4X4USv9xG13VxPH6S/VRk2TcAh5zTq/KiKHph7WhdbXNcFdW5UFV0eWai6B4AsFw+g/N4OF6H9K+hxOn0BQDgPG5sRQOXMnVs7jh9O0owdk3Os658tXrBev2qGaGHB+FC7CHEnqy6C1biplvP2BS73RZBcNNoU+XtxHUIdbgWi8e+aezwagE2oaqaxOuDbb9wFNiJ0wvxImpcENx1/jYZ482FSDK5lNIkFQDgF/YbdmsaqEFlAAAAAElFTkSuQmCC
+FOLDER = 'foroya_tele'
+SERVICE = 'us_televarps_sendarar'
+MAP_ID = 0
 PROPERTY_NAME = None
-PROPERTY_VALUE = "vindmyllur"
+PROPERTY_VALUE = "tv_transmitters"
 
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';

@@ -1,0 +1,1225 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.693569678330573,
+     62.06894596239713
+    ]
+   },
+   "properties": {
+    "objectid": 5,
+    "feature_id": 151083,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "22;24;26;28",
+    "location": "\u00c6\u00d0UV\u00cdK"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.685297265277866,
+     62.11222513321679
+    ]
+   },
+   "properties": {
+    "objectid": 7,
+    "feature_id": 148460,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "37;39;41;43",
+    "location": "RITUV\u00cdK"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.917257248115457,
+     62.28278223289018
+    ]
+   },
+   "properties": {
+    "objectid": 9,
+    "feature_id": 148264,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "ELDUV\u00cdK"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6630422515910235,
+     61.80357512360649
+    ]
+   },
+   "properties": {
+    "objectid": 10,
+    "feature_id": 148171,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "37;39;41;43",
+    "location": "H\u00daSAV\u00cdK, HV\u00cdTUKLETTAR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 11,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.827187993521204,
+     62.01980731947986
+    ]
+   },
+   "properties": {
+    "objectid": 11,
+    "feature_id": 148148,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "21;23;25;27",
+    "location": "H\u00daSAREYN"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 17,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.790316533982218,
+     62.33320671217084
+    ]
+   },
+   "properties": {
+    "objectid": 17,
+    "feature_id": 146700,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "53;55;57;59",
+    "location": "SL\u00c6TTAFJALL"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 18,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.847575481284416,
+     62.26121298658968
+    ]
+   },
+   "properties": {
+    "objectid": 18,
+    "feature_id": 146694,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "36;38;40;42",
+    "location": "HELLURNAR, T\u00d8KNIH\u00daS"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 19,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.698040190401406,
+     62.26509119047331
+    ]
+   },
+   "properties": {
+    "objectid": 19,
+    "feature_id": 146213,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "47,49,51,45",
+    "location": "H\u00daSAR, T\u00d8KNIH\u00daSI\u00d0"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 20,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.930955552405256,
+     61.62369609539175
+    ]
+   },
+   "properties": {
+    "objectid": 20,
+    "feature_id": 145785,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "SANDV\u00cdK, TUNNILSMUNNIN"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 22,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.57454423091641,
+     62.25441486918073
+    ]
+   },
+   "properties": {
+    "objectid": 22,
+    "feature_id": 145074,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "36;38;40;42",
+    "location": "\u00c1NAGJ\u00d3GV"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 23,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.531200450879526,
+     62.25428563257277
+    ]
+   },
+   "properties": {
+    "objectid": 23,
+    "feature_id": 142345,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37,39,41,43",
+    "location": "\u00c1RNAFJ\u00d8R\u00d0UR (T\u00d8KNIH\u00daS)"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 25,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.084811259681417,
+     62.2987324509996
+    ]
+   },
+   "properties": {
+    "objectid": 25,
+    "feature_id": 141648,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "22;24;26;28",
+    "location": "EI\u00d0I"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.104542755797099,
+     62.31513203889688
+    ]
+   },
+   "properties": {
+    "objectid": 26,
+    "feature_id": 141583,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "53;55;57;59",
+    "location": "EI\u00d0ISKOLLUR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 31,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.287809554153089,
+     62.28939850177353
+    ]
+   },
+   "properties": {
+    "objectid": 31,
+    "feature_id": 140713,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "22;24;26;28",
+    "location": "EYSTURH\u00d8VDI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 32,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.582054241509028,
+     62.3519162230496
+    ]
+   },
+   "properties": {
+    "objectid": 32,
+    "feature_id": 140690,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "53;55;57;59",
+    "location": "M\u00daLI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 33,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.533162623135148,
+     62.36048611737311
+    ]
+   },
+   "properties": {
+    "objectid": 33,
+    "feature_id": 140687,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "VI\u00d0AREI\u00d0I, ST\u00d8\u00d0IN"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 35,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.875927222535765,
+     61.523188408095535
+    ]
+   },
+   "properties": {
+    "objectid": 35,
+    "feature_id": 138819,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "F\u00c1MJIN"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 36,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.74572357969896,
+     62.170378625559785
+    ]
+   },
+   "properties": {
+    "objectid": 36,
+    "feature_id": 138380,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "52;50;48;46",
+    "location": "ST\u00d8\u00d0LAFJALL"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 112,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.706522612921139,
+     61.403181285975116
+    ]
+   },
+   "properties": {
+    "objectid": 112,
+    "feature_id": 136189,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": " ",
+    "norms": "22;24;26;28",
+    "location": "SUMBA, KLUMMARIN"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 118,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.048016943805396,
+     62.11905909800443
+    ]
+   },
+   "properties": {
+    "objectid": 118,
+    "feature_id": 136088,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "52;50;48;46",
+    "location": "STYKKI\u00d0"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 119,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.848930579488568,
+     61.98602156398742
+    ]
+   },
+   "properties": {
+    "objectid": 119,
+    "feature_id": 136085,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "60;66;68;58",
+    "location": "VELBASTA\u00d0H\u00c1LSUR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 120,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.812777764338968,
+     61.476644411632876
+    ]
+   },
+   "properties": {
+    "objectid": 120,
+    "feature_id": 136082,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "36;38;40;42",
+    "location": "V\u00c1GUR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 121,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.790841886228221,
+     62.016537326006684
+    ]
+   },
+   "properties": {
+    "objectid": 121,
+    "feature_id": 136079,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "36;38;40;42",
+    "location": "UNDIR VAR\u00d0A"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 122,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.931552758764026,
+     62.093649979901954
+    ]
+   },
+   "properties": {
+    "objectid": 122,
+    "feature_id": 136073,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "47;49;51;45",
+    "location": "TR\u00cdGGJAR\u00c1IR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 123,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.674166696845603,
+     62.01393330611625
+    ]
+   },
+   "properties": {
+    "objectid": 123,
+    "feature_id": 136067,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "52;50;48;46",
+    "location": "STONGIN \u00cd N\u00d3LSOY"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 124,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.737813933135565,
+     61.42593334723006
+    ]
+   },
+   "properties": {
+    "objectid": 124,
+    "feature_id": 136057,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "47;49;51;45",
+    "location": "SP\u00c1AFELLI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 125,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.340299933797336,
+     62.068855565507086
+    ]
+   },
+   "properties": {
+    "objectid": 125,
+    "feature_id": 136054,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "52;50;48;46",
+    "location": "SKEI\u00d0IN \u00cd S\u00d8RV\u00c1GI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 126,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.644394388274598,
+     61.82791666976549
+    ]
+   },
+   "properties": {
+    "objectid": 126,
+    "feature_id": 136051,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "47; 49; 51; 45",
+    "location": "SK\u00c1LH\u00d8VDI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 127,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.800172211042173,
+     62.04439167419181
+    ]
+   },
+   "properties": {
+    "objectid": 127,
+    "feature_id": 136046,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "SANDV\u00cdKARHJALLI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 128,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.171244389364527,
+     62.03918330053768
+    ]
+   },
+   "properties": {
+    "objectid": 128,
+    "feature_id": 136043,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "47;49;51;45",
+    "location": "PRESTTANGI \u00cd MI\u00d0V\u00c1GI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 129,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.975422177200822,
+     62.18958608549667
+    ]
+   },
+   "properties": {
+    "objectid": 129,
+    "feature_id": 136037,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "22;24;26;28",
+    "location": "OYRI, BOR\u00d0HJALLI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 130,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.809422212139833,
+     61.54239448200441
+    ]
+   },
+   "properties": {
+    "objectid": 130,
+    "feature_id": 136034,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "\u00d8RAV\u00cdKARL\u00cd\u00d0"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 131,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.945810206898879,
+     62.04304466191897
+    ]
+   },
+   "properties": {
+    "objectid": 131,
+    "feature_id": 136030,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "26",
+    "location": "NOR\u00d0RADALUR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 132,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.670675803765889,
+     62.001073049827475
+    ]
+   },
+   "properties": {
+    "objectid": 132,
+    "feature_id": 136013,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "47;49;51;45",
+    "location": "N\u00d3LSOY-SUNNANFYRI BYGDINA"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 134,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.014886100268516,
+     62.211355555511695
+    ]
+   },
+   "properties": {
+    "objectid": 134,
+    "feature_id": 135999,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "36;38;40;42",
+    "location": "NESV\u00cdK"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 135,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.586275060791739,
+     62.10460834671769
+    ]
+   },
+   "properties": {
+    "objectid": 135,
+    "feature_id": 135996,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "26",
+    "location": "MYKINES (KN\u00daKUR)"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 136,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.646477758533253,
+     62.10296944309241
+    ]
+   },
+   "properties": {
+    "objectid": 136,
+    "feature_id": 135993,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "22",
+    "location": "MYKINES (BYGDIN)"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 137,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774021379263837,
+     61.44336566739617
+    ]
+   },
+   "properties": {
+    "objectid": 137,
+    "feature_id": 135990,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "52;50;48;46",
+    "location": "LOPRA"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 138,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.725813865912015,
+     62.13849448698183
+    ]
+   },
+   "properties": {
+    "objectid": 138,
+    "feature_id": 135987,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "37;39;41;43",
+    "location": "LAMBA"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 139,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.845002621473329,
+     61.887672509307535
+    ]
+   },
+   "properties": {
+    "objectid": 139,
+    "feature_id": 135959,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "KN\u00daKUR - SANDOY"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 140,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.616469372270398,
+     62.23478889667271
+    ]
+   },
+   "properties": {
+    "objectid": 140,
+    "feature_id": 135953,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "22;24;26;28",
+    "location": "KLAKKUR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 141,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.817130601813308,
+     62.222319435375425
+    ]
+   },
+   "properties": {
+    "objectid": 141,
+    "feature_id": 135949,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "53;55;57;59",
+    "location": "KAMBSDALUR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 143,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.945227772577792,
+     61.595897251375234
+    ]
+   },
+   "properties": {
+    "objectid": 143,
+    "feature_id": 135942,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "52;50;48;46",
+    "location": "HUNDAGJ\u00d3GV, HVALBA"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 144,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.882491608073851,
+     61.95498052079178
+    ]
+   },
+   "properties": {
+    "objectid": 144,
+    "feature_id": 135935,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "52;50;48;46",
+    "location": "HESTBYGD"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 145,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.093147137522405,
+     62.27868055869184
+    ]
+   },
+   "properties": {
+    "objectid": 145,
+    "feature_id": 135914,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "52;50;48;46",
+    "location": "HALD\u00d3RSV\u00cdK"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 146,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.427861168752207,
+     62.10636946024827
+    ]
+   },
+   "properties": {
+    "objectid": 146,
+    "feature_id": 135911,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "22",
+    "location": "G\u00c1SADALUR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 147,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8842418933398815,
+     61.901374901393325
+    ]
+   },
+   "properties": {
+    "objectid": 147,
+    "feature_id": 135906,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "53;55;57;59",
+    "location": "SKOPUN, HAMARIN"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 148,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.140069460785134,
+     62.098088925351
+    ]
+   },
+   "properties": {
+    "objectid": 148,
+    "feature_id": 135903,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "36;38;40;42",
+    "location": "F\u00daTAKLETTUR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 149,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8121899454836505,
+     62.24565701489428
+    ]
+   },
+   "properties": {
+    "objectid": 149,
+    "feature_id": 135900,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "36;38;40;42",
+    "location": "FUGLAFJ\u00d8R\u00d0UR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 150,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.742406419538108,
+     61.55396167998496
+    ]
+   },
+   "properties": {
+    "objectid": 150,
+    "feature_id": 135893,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "53;55;57;59",
+    "location": "FRO\u00d0BIARNAKKUR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 151,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.769666710315453,
+     61.546816668328475
+    ]
+   },
+   "properties": {
+    "objectid": 151,
+    "feature_id": 135885,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "47;49;51;45",
+    "location": "FRO\u00d0BA"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 152,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.185515428205459,
+     62.1498172343239
+    ]
+   },
+   "properties": {
+    "objectid": 152,
+    "feature_id": 135878,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "47;49;51;45",
+    "location": "BREKKURNAR"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 153,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.599322305212047,
+     62.213637706421146
+    ]
+   },
+   "properties": {
+    "objectid": 153,
+    "feature_id": 135870,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "57; 59; 65; 67",
+    "location": "BR\u00daNASKAR\u00d0"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 158,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.877474983792105,
+     62.158712605157355
+    ]
+   },
+   "properties": {
+    "objectid": 158,
+    "feature_id": 134446,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "47;49;51;45",
+    "location": "SELATRA\u00d0"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 159,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.613090776037559,
+     62.22562831044857
+    ]
+   },
+   "properties": {
+    "objectid": 159,
+    "feature_id": 133694,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "H\u00c1LSUR KLAKSV\u00cdK"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 163,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.080688314333486,
+     62.11613010146629
+    ]
+   },
+   "properties": {
+    "objectid": 163,
+    "feature_id": 127809,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "47; 49; 51; 45",
+    "location": "KV\u00cdV\u00cdK"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 164,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.523045325647214,
+     62.29463380942169
+    ]
+   },
+   "properties": {
+    "objectid": 164,
+    "feature_id": 127247,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "36;38;40;42",
+    "location": "NOR\u00d0DEPIL"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 176,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.877961065017427,
+     62.122272986129595
+    ]
+   },
+   "properties": {
+    "objectid": 176,
+    "feature_id": 126507,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "VERTIKAL",
+    "norms": "22;24;26;28",
+    "location": "SV\u00cdNHAMAR \u00cd KOLLAF."
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 186,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.736490823440921,
+     61.487227875206685
+    ]
+   },
+   "properties": {
+    "objectid": 186,
+    "feature_id": 119651,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "KAMBUR - PORKERISNES"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 187,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.840047559105072,
+     61.56617797052828
+    ]
+   },
+   "properties": {
+    "objectid": 187,
+    "feature_id": 119504,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "52;50;48;46",
+    "location": "HVALURIN"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 191,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.753706622122025,
+     62.20516693776936
+    ]
+   },
+   "properties": {
+    "objectid": 191,
+    "feature_id": 89844,
+    "quality": "* * * 0 0",
+    "mast_owner": "TELEVARPI\u00d0",
+    "bearing": "HORISONTAL",
+    "norms": "37;39;41;43",
+    "location": "NOR\u00d0AG\u00d8TA"
+   }
+  }
+ ]
+}
