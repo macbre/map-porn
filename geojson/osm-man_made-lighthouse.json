@@ -83,7 +83,8 @@
     "seamark:name": "Kallur",
     "seamark:type": "light_major",
     "source": "US NGA Pub. 115. 2010-09-09.",
-    "wikidata": "Q28374928"
+    "wikidata": "Q28374928",
+    "wikimedia_commons": "Category:Kallur Lighthouse"
    }
   },
   {
@@ -347,8 +348,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -7.3886691,
-     62.0786997
+     -7.3886019,
+     62.0785439
     ]
    },
    "properties": {
@@ -495,6 +496,20 @@
     "coordinates": [
      -6.7622185,
      61.6826206
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "man_made": "lighthouse"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6980317,
+     62.2098209
     ]
    },
    "properties": {
