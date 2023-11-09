@@ -15,6 +15,10 @@ from shared import Node, nodes_to_geojson_collection, get_http_client
 
 DIR = path.abspath(path.dirname(__file__))
 
+# can be set for additional OR query on the nodes
+EXTRA_TAG_KEY = None
+EXTRA_TAG_VALUE = None
+
 # https://wiki.openstreetmap.org/wiki/Category:Tag_descriptions
 
 # https://wiki.openstreetmap.org/wiki/Buses#Stops_and_bus_stations
@@ -44,8 +48,13 @@ DIR = path.abspath(path.dirname(__file__))
 # TAG_VALUE = 'consulate'
 
 # https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dlighthouse
-# TAG_KEY = 'man_made'
-# TAG_VALUE = 'lighthouse'
+# <tag k="man_made" v="lighthouse"/>
+TAG_KEY = 'man_made'
+TAG_VALUE = 'lighthouse'
+# <tag k="seamark:type" v="light_minor"/>
+# <tag k="seamark:type" v="light_major"/>
+EXTRA_TAG_KEY = 'seamark:type'
+EXTRA_TAG_VALUE = None
 
 # https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtraffic_signals
 # <tag k="highway" v="traffic_signals"/>
@@ -53,8 +62,14 @@ DIR = path.abspath(path.dirname(__file__))
 # TAG_VALUE = 'traffic_signals'
 
 # https://wiki.openstreetmap.org/wiki/Tag:junction%3Droundabout
-TAG_KEY = 'junction'
-TAG_VALUE = 'roundabout'
+# TAG_KEY = 'junction'
+# TAG_VALUE = 'roundabout'
+
+# https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dpitch
+# <tag k="leisure" v="pitch"/>
+# <tag k="sport" v="soccer"/>
+# TAG_KEY = 'sport'
+# TAG_VALUE = 'soccer'
 
 
 def cache_osm_file():
@@ -225,7 +240,8 @@ def main():
         # <tag k="highway" v="bus_stop"/>
         matches = [
             (TAG_KEY, TAG_VALUE),
-            # ('bus', 'yes'),
+            (EXTRA_TAG_KEY, EXTRA_TAG_VALUE) if EXTRA_TAG_KEY is not None else None,
+            # ('bus', 'yes'),)
         ]
 
         for (key, value) in node_tags:
