@@ -1,0 +1,470 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6666667573198,
+     61.399999204208
+    ]
+   },
+   "properties": {
+    "name": "Akraberg (ex Sumb\u00f8) Light",
+    "code": "ARLHS FAR-001",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR1.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2500000316265,
+     62.350003385676
+    ]
+   },
+   "properties": {
+    "name": "Bispen/Fugl\u00f8 Light",
+    "code": "ARLHS FAR-004",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR4.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6333332997361,
+     61.950000187123
+    ]
+   },
+   "properties": {
+    "name": "Borin Light",
+    "code": "ARLHS FAR-005",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR5.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1666664866424,
+     62.299999570762
+    ]
+   },
+   "properties": {
+    "name": "Ejde Light",
+    "code": "ARLHS FAR-006",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR6.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8666666490488,
+     61.466668680696
+    ]
+   },
+   "properties": {
+    "name": "Famara Light",
+    "code": "ARLHS FAR-007",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR7.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2500000316265,
+     62.350003385676
+    ]
+   },
+   "properties": {
+    "name": "Fugl\u00f8 Light",
+    "code": "ARLHS FAR-002",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR2.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8000001607681,
+     61.549996988571
+    ]
+   },
+   "properties": {
+    "name": "Galgetange Directional Light",
+    "code": "ARLHS FAR-008",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR8.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8000001607681,
+     61.549996988571
+    ]
+   },
+   "properties": {
+    "name": "Galgetange Front Light",
+    "code": "ARLHS FAR-009",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR9.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8000001607681,
+     61.549996988571
+    ]
+   },
+   "properties": {
+    "name": "Galgetange Rear Light",
+    "code": "ARLHS FAR-010",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR10.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4666663242359,
+     62.083332309911
+    ]
+   },
+   "properties": {
+    "name": "G\u00e5sholm Light",
+    "code": "ARLHS FAR-011",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR11.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8500001337004,
+     61.933334525548
+    ]
+   },
+   "properties": {
+    "name": "Hest\u00f8 Light",
+    "code": "ARLHS FAR-012",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR12.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7500001878358,
+     62.033335325186
+    ]
+   },
+   "properties": {
+    "name": "Hoyviksholm Light",
+    "code": "ARLHS FAR-013",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR13.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8000001607681,
+     62.366669047251
+    ]
+   },
+   "properties": {
+    "name": "Kadlur Light",
+    "code": "ARLHS FAR-014",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR14.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6499998150845,
+     62.233330094274
+    ]
+   },
+   "properties": {
+    "name": "Kals\u00f8 Light",
+    "code": "ARLHS FAR-015",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR15.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6999997880168,
+     62.199998771124
+    ]
+   },
+   "properties": {
+    "name": "Lervig Light",
+    "code": "ARLHS FAR-018",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR18.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5833333268038,
+     62.116663633061
+    ]
+   },
+   "properties": {
+    "name": "Mjovn\u00e6s Light",
+    "code": "ARLHS FAR-019",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR19.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.400000262842,
+     62.066666648336
+    ]
+   },
+   "properties": {
+    "name": "Mulen Light",
+    "code": "ARLHS FAR-020",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR20.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6833335850871,
+     62.099997971486
+    ]
+   },
+   "properties": {
+    "name": "Myggen\u00e6s Light",
+    "code": "ARLHS FAR-021",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR21.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5833333268038,
+     61.950000187123
+    ]
+   },
+   "properties": {
+    "name": "Nols\u00f8 I Light",
+    "code": "ARLHS FAR-022",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR22.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5999998421523,
+     61.933334525548
+    ]
+   },
+   "properties": {
+    "name": "Nols\u00f8 II (ANGLE) Light",
+    "code": "ARLHS FAR-023",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR23.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6833332726683,
+     61.483334342272
+    ]
+   },
+   "properties": {
+    "name": "Porkere N\u00e6s Light",
+    "code": "ARLHS FAR-024",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR24.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0500000254294,
+     62.099997971486
+    ]
+   },
+   "properties": {
+    "name": "Skaelingnes Light",
+    "code": "ARLHS FAR-034",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR34.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8333331914651,
+     61.450003019122
+    ]
+   },
+   "properties": {
+    "name": "Skuvan\u00e6s Loran Station Light",
+    "code": "ARLHS FAR-025",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR25.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2499999171584,
+     62.1500017864
+    ]
+   },
+   "properties": {
+    "name": "Sletten\u00e6s Light",
+    "code": "ARLHS FAR-026",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR26.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7500001878358,
+     61.683335941547
+    ]
+   },
+   "properties": {
+    "name": "Store Dimon Light",
+    "code": "ARLHS FAR-027",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR27.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7500001878358,
+     62.116663633061
+    ]
+   },
+   "properties": {
+    "name": "Str\u00e6nder Light",
+    "code": "ARLHS FAR-028",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR28.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7632340000002,
+     62.00798
+    ]
+   },
+   "properties": {
+    "name": "Thorshavn Light",
+    "code": "ARLHS FAR-029",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR29.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7333332456006,
+     62.083332309911
+    ]
+   },
+   "properties": {
+    "name": "Tofte Light",
+    "code": "ARLHS FAR-030",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR30.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8000001607681,
+     61.549996988571
+    ]
+   },
+   "properties": {
+    "name": "Tver\u00e5 Front Light",
+    "code": "ARLHS FAR-031",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR31.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8000001607681,
+     61.549996988571
+    ]
+   },
+   "properties": {
+    "name": "Tver\u00e5 Rear Light",
+    "code": "ARLHS FAR-032",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR32.html"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8500001337004,
+     61.983331510273
+    ]
+   },
+   "properties": {
+    "name": "Velbestad Light",
+    "code": "ARLHS FAR-033",
+    "url": "http://wlol.arlhs.com/lighthouse/FAR33.html"
+   }
+  }
+ ]
+}
