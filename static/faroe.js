@@ -20,7 +20,13 @@ async function initMap( callback ) {
     L.rectangle(bounds, {color: '#9f4342', weight: 1}).addTo(smallMap);
 
     // https://leaflet-extras.github.io/leaflet-providers/preview/
-    L.tileLayer.provider('Stamen.TerrainBackground').addTo(smallMap);
+    //L.tileLayer.provider('Stamen.TerrainBackground').addTo(smallMap);
+
+    // https://leaflet-extras.github.io/leaflet-providers/preview/#filter=Stamen.Watercolor
+    // migrate to:
+    // https://watercolormaps.collection.cooperhewitt.org/tile/watercolor/12/1205/1539.jpg
+    // @see https://maps.stamen.com/stadia-partnership/
+    L.tileLayer('https://watercolormaps.collection.cooperhewitt.org/tile/watercolor/{z}/{x}/{y}.jpg').addTo(smallMap);
 
     // paper-like background
     // map.createPane('paper');
