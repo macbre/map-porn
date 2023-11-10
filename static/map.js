@@ -81,7 +81,7 @@ async function addGeoJSONLayer(map, url, color, label_en, label_pl, filter) {
 
     console.log(`Added GeoJSON layer: ${count} nodes, color ${color}, from ${url}`);
 
-    addLabel(color, label_en, label_pl, color);
+    addLabel(color, label_en, label_pl, count);
 }
 
 function addLabel(color, label_en, label_pl, count) {

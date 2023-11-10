@@ -24,28 +24,23 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">place-names</h2>
-				<h2 lang="pl">toponimy</h2>
+				<h2 lang="en">Lighthouses</h2>
+				<h2 lang="pl">Latarnie morskie</h2>
 
 				<legend style="width: 41%">
 					<!-- <img src="https://3.bp.blogspot.com/-d6oBGCensQ8/U2ADslYwc4I/AAAAAAAAIXM/SSR4NbDTxP8/s1600/IMG_0500.jpg"> -->
 					<p lang="en">
-						Town and city names on Faroe Islands often reflect their location.
+						State-owned company Landsverk administers “lighthouses, marking and sailing routes” in the Faroes on behalf of the Danish Maritime Sector.
 						<br><br>
-						Numerous settlements lie by the <strong>bays</strong> (these have the <em>-vík</em> suffix).
-						Others are located at a bit longer and narrower kind of a bay - called <strong>fjord</strong> (<em>-fjørður</em>).
-						<br>
-						Smaller bays are called <strong>vág</strong> in Faroese (which is used in the <em>-vágur</em> form in place-names).
-						<br>
-						<strong>Valleys</strong> (<em>-dalur</em>) have their representatives as well as <strong>headlands</strong> (<em>-nes</em>).
+						From 1 June 2024 Faroe Islands will take over full responsibility for navigation marking and lighthouse authority from Copenhagen.
+						<br><br>
+						The lighthouse keeper (in most cases the harbour master) has the responsibility of daily care and maintenance, for example the changing of light bulbs, cleaning of lenses, painting and dehumidifying. 
 						<br><br>
 					</p>
 					<p lang="pl" _style="font-size: 1.6rem">
-						Nazwy farerskich osad i miasteczek najczęściej nawiązują od ich położenia.
+						W czerwcu 2024 roku dwadzieścia cztery farerskie latarnie przejdą pod pełną kontrolę lokalnych władz.
 						<br><br>
-						Poszarpana linia brzegowa Wysp Owczych obfituje w liczne <strong>zatoki</strong> - położone przy nich miejscowości wyróżnia końcówka <em>-vík</em>. Nazwy osad położonych nad dłuższymi i węższymi zatokami zakończone są członem <em>-fjørður</em>. Język farerski wyróżnia także mniejszy rodzaj zatoki - <strong>vág</strong>, która w toponimach występuje w formie <em>-vágur</em>.
-						<br>
-						Swoich nazewniczych przedstawicieli mają również farerskie doliny (<em>-dalur</em>)<br>i półwyspy (<em>-nes</em>).
+						Pieczę nad farerskimi latarniami morskimi sprawuje państwowa spółka Landsverk. Latarnicy (rolę tę pełnią najczęściej komendanci portów) codziennie doglądają zwierciadła, wymieniają żarówki, dbają o odpowiedni poziom wilgotności w budynkach.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -83,7 +78,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, -->Umhvørvisstovan<!--, Strandfaraskip Landsins, OpenStreetMaps-->.
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, -->OpenStreetMaps, ARLHS World List of Lights.
 					</p>
 				</div>
 
@@ -108,116 +103,15 @@
 			];
 
 			await initMap(async (map) => {
-				const geojson = await fetchGeoJSON('/geojson/us-bygdir-us_bygdir-0-bygdir.json');
-
-				map.createPane('features');
-				map.getPane('features').style.zIndex = 700;
-
-				const suffixes = {
-					'vík': 0,
-					'nes': 0,
-					'dalur': 0,
-					'fjørður': 0,
-					'vágur': 0,
-				};
-
-				let otherTowns = 0;
-
-				L.geoJSON(geojson, {
-					pane: 'features',
-					filter: (feature, _layer) => {
-						let name = '' + feature.properties.stad;
-						const geo = feature.geometry.coordinates;
-
-						let marked = false;
-
-						// some filtering
-						if (['Giljanes', 'Fossánes', 'Nes, Vágur'].includes(name)) {
-							return false;
-						}
-
-						// Syðradalur, Kalsoy
-						if (name.includes(',')) {
-							name = name.split(',')[0];
-/**
-							if (!name.startsWith('Nes,')) {
-								name = name.split(',')[0];
-							}
-							else {
-								// Nes, Hvalba
-								name = name.split(',')[1].trimLeft();
-							}
-**/
-						}
-
-						Object.keys(suffixes).forEach( (suffix, idx) => {
-							if (name.toLowerCase().endsWith(suffix)) {
-								const color = colors[idx];
-								suffixes[suffix]++;
-
-								console.log({name, geo, suffix, color, stad: feature.properties.stad});
-
-								L.marker([geo[1], geo[0]], {icon: getIcon(color, /* label = */ name), pane: `markers-${color}`}).addTo(map);
-
-								marked = true;
-							}
-						});
-
-						// mark "other towns"
-						if (!marked) {
-							L.tooltip({pane: 'labels', direction: 'left'})
-								.setLatLng( [geo[1], geo[0]] )
-								.addTo(map);
-
-							otherTowns++;
-						}
-
-						// L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
-
-						// count++;
-						return false; // do not add the default markers on the map
-					}
-				}).addTo(map);
-
-				console.log({suffixes});
-
-				Object.keys(suffixes).forEach( (suffix, idx) => {
-					addLabel(colors[idx], `-${suffix} suffix`, `końcówka -${suffix}`, suffixes[suffix]);
-				});
-
-				addLabel('black', 'other settlements', 'pozostałe miasta', otherTowns);
-
-				// L.tooltip({pane: 'labels', direction: 'right'})
-				// 	.setLatLng( L.latLng(61.833611111111, -6.8169444444444) )
-				// 	.setContent('Sandur')
-				// 	.addTo(map);
-
-				// L.tooltip({pane: 'labels', direction: 'left'})
-				// 	.setLatLng( L.latLng(61.526388888889, -6.8769444444444) )
-				// 	.setContent('Fámjin')
-				// 	.addTo(map);
-
-				// L.tooltip({pane: 'labels', direction: 'right'})
-				// 	.setLatLng( L.latLng(62.3601, -6.5333) )
-				// 	.setContent('Viðareiði')
-				// 	.addTo(map);
-
-				// 	L.tooltip({pane: 'labels', direction: 'right'})
-				// 	.setLatLng( L.latLng(61.7822, -6.6756) )
-				// 	.setContent('Dalur')
-				// 	.addTo(map);
-
-
-				/**
 				// green / blue / yellow
-				await addGeoJSONLayer(map, '/geojson/us-rulluportur-rulluportur_alment-0-cattle_grid.json', 'dark-green', 'cattle grids', 'owcze bramki', (feature) => {
-					const city = feature.properties.city;
-					// console.log(city);
+				await addGeoJSONLayer(map, '/geojson/osm-man_made-lighthouse.json', 'blue', 'lighthouse', 'latarnia', (feature) => {
+					// const city = feature.properties.city;
 
-					if (typeof gridsPerCity[city] === 'undefined') gridsPerCity[city] = 0;
-					gridsPerCity[city]++;
+					// add additional marker for the shadow effect
+					const geo = feature.geometry.coordinates;
+					const color = 'green';
+            		L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
 				});
-				**/
 			});
 
 			// console.log(gridsPerCity);
@@ -237,7 +131,7 @@
 			}
 			/**/
 
-			/* marker with letters for better color-blind support */
+			/* marker with letters for better color-blind support 
 			.marker::before {
 				color: #fff;
 				font-style: italic;
@@ -275,6 +169,58 @@
 
 			.marker.dark-green::before { 
 				content: 'á';
+			}
+			**/
+
+			/* lighthouses lighty shadow */
+			.marker.blue {
+				opacity: 0.75;
+			}
+
+			.marker.green {
+				box-shadow: #fffa 0px 0px 100px 60px;
+				opacity: 1;
+
+				/* outline: solid 5px #ffffff33; */
+			}
+
+			.leaflet-markers-green-pane {
+				z-index: 100 !important;
+			}
+
+			/* dark background */
+			#wrapper {
+				background-color: #061f36ee;
+			}
+
+			#overlay {
+				background-image: none;
+			}
+
+			#overlay h2 {
+				color: #eeec;
+			}
+
+			#logo {
+				filter: invert(1);
+				opacity: 0.15;
+			}
+
+			.leaflet-countour-fg-pane,
+			.leaflet-countour-pane {
+				filter: grayscale(1) invert(1);
+				opacity: 0.95;
+			}
+
+			#small-map {
+				filter: grayscale(1);
+				opacity: 0.6;
+			}
+
+			legend {
+				color: #fffc;
+				background: #fff1;
+				box-shadow: none;
 			}
 		</style>
 
