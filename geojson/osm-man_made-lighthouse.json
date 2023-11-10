@@ -405,21 +405,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -6.7698356,
-     61.9975007
-    ]
-   },
-   "properties": {
-    "description": "Red beacon",
-    "man_made": "lighthouse",
-    "source": "http://www.portoftorshavn.com/get.file?ID=15644"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -7.2450998,
      62.1591429
     ]
@@ -479,21 +464,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -6.8026667,
-     61.5428333
-    ]
-   },
-   "properties": {
-    "man_made": "lighthouse",
-    "name": "G\u00e1lgetangy rear",
-    "name:de": "Leuchtturm G\u00e1lgetangy Oberfeuer"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -6.7622185,
      61.6826206
     ]
@@ -516,6 +486,96 @@
     "building": "yes",
     "man_made": "lighthouse"
    }
-  }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.6499998150845,
+      62.233330094274
+     ]
+    },
+    "properties": {
+     "name": "Kals\u00f8 Light",
+     "code": "ARLHS FAR-015",
+     "url": "http://wlol.arlhs.com/lighthouse/FAR15.html"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.7500001878358,
+      62.116663633061
+     ]
+    },
+    "properties": {
+     "name": "Str\u00e6nder Light",
+     "code": "ARLHS FAR-028",
+     "url": "http://wlol.arlhs.com/lighthouse/FAR28.html"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.7333332456006,
+      62.083332309911
+     ]
+    },
+    "properties": {
+     "name": "Tofte Light",
+     "code": "ARLHS FAR-030",
+     "url": "http://wlol.arlhs.com/lighthouse/FAR30.html"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -7.1666664866424,
+      62.299999570762
+     ]
+    },
+    "properties": {
+     "name": "Ejde Light",
+     "code": "ARLHS FAR-006",
+     "url": "http://wlol.arlhs.com/lighthouse/FAR6.html"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -7.0500000254294,
+      62.099997971486
+     ]
+    },
+    "properties": {
+     "name": "Skaelingnes Light",
+     "code": "ARLHS FAR-034",
+     "url": "http://wlol.arlhs.com/lighthouse/FAR34.html"
+    }
+   },
+   {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -6.8666666490488,
+      61.466668680696
+     ]
+    },
+    "properties": {
+     "name": "Famara Light",
+     "code": "ARLHS FAR-007",
+     "url": "http://wlol.arlhs.com/lighthouse/FAR7.html"
+    }
+   }
  ]
 }
