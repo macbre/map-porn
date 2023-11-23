@@ -145,6 +145,18 @@ PROPERTY_NAME = None
 PROPERTY_VALUE = "tv_transmitters"
 
 
+# https://gis.torshavn.fo/arcgis/rest/services/vegir/ferdsla_alment/MapServer/6
+
+# https://gis.lv.fo/arcgis/rest/services/gotuljos/gotuljos_alment/MapServer/layers
+ARCGIS_SERVER = 'gis.lv.fo'
+FOLDER = 'gotuljos'
+SERVICE = 'gotuljos_alment'
+MAP_ID = 0
+PROPERTY_NAME = None
+PROPERTY_VALUE = "gotuljos"
+
+
+
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 
 DIR = path.abspath(path.dirname(__file__))
