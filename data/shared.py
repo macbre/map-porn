@@ -30,6 +30,9 @@ class Node:
             }
         }
 
+    def __repr__(self) -> str:
+        return f'<{self.__class__.__name__}> {self.lat}, {self.lon}'
+
 
 def nodes_to_geojson_collection(nodes: list[Node]) -> dict:
     """
