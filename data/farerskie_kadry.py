@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import logging
 import json
+from datetime import datetime
 from os import path
 
 from shared import Node, nodes_to_geojson_collection, get_http_client
@@ -69,15 +70,19 @@ def index_wp_geo(blog_url: str):
         nodes.append(node)
 
 
-    geojson_file = path.join(DIR, '..', 'geojson', f'farerskie_kadry.json')
+    geojson_file = path.join(DIR, '..', 'geojson', f'farerskie_kadry.js')
     logger.info(f'Posts with geo-data found: {len(nodes)}, saving to {geojson_file} ...')
 
     with open(geojson_file, 'wt') as fp:
+        fp.write(f'/* Generated on {datetime.now().isoformat()} */\n');
+        fp.write('const geojson = ')
         json.dump(
             obj=nodes_to_geojson_collection(nodes),
             fp=fp,
             indent=True
         )
+
+        fp.write(';')
 
     logger.info("Done!")
 
