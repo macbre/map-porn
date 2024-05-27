@@ -11,10 +11,13 @@ DIR = path.abspath(path.dirname(__file__))
 def iterate_posts(blog_url: str, per_page: int = 75) -> iter:
     logger = logging.getLogger('iterate_posts')
 
-    base_url = f'{blog_url.rstrip("/")}/wp-json/wp/v2/posts'
+    # The "embed" context skips usually heavy "content" response fields
+    base_url = f'{blog_url.rstrip("/")}/wp-json/wp/v2/posts?context=embed'
     logger.info(f'Using <{base_url}> as the base URL')
 
+    posts_count = 0
     page = 1
+
     while(True):
         resp = get_http_client().get(base_url, params=dict(page=page, per_page=per_page))
         logger.info(f'Page #{page} | HTTP {resp.status_code}')
@@ -22,16 +25,17 @@ def iterate_posts(blog_url: str, per_page: int = 75) -> iter:
         # we're out of posts!
         if resp.status_code == 400:
             logger.info("Run out of posts")
-            return
+            break
 
         resp.raise_for_status()
 
-        posts = json.loads(resp.text)
+        posts = list(json.loads(resp.text))
+        posts_count += len(posts)
 
-        for post in posts:
-            yield post
-
+        yield from posts
         page += 1
+
+    logger.info(f'Iterated over {posts_count} posts')
 
 
 def index_wp_geo(blog_url: str):
