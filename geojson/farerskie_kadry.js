@@ -1,7 +1,24 @@
-/* Generated on 2024-05-27T21:02:59.339419 */
+/* Generated on 2024-05-31T15:53:27.720998 */
 const geojson = {
  "type": "FeatureCollection",
  "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.78539,
+     62.00506
+    ]
+   },
+   "properties": {
+    "title": "Dmuchawce, latawce, wiatr",
+    "url": "https://farerskiekadry.pl/2024/05/dmuchawce-latawce-wiatr.html",
+    "date": "2024-05-31T15:56:12",
+    "excerpt": "<p>Kt\u00f3\u017c z nas nie zrywa\u0142 i nie zdmuchiwa\u0142 bia\u0142ych puchatych kulek zdobi\u0105cych wiosenne \u0142\u0105ki. Powszechny w Polsce widok dmuchawca nie jest niczym wyj\u0105tkowym tak\u017ce na Wyspach Owczych. Wyj\u0105tkowy jest jednak jeden z farerskich gatunk\u00f3w mniszka.</p>\n",
+    "address": "Haraldstr\u00f8\u00f0, T\u00f3rshavn"
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
