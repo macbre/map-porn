@@ -1,0 +1,6508 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6454694,
+     61.9868986
+    ]
+   },
+   "properties": {
+    "ele": "352",
+    "gns_classification": "PK",
+    "gns_uni": "-3821192",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Uppi \u00e1 Manni",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.825833,
+     62.150567
+    ]
+   },
+   "properties": {
+    "ele": "553",
+    "gns_classification": "PK",
+    "gns_uni": "-3817630",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Sl\u00e6ttafelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9854268,
+     62.0890078
+    ]
+   },
+   "properties": {
+    "ele": "767",
+    "gns_classification": "MT",
+    "gns_uni": "-3817207",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sk\u00e6lingsfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.187847,
+     62.0820369
+    ]
+   },
+   "properties": {
+    "ele": "676",
+    "is_in": "F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Reynsatindur",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2166676,
+     62.0499973
+    ]
+   },
+   "properties": {
+    "gns_classification": "HLL",
+    "gns_uni": "-3822368",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "V\u00f8r\u00f0uklettar",
+    "natural": "peak",
+    "source": "GNS",
+    "tourism": "viewpoint"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4059406,
+     62.071341
+    ]
+   },
+   "properties": {
+    "ele": "286",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3819451",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sundsn\u00f8va",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8921918,
+     62.2094769
+    ]
+   },
+   "properties": {
+    "ele": "459",
+    "gns_classification": "MT",
+    "gns_uni": "-3816859",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sk\u00e1lafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9521156,
+     61.619815
+    ]
+   },
+   "properties": {
+    "ele": "374",
+    "gns_classification": "MT",
+    "gns_uni": "-3816858",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sk\u00e1lafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9819218,
+     61.597482
+    ]
+   },
+   "properties": {
+    "ele": "327",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3806510",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Gr\u00edmsfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7566691,
+     62.3145464
+    ]
+   },
+   "properties": {
+    "ele": "439",
+    "gns_classification": "RDGE",
+    "gns_uni": "-3803613",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Byttufelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8741822,
+     61.5045002
+    ]
+   },
+   "properties": {
+    "ele": "535",
+    "gns_classification": "CLF",
+    "gns_uni": "-3806282",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Gloppr\u00f3k",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.705917,
+     62.118117
+    ]
+   },
+   "properties": {
+    "ele": "264",
+    "is_in": "Eysturoy; F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "H\u00f8galeiti",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.871888,
+     61.8550312
+    ]
+   },
+   "properties": {
+    "ele": "312",
+    "gns_classification": "MT",
+    "gns_uni": "-3802865",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "B\u00f8llufjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7085321,
+     61.4162041
+    ]
+   },
+   "properties": {
+    "ele": "329",
+    "gns_classification": "MT",
+    "gns_uni": "-3810222",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kn\u00fakin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3968525,
+     62.2748264
+    ]
+   },
+   "properties": {
+    "ele": "586",
+    "gns_classification": "MT",
+    "gns_uni": "-3807297",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Havnartindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.354437,
+     62.0563869
+    ]
+   },
+   "properties": {
+    "ele": "458",
+    "gns_classification": "HLL",
+    "gns_uni": "-3802765",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Bolafl\u00f8ttur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7825005,
+     61.4382484
+    ]
+   },
+   "properties": {
+    "ele": "236",
+    "gns_classification": "HLL",
+    "gns_uni": "-3809841",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kirviskollur",
+    "natural": "peak",
+    "source": "GNS",
+    "wikidata": "Q3815616",
+    "wikimedia_commons": "Category:Kirvi",
+    "wikipedia": "en:Kirvi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8887485,
+     61.5435815
+    ]
+   },
+   "properties": {
+    "ele": "605",
+    "gns_classification": "MT",
+    "gns_uni": "-3807587",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Her\u00f0abla\u00f0i\u00f0",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7977437,
+     61.5171047
+    ]
+   },
+   "properties": {
+    "ele": "424",
+    "gns_classification": "MT",
+    "gns_uni": "-3804574",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Enni",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1636702,
+     62.089373
+    ]
+   },
+   "properties": {
+    "ele": "351",
+    "gns_classification": "RDGE",
+    "gns_uni": "-3811692",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "L\u00edrisfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.745967,
+     62.170467
+    ]
+   },
+   "properties": {
+    "ele": "517",
+    "gns_classification": "MT",
+    "gns_uni": "-3818868",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "St\u00f8\u00f0lafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5639562,
+     62.262621
+    ]
+   },
+   "properties": {
+    "ele": "644",
+    "gns_classification": "MT",
+    "gns_uni": "-3817776",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sn\u00e6felli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1838947,
+     62.0306173
+    ]
+   },
+   "properties": {
+    "ele": "343",
+    "gns_classification": "HLL",
+    "gns_uni": "-3812518",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Middagsfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5575279,
+     62.2907669
+    ]
+   },
+   "properties": {
+    "ele": "754",
+    "gns_classification": "MT",
+    "gns_uni": "-3811777",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Lokki",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.833333,
+     62.083333
+    ]
+   },
+   "properties": {
+    "gns_classification": "PROM",
+    "gns_uni": "-3812850",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "M\u00falin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5208561,
+     62.2600384
+    ]
+   },
+   "properties": {
+    "ele": "519",
+    "gns_classification": "MT",
+    "gns_uni": "-3820302",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "T\u00f3lvmarkakn\u00fakur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8770033,
+     61.82006
+    ]
+   },
+   "properties": {
+    "ele": "139",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Salth\u00f8vdi",
+    "natural": "peak",
+    "us.fo:fixpunkt": "27805"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5848865,
+     62.2092487
+    ]
+   },
+   "properties": {
+    "ele": "648",
+    "gns_classification": "MT",
+    "gns_uni": "-3806879",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "H\u00e1fjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8866678,
+     61.8670253
+    ]
+   },
+   "properties": {
+    "ele": "373",
+    "gns_classification": "MT",
+    "gns_uni": "-3822365",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7649528,
+     61.5146059
+    ]
+   },
+   "properties": {
+    "ele": "400",
+    "gns_classification": "PK",
+    "gns_uni": "-3808599",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Hovst\u00fagva",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7607557,
+     61.4202039
+    ]
+   },
+   "properties": {
+    "ele": "470",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3802210",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Beinisv\u00f8r\u00f0",
+    "natural": "peak",
+    "source": "GNS",
+    "wikidata": "Q792079",
+    "wikipedia": "en:Beinisv\u00f8r\u00f0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8509637,
+     61.4730689
+    ]
+   },
+   "properties": {
+    "ele": "345",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3806209",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Gj\u00f3gvar\u00e1fjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8316006,
+     61.5122167
+    ]
+   },
+   "properties": {
+    "ele": "487",
+    "gns_classification": "MT",
+    "gns_uni": "-3811025",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "La\u00f0anfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.826417,
+     62.1618
+    ]
+   },
+   "properties": {
+    "ele": "543",
+    "gns_classification": "MT",
+    "gns_uni": "-3802953",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Borgarfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9116081,
+     61.9583698
+    ]
+   },
+   "properties": {
+    "ele": "421",
+    "gns_classification": "MT",
+    "gns_uni": "-3804281",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Eggjar\u00f3k",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3485737,
+     62.2953199
+    ]
+   },
+   "properties": {
+    "ele": "463",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3809637",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Keldufjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7748307,
+     62.3241243
+    ]
+   },
+   "properties": {
+    "gns_classification": "MT",
+    "gns_uni": "-3805902",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "G\u00e1safjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8553672,
+     61.7681766
+    ]
+   },
+   "properties": {
+    "ele": "392",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kn\u00fatur",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt",
+    "wikidata": "Q3780262",
+    "wikipedia": "en:Kn\u00fatur (Sk\u00favoy)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798485,
+     62.3504215
+    ]
+   },
+   "properties": {
+    "ele": "788",
+    "gns_classification": "MT",
+    "gns_uni": "-3813137",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Nestindar",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5438832,
+     62.1735695
+    ]
+   },
+   "properties": {
+    "ele": "392",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3802933",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Bor\u00f0oyarnes",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6904901,
+     62.3628436
+    ]
+   },
+   "properties": {
+    "ele": "819",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kunoyarnakkur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8449435,
+     61.887647
+    ]
+   },
+   "properties": {
+    "ele": "369",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kn\u00fakur",
+    "natural": "peak",
+    "us.fo:fixpunkt": "27006"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8596405,
+     61.5048371
+    ]
+   },
+   "properties": {
+    "ele": "570",
+    "gns_classification": "PK",
+    "gns_uni": "-3802972",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Borgin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798914,
+     62.2027211
+    ]
+   },
+   "properties": {
+    "ele": "639",
+    "gns_classification": "MT",
+    "gns_uni": "-3820977",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Tyril",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4164715,
+     62.0990434
+    ]
+   },
+   "properties": {
+    "ele": "464",
+    "is_in": "F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "R\u00f3gvukollur",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8395369,
+     61.4935204
+    ]
+   },
+   "properties": {
+    "ele": "560",
+    "gns_classification": "MT",
+    "gns_uni": "-3808774",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Hvannafelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6018244,
+     62.3559525
+    ]
+   },
+   "properties": {
+    "ele": "535",
+    "is_in": "Faroe Islands; Bor\u00f0oy",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Tindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3723824,
+     62.246499
+    ]
+   },
+   "properties": {
+    "ele": "443",
+    "gns_classification": "MT",
+    "gns_uni": "-3812846",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "M\u00falin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6793833,
+     61.7678583
+    ]
+   },
+   "properties": {
+    "ele": "354",
+    "is_in": "F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sk\u00favoyarfjall",
+    "natural": "peak",
+    "us.fo:fixpunkt": "24004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8511008,
+     61.5468571
+    ]
+   },
+   "properties": {
+    "ele": "443",
+    "gns_classification": "MT",
+    "gns_uni": "-3814895",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Oyrnafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8956117,
+     62.0782177
+    ]
+   },
+   "properties": {
+    "ele": "499",
+    "gns_classification": "PROM",
+    "gns_uni": "-3815670",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Ritufelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6373116,
+     61.829268
+    ]
+   },
+   "properties": {
+    "ele": "203",
+    "is_in": "F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sk\u00e1lh\u00f8vdi",
+    "natural": "peak",
+    "us.fo:fixpunkt": "26003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.23021,
+     62.0211875
+    ]
+   },
+   "properties": {
+    "ele": "142",
+    "gns_classification": "PT",
+    "gns_uni": "-3820683",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Tr\u00e6lan\u00edpa",
+    "natural": "peak",
+    "source": "GNS",
+    "wikidata": "Q1679748"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7388873,
+     61.4258605
+    ]
+   },
+   "properties": {
+    "ele": "462",
+    "gns_classification": "MT",
+    "gns_uni": "-3818401",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sp\u00e1afelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8123596,
+     61.4872441
+    ]
+   },
+   "properties": {
+    "ele": "483",
+    "gns_classification": "MT",
+    "gns_uni": "-3821304",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "V\u00e1gfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.692783,
+     62.1983098
+    ]
+   },
+   "properties": {
+    "ele": "612",
+    "gns_classification": "MT",
+    "gns_uni": "-3816660",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Sigatindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7474963,
+     61.4255734
+    ]
+   },
+   "properties": {
+    "ele": "439",
+    "gns_classification": "RDGE",
+    "gns_uni": "-3818432",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Spinarnir",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3749264,
+     62.1073323
+    ]
+   },
+   "properties": {
+    "ele": "630",
+    "gns_classification": "PK",
+    "gns_uni": "-3810150",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Knattarheyggjur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7668782,
+     62.3122914
+    ]
+   },
+   "properties": {
+    "ele": "591",
+    "gns_classification": "MT",
+    "gns_uni": "-3807422",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Heimarafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2635688,
+     62.341542
+    ]
+   },
+   "properties": {
+    "ele": "449",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3804714",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Eystfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5432494,
+     62.2756387
+    ]
+   },
+   "properties": {
+    "ele": "681",
+    "gns_classification": "MT",
+    "gns_uni": "-3803863",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Depilskn\u00fakur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7640238,
+     61.6949571
+    ]
+   },
+   "properties": {
+    "ele": "396",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3808242",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "H\u00f8goyggj",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3627947,
+     62.1201769
+    ]
+   },
+   "properties": {
+    "ele": "352",
+    "gns_classification": "PK",
+    "gns_uni": "-3810125",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Klubbin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.539082,
+     62.3445602
+    ]
+   },
+   "properties": {
+    "ele": "750",
+    "gns_classification": "MT",
+    "gns_uni": "-3812276",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Malinsfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.90465,
+     62.1932
+    ]
+   },
+   "properties": {
+    "ele": "757",
+    "gns_classification": "MT",
+    "gns_uni": "-3806945",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Halgafelstindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1079414,
+     62.0568796
+    ]
+   },
+   "properties": {
+    "ele": "591",
+    "gns_classification": "MT",
+    "gns_uni": "-3808704",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "H\u00fasafelli",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6483353,
+     62.189434
+    ]
+   },
+   "properties": {
+    "ele": "625",
+    "gns_classification": "MT",
+    "gns_uni": "-3806374",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "G\u00f8tunestindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7893652,
+     62.3316727
+    ]
+   },
+   "properties": {
+    "gns_classification": "HLL",
+    "gns_uni": "-3817632",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sl\u00e6ttafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7171612,
+     62.2768956
+    ]
+   },
+   "properties": {
+    "ele": "524",
+    "gns_classification": "MT",
+    "gns_uni": "-3813531",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "N\u00f8vin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6346763,
+     61.970877
+    ]
+   },
+   "properties": {
+    "ele": "234",
+    "gns_classification": "HLL",
+    "gns_uni": "-3817512",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sk\u00favafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3529276,
+     62.1050895
+    ]
+   },
+   "properties": {
+    "ele": "617",
+    "gns_classification": "MT",
+    "gns_uni": "-3817779",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sn\u00e6ldansfjall",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8528477,
+     61.7842122
+    ]
+   },
+   "properties": {
+    "ele": "134",
+    "is_in": "F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "H\u00f8vdin",
+    "natural": "peak",
+    "us.fo:fixpunkt": "22002"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8972045,
+     61.5718749
+    ]
+   },
+   "properties": {
+    "ele": "493",
+    "gns_classification": "MT",
+    "gns_uni": "-3819944",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Tempilsklettur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4847181,
+     62.2027817
+    ]
+   },
+   "properties": {
+    "ele": "461",
+    "gns_classification": "MT",
+    "gns_uni": "-3805900",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "G\u00e1safelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7136203,
+     61.8042284
+    ]
+   },
+   "properties": {
+    "ele": "397",
+    "gns_classification": "MT",
+    "gns_uni": "-3821937",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Vestfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8571877,
+     61.527446
+    ]
+   },
+   "properties": {
+    "ele": "469",
+    "gns_classification": "MT",
+    "gns_uni": "-3812560",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Fjalli\u00f0 Mikla",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.70445,
+     62.104433
+    ]
+   },
+   "properties": {
+    "ele": "165",
+    "gns_classification": "HLL",
+    "gns_uni": "-3821454",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Vatnfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.672467,
+     62.3233198
+    ]
+   },
+   "properties": {
+    "ele": "825",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Teigafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5561453,
+     62.3810293
+    ]
+   },
+   "properties": {
+    "ele": "841",
+    "gns_classification": "MT",
+    "gns_uni": "-3822102",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Villingadalsfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4392818,
+     62.3138814
+    ]
+   },
+   "properties": {
+    "ele": "557",
+    "gns_classification": "MT",
+    "gns_uni": "-3819771",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Talvbor\u00f0",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9267416,
+     61.5640978
+    ]
+   },
+   "properties": {
+    "ele": "547",
+    "gns_classification": "MT",
+    "gns_uni": "-3812988",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Nakkur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3162738,
+     62.143242
+    ]
+   },
+   "properties": {
+    "ele": "392",
+    "gns_classification": "MT",
+    "gns_uni": "-3801576",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Antinisfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8309465,
+     61.5188994
+    ]
+   },
+   "properties": {
+    "ele": "367",
+    "gns_classification": "MT",
+    "gns_uni": "-3813235",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "N\u00f3nfjall",
+    "natural": "peak",
+    "source": "GNS",
+    "wikidata": "Q3880027",
+    "wikipedia": "en:N\u00f3nfjall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3305593,
+     62.0564824
+    ]
+   },
+   "properties": {
+    "ele": "367",
+    "gns_classification": "HLL",
+    "gns_uni": "-3813234",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "N\u00f3nfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8930102,
+     61.546283
+    ]
+   },
+   "properties": {
+    "gns_classification": "MT",
+    "gns_uni": "-3806296",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Gluggarnir",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6727243,
+     61.8167933
+    ]
+   },
+   "properties": {
+    "ele": "266",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Hei\u00f0afjall",
+    "natural": "peak",
+    "us.fo:fixpunkt": "26007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3912564,
+     62.1125516
+    ]
+   },
+   "properties": {
+    "ele": "676",
+    "gns_classification": "PK",
+    "gns_uni": "-3809071",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Jatnagar\u00f0ar",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3827347,
+     62.0622083
+    ]
+   },
+   "properties": {
+    "ele": "515",
+    "is_in": "F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "H\u00f8gafjall",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7302633,
+     62.2053138
+    ]
+   },
+   "properties": {
+    "ele": "463",
+    "gns_classification": "RDGE",
+    "gns_uni": "-3810233",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kn\u00fakur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5995428,
+     62.3453893
+    ]
+   },
+   "properties": {
+    "ele": "642",
+    "gns_classification": "MT",
+    "gns_uni": "-3810232",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kn\u00fakur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79445,
+     62.2512
+    ]
+   },
+   "properties": {
+    "ele": "626",
+    "gns_classification": "MT",
+    "gns_uni": "-3808705",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "H\u00fasafelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7787464,
+     61.9547979
+    ]
+   },
+   "properties": {
+    "ele": "306",
+    "gns_classification": "HLL",
+    "gns_uni": "-3809826",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kirkjub\u00f8kambur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.562598,
+     62.2479563
+    ]
+   },
+   "properties": {
+    "ele": "689",
+    "gns_classification": "MT",
+    "gns_uni": "-3812951",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Myrkjanoyrarfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3849721,
+     62.0945788
+    ]
+   },
+   "properties": {
+    "ele": "524",
+    "gns_classification": "PROM",
+    "gns_uni": "-3802255",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Berinartindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8380125,
+     61.7789711
+    ]
+   },
+   "properties": {
+    "ele": "256",
+    "gns_classification": "HLL",
+    "gns_uni": "-3809996",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Klettarnir",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9876622,
+     61.6287541
+    ]
+   },
+   "properties": {
+    "ele": "366",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3806305",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Glyvraberg",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6808281,
+     61.755533
+    ]
+   },
+   "properties": {
+    "ele": "251",
+    "gns_classification": "HLL",
+    "gns_uni": "-3812985",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Nakkur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4037929,
+     62.0682158
+    ]
+   },
+   "properties": {
+    "ele": "263",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3810941",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kv\u00edv\u00edksskoran\u00f8va",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8621367,
+     62.1743689
+    ]
+   },
+   "properties": {
+    "ele": "757",
+    "gns_classification": "MT",
+    "gns_uni": "-3815507",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Rey\u00f0afelstindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6798294,
+     61.7539071
+    ]
+   },
+   "properties": {
+    "ele": "391",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3817277",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Skorin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9275915,
+     62.1365307
+    ]
+   },
+   "properties": {
+    "ele": "633",
+    "gns_classification": "PK",
+    "gns_uni": "-3822369",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "V\u00f8rlufjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7121597,
+     62.162506
+    ]
+   },
+   "properties": {
+    "ele": "505",
+    "gns_classification": "MT",
+    "gns_uni": "-3812531",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Mi\u00f0afelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8247198,
+     61.5690828
+    ]
+   },
+   "properties": {
+    "ele": "286",
+    "gns_classification": "SPUR",
+    "gns_uni": "-3817278",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Skornasaklettur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9788008,
+     61.6435403
+    ]
+   },
+   "properties": {
+    "ele": "330",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3812983",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Nakkur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.90265,
+     62.23535
+    ]
+   },
+   "properties": {
+    "ele": "786",
+    "gns_classification": "MT",
+    "gns_uni": "-3812817",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "M\u00falatindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1275261,
+     62.07703
+    ]
+   },
+   "properties": {
+    "ele": "683",
+    "gns_classification": "MT",
+    "gns_uni": "-3812279",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Malinstindur",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5499842,
+     62.2399389
+    ]
+   },
+   "properties": {
+    "ele": "591",
+    "gns_classification": "PROM",
+    "gns_uni": "-3805656",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "F\u00fdramarkakn\u00fakur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5703286,
+     62.2321761
+    ]
+   },
+   "properties": {
+    "ele": "342",
+    "gns_classification": "UPLD",
+    "gns_uni": "-3809910",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kj\u00f8lur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6741593,
+     62.1508877
+    ]
+   },
+   "properties": {
+    "ele": "495",
+    "gns_classification": "MT",
+    "gns_uni": "-3811053",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Lambareyn",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2992618,
+     62.1464982
+    ]
+   },
+   "properties": {
+    "ele": "523",
+    "gns_classification": "HLL",
+    "gns_uni": "-3806513",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Gr\u00edmsta\u00f0fjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7909074,
+     61.5699231
+    ]
+   },
+   "properties": {
+    "ele": "483",
+    "gns_classification": "RDGE",
+    "gns_uni": "-3805494",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Fro\u00f0biarkambur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9374541,
+     61.9044414
+    ]
+   },
+   "properties": {
+    "ele": "271",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Gle\u00f0in",
+    "natural": "peak",
+    "us.fo:fixpunkt": "27905"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.436057,
+     62.1313875
+    ]
+   },
+   "properties": {
+    "ele": "722",
+    "is_in": "F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "\u00c1rnafjall",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt",
+    "wikidata": "Q683438",
+    "wikipedia": "en:\u00c1rnafjall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1858827,
+     62.095826
+    ]
+   },
+   "properties": {
+    "ele": "572",
+    "gns_classification": "MT",
+    "gns_uni": "-3805899",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "G\u00e1safelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8157061,
+     62.1441734
+    ]
+   },
+   "properties": {
+    "ele": "611",
+    "gns_classification": "MT",
+    "gns_uni": "-3809421",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kambur",
+    "natural": "peak",
+    "source": "GNS",
+    "wikidata": "Q3812672",
+    "wikipedia": "en:Kambur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9448037,
+     62.1131126
+    ]
+   },
+   "properties": {
+    "ele": "481",
+    "gns_classification": "HLL",
+    "gns_uni": "-3804117",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Dyllan",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5145055,
+     62.3141152
+    ]
+   },
+   "properties": {
+    "ele": "593",
+    "gns_classification": "RDGE",
+    "gns_uni": "-3820849",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Tunnafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7520779,
+     62.2138882
+    ]
+   },
+   "properties": {
+    "ele": "641",
+    "gns_classification": "MT",
+    "gns_uni": "-3815664",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Ritafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8009036,
+     61.4500743
+    ]
+   },
+   "properties": {
+    "ele": "432",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3815326",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "R\u00e1van",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8136007,
+     61.4513247
+    ]
+   },
+   "properties": {
+    "ele": "356",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3816097",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "R\u00fatarfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8452881,
+     61.5034914
+    ]
+   },
+   "properties": {
+    "ele": "574",
+    "gns_classification": "MT",
+    "gns_uni": "-3802961",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Borgarknappur",
+    "natural": "peak",
+    "source": "GNS",
+    "wikidata": "Q754872",
+    "wikimedia_commons": "Category:Borgarknappur",
+    "wikipedia": "en:Borgarknappur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9239638,
+     61.6446283
+    ]
+   },
+   "properties": {
+    "ele": "429",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3802969",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Borgin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2881715,
+     62.2897689
+    ]
+   },
+   "properties": {
+    "ele": "344",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3804716",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Eysturh\u00f8vdi",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7872458,
+     62.353437
+    ]
+   },
+   "properties": {
+    "ele": "576",
+    "gns_classification": "PK",
+    "gns_uni": "-3806857",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "H\u00e1degisfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7805041,
+     61.5145877
+    ]
+   },
+   "properties": {
+    "ele": "415",
+    "gns_classification": "HLL",
+    "gns_uni": "-3810328",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kolheyggjur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6868669,
+     61.4048928
+    ]
+   },
+   "properties": {
+    "ele": "235",
+    "gns_classification": "SPUR",
+    "gns_uni": "-3811048",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Lambaklettur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8111593,
+     62.362083
+    ]
+   },
+   "properties": {
+    "ele": "537",
+    "gns_classification": "MT",
+    "gns_uni": "-3802960",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Borgarin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94535,
+     62.31065
+    ]
+   },
+   "properties": {
+    "ele": "601",
+    "gns_classification": "MT",
+    "gns_uni": "-3812519",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Middagsfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6398334,
+     62.2944077
+    ]
+   },
+   "properties": {
+    "gns_classification": "MT",
+    "gns_uni": "-3821200",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Ur\u00f0afjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9333084,
+     62.1998815
+    ]
+   },
+   "properties": {
+    "ele": "572",
+    "gns_classification": "PK",
+    "gns_uni": "-3816344",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sandfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.94225,
+     62.2128
+    ]
+   },
+   "properties": {
+    "ele": "646",
+    "gns_classification": "PT",
+    "gns_uni": "-3811772",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Lokkafelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6901847,
+     61.7969691
+    ]
+   },
+   "properties": {
+    "ele": "396",
+    "is_in": "F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "St\u00f3rafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.84,
+     62.2488
+    ]
+   },
+   "properties": {
+    "ele": "625",
+    "gns_classification": "MT",
+    "gns_uni": "-3817633",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Sl\u00e6tnatindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9172657,
+     61.9647129
+    ]
+   },
+   "properties": {
+    "ele": "421",
+    "gns_classification": "PK",
+    "gns_uni": "-3812848",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "M\u00falin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5020697,
+     62.2652169
+    ]
+   },
+   "properties": {
+    "ele": "642",
+    "gns_classification": "MT",
+    "gns_uni": "-3810833",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "man_made": "cairn",
+    "name": "Kr\u00fanufjall",
+    "natural": "peak",
+    "source": "GNS;Umhv\u00f8rvisstovan www.us.fo",
+    "us.fo:fixpunkt_lysing": "Kr\u00fanufjall. Var\u00f0i",
+    "us.fo:fixpunkt_nr": "89009"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.967036,
+     62.0687736
+    ]
+   },
+   "properties": {
+    "ele": "749",
+    "gns_classification": "MT",
+    "gns_uni": "-3818364",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sornfelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3213793,
+     62.3394224
+    ]
+   },
+   "properties": {
+    "ele": "621",
+    "gns_classification": "MT",
+    "gns_uni": "-3810124",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Klubbin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9436968,
+     62.208931
+    ]
+   },
+   "properties": {
+    "ele": "699",
+    "gns_classification": "MT",
+    "gns_uni": "-3810231",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kn\u00fakur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6891601,
+     62.3409063
+    ]
+   },
+   "properties": {
+    "ele": "818",
+    "gns_classification": "MT",
+    "gns_uni": "-3807298",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Havnartindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.166667,
+     62.033333
+    ]
+   },
+   "properties": {
+    "ele": "269",
+    "gns_classification": "HLL",
+    "gns_uni": "-3815366",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Ravnsfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9514142,
+     61.5740675
+    ]
+   },
+   "properties": {
+    "ele": "471",
+    "gns_classification": "MT",
+    "gns_uni": "-3815101",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Prestfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728383,
+     62.1549
+    ]
+   },
+   "properties": {
+    "ele": "567",
+    "gns_classification": "MT",
+    "gns_uni": "-3818907",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "St\u00f3rafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9076478,
+     61.8843828
+    ]
+   },
+   "properties": {
+    "ele": "401",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Endin",
+    "natural": "peak",
+    "us.fo:fixpunkt": "27003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1031786,
+     62.0829442
+    ]
+   },
+   "properties": {
+    "ele": "572",
+    "gns_classification": "MT",
+    "gns_uni": "-3807458",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Heldarstindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4516444,
+     62.12276
+    ]
+   },
+   "properties": {
+    "ele": "612",
+    "gns_classification": "MT",
+    "gns_uni": "-3807429",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Heinan\u00f8va",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.654875,
+     62.1097368
+    ]
+   },
+   "properties": {
+    "ele": "231",
+    "is_in": "Eysturoy; F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "G\u00e1safelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9570919,
+     62.1332279
+    ]
+   },
+   "properties": {
+    "ele": "718",
+    "gns_classification": "MT",
+    "gns_uni": "-3801619",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "\u00c1rnadalstindur",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6064926,
+     62.2186038
+    ]
+   },
+   "properties": {
+    "ele": "502",
+    "gns_classification": "MT",
+    "gns_uni": "-3806943",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "H\u00e1lgafelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4468036,
+     62.2500802
+    ]
+   },
+   "properties": {
+    "ele": "534",
+    "gns_classification": "MT",
+    "gns_uni": "-3803561",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "B\u00farhella",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7460699,
+     61.6857046
+    ]
+   },
+   "properties": {
+    "ele": "308",
+    "gns_classification": "SPUR",
+    "gns_uni": "-3809997",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "\u00c1 Kletti",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.581783,
+     62.103383
+    ]
+   },
+   "properties": {
+    "ele": "560",
+    "gns_classification": "MT",
+    "gns_uni": "-3810230",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Mykines",
+    "name": "Kn\u00fakur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.966667,
+     62.033333
+    ]
+   },
+   "properties": {
+    "gns_classification": "PROM",
+    "gns_uni": "-3803757",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Dalsn\u00edpa",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9021684,
+     61.8700869
+    ]
+   },
+   "properties": {
+    "ele": "404",
+    "gns_classification": "MT",
+    "gns_uni": "-3810157",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kneysurin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.575283,
+     62.099183
+    ]
+   },
+   "properties": {
+    "ele": "433",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3807399",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Mykines",
+    "name": "He\u00f0insskorarfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1202242,
+     62.0819235
+    ]
+   },
+   "properties": {
+    "ele": "594",
+    "gns_classification": "PK",
+    "gns_uni": "-3803279",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Brei\u00f0ist\u00edggjur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7566821,
+     61.4433249
+    ]
+   },
+   "properties": {
+    "ele": "359",
+    "gns_classification": "MT",
+    "gns_uni": "-3816669",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Siglifelli",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7424908,
+     61.5539234
+    ]
+   },
+   "properties": {
+    "ele": "325",
+    "gns_classification": "MT",
+    "gns_uni": "-3812987",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Nakkur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6794723,
+     62.2347887
+    ]
+   },
+   "properties": {
+    "ele": "700",
+    "gns_classification": "MT",
+    "gns_uni": "-3806546",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Gr\u00edslatindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9619424,
+     62.0855663
+    ]
+   },
+   "properties": {
+    "ele": "614",
+    "gns_classification": "MT",
+    "gns_uni": "-3818538",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Stallur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7202753,
+     61.43126
+    ]
+   },
+   "properties": {
+    "ele": "379",
+    "gns_classification": "PK",
+    "gns_uni": "-3820067",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Tindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8548648,
+     61.4798592
+    ]
+   },
+   "properties": {
+    "ele": "298",
+    "gns_classification": "HLL",
+    "gns_uni": "-3820064",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Tindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4698065,
+     62.2913164
+    ]
+   },
+   "properties": {
+    "ele": "634",
+    "gns_classification": "MT",
+    "gns_uni": "-3817741",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Sneis",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5024992,
+     62.3192605
+    ]
+   },
+   "properties": {
+    "ele": "688",
+    "gns_classification": "MT",
+    "gns_uni": "-3812953",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Filthatturin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9279108,
+     61.5598012
+    ]
+   },
+   "properties": {
+    "ele": "514",
+    "gns_classification": "PK",
+    "gns_uni": "-3820068",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Tindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6920758,
+     62.2437454
+    ]
+   },
+   "properties": {
+    "ele": "744",
+    "gns_classification": "MT",
+    "gns_uni": "-3803072",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Botnstindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4882481,
+     62.2964763
+    ]
+   },
+   "properties": {
+    "ele": "651",
+    "gns_classification": "MT",
+    "gns_uni": "-3804575",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Enni",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7271948,
+     61.8395443
+    ]
+   },
+   "properties": {
+    "ele": "447",
+    "gns_classification": "MT",
+    "gns_uni": "-3815131",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "P\u00e6tursfjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7443093,
+     61.8464244
+    ]
+   },
+   "properties": {
+    "ele": "479",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Tindur",
+    "natural": "peak",
+    "us.fo:fixpunkt": "26004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7277689,
+     62.2846094
+    ]
+   },
+   "properties": {
+    "ele": "579",
+    "gns_classification": "MT",
+    "gns_uni": "-3812536",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Mi\u00f0ardalstindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7485198,
+     61.4195045
+    ]
+   },
+   "properties": {
+    "ele": "320",
+    "gns_classification": "HLL",
+    "gns_uni": "-3821240",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Uttarafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6693841,
+     62.3134209
+    ]
+   },
+   "properties": {
+    "ele": "830",
+    "gns_classification": "MT",
+    "gns_uni": "-3810894",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "K\u00favingafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7136656,
+     61.4342299
+    ]
+   },
+   "properties": {
+    "ele": "322",
+    "gns_classification": "RDGE",
+    "gns_uni": "-3808157",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "H\u00f3lmsskorafjall",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7376484,
+     62.2919492
+    ]
+   },
+   "properties": {
+    "ele": "644",
+    "gns_classification": "MT",
+    "gns_uni": "-3807232",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Hattardalstindur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5196838,
+     62.2671851
+    ]
+   },
+   "properties": {
+    "ele": "607",
+    "gns_classification": "MT",
+    "gns_uni": "-3820219",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Toftakn\u00fakur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3544231,
+     62.2623013
+    ]
+   },
+   "properties": {
+    "ele": "460",
+    "gns_classification": "HDLD",
+    "gns_uni": "-3810225",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Kn\u00fakur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6526743,
+     61.9892382
+    ]
+   },
+   "properties": {
+    "ele": "372",
+    "gns_classification": "HLL",
+    "gns_uni": "-3804280",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Eggjarklettur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785533,
+     62.243617
+    ]
+   },
+   "properties": {
+    "ele": "571",
+    "is_in": "Eysturoy; F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "Borgin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7632035,
+     62.309436
+    ]
+   },
+   "properties": {
+    "ele": "551",
+    "gns_classification": "PK",
+    "gns_uni": "-3810127",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Klubbin",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9071769,
+     61.8743361
+    ]
+   },
+   "properties": {
+    "ele": "412",
+    "is_in": "F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Eiriksfjall",
+    "natural": "peak",
+    "us.fo:fixpunkt": "27007"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.711383,
+     62.133517
+    ]
+   },
+   "properties": {
+    "ele": "274",
+    "is_in": "Eysturoy; F\u00f8royar",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "is_in:island": "Eysturoy",
+    "name": "H\u00e6ddin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.009283,
+     62.3288
+    ]
+   },
+   "properties": {
+    "ele": "591",
+    "is_in:island": "Eysturoy",
+    "name": "Horn",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9884106,
+     62.3194554
+    ]
+   },
+   "properties": {
+    "ele": "752",
+    "name": "Sandfelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9987,
+     62.310733
+    ]
+   },
+   "properties": {
+    "ele": "856",
+    "is_in:island": "Eysturoy",
+    "name": "Gr\u00e1felli",
+    "natural": "peak",
+    "wikidata": "Q1028361",
+    "wikimedia_commons": "Category:Gr\u00e1felli (Eysturoy)",
+    "wikipedia": "en:Gr\u00e1felli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0132,
+     62.296717
+    ]
+   },
+   "properties": {
+    "ele": "880",
+    "is_in:island": "Eysturoy",
+    "name": "Sl\u00e6ttaratindur",
+    "natural": "peak",
+    "prominence": "880",
+    "wikidata": "Q738746",
+    "wikipedia": "en:Sl\u00e6ttaratindur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.013667,
+     62.278267
+    ]
+   },
+   "properties": {
+    "ele": "727",
+    "is_in:island": "Eysturoy",
+    "name": "Va\u00f0horn",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.03177,
+     62.3101563
+    ]
+   },
+   "properties": {
+    "ele": "615",
+    "name": "Mannsetur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1033,
+     62.318933
+    ]
+   },
+   "properties": {
+    "ele": "352",
+    "is_in:island": "Eysturoy",
+    "name": "Ei\u00f0iskollur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1044567,
+     62.1382869
+    ]
+   },
+   "properties": {
+    "ele": "579",
+    "name": "Tindur",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1218209,
+     62.1696339
+    ]
+   },
+   "properties": {
+    "ele": "639",
+    "name": "Loysingarfjall",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1832315,
+     62.1981761
+    ]
+   },
+   "properties": {
+    "ele": "756",
+    "name": "Mosar\u00f8kur",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0463214,
+     62.1658953
+    ]
+   },
+   "properties": {
+    "ele": "747",
+    "name": "Sneis",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0918634,
+     62.1831576
+    ]
+   },
+   "properties": {
+    "ele": "596",
+    "name": "Mi\u00f0alfelli",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2066441,
+     62.2284656
+    ]
+   },
+   "properties": {
+    "ele": "789",
+    "name": "Koppsenni",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1704733,
+     62.2312045
+    ]
+   },
+   "properties": {
+    "ele": "642",
+    "name": "Borgin",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9948052,
+     62.1466281
+    ]
+   },
+   "properties": {
+    "ele": "649",
+    "name": "G\u00edvrufjall",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0265307,
+     62.1702103
+    ]
+   },
+   "properties": {
+    "ele": "616",
+    "name": "Bollin",
+    "natural": "peak",
+    "note": "us.fo:fixpunkt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1019018,
+     62.3237528
+    ]
+   },
+   "properties": {
+    "ele": "71",
+    "name": "Risin",
+    "natural": "peak",
+    "place": "islet"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1025344,
+     62.322009
+    ]
+   },
+   "properties": {
+    "ele": "69",
+    "name": "Kellingin",
+    "natural": "peak",
+    "place": "islet"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8978041,
+     62.0367097
+    ]
+   },
+   "properties": {
+    "ele": "534.36;535",
+    "man_made": "cairn",
+    "name": "Tungul\u00ed\u00f0fjalI",
+    "natural": "peak",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "us.fo:fixpunkt_lysing": "Tungul\u00ed\u00f0fjall. Var\u00f0i",
+    "us.fo:fixpunkt_nr": "39801"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0091549,
+     62.1141073
+    ]
+   },
+   "properties": {
+    "ele": "619.97;621",
+    "man_made": "cairn",
+    "name": "S\u00e1tan",
+    "natural": "peak",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "us.fo:fixpunkt_lysing": "S\u00e1tan. Var\u00f0i",
+    "us.fo:fixpunkt_nr": "42004"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9405815,
+     62.053186
+    ]
+   },
+   "properties": {
+    "ele": "666.96;667",
+    "man_made": "survey_point",
+    "name": "N\u00fagvan",
+    "natural": "peak",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "us.fo:fixpunkt_lysing": "N\u00fagvan. Postament",
+    "us.fo:fixpunkt_nr": "40003"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0984057,
+     62.2254302
+    ]
+   },
+   "properties": {
+    "ele": "537",
+    "name": "Sandfelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1988786,
+     62.1532982
+    ]
+   },
+   "properties": {
+    "ele": "296",
+    "name": "H\u00e6gstafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.997833,
+     62.256467
+    ]
+   },
+   "properties": {
+    "ele": "801",
+    "is_in:island": "Eysturoy",
+    "name": "Svartbakstindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2310228,
+     62.2551933
+    ]
+   },
+   "properties": {
+    "ele": "635",
+    "name": "H\u00f8vdin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9203632,
+     62.3150054
+    ]
+   },
+   "properties": {
+    "ele": "535",
+    "name": "Tyril",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9753,
+     62.274217
+    ]
+   },
+   "properties": {
+    "ele": "695",
+    "is_in:island": "Eysturoy",
+    "name": "H\u00fasafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.201931,
+     62.2800651
+    ]
+   },
+   "properties": {
+    "ele": "674",
+    "name": "H\u00fagvan",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1026846,
+     62.2598444
+    ]
+   },
+   "properties": {
+    "ele": "399",
+    "name": "G\u00e1safelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0883523,
+     62.1387086
+    ]
+   },
+   "properties": {
+    "ele": "618",
+    "name": "Egilsfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1710835,
+     62.2657895
+    ]
+   },
+   "properties": {
+    "ele": "764",
+    "name": "Melin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9876022,
+     62.0947255
+    ]
+   },
+   "properties": {
+    "ele": "595",
+    "gns_classification": "RDGE",
+    "gns_uni": "-3820626",
+    "is_in": "Faroe Islands",
+    "is_in:country": "Faroe Islands",
+    "is_in:country_code": "fo",
+    "name": "Trantur",
+    "natural": "peak",
+    "source": "GNS"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6204539,
+     61.9615236
+    ]
+   },
+   "properties": {
+    "ele": "152",
+    "name": "L\u00ed\u00f0arfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1966722,
+     62.1610543
+    ]
+   },
+   "properties": {
+    "ele": "293",
+    "name": "Melin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1348366,
+     62.1821271
+    ]
+   },
+   "properties": {
+    "ele": "624",
+    "name": "Moskursfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2155129,
+     62.1890469
+    ]
+   },
+   "properties": {
+    "ele": "626",
+    "name": "Postulakirkja",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1624155,
+     62.1629281
+    ]
+   },
+   "properties": {
+    "ele": "349",
+    "name": "Reyni\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9645474,
+     61.9805631
+    ]
+   },
+   "properties": {
+    "ele": "101",
+    "name": "Fjalli\u00f0 Mikla",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8697876,
+     61.9383892
+    ]
+   },
+   "properties": {
+    "ele": "211",
+    "name": "Navirnar",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9980004,
+     61.9937309
+    ]
+   },
+   "properties": {
+    "ele": "477",
+    "name": "Uppi \u00e1 Oyggj",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.5524,
+     62.094783
+    ]
+   },
+   "properties": {
+    "ele": "350",
+    "is_in:island": "Mykines",
+    "name": "\u00c1rnafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3801264,
+     62.260864
+    ]
+   },
+   "properties": {
+    "ele": "463",
+    "name": "Kn\u00fakur, vestari",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3400798,
+     62.2625725
+    ]
+   },
+   "properties": {
+    "ele": "422",
+    "name": "Middagur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5656709,
+     62.38951
+    ]
+   },
+   "properties": {
+    "ele": "754",
+    "name": "Nakkurin (nor\u00f0ari)",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4174287,
+     62.3045109
+    ]
+   },
+   "properties": {
+    "ele": "481",
+    "name": "Nakkurin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5389547,
+     62.3803729
+    ]
+   },
+   "properties": {
+    "ele": "687",
+    "name": "Oyggjarskoratindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.00395,
+     62.266917
+    ]
+   },
+   "properties": {
+    "ele": "790",
+    "is_in:island": "Eysturoy",
+    "name": "Bl\u00e1mansfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9702314,
+     62.3304257
+    ]
+   },
+   "properties": {
+    "ele": "469",
+    "name": "Fjalli\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9872234,
+     62.1423335
+    ]
+   },
+   "properties": {
+    "ele": "585",
+    "name": "B\u00f8llufjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1766345,
+     62.2032002
+    ]
+   },
+   "properties": {
+    "ele": "658",
+    "name": "B\u00f8llufjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2076879,
+     62.2718319
+    ]
+   },
+   "properties": {
+    "ele": "651",
+    "name": "Eggjarm\u00fali",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1360996,
+     62.2015544
+    ]
+   },
+   "properties": {
+    "ele": "572",
+    "name": "FjalIi\u00f0 Litla",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9574296,
+     62.059995
+    ]
+   },
+   "properties": {
+    "ele": "686",
+    "name": "Fjalli\u00f0 millum Botnar",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8722252,
+     62.0035496
+    ]
+   },
+   "properties": {
+    "ele": "417",
+    "name": "Fjalli\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8156649,
+     62.0076945
+    ]
+   },
+   "properties": {
+    "ele": "222",
+    "name": "Fjalli\u00f0",
+    "natural": "peak",
+    "wikidata": "Q3746307"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1032587,
+     62.2803707
+    ]
+   },
+   "properties": {
+    "ele": "188",
+    "name": "Fjalli\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0652784,
+     62.1375112
+    ]
+   },
+   "properties": {
+    "ele": "477",
+    "name": "G\u00e1safelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1506059,
+     62.2539237
+    ]
+   },
+   "properties": {
+    "ele": "701",
+    "name": "G\u00edvrufelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2053189,
+     62.2530933
+    ]
+   },
+   "properties": {
+    "ele": "409",
+    "name": "Heimariheyggjur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1809867,
+     62.2834248
+    ]
+   },
+   "properties": {
+    "ele": "692",
+    "name": "Heyggjurin Mikli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1347855,
+     62.2845748
+    ]
+   },
+   "properties": {
+    "ele": "470",
+    "name": "H\u00e6gstafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8224362,
+     62.0233736
+    ]
+   },
+   "properties": {
+    "ele": "345",
+    "name": "H\u00fasareyn",
+    "natural": "peak",
+    "wikidata": "Q3467615",
+    "wikipedia": "en:H\u00fasareyn"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8619577,
+     62.0931373
+    ]
+   },
+   "properties": {
+    "ele": "588",
+    "name": "Kaldbakskambur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8133151,
+     61.9848478
+    ]
+   },
+   "properties": {
+    "ele": "351",
+    "name": "Kirkjub\u00f8reyn",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1103548,
+     62.2363021
+    ]
+   },
+   "properties": {
+    "ele": "589",
+    "name": "Kn\u00fakurin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8991802,
+     62.0133798
+    ]
+   },
+   "properties": {
+    "ele": "491",
+    "name": "KonufelIi",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8708248,
+     62.0432404
+    ]
+   },
+   "properties": {
+    "ele": "366",
+    "name": "Lambafelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1171838,
+     62.2403166
+    ]
+   },
+   "properties": {
+    "ele": "599",
+    "name": "Langafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0478557,
+     62.1578684
+    ]
+   },
+   "properties": {
+    "ele": "663",
+    "name": "L\u00e1gafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.81973,
+     62.0035628
+    ]
+   },
+   "properties": {
+    "ele": "198",
+    "name": "L\u00edtlafjall",
+    "natural": "peak",
+    "wikidata": "Q3841114"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1120163,
+     62.2663503
+    ]
+   },
+   "properties": {
+    "ele": "345",
+    "name": "L\u00f3mfelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2159167,
+     62.2253353
+    ]
+   },
+   "properties": {
+    "ele": "777",
+    "name": "Malakn\u00fakur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8892624,
+     62.0263222
+    ]
+   },
+   "properties": {
+    "ele": "479",
+    "name": "Murufelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1145614,
+     62.1928863
+    ]
+   },
+   "properties": {
+    "ele": "663",
+    "name": "M\u00falin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2179338,
+     62.2966158
+    ]
+   },
+   "properties": {
+    "ele": "564",
+    "name": "M\u00fdlingur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9970735,
+     62.1588796
+    ]
+   },
+   "properties": {
+    "ele": "622",
+    "name": "Navirnar",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2049826,
+     62.2148639
+    ]
+   },
+   "properties": {
+    "ele": "613",
+    "name": "P\u00e6tursfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.055697,
+     62.2092709
+    ]
+   },
+   "properties": {
+    "ele": "453",
+    "name": "Rossafelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2241159,
+     62.2930835
+    ]
+   },
+   "properties": {
+    "ele": "623",
+    "name": "Snubburnar",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9090866,
+     62.0469646
+    ]
+   },
+   "properties": {
+    "ele": "547",
+    "name": "Sti\u00f0jafjalI",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1298846,
+     62.1895118
+    ]
+   },
+   "properties": {
+    "ele": "710",
+    "name": "St\u00edgarnir",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2343451,
+     62.1887466
+    ]
+   },
+   "properties": {
+    "ele": "579",
+    "name": "Tindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2279546,
+     62.2159209
+    ]
+   },
+   "properties": {
+    "ele": "644",
+    "name": "Tosskorarhorn",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8411632,
+     61.9895889
+    ]
+   },
+   "properties": {
+    "ele": "273",
+    "name": "Tv\u00f8rfelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1246866,
+     62.2633253
+    ]
+   },
+   "properties": {
+    "ele": "429",
+    "name": "Vatnfelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.019902,
+     62.1667213
+    ]
+   },
+   "properties": {
+    "ele": "605",
+    "name": "Vitin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1535668,
+     62.2616973
+    ]
+   },
+   "properties": {
+    "ele": "703",
+    "name": "V\u00edkartindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2134543,
+     62.2533776
+    ]
+   },
+   "properties": {
+    "ele": "425",
+    "name": "Ytriheyggjur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1572341,
+     62.2084786
+    ]
+   },
+   "properties": {
+    "ele": "783",
+    "name": "\u00d8rvisfelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6306355,
+     62.278681
+    ]
+   },
+   "properties": {
+    "ele": "768",
+    "name": "Galvsskorafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6747003,
+     62.3486631
+    ]
+   },
+   "properties": {
+    "ele": "444",
+    "name": "Klettur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6863135,
+     62.3497051
+    ]
+   },
+   "properties": {
+    "ele": "644",
+    "name": "Klubbin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6384467,
+     62.2994399
+    ]
+   },
+   "properties": {
+    "ele": "471",
+    "name": "L\u00edtlafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6506844,
+     62.309787
+    ]
+   },
+   "properties": {
+    "ele": "805",
+    "name": "Middagsfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6177766,
+     62.2605231
+    ]
+   },
+   "properties": {
+    "ele": "703",
+    "name": "Su\u00f0ur \u00e1 Nakki",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6403602,
+     62.2898101
+    ]
+   },
+   "properties": {
+    "ele": "817",
+    "name": "Ur\u00f0afjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5142103,
+     62.2114182
+    ]
+   },
+   "properties": {
+    "ele": "563",
+    "name": "H\u00e6ddin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6160715,
+     62.2357917
+    ]
+   },
+   "properties": {
+    "ele": "413",
+    "name": "Klakkur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4854169,
+     62.2586381
+    ]
+   },
+   "properties": {
+    "ele": "621",
+    "name": "Landsu\u00f0ursfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5775987,
+     62.1993849
+    ]
+   },
+   "properties": {
+    "ele": "593",
+    "name": "Mi\u00f0fjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.423184,
+     62.3000043
+    ]
+   },
+   "properties": {
+    "ele": "511",
+    "name": "M\u00f8lin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5670327,
+     62.3072504
+    ]
+   },
+   "properties": {
+    "ele": "739",
+    "name": "Nor\u00f0anfyri Kv\u00edggjaskar\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5658608,
+     62.2950949
+    ]
+   },
+   "properties": {
+    "ele": "772",
+    "name": "Nor\u00f0anfyri Lokkaskar\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5968425,
+     62.3370962
+    ]
+   },
+   "properties": {
+    "ele": "747",
+    "name": "Omanfyri Klivsdal",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.82755,
+     62.26205
+    ]
+   },
+   "properties": {
+    "ele": "483",
+    "is_in:island": "Eysturoy",
+    "name": "Rustartindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.862267,
+     62.236367
+    ]
+   },
+   "properties": {
+    "ele": "732",
+    "is_in:island": "Eysturoy",
+    "name": "Bl\u00e1bj\u00f8rg",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775633,
+     62.10845
+    ]
+   },
+   "properties": {
+    "ele": "122",
+    "is_in:island": "Eysturoy",
+    "name": "Brig\u00f0ufelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.924867,
+     62.254017
+    ]
+   },
+   "properties": {
+    "ele": "719",
+    "is_in:island": "Eysturoy",
+    "name": "Dalkinsfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6928806,
+     62.0582935
+    ]
+   },
+   "properties": {
+    "ele": "130",
+    "is_in:island": "Eysturoy",
+    "name": "Eystnes",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7887579,
+     62.1266478
+    ]
+   },
+   "properties": {
+    "ele": "483",
+    "name": "Fjalli\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.850917,
+     62.22665
+    ]
+   },
+   "properties": {
+    "ele": "678",
+    "is_in:island": "Eysturoy",
+    "name": "Gj\u00f3gvarafjall",
+    "natural": "peak",
+    "wikidata": "Q728389",
+    "wikimedia_commons": "Category:Gj\u00f3gvar\u00e1fjall",
+    "wikipedia": "en:Gj\u00f3gvar\u00e1fjall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6856,
+     62.118783
+    ]
+   },
+   "properties": {
+    "ele": "303",
+    "is_in:island": "Eysturoy",
+    "name": "Glyvrafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8925,
+     62.248133
+    ]
+   },
+   "properties": {
+    "ele": "703",
+    "is_in:island": "Eysturoy",
+    "name": "Gomlumannatindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.86155,
+     62.240017
+    ]
+   },
+   "properties": {
+    "ele": "699",
+    "is_in:island": "Eysturoy",
+    "name": "Hjar\u00f0ardalstindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.73775,
+     62.10685
+    ]
+   },
+   "properties": {
+    "ele": "115",
+    "is_in:island": "Eysturoy",
+    "name": "H\u00f8ganes",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7308365,
+     62.0941966
+    ]
+   },
+   "properties": {
+    "ele": "129",
+    "name": "H\u00fasklond",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8364115,
+     62.2176891
+    ]
+   },
+   "properties": {
+    "ele": "545",
+    "name": "Kambur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793817,
+     62.13495
+    ]
+   },
+   "properties": {
+    "ele": "523",
+    "is_in:island": "Eysturoy",
+    "name": "Kl\u00f3rarin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9606,
+     62.225933
+    ]
+   },
+   "properties": {
+    "ele": "562",
+    "is_in:island": "Eysturoy",
+    "name": "L\u00edtlafelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9746754,
+     62.2353834
+    ]
+   },
+   "properties": {
+    "ele": "655",
+    "name": "Mi\u00f0afelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8086397,
+     62.2554052
+    ]
+   },
+   "properties": {
+    "ele": "482",
+    "name": "Mj\u00f3st\u00edggjur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.999183,
+     62.273533
+    ]
+   },
+   "properties": {
+    "ele": "751",
+    "is_in:island": "Eysturoy",
+    "name": "Nor\u00f0anfyri Bl\u00e1mansfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0677,
+     62.285167
+    ]
+   },
+   "properties": {
+    "ele": "172",
+    "is_in:island": "Eysturoy",
+    "name": "Nor\u00f0arafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.845867,
+     62.2851
+    ]
+   },
+   "properties": {
+    "ele": "421",
+    "is_in:island": "Eysturoy",
+    "name": "Oyndfjar\u00f0arfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781233,
+     62.258683
+    ]
+   },
+   "properties": {
+    "ele": "513",
+    "is_in:island": "Eysturoy",
+    "name": "R\u00f3vin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8929229,
+     62.2622282
+    ]
+   },
+   "properties": {
+    "ele": "754",
+    "name": "Sandfelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.981333,
+     62.246167
+    ]
+   },
+   "properties": {
+    "ele": "687",
+    "is_in:island": "Eysturoy",
+    "name": "Sker\u00f0ingur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.888467,
+     62.284517
+    ]
+   },
+   "properties": {
+    "ele": "529",
+    "is_in:island": "Eysturoy",
+    "name": "Skoratindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.062033,
+     62.281933
+    ]
+   },
+   "properties": {
+    "ele": "171",
+    "is_in:island": "Eysturoy",
+    "name": "Sunnarafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.859183,
+     62.287233
+    ]
+   },
+   "properties": {
+    "ele": "503",
+    "is_in:island": "Eysturoy",
+    "name": "Tindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.709617,
+     62.072033
+    ]
+   },
+   "properties": {
+    "ele": "169",
+    "is_in:island": "Eysturoy",
+    "name": "V\u00f8r\u00f0an",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3305662,
+     62.0871831
+    ]
+   },
+   "properties": {
+    "ele": "449",
+    "name": "Eindalsfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3978653,
+     62.1168866
+    ]
+   },
+   "properties": {
+    "ele": "715",
+    "name": "Eysturtindur",
+    "natural": "peak",
+    "wikidata": "Q1459480",
+    "wikipedia": "en:Eysturtindur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2793897,
+     62.1383075
+    ]
+   },
+   "properties": {
+    "ele": "563",
+    "name": "Jatnagar\u00f0ar",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1969983,
+     62.0769846
+    ]
+   },
+   "properties": {
+    "ele": "585",
+    "name": "J\u00f3gvansfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2290313,
+     62.1155721
+    ]
+   },
+   "properties": {
+    "ele": "545",
+    "name": "Krossafelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0945426,
+     62.0537254
+    ]
+   },
+   "properties": {
+    "ele": "574",
+    "name": "Krosstindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2019013,
+     62.0254755
+    ]
+   },
+   "properties": {
+    "ele": "376",
+    "name": "Ritubergsn\u00f8va",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2780202,
+     62.0447639
+    ]
+   },
+   "properties": {
+    "ele": "305",
+    "name": "Su\u00f0ur \u00e1 FjaIli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2725819,
+     62.1313723
+    ]
+   },
+   "properties": {
+    "ele": "591",
+    "name": "Tungufelli",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2537151,
+     62.1236066
+    ]
+   },
+   "properties": {
+    "ele": "443",
+    "name": "Tungufelli\u00f0 L\u00edtla",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3274816,
+     62.0933084
+    ]
+   },
+   "properties": {
+    "ele": "514",
+    "name": "Vatnsdalsfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2910726,
+     62.0787131
+    ]
+   },
+   "properties": {
+    "ele": "284",
+    "name": "V\u00f8rufelli",
+    "natural": "peak",
+    "wikidata": "Q3467630",
+    "wikipedia": "en:V\u00f8r\u00f0ufelli"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4199191,
+     62.1028025
+    ]
+   },
+   "properties": {
+    "ele": "485",
+    "name": "Knavin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784658,
+     61.8566249
+    ]
+   },
+   "properties": {
+    "ele": "452",
+    "name": "Endin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8381754,
+     61.8884402
+    ]
+   },
+   "properties": {
+    "ele": "362",
+    "name": "Fjalli\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7687294,
+     61.849584
+    ]
+   },
+   "properties": {
+    "ele": "460",
+    "name": "Skorarnar",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8219818,
+     61.7500533
+    ]
+   },
+   "properties": {
+    "ele": "391",
+    "name": "Skorin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7676201,
+     61.5740894
+    ]
+   },
+   "properties": {
+    "ele": "487",
+    "name": "Bustin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8319315,
+     61.5756993
+    ]
+   },
+   "properties": {
+    "ele": "259",
+    "name": "Fjalli\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9544296,
+     61.6417581
+    ]
+   },
+   "properties": {
+    "ele": "350",
+    "name": "Fjalli\u00f0",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9012232,
+     61.5478966
+    ]
+   },
+   "properties": {
+    "ele": "569",
+    "name": "Galvurin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8081426,
+     61.5139697
+    ]
+   },
+   "properties": {
+    "ele": "440",
+    "name": "H\u00f8guskorar",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8802927,
+     61.5070302
+    ]
+   },
+   "properties": {
+    "ele": "525",
+    "name": "H\u00f8g\u00f8ksl",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7437842,
+     61.6844854
+    ]
+   },
+   "properties": {
+    "ele": "288",
+    "name": "H\u00fagvan",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7669949,
+     61.5567647
+    ]
+   },
+   "properties": {
+    "ele": "347",
+    "name": "Kaguklettur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7358385,
+     61.4869703
+    ]
+   },
+   "properties": {
+    "ele": "206",
+    "name": "Kambur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8889439,
+     61.5414307
+    ]
+   },
+   "properties": {
+    "ele": "592",
+    "name": "Mj\u00f3st\u00edggjur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7106475,
+     61.6330073
+    ]
+   },
+   "properties": {
+    "alt_name": "Sl\u00e6ttirnir",
+    "ele": "414",
+    "name": "R\u00e1van",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7377468,
+     61.4160653
+    ]
+   },
+   "properties": {
+    "ele": "285",
+    "name": "Eystarafjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8730083,
+     61.5757987
+    ]
+   },
+   "properties": {
+    "ele": "389",
+    "name": "Rossaklettur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6966248,
+     61.4104388
+    ]
+   },
+   "properties": {
+    "ele": "286",
+    "name": "Sk\u00e1lin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.822239,
+     61.5410299
+    ]
+   },
+   "properties": {
+    "ele": "237",
+    "name": "V\u00f8r\u00f0an",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2115841,
+     62.174983
+    ]
+   },
+   "properties": {
+    "ele": "382",
+    "name": "\u00c1rndalsfjall",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4135589,
+     62.1217128
+    ]
+   },
+   "properties": {
+    "ele": "402",
+    "name": "Orrtindur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9806633,
+     61.6421332
+    ]
+   },
+   "properties": {
+    "ele": "109",
+    "name": "\u00c1smundarstakkur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8656251,
+     61.935785
+    ]
+   },
+   "properties": {
+    "ele": "171",
+    "name": "H\u00f8galeiti",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6624031,
+     61.9803759
+    ]
+   },
+   "properties": {
+    "ele": "191",
+    "name": "\u00c6rgisklettur",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9480055,
+     62.0740236
+    ]
+   },
+   "properties": {
+    "ele": "543",
+    "name": "Kn\u00f3panir",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8853334,
+     62.0978469
+    ]
+   },
+   "properties": {
+    "ele": "562",
+    "name": "Rustin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8835026,
+     62.0931765
+    ]
+   },
+   "properties": {
+    "ele": "584",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1405967,
+     62.1929787
+    ]
+   },
+   "properties": {
+    "ele": "650",
+    "name": "Heygam\u00fali",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1844617,
+     62.2187672
+    ]
+   },
+   "properties": {
+    "ele": "443",
+    "name": "Reynini",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6710171,
+     61.3380175
+    ]
+   },
+   "properties": {
+    "ele": "11",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.5727649,
+     62.1039053
+    ]
+   },
+   "properties": {
+    "ele": "466",
+    "name": "Oddarnir",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3726998,
+     62.1155046
+    ]
+   },
+   "properties": {
+    "ele": "423",
+    "name": "M\u00f8lin",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.4657707,
+     62.2391374
+    ]
+   },
+   "properties": {
+    "ele": "486",
+    "natural": "peak"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9941711,
+     62.3374875
+    ]
+   },
+   "properties": {
+    "ele": "188",
+    "natural": "peak"
+   }
+  }
+ ]
+}
