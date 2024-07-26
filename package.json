@@ -20,7 +20,7 @@
     "imagemin": "^9.0.0",
     "imagemin-pngquant": "^10.0.0",
     "npmlog": "^7.0.1",
-    "puppeteer": "^22.12.1",
+    "puppeteer": "^22.14.0",
     "serve": "^14.2.3"
   }
 }
