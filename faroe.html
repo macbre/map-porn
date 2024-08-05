@@ -24,23 +24,24 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Lighthouses</h2>
-				<h2 lang="pl">Latarnie morskie</h2>
+				<h2 lang="en">Mountain peaks</h2>
+				<h2 lang="pl">Górskie szczyty</h2>
 
 				<legend style="width: 41%">
 					<!-- <img src="https://3.bp.blogspot.com/-d6oBGCensQ8/U2ADslYwc4I/AAAAAAAAIXM/SSR4NbDTxP8/s1600/IMG_0500.jpg"> -->
 					<p lang="en">
-						State-owned company Landsverk administers “lighthouses, marking and sailing routes” in the Faroes on behalf of the Danish Maritime Sector.
+						Between Eiði and Funningur lies <b>the highest Faroese mountain - Slættaratindur (880 m ASL)</b>. It is one of ten mountains on Faroe Islands which rise to over 800 m ASL.
 						<br><br>
-						From 1 June 2024 Faroe Islands will take over full responsibility for navigation marking and lighthouse authority from Copenhagen.
+						<b>Kunoy is the most mountainous of all islands</b> - six of the top 10 highest peaks are located there.
 						<br><br>
-						The lighthouse keeper (in most cases the harbour master) has the responsibility of daily care and maintenance, for example the changing of light bulbs, cleaning of lenses, painting and dehumidifying. 
-						<br><br>
+						The list of Faroe Islands mountains consist of <b>around 340 peaks that raise at least 100 m above the sea level</b>.
 					</p>
 					<p lang="pl" _style="font-size: 1.6rem">
-						W czerwcu 2024 roku dwadzieścia cztery farerskie latarnie przejdą pod pełną kontrolę lokalnych władz.
+						Między osadami Eiði i Funningur na wysokość 880 metrów wznosi się <b>najwyższy farerski szczyt Slættaratindur</b>. To jedna z dziesięciu gór na Wyspach Owczych, które sięgają na wysokość ponad 800 metrów.
 						<br><br>
-						Pieczę nad farerskimi latarniami morskimi sprawuje państwowa spółka Landsverk. Latarnicy (rolę tę pełnią najczęściej komendanci portów) codziennie doglądają zwierciadła, wymieniają żarówki, dbają o odpowiedni poziom wilgotności w budynkach.
+						<b>Najwyższą wyspą archipelagu jest Kunoy</b> - aż sześć z pierwszej dziesiątki najwyższych wzniesień położonych jest właśnie tam.
+						<br><br>
+						W sumie farerskie mapy upstrzone są <b>około 340 górskimi szczytami o wysokości co najmniej stu metrów nad poziom morza</b>.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -78,7 +79,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, -->OpenStreetMaps, ARLHS World List of Lights.
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, -->Umhvørvisstovan, OpenStreetMaps
 					</p>
 				</div>
 
@@ -104,14 +105,58 @@
 
 			await initMap(async (map) => {
 				// green / blue / yellow
-				await addGeoJSONLayer(map, '/geojson/osm-man_made-lighthouse.json', 'blue', 'lighthouse', 'latarnia', (feature) => {
-					// const city = feature.properties.city;
+				// await addGeoJSONLayer(map, '/geojson/osm-natural-peak.json', 'blue', 'peak', 'wzniesienie', (feature) => {
+				// 	// const city = feature.properties.city;
 
-					// add additional marker for the shadow effect
-					const geo = feature.geometry.coordinates;
-					const color = 'green';
-            		L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
+				// 	// add additional marker for the shadow effect
+				// 	const geo = feature.geometry.coordinates;
+				// 	const color = 'green';
+            	// 	L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
+				// });
+
+				const geojsonFeatures = await fetchGeoJSON('/geojson/osm-natural-peak.json');
+				let counts = [];
+
+				L.geoJSON(geojsonFeatures, {
+					onEachFeature: feature => {
+						const geo = feature.geometry.coordinates;
+
+						// green / blue / yellow / red
+						const ele = parseInt(feature.properties.ele, 10); console.log(feature, ele);
+						let color = '';
+
+						if (ele > 800) {
+							color = 'red';
+						}
+						else if (ele > 700) {
+							color = 'dark-green';
+						}
+						else if (ele > 600) {
+							color = 'green';
+						}
+						else if (ele > 450) {
+							color = 'blue';
+						}
+						else if (ele > 250) {
+							color = 'yellow';
+						}
+						else {
+							return;
+						}
+
+						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
+
+						// count colors
+						if (!counts[color]) counts[color] = 0;
+						counts[color]++;
+					}
 				});
+
+				addLabel('red', 'Over 800 m', 'Ponad 800 m', counts['red']);
+				addLabel('dark-green', 'Over 700 m', 'Ponad 700 m', counts['dark-green']);
+				addLabel('green', 'Over 600 m', 'Ponad 600 m', counts['green']);
+				addLabel('blue', 'Over 450 m', 'Ponad 450 m', counts['blue']);
+				addLabel('yellow', 'Over 250 m', 'Ponad 250 m', counts['yellow']);
 			});
 
 			// console.log(gridsPerCity);
@@ -119,6 +164,31 @@
 		</script>
 
 		<style>
+			/**
+			 * Mountains
+			 * @see https://css-tricks.com/snippets/css/css-triangle/
+			 */
+			.marker {
+				width: 0; 
+				height: 0; 
+				border-left: var(--marker-size) solid transparent;
+				border-right: var(--marker-size) solid transparent;
+				border-bottom: var(--marker-size) solid black;
+				border-radius: 0;
+				outline: none;
+				content: '';
+				background-color: transparent !important;
+				transform: rotateY(65deg);
+				position: relative;
+				left: -5px;
+			}
+
+			.marker.green  { border-bottom-color: #a6d96a }
+			.marker.dark-green  { border-bottom-color: #006837 }
+			.marker.blue   { border-bottom-color: #4575b4 } /* https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10 */
+			.marker.yellow { border-bottom-color: #e9bb3a }
+			.marker.red    { border-bottom-color: #d73027 }
+
 			/**
 			 * @see https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/conic-gradient
 			 */
@@ -172,7 +242,7 @@
 			}
 			**/
 
-			/* lighthouses lighty shadow */
+			/* lighthouses lighty shadow *
 			.marker.blue {
 				opacity: 0.75;
 			}
@@ -180,15 +250,13 @@
 			.marker.green {
 				box-shadow: #fffa 0px 0px 100px 60px;
 				opacity: 1;
-
-				/* outline: solid 5px #ffffff33; */
 			}
 
 			.leaflet-markers-green-pane {
 				z-index: 100 !important;
 			}
 
-			/* dark background */
+			/* dark background *
 			#wrapper {
 				background-color: #061f36ee;
 			}
@@ -221,7 +289,7 @@
 				color: #fffc;
 				background: #fff1;
 				box-shadow: none;
-			}
+			}**/
 		</style>
 
 	</body>
