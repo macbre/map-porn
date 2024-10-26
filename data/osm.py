@@ -49,12 +49,12 @@ EXTRA_TAG_VALUE = None
 
 # https://wiki.openstreetmap.org/wiki/Tag:man_made%3Dlighthouse
 # <tag k="man_made" v="lighthouse"/>
-TAG_KEY = 'man_made'
-TAG_VALUE = 'lighthouse'
+# TAG_KEY = 'man_made'
+# TAG_VALUE = 'lighthouse'
 # <tag k="seamark:type" v="light_minor"/>
 # <tag k="seamark:type" v="light_major"/>
-EXTRA_TAG_KEY = 'seamark:type'
-EXTRA_TAG_VALUE = None
+# EXTRA_TAG_KEY = 'seamark:type'
+# EXTRA_TAG_VALUE = None
 
 # https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtraffic_signals
 # <tag k="highway" v="traffic_signals"/>
@@ -70,6 +70,14 @@ EXTRA_TAG_VALUE = None
 # <tag k="sport" v="soccer"/>
 # TAG_KEY = 'sport'
 # TAG_VALUE = 'soccer'
+
+# https://wiki.openstreetmap.org/wiki/Key:railway
+# <tag k="railway" v="narrow_gauge"/>
+# <tag k="railway" v="funicular"/>
+TAG_KEY = 'railway'
+TAG_VALUE = 'narrow_gauge'
+EXTRA_TAG_KEY = 'railway'
+EXTRA_TAG_VALUE = None
 
 
 def cache_osm_file():

@@ -1,0 +1,19 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.934675,
+     61.5693098
+    ]
+   },
+   "properties": {
+    "railway": "narrow_gauge",
+    "usage": "industrial"
+   }
+  }
+ ]
+}
