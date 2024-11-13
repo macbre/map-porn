@@ -1,0 +1,282 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7750611,
+     62.0105248
+    ]
+   },
+   "properties": {
+    "amenity": "pub",
+    "name": "T\u00f3rsh\u00f8ll"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7740734,
+     62.0106162
+    ]
+   },
+   "properties": {
+    "amenity": "bar",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Bassalt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7736743,
+     62.0109008
+    ]
+   },
+   "properties": {
+    "amenity": "pub",
+    "name": "Koba"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7743208,
+     62.0089981
+    ]
+   },
+   "properties": {
+    "amenity": "pub",
+    "name": "Glitnir"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8151876,
+     62.2422769
+    ]
+   },
+   "properties": {
+    "addr:city": "Fuglafj\u00f8r\u00f0ur",
+    "addr:country": "FO",
+    "addr:housenumber": "3",
+    "addr:postcode": "530",
+    "addr:street": "Karvatoftir",
+    "amenity": "bar",
+    "name": "Patrick's",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "us.fo:Adressutal": "30595",
+    "us.fo:Galdandi_fr\u00e1": "12-12-2008",
+    "us.fo:Postnr": "530",
+    "us.fo:Veganr": "3221",
+    "us.fo:kommununr": "11"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7744314,
+     62.0116514
+    ]
+   },
+   "properties": {
+    "addr:city": "T\u00f3rshavn",
+    "addr:country": "FO",
+    "addr:housenumber": "23A",
+    "addr:postcode": "100",
+    "addr:street": "Niels Finsens g\u00f8ta",
+    "amenity": "bar",
+    "email": "blabar@email.fo",
+    "name:en": "Bl\u00e1bar",
+    "opening_hours": "Mo-Th 20:00-00:00; Fr-Sa 17:00-04:00; Su 20:00-00:00",
+    "phone": "+298 222255",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "us.fo:Adressutal": "30260",
+    "us.fo:Galdandi_fr\u00e1": "2008-7-10",
+    "us.fo:Postnr": "100",
+    "us.fo:Veganr": "923",
+    "us.fo:b\u00fdlingsnr": "37",
+    "us.fo:kommununr": "29",
+    "website": "https://blabar.fo/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.807516,
+     61.5560176
+    ]
+   },
+   "properties": {
+    "amenity": "bar",
+    "name": "Tv\u00f8royrar Klubbi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8084997,
+     61.5545715
+    ]
+   },
+   "properties": {
+    "amenity": "pub",
+    "name": "Gl. Kgl. Handil Pub & Kaf\u00e9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2854575,
+     62.0687898
+    ]
+   },
+   "properties": {
+    "amenity": "bar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7733822,
+     62.0095831
+    ]
+   },
+   "properties": {
+    "amenity": "bar",
+    "internet_access": "wlan",
+    "internet_access:fee": "customers",
+    "name": "Sirkus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7742799,
+     62.0090962
+    ]
+   },
+   "properties": {
+    "amenity": "pub",
+    "name": "The Irish Pub"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7728346,
+     62.009869
+    ]
+   },
+   "properties": {
+    "amenity": "bar",
+    "name": "Hvonn",
+    "opening_hours": "Mo-Th 11:30-24:00;Fr 11:30-02:00;Sa 11:30-03:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5918178,
+     62.2275712
+    ]
+   },
+   "properties": {
+    "amenity": "pub",
+    "name": "Roykstovan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6714403,
+     62.0102249
+    ]
+   },
+   "properties": {
+    "amenity": "pub",
+    "name": "Maggie's"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7699093,
+     62.0094041
+    ]
+   },
+   "properties": {
+    "addr:housenumber": "2",
+    "addr:street": "Gongin",
+    "amenity": "bar",
+    "name:en": "T\u00f3rshavn Mikkeller",
+    "opening_hours": "Su-Th 17:00-00:00; Fr-Sa 16:00-02:00",
+    "phone": "+298 411500",
+    "website": "https://mikkeller.fo/mikkeller/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5816811,
+     62.2251798
+    ]
+   },
+   "properties": {
+    "amenity": "bar",
+    "internet_access": "wlan",
+    "name:en": "Maverick",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7691878,
+     62.0218628
+    ]
+   },
+   "properties": {
+    "amenity": "bar",
+    "name": "Hallart\u00fani bar P\u00e5 Hilton Garden Inn",
+    "name:en": "Hallart\u00fani bar at Hilton Garden Inn"
+   }
+  }
+ ]
+}

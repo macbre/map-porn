@@ -1,0 +1,54 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7711557,
+     62.0106207
+    ]
+   },
+   "properties": {
+    "amenity": "cinema",
+    "name": "Havnar bio",
+    "website": "https://www.bio.fo/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8073736,
+     61.5559987
+    ]
+   },
+   "properties": {
+    "amenity": "cinema",
+    "name": "Su\u00f0ur Bio"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5815246,
+     62.2247775
+    ]
+   },
+   "properties": {
+    "addr:city": "Klaksv\u00edk",
+    "addr:housenumber": "5",
+    "addr:postcode": "700",
+    "addr:street": "B\u00f8g\u00f8ta",
+    "amenity": "cinema",
+    "name": "Atlantis Bio",
+    "wheelchair": "no"
+   }
+  }
+ ]
+}

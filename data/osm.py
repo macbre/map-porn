@@ -90,8 +90,20 @@ EXTRA_TAG_VALUE = None
 # TAG_VALUE = 'plant'
 
 # https://wiki.openstreetmap.org/wiki/Tag:building=church
-TAG_KEY = 'building'
-TAG_VALUE = 'church'
+# TAG_KEY = 'building'
+# TAG_VALUE = 'church'
+
+# https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema
+# https://www.cinematour.com/theatres/fo/FO/1.html
+# TAG_KEY = 'amenity'
+# TAG_VALUE = 'cinema'
+
+# https://wiki.openstreetmap.org/wiki/Tag:amenity=pub
+# https://wiki.openstreetmap.org/wiki/Tag:amenity=bar
+TAG_KEY = 'amenity'
+TAG_VALUE = 'pub'
+EXTRA_TAG_KEY = 'amenity'
+EXTRA_TAG_VALUE = 'bar'
 
 
 def cache_osm_file():
