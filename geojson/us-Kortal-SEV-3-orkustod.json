@@ -1,0 +1,325 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 1,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.343916424087678,
+     62.27620953887
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1,
+    "OBJNR": 148306,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00cd SV\u00cdNOY"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.314459656817733,
+     62.31735072027374
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2,
+    "OBJNR": 135409,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00c1 KIRKJU"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.585958594076814,
+     62.26568375909378
+    ]
+   },
+   "properties": {
+    "OBJECTID": 3,
+    "OBJNR": 132100,
+    "DRIFTSMAERKNING": "MB1"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.586028620371262,
+     62.26573401896087
+    ]
+   },
+   "properties": {
+    "OBJECTID": 4,
+    "OBJNR": 132099,
+    "DRIFTSMAERKNING": "MB2"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.586092016409129,
+     62.265781892259376
+    ]
+   },
+   "properties": {
+    "OBJECTID": 5,
+    "OBJNR": 132098,
+    "DRIFTSMAERKNING": "MB3"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.80405056634245,
+     61.468303655503604
+    ]
+   },
+   "properties": {
+    "OBJECTID": 6,
+    "OBJNR": 51511,
+    "DRIFTSMAERKNING": "V\u00c1GSVERKI\u00d0"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.870059088676098,
+     61.48619688780906
+    ]
+   },
+   "properties": {
+    "OBJECTID": 7,
+    "OBJNR": 51510,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00cd BOTNI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.585337607111119,
+     62.264966820528834
+    ]
+   },
+   "properties": {
+    "OBJECTID": 8,
+    "OBJNR": 51508,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00c1 STROND"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.147864952003704,
+     62.15058101968019
+    ]
+   },
+   "properties": {
+    "OBJECTID": 9,
+    "OBJNR": 51507,
+    "DRIFTSMAERKNING": "HEYGAVERKI\u00d0"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.108299193890498,
+     62.15467176921378
+    ]
+   },
+   "properties": {
+    "OBJECTID": 10,
+    "OBJNR": 51506,
+    "DRIFTSMAERKNING": "TS2004"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 11,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.149808429268567,
+     62.154299938280424
+    ]
+   },
+   "properties": {
+    "OBJECTID": 11,
+    "OBJNR": 51505,
+    "DRIFTSMAERKNING": "TS2003"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.853471829696878,
+     62.04991398102753
+    ]
+   },
+   "properties": {
+    "OBJECTID": 12,
+    "OBJNR": 51504,
+    "DRIFTSMAERKNING": "SUNDSVERKI\u00d0"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 13,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.880038466071097,
+     61.95401212512746
+    ]
+   },
+   "properties": {
+    "OBJECTID": 13,
+    "OBJNR": 51503,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00cd HESTI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 14,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.804116788142263,
+     61.770692408973254
+    ]
+   },
+   "properties": {
+    "OBJECTID": 14,
+    "OBJNR": 51502,
+    "DRIFTSMAERKNING": "ELVEKRI\u00d0 SK\u00daVOY"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 15,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.758150916550313,
+     61.68560623099727
+    ]
+   },
+   "properties": {
+    "OBJECTID": 15,
+    "OBJNR": 51500,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00c1 ST\u00d3RU D\u00cdMUN"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 16,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.672176437685172,
+     62.00867335995008
+    ]
+   },
+   "properties": {
+    "OBJECTID": 16,
+    "OBJNR": 51495,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00cd N\u00d3LSOY"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 17,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8696585942515815,
+     61.89427371706033
+    ]
+   },
+   "properties": {
+    "OBJECTID": 17,
+    "OBJNR": 51493,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00cd SKOPUN"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 18,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.967519613978797,
+     61.98627523626799
+    ]
+   },
+   "properties": {
+    "OBJECTID": 18,
+    "OBJNR": 51479,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00cd KOLTRI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 19,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.646527369730401,
+     62.102928955605186
+    ]
+   },
+   "properties": {
+    "OBJECTID": 19,
+    "OBJNR": 50729,
+    "DRIFTSMAERKNING": "ELVERKI\u00d0 \u00cd MYKINESI"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 20,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.072595514987277,
+     62.28114976969068
+    ]
+   },
+   "properties": {
+    "OBJECTID": 20,
+    "OBJNR": 50582,
+    "DRIFTSMAERKNING": "EI\u00d0ISVERKI\u00d0"
+   }
+  }
+ ]
+}

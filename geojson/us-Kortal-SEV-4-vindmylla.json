@@ -1,0 +1,509 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 1,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778063633840059,
+     61.49052552601436
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1,
+    "OBJNR": 144967,
+    "ID": "2020",
+    "PLACERING": "PH07",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781450869843796,
+     61.48936794716507
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2,
+    "OBJNR": 144964,
+    "ID": "2019",
+    "PLACERING": "PH06",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781449163727903,
+     61.49067528593622
+    ]
+   },
+   "properties": {
+    "OBJECTID": 3,
+    "OBJNR": 144963,
+    "ID": "2018",
+    "PLACERING": "PH05",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784837982570533,
+     61.4895177855665
+    ]
+   },
+   "properties": {
+    "OBJECTID": 4,
+    "OBJNR": 144958,
+    "ID": "2017",
+    "PLACERING": "PH04",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.784837594526831,
+     61.490823275214034
+    ]
+   },
+   "properties": {
+    "OBJECTID": 5,
+    "OBJNR": 144955,
+    "ID": "2016",
+    "PLACERING": "PH03",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788225840047163,
+     61.48966750929189
+    ]
+   },
+   "properties": {
+    "OBJECTID": 6,
+    "OBJNR": 144952,
+    "ID": "2015",
+    "PLACERING": "PH02",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.788226493022849,
+     61.49097250676889
+    ]
+   },
+   "properties": {
+    "OBJECTID": 7,
+    "OBJNR": 144949,
+    "ID": "2014",
+    "PLACERING": "PH01",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.83050970565517,
+     62.02210681726988
+    ]
+   },
+   "properties": {
+    "OBJECTID": 8,
+    "OBJNR": 116438,
+    "ID": "2001",
+    "PLACERING": "HH 01",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8322716938329355,
+     62.02299060950977
+    ]
+   },
+   "properties": {
+    "OBJECTID": 9,
+    "OBJNR": 116414,
+    "ID": "2002",
+    "PLACERING": "HH 02",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.834032011056082,
+     62.02387568622826
+    ]
+   },
+   "properties": {
+    "OBJECTID": 10,
+    "OBJNR": 116384,
+    "ID": "2003",
+    "PLACERING": "HH 03",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 11,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.83579252839451,
+     62.02476065437619
+    ]
+   },
+   "properties": {
+    "OBJECTID": 11,
+    "OBJNR": 116357,
+    "ID": "2004",
+    "PLACERING": "HH 04",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.826911543977488,
+     62.022859099252365
+    ]
+   },
+   "properties": {
+    "OBJECTID": 12,
+    "OBJNR": 116330,
+    "ID": "2005",
+    "PLACERING": "HH 05",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 13,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.828672380616596,
+     62.02374341651736
+    ]
+   },
+   "properties": {
+    "OBJECTID": 13,
+    "OBJNR": 116303,
+    "ID": "2006",
+    "PLACERING": "HH 06",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 14,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.830433892306408,
+     62.024627612020915
+    ]
+   },
+   "properties": {
+    "OBJECTID": 14,
+    "OBJNR": 116279,
+    "ID": "2007",
+    "PLACERING": "HH 07",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 15,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.832194570642608,
+     62.02551252143845
+    ]
+   },
+   "properties": {
+    "OBJECTID": 15,
+    "OBJNR": 116254,
+    "ID": "2008",
+    "PLACERING": "HH 08",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 16,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.833956510100366,
+     62.026397241048095
+    ]
+   },
+   "properties": {
+    "OBJECTID": 16,
+    "OBJNR": 116229,
+    "ID": "2009",
+    "PLACERING": "HH 09",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 17,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.835719182755417,
+     62.0272811841942
+    ]
+   },
+   "properties": {
+    "OBJECTID": 17,
+    "OBJNR": 116201,
+    "ID": "2010",
+    "PLACERING": "HH 10",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 18,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8303569827297315,
+     62.02714893394083
+    ]
+   },
+   "properties": {
+    "OBJECTID": 18,
+    "OBJNR": 116171,
+    "ID": "2013",
+    "PLACERING": "HH 13",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 19,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.828595936151743,
+     62.026264130635454
+    ]
+   },
+   "properties": {
+    "OBJECTID": 19,
+    "OBJNR": 116170,
+    "ID": "2012",
+    "PLACERING": "HH 12",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 20,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8268352286962095,
+     62.02537946789184
+    ]
+   },
+   "properties": {
+    "OBJECTID": 20,
+    "OBJNR": 116169,
+    "ID": "2011",
+    "PLACERING": "HH 11",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 21,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.692542985053778,
+     62.05828680288177
+    ]
+   },
+   "properties": {
+    "OBJECTID": 21,
+    "OBJNR": 112212,
+    "ID": "20",
+    "PLACERING": "VINDMYLLA 2",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 22,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6934346353161756,
+     62.05952695084302
+    ]
+   },
+   "properties": {
+    "OBJECTID": 22,
+    "OBJNR": 112211,
+    "ID": "25",
+    "PLACERING": "VINDMYLLA 3",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 23,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.696280556367527,
+     62.05814129627388
+    ]
+   },
+   "properties": {
+    "OBJECTID": 23,
+    "OBJNR": 112210,
+    "ID": "9",
+    "PLACERING": "VINDMYLLA 1",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 24,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.709160810656141,
+     62.06874208250402
+    ]
+   },
+   "properties": {
+    "OBJECTID": 24,
+    "OBJNR": 112209,
+    "ID": "183",
+    "PLACERING": "VINDMYLLA 4",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 25,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.710839593023386,
+     62.07101806257134
+    ]
+   },
+   "properties": {
+    "OBJECTID": 25,
+    "OBJNR": 112208,
+    "ID": "184",
+    "PLACERING": "VINDMYLLA 5",
+    "FABRIKAT": "ENERCON"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.100574269981873,
+     62.167367188750724
+    ]
+   },
+   "properties": {
+    "OBJECTID": 26,
+    "OBJNR": 16413,
+    "ID": "175",
+    "PLACERING": "S\u00d3LEY",
+    "FABRIKAT": "VESTAS"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 27,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.096880306133982,
+     62.16604742936117
+    ]
+   },
+   "properties": {
+    "OBJECTID": 27,
+    "OBJNR": 16412,
+    "ID": "174",
+    "PLACERING": "JULIA",
+    "FABRIKAT": "VESTAS"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 28,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.099902027786859,
+     62.1658705041712
+    ]
+   },
+   "properties": {
+    "OBJECTID": 28,
+    "OBJNR": 16411,
+    "ID": "173",
+    "PLACERING": "B\u00c1RA",
+    "FABRIKAT": "VESTAS"
+   }
+  }
+ ]
+}

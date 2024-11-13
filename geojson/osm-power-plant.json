@@ -1,0 +1,212 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6464799,
+     62.1029103
+    ]
+   },
+   "properties": {
+    "name": "powerstation",
+    "power": "plant"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.149811,
+     62.1543703
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "building:colour": "#D8B04B",
+    "building:material": "concrete",
+    "height": "11.0",
+    "name": "Fossa verki\u00f0",
+    "operator": "SEV",
+    "plant:output:electricity": "6.3 MW",
+    "plant:source": "hydro",
+    "power": "plant",
+    "roof:angle": "6",
+    "roof:colour": "#404A65",
+    "roof:shape": "skillion",
+    "start_date": "1953"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1480019,
+     62.150606
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "name": "Heygaverki\u00f0",
+    "operator": "SEV",
+    "plant:output:electricity": "4.8 MW",
+    "plant:source": "hydro",
+    "power": "plant",
+    "start_date": "1963"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8042386,
+     61.4684624
+    ]
+   },
+   "properties": {
+    "building": "industrial",
+    "name": "V\u00e1gsverki\u00f0",
+    "operator": "SEV",
+    "plant:method": "combustion",
+    "plant:output:electricity": "9.5 MW",
+    "plant:source": "oil",
+    "power": "plant",
+    "start_date": "1982"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8701252,
+     61.4863094
+    ]
+   },
+   "properties": {
+    "frequency": "50",
+    "generator:type": "pelton_turbine",
+    "landuse": "industrial",
+    "name": "Elektrisitetsverki\u00f0 i Botni",
+    "operator": "SEV",
+    "plant:method": "water-storage",
+    "plant:output:electricity": "3.3 MW",
+    "plant:source": "hydro",
+    "power": "plant",
+    "start_date": "1921",
+    "wikidata": "Q3445129"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.072659,
+     62.2813182
+    ]
+   },
+   "properties": {
+    "addr:street": "\u00ed Barmi",
+    "generator:type": "vertical_axis",
+    "landuse": "industrial",
+    "name": "Ei\u00f0isverki\u00f0",
+    "name:en": "Ei\u00f0i Hydroelectric Power Station",
+    "operator": "SEV",
+    "plant:method": "water-storage",
+    "plant:output:electricity": "21.7 MW",
+    "plant:source": "hydro",
+    "power": "plant",
+    "start_date": "1987-04-28",
+    "wikidata": "Q17769372"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7102601,
+     61.4065241
+    ]
+   },
+   "properties": {
+    "name": "Sumba solar power plant",
+    "operator": "SEV",
+    "plant:method": "photovoltaic",
+    "plant:output:electricity": "261 kW",
+    "plant:source": "solar",
+    "power": "plant",
+    "start_date": "2019-12"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6462321,
+     62.1026423
+    ]
+   },
+   "properties": {
+    "landuse": "industrial",
+    "power": "plant"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8628214,
+     62.0522481
+    ]
+   },
+   "properties": {
+    "landuse": "industrial",
+    "name": "Sund",
+    "operator": "SEV",
+    "plant:output:electricity": "82 MW",
+    "plant:source": "oil",
+    "power": "plant"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8148536,
+     62.047434
+    ]
+   },
+   "properties": {
+    "name": "F\u00f8rka",
+    "plant:source": "biogas",
+    "power": "plant",
+    "start_date": "2020"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0721505,
+     62.2803926
+    ]
+   },
+   "properties": {
+    "plant:output:electricity": "yes",
+    "plant:source": "hydro",
+    "power": "plant"
+   }
+  }
+ ]
+}

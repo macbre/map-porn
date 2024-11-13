@@ -74,10 +74,20 @@ EXTRA_TAG_VALUE = None
 # https://wiki.openstreetmap.org/wiki/Key:railway
 # <tag k="railway" v="narrow_gauge"/>
 # <tag k="railway" v="funicular"/>
-TAG_KEY = 'railway'
-TAG_VALUE = 'narrow_gauge'
-EXTRA_TAG_KEY = 'railway'
-EXTRA_TAG_VALUE = None
+# TAG_KEY = 'railway'
+# TAG_VALUE = 'narrow_gauge'
+# EXTRA_TAG_KEY = 'railway'
+# EXTRA_TAG_VALUE = None
+
+# https://wiki.openstreetmap.org/wiki/Tag:landuse%3Dforest
+# <tag k="landuse" v="forest"/>
+# TAG_KEY = 'landuse'
+# TAG_VALUE = 'forest'
+
+# https://wiki.openstreetmap.org/wiki/Tag:power=plant
+# <tag k="power" v="plant"/>
+TAG_KEY = 'power'
+TAG_VALUE = 'plant'
 
 
 def cache_osm_file():
