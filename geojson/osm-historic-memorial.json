@@ -1,0 +1,778 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7693761,
+     62.0120789
+    ]
+   },
+   "properties": {
+    "access": "yes",
+    "gns_classification": "MNMT",
+    "gns_uni": "-3810395",
+    "historic": "memorial",
+    "memorial": "obelisk",
+    "name": "Kongaminni\u00f0",
+    "source": "GNS",
+    "start_date": "1874"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7803426,
+     62.016393
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1763541,
+     62.1534039
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.764153,
+     61.5462895
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "name": "for a local poet, Poul F. Joensen",
+    "subject:wikidata": "Q331807",
+    "subject:wikipedia": "da:Poul F. Joensen"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7761855,
+     62.0132476
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "name": "Hans Andreas Djurhuus",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7725083,
+     62.0107521
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "name": "Madar og Kona",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6540425,
+     62.1038341
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "name": "Til minnis um fahr Mykinesmen"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7757884,
+     62.0101888
+    ]
+   },
+   "properties": {
+    "artist_name": "Andreas Andreasen",
+    "artwork_type": "statue",
+    "name": "Havnarkonur",
+    "start_date": "1992",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8866057,
+     61.9044549
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7746394,
+     62.0090575
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7697661,
+     62.009425
+    ]
+   },
+   "properties": {
+    "artist_name": "Ey\u00f0un Eliasen",
+    "artwork_type": "statue",
+    "name": "\u00c1art\u00fan",
+    "tourism": "artwork",
+    "website": "http://www.eya.fo/#/aartun/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.583023,
+     62.2252221
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5838379,
+     62.2274535
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "name": "J. F. Kj\u00f8lbro",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7225585,
+     62.1148404
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "name": "S\u00edmun \u00e1 H\u00f8gab\u00f3li",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7869413,
+     61.5498583
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "name": "Memorial to Lost at Sea"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8301169,
+     61.5620888
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "name": "Monument Rasmus Effers\u00f8e"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7715955,
+     62.0100636
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7720165,
+     62.0097056
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9437195,
+     62.3240288
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "name": "Minnisvar\u0111in"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6686542,
+     62.2459879
+    ]
+   },
+   "properties": {
+    "artist_name": "\u00c1rni Ziska",
+    "historic": "memorial",
+    "material": "stone",
+    "name": "Minnisvar\u00f0in"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6838463,
+     62.106571
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6855573,
+     62.1079407
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6727855,
+     62.1040908
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6991799,
+     62.2104033
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9036151,
+     62.1171437
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.809483,
+     61.4734159
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "memorial": "statue"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8256281,
+     61.4711226
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "memorial": "statue"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0930328,
+     62.2765164
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "name": "Mindesm\u00e6rke for S\u00f8m\u00e6nd"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1487632,
+     62.0553056
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "name:en": "V.U. Hammershaimb memorial statue"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8159822,
+     61.8312555
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6714469,
+     61.8287545
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6745218,
+     61.8283685
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6552815,
+     61.8307396
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7754986,
+     62.007488
+    ]
+   },
+   "properties": {
+    "artist_name": "Gianfranco Nonne",
+    "artwork_type": "statue",
+    "name": "Fiskakonan",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7593658,
+     61.4568656
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7722345,
+     62.0101301
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7716621,
+     62.0103003
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3453695,
+     62.0807327
+    ]
+   },
+   "properties": {
+    "fixme": "exact location?",
+    "historic": "memorial",
+    "image": "https://kvf.fo/sites/default/files/233_8595_01.mp4.09_24_22_23.still001.jpg",
+    "inscription": "3 August 1996",
+    "memorial": "stele",
+    "name:en": "Monument to the 1996 Selvik air crash",
+    "start_date": "2021-08-03",
+    "wikipedia": "en:V\u00e1gar Airport#Accidents and incidents"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3463469,
+     62.2766559
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "memorial": "plaque",
+    "name": "Skotagravirnar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5253316,
+     62.2929561
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "memorial": "stone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5253342,
+     62.2957155
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7782117,
+     62.0144737
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8116417,
+     62.3690036
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "name": "James Bond"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5816152,
+     62.2266069
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "name": "S/S Sauternes",
+    "name:fo": "J\u00f3laskipi\u00f0"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1510743,
+     62.1543957
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "material": "bronze",
+    "name": "\u00d3lavi \u00e1 Heygum",
+    "tourism": "artwork",
+    "website": "https://fo.wikipedia.org/wiki/%C3%93lavur_%C3%A1_Heygum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.816715,
+     62.2438058
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "memorial": "sculpture"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8174045,
+     62.2422249
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5393974,
+     62.3601945
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "source": "survey"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0930347,
+     62.2990991
+    ]
+   },
+   "properties": {
+    "artwork_type": "statue",
+    "tourism": "artwork"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5837861,
+     62.2253272
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9303241,
+     61.6297957
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "memorial": "stone",
+    "name": "Ska\u00f0agrindin 13-02-1915"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9536967,
+     61.6034024
+    ]
+   },
+   "properties": {
+    "historic": "memorial",
+    "memorial": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9453166,
+     61.6033375
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9276565,
+     61.6329008
+    ]
+   },
+   "properties": {
+    "historic": "memorial"
+   }
+  }
+ ]
+}
