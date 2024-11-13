@@ -1,0 +1,1268 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3431867,
+     62.278813
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Sv\u00ednoyar kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804403",
+    "wikimedia_commons": "Category:Sv\u00ednoyar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7256697,
+     62.1278398
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Glyvra kirkja",
+    "religion": "christian",
+    "wikidata": "Q20617971",
+    "wikimedia_commons": "Category:Glyvra kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7386501,
+     62.0871162
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Fr\u00ed\u00f0rikskirkja",
+    "religion": "christian",
+    "wikidata": "Q1471711",
+    "wikimedia_commons": "Category:Fr\u00ed\u00f0rikskirkjan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7844951,
+     62.0074214
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "email": "vesturkirkjan@olivant.fo",
+    "name": "Vesturkirkjan",
+    "opening_hours": "Mo-Fr 15:00-17:00",
+    "phone": "+298 314251",
+    "religion": "christian",
+    "wikidata": "Q1321091",
+    "wikimedia_commons": "Category:Vesturkirkjan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7719775,
+     62.0095842
+    ]
+   },
+   "properties": {
+    "addr:city": "T\u00f3rshavn",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Havnar Kirkja",
+    "religion": "christian",
+    "website": "http://www.folkakirkjan.fo/",
+    "wikidata": "Q1072725",
+    "wikipedia": "fo:Havnar Kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8849952,
+     61.9565676
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Hests kirkja",
+    "religion": "christian",
+    "wikidata": "Q20618420",
+    "wikimedia_commons": "Category:Hests kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6760267,
+     62.0084699
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "N\u00f3lsoyar Kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804411",
+    "wikimedia_commons": "Category:N\u00f3lsoyar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7933415,
+     61.9516578
+    ]
+   },
+   "properties": {
+    "addr:city": "Kirkjub\u00f8ur",
+    "addr:housenumber": "2",
+    "addr:postcode": "175",
+    "addr:street": "Gamlivegur",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "\u00d3lavskirkjan",
+    "name:en": "Saint Olav's Church",
+    "name:pl": "Ko\u015bci\u00f3\u0142 \u015bw. Olafa",
+    "religion": "christian",
+    "wikidata": "Q631984",
+    "wikimedia_commons": "Category:Olavskirken"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.370561,
+     62.0864101
+    ]
+   },
+   "properties": {
+    "addr:city": "B\u00f8ur",
+    "addr:country": "FO",
+    "addr:housenumber": "2",
+    "addr:postcode": "386",
+    "addr:street": "Kirkjubreyt",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "building:levels": "1",
+    "denomination": "lutheran",
+    "name": "B\u00edggjar kirkja",
+    "religion": "christian",
+    "roof:levels": "1",
+    "roof:orientation": "along",
+    "roof:shape": "gabled",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "wikidata": "Q20616220",
+    "wikimedia_commons": "Category:B\u00edggjar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774475,
+     61.9977202
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Argja Kirkja",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.309213,
+     62.0730279
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "S\u00f8rv\u00e1gs kirkja",
+    "religion": "christian",
+    "wheelchair": "yes",
+    "wikidata": "Q104804406",
+    "wikimedia_commons": "Category:S\u00f8rv\u00e1gs kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1946305,
+     62.0481805
+    ]
+   },
+   "properties": {
+    "addr:housenumber": "23",
+    "addr:street": "Leitisvegur",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Mi\u00f0v\u00e1gs kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804407",
+    "wikimedia_commons": "Category:Mi\u00f0v\u00e1gs kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0922656,
+     62.2758516
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Hald\u00f3rsv\u00edkar kirkja",
+    "religion": "christian",
+    "wikidata": "Q20618168",
+    "wikimedia_commons": "Category:Hald\u00f3rsv\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1483378,
+     62.2892877
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Tj\u00f8rnuv\u00edkar kirkja",
+    "religion": "christian",
+    "wikidata": "Q20621500",
+    "wikimedia_commons": "Category:Tj\u00f8rnuv\u00edkar kirkja",
+    "wikipedia": "da:Tj\u00f8rnuv\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6765038,
+     61.7837248
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Dals kirkja",
+    "religion": "christian",
+    "wikidata": "Q20616346",
+    "wikimedia_commons": "Category:Dals kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8051995,
+     61.7700745
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "evangelical",
+    "name": "Sk\u00favoyar kirkja",
+    "religion": "christian",
+    "wheelchair": "no",
+    "wikidata": "Q67446234",
+    "wikimedia_commons": "Category:Sk\u00favoyar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9534249,
+     61.5976787
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Hvalbiar kirkja",
+    "religion": "christian",
+    "wikidata": "Q25637508",
+    "wikimedia_commons": "Category:Hvalbiar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.318259,
+     62.3185894
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Kirkju kirkja",
+    "religion": "christian",
+    "wikidata": "Q11980768",
+    "wikimedia_commons": "Category:Kirkju kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2772475,
+     62.3289825
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Hattarv\u00edkar kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804414",
+    "wikimedia_commons": "Category:Hattarv\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5436444,
+     62.3598905
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Vi\u00f0arei\u00f0is kirkja",
+    "religion": "christian",
+    "wikidata": "Q11003117",
+    "wikimedia_commons": "Category:Vi\u00f0arei\u00f0is kirkja",
+    "wikipedia": "da:Vi\u00f0arei\u00f0is kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5379293,
+     62.2549062
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "\u00c1rnafjar\u00f0ar kirkja",
+    "religion": "christian",
+    "wikidata": "Q20622028",
+    "wikimedia_commons": "Category:\u00c1rnafjar\u00f0ar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6436599,
+     62.1039834
+    ]
+   },
+   "properties": {
+    "addr:city": "Mykines",
+    "addr:housenumber": "10",
+    "addr:postcode": "388",
+    "addr:street": "T\u00faalsvegur",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Mykinesar kirkja",
+    "name:en": "Church of Mykines",
+    "religion": "christian",
+    "wikidata": "Q19382103",
+    "wikimedia_commons": "Category:Mykinesar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7668853,
+     62.335765
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Mikladals kirkja",
+    "religion": "christian",
+    "wikidata": "Q67444762",
+    "wikimedia_commons": "Category:Mikladals kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6957594,
+     62.2648171
+    ]
+   },
+   "properties": {
+    "addr:housenumber": "6",
+    "addr:postcode": "796",
+    "addr:street": "Kalsoyarvegur",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "H\u00fasar Kirkja",
+    "religion": "christian",
+    "wikidata": "Q20618758",
+    "wikimedia_commons": "Category:H\u00fasar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9665138,
+     62.2868591
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Funnings kirkja",
+    "religion": "christian",
+    "wikidata": "Q3379802",
+    "wikimedia_commons": "Category:Funnings kirkja",
+    "wikipedia": "da:Funnings kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9430121,
+     62.3243652
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Gj\u00e1ar kirkja",
+    "name:fo": "Gj\u00e1ar kirkja",
+    "religion": "christian",
+    "wikidata": "Q11972130",
+    "wikimedia_commons": "Category:Gj\u00e1ar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9133278,
+     62.2824419
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Elduv\u00edkar Kirkja",
+    "religion": "christian",
+    "wikidata": "Q20616748",
+    "wikimedia_commons": "Category:Elduv\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5869108,
+     62.2254898
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Christianskirkjan",
+    "religion": "christian",
+    "wikidata": "Q1082994",
+    "wikimedia_commons": "Category:Christianskirkjan",
+    "wikipedia": "da:Christianskirkjan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1722683,
+     62.1537751
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Vestmanna kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804417",
+    "wikimedia_commons": "Category:Vestmanna kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8589393,
+     62.1965675
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "charismatic",
+    "name": "Keldan",
+    "religion": "christian",
+    "website": "https://keldan.fo/",
+    "wikidata": "Q25637555",
+    "wikipedia": "fo:Keldan (samkoma)"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9018157,
+     62.1170208
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Kollafjar\u00f0ar kirkja",
+    "religion": "christian",
+    "wikidata": "Q20619296",
+    "wikimedia_commons": "Category:Kollafjar\u00f0ar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8520103,
+     62.2770297
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Oyndarfjar\u00f0ar kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804398",
+    "wikimedia_commons": "Category:Oyndarfjar\u00f0ar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9295834,
+     61.6334523
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Sandv\u00edkar kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804394",
+    "wikimedia_commons": "Category:Sandv\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7465347,
+     62.1933374
+    ]
+   },
+   "properties": {
+    "addr:city": "G\u00f8tugj\u00f3gv",
+    "addr:country": "FO",
+    "addr:housenumber": "7",
+    "addr:postcode": "511",
+    "addr:street": "G\u00f8tuvegur",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "G\u00f8tu Kirkja",
+    "religion": "christian",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "wikidata": "Q1560021",
+    "wikimedia_commons": "Category:G\u00f8tu kirkja",
+    "wikipedia": "de:G\u00f8tu Kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6839461,
+     62.1062857
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Rituv\u00edkar kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804413",
+    "wikimedia_commons": "Category:Rituv\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8013921,
+     61.5538961
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Tv\u00f8royrar Kirkja",
+    "religion": "christian",
+    "wikidata": "Q5117759",
+    "wikimedia_commons": "Category:Tv\u00f8royrar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1513116,
+     62.0539238
+    ]
+   },
+   "properties": {
+    "alt_name": "Sandav\u00e1gur kirke",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Sandav\u00e1gs kirkja",
+    "name:en": "Church of Sandav\u00e1gur",
+    "religion": "christian",
+    "wikidata": "Q3585633",
+    "wikimedia_commons": "Category:Sandav\u00e1gs kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7097151,
+     62.2113903
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Leirv\u00edkar Kirkja",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7799495,
+     62.0144186
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "roman_catholic",
+    "name": "Mariukirkjan",
+    "religion": "christian",
+    "wikidata": "Q938587",
+    "wikimedia_commons": "Category:St. Mary's Catholic Church (T\u00f3rshavn)",
+    "wikipedia": "da:Mariukirkjan"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.881253,
+     61.9025336
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Skopunar kirkja",
+    "religion": "christian",
+    "wikidata": "Q67442449",
+    "wikimedia_commons": "Category:Skopunar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8811598,
+     61.9019505
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Missi\u00f3nsh\u00fasi\u00f0",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8811652,
+     62.1574303
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Selatra\u00f0ar Kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804396",
+    "wikimedia_commons": "Category:Selatra\u00f0ar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9442651,
+     62.1520717
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "H\u00f3sv\u00edkar kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804401",
+    "wikimedia_commons": "Category:H\u00f3sv\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7130099,
+     61.4041162
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Sumbiar Kirkja",
+    "religion": "christian",
+    "wikidata": "Q67486846",
+    "wikimedia_commons": "Category:Sumbiar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7299317,
+     62.0813076
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Nes kirkja",
+    "religion": "christian",
+    "wikidata": "Q20620274",
+    "wikimedia_commons": "Category:Nes kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.074278,
+     62.1175516
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Kv\u00edv\u00edkar kirkja",
+    "religion": "christian",
+    "wikidata": "Q20619547",
+    "wikimedia_commons": "Category:Kv\u00edv\u00edkar kirkja",
+    "wikipedia": "da:Kv\u00edv\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6716643,
+     62.2929071
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Kunoyar kirkja",
+    "religion": "christian",
+    "wikidata": "Q20619477",
+    "wikimedia_commons": "Category:Kunoyar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1801807,
+     62.2464171
+    ]
+   },
+   "properties": {
+    "addr:city": "Saksun",
+    "addr:housenumber": "20",
+    "addr:postcode": "436",
+    "addr:street": "Saksunarvegur",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Saksunar Kirkja",
+    "religion": "christian",
+    "start_date": "1858",
+    "wikidata": "Q11999142",
+    "wikimedia_commons": "Category:Saksunar kirkja",
+    "wikipedia": "no:Saksunar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.811875,
+     61.8331602
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "check_date": "2023-08-05",
+    "name": "Sands kirkja",
+    "religion": "christian",
+    "wikidata": "Q431648",
+    "wikimedia_commons": "Category:Sands kirkja",
+    "wikipedia": "da:Sands kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0061174,
+     62.2160113
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Nor\u00f0sk\u00e1la kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804400",
+    "wikimedia_commons": "Category:Nor\u00f0sk\u00e1la kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6696097,
+     61.8301427
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Sk\u00e1lav\u00edkar kirkja",
+    "religion": "christian",
+    "wikidata": "Q12001296",
+    "wikimedia_commons": "Category:Sk\u00e1lav\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.519274,
+     62.2929689
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Hvannasunds kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804404",
+    "wikimedia_commons": "Category:Hvannasunds kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.832686,
+     62.0582984
+    ]
+   },
+   "properties": {
+    "addr:city": "Kaldbak",
+    "addr:country": "FO",
+    "addr:housenumber": "2",
+    "addr:postcode": "180",
+    "addr:street": "Krossg\u00f8ta",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Kaldbaks kirkja",
+    "religion": "christian",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "wikidata": "Q67442775",
+    "wikimedia_commons": "Category:Kaldbaks kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0357726,
+     62.1872561
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Hvalv\u00edkar kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804416",
+    "wikimedia_commons": "Category:Hvalv\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0909163,
+     62.2991912
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Ei\u00f0iskirkja",
+    "religion": "christian",
+    "wikidata": "Q20616696",
+    "wikimedia_commons": "Category:Ei\u00f0is kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7464416,
+     61.4808044
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Porkeris kirkja",
+    "religion": "christian",
+    "wikidata": "Q3425487",
+    "wikimedia_commons": "Category:Porkeris kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.754014,
+     62.117743
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Sj\u00f3var kirkja",
+    "religion": "christian",
+    "wikidata": "Q67326959",
+    "wikimedia_commons": "Category:Sj\u00f3var kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7394415,
+     62.1974018
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Nor\u00f0rag\u00f8ta Kirkja",
+    "religion": "christian",
+    "wikidata": "Q20618151",
+    "wikimedia_commons": "Category:Gamla kirkjan \u00ed G\u00f8tu"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7698576,
+     62.0298182
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Hoyv\u00edkar Kirkja",
+    "religion": "christian",
+    "wikidata": "Q20618545"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.879629,
+     61.5257422
+    ]
+   },
+   "properties": {
+    "addr:city": "F\u00e1mjin",
+    "addr:country": "FO",
+    "addr:housenumber": "5",
+    "addr:postcode": "870",
+    "addr:street": "F\u00e1mjinsvegur",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "F\u00e1mjins kirkja",
+    "religion": "christian",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "wikidata": "Q20617515",
+    "wikimedia_commons": "Category:F\u00e1mjins kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8105734,
+     61.5325612
+    ]
+   },
+   "properties": {
+    "addr:city": "\u00d8r\u00f0av\u00edk",
+    "addr:country": "FO",
+    "addr:housenumber": "1",
+    "addr:postcode": "827",
+    "addr:street": "B\u00f3ndat\u00fan",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "\u00d8rav\u00edkar kirkja",
+    "religion": "christian",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "wikidata": "Q67443244",
+    "wikimedia_commons": "Category:\u00d8rav\u00edkar kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7598245,
+     61.5069671
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Hovs kirkja",
+    "religion": "christian",
+    "wikidata": "Q67440312",
+    "wikimedia_commons": "Category:Hovs kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8085398,
+     61.4737486
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "V\u00e1gs kirkja",
+    "religion": "christian",
+    "wikidata": "Q20621910",
+    "wikimedia_commons": "Category:V\u00e1gs kirkja"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8154674,
+     62.2429427
+    ]
+   },
+   "properties": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "protestant",
+    "name": "Fuglafjar\u00f0ar Kirkja",
+    "religion": "christian",
+    "wikidata": "Q104804409",
+    "wikimedia_commons": "Category:Fuglafjar\u00f0ar kirkja"
+   }
+  }
+ ]
+}

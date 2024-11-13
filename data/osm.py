@@ -86,8 +86,12 @@ EXTRA_TAG_VALUE = None
 
 # https://wiki.openstreetmap.org/wiki/Tag:power=plant
 # <tag k="power" v="plant"/>
-TAG_KEY = 'power'
-TAG_VALUE = 'plant'
+# TAG_KEY = 'power'
+# TAG_VALUE = 'plant'
+
+# https://wiki.openstreetmap.org/wiki/Tag:building=church
+TAG_KEY = 'building'
+TAG_VALUE = 'church'
 
 
 def cache_osm_file():
