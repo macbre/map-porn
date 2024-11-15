@@ -18,30 +18,41 @@
 
 	<link rel="license" href="https://creativecommons.org/licenses/by/4.0/" />
 
-	<body lang="en">
+	<body lang="en" _lang="pl">
 		<div id="wrapper">
 			<section id="overlay">
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Mountain peaks</h2>
-				<h2 lang="pl">Górskie szczyty</h2>
+				<h2 lang="en">Energy supply</h2>
+				<h2 lang="pl">Źródła energii</h2>
 
 				<legend style="width: 41%">
 					<!-- <img src="https://3.bp.blogspot.com/-d6oBGCensQ8/U2ADslYwc4I/AAAAAAAAIXM/SSR4NbDTxP8/s1600/IMG_0500.jpg"> -->
 					<p lang="en">
-						Between Eiði and Funningur lies <b>the highest Faroese mountain - Slættaratindur (880 m ASL)</b>. It is one of ten mountains on Faroe Islands which rise to over 800 m ASL.
+						Historically, <b>peat has been used for heating</b> and cooking on Faroe Islands.
+						The pioneer Ólavur á Heygum conducted the <b>hydropower experiments</b> in Vestmanna in 1907. The first hydropower plant, commissioned in 1921, <b>remains operational today</b>.
 						<br><br>
-						<b>Kunoy is the most mountainous of all islands</b> - six of the top 10 highest peaks are located there.
+						SEV — jointly owned by the municipalities — was founded in 1946 and is responsible for the electricity supply.
 						<br><br>
-						The list of Faroe Islands mountains consist of <b>around 340 peaks that raise at least 100 m above the sea level</b>.
+						The <b>first wind turbines</b> on the Islands were installed in 1993.
+						The <b>biogas plant</b> FÖRKA outside Tórshavn was put into operation in 2020, and the <b>solar plant trial</b> on Suðuroy started a year earlier..
+						<br><br>
+						In February 2024 <b>tidal powerplant in Vestmanna</b> delivered its first electricity to the national grid.
+						<br><br>
+						Vision 2030 sets the goal for <b>all electricity on Faroese land to come from green energy sources by 2030</b>.
 					</p>
 					<p lang="pl" _style="font-size: 1.6rem">
-						Między osadami Eiði i Funningur na wysokość 880 metrów wznosi się <b>najwyższy farerski szczyt Slættaratindur</b>. To jedna z dziesięciu gór na Wyspach Owczych, które sięgają na wysokość ponad 800 metrów.
+						Podstawowym paliwem na Wyspach Owczych był przez wieki <b>torf</b>. Pionierskie próby związane z pozyskaniem <b>energii z mas wody</b> podjął w roku 1907 Ólavur á Heygum.
+						Pierwsza, uruchomiona w 1921 r. na Suðuroy, hydroelektrownia działa do dziś.
 						<br><br>
-						<b>Najwyższą wyspą archipelagu jest Kunoy</b> - aż sześć z pierwszej dziesiątki najwyższych wzniesień położonych jest właśnie tam.
+						Samorządowa spółka odpowiedzialna za dostawy energii elektrycznej powstała w 1946 roku.
 						<br><br>
-						W sumie farerskie mapy upstrzone są <b>około 340 górskimi szczytami o wysokości co najmniej stu metrów nad poziom morza</b>.
+						Pierwsze <b>turbiny wiatrowe</b> zainstalowano w roku 1993. W roku 2020 na opłotkach Tórshavn rozpoczęto produkcję <b>energii z biogazu</b>, zaś rok wcześniej ruszyły testy <b>farmy paneli słonecznych</b> (!) na Suðuroy.
+						<br><br>
+						W lutym 2024 r. do sieci trafił prąd z instalacji pozyskującej <b>energię z fal morskich w Vestmannie</b>.
+						<br><br>
+						Cel "Vision 2030" zakłada <b>pozyskiwanie energii elektrycznej na Wyspach Owczych wyłączenie ze źródeł odnowialnych</b>.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -79,7 +90,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, -->Umhvørvisstovan, OpenStreetMaps
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, -->SEV, OpenStreetMaps, trap.fo
 					</p>
 				</div>
 
@@ -100,7 +111,7 @@
 		<script>
 		(async() => {			
 			const colors = [
-				'blue', 'yellow', 'green', 'red', 'dark-green',
+				'blue', 'yellow', 'green', 'red', 'dark-green', 'orange'
 			];
 
 			await initMap(async (map) => {
@@ -113,35 +124,25 @@
 				// 	const color = 'green';
             	// 	L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
 				// });
-
-				const geojsonFeatures = await fetchGeoJSON('/geojson/osm-natural-peak.json');
 				let counts = [];
 
-				L.geoJSON(geojsonFeatures, {
+				L.geoJSON(await fetchGeoJSON('/geojson/osm-power-plant.json'), {
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
 
-						// green / blue / yellow / red
-						const ele = parseInt(feature.properties.ele, 10); console.log(feature, ele);
-						let color = '';
+						// duplicated entry on Mykines
+						if (geo[0] == -7.6462321) return;
 
-						if (ele > 800) {
-							color = 'red';
-						}
-						else if (ele > 700) {
-							color = 'dark-green';
-						}
-						else if (ele > 600) {
-							color = 'green';
-						}
-						else if (ele > 450) {
-							color = 'blue';
-						}
-						else if (ele > 250) {
-							color = 'yellow';
-						}
-						else {
-							return;
+						// "plant:source": "biogas",
+						const type = feature.properties['plant:source']; console.log({geo, type});
+						let color = 'black';
+
+						switch(type) {
+							case 'hydro':  color = 'blue';   break;
+							case 'oil':    color = 'black';  break;
+							case 'solar':  color = 'red';    break;
+							case 'biogas': color = 'green';  break;
+							case 'tidal':  color = 'orange'; break;
 						}
 
 						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
@@ -152,11 +153,25 @@
 					}
 				});
 
-				addLabel('red', 'Over 800 m', 'Ponad 800 m', counts['red']);
-				addLabel('dark-green', 'Over 700 m', 'Ponad 700 m', counts['dark-green']);
-				addLabel('green', 'Over 600 m', 'Ponad 600 m', counts['green']);
-				addLabel('blue', 'Over 450 m', 'Ponad 450 m', counts['blue']);
-				addLabel('yellow', 'Over 250 m', 'Ponad 250 m', counts['yellow']);
+				L.geoJSON(await fetchGeoJSON('/geojson/us-Kortal-SEV-4-vindmylla.json'), {
+					onEachFeature: feature => {
+						const geo = feature.geometry.coordinates;
+						const color = 'dark-green';
+
+						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
+
+						// count colors
+						if (!counts[color]) counts[color] = 0;
+						counts[color]++;
+					}
+				});
+
+				addLabel('dark-green', 'Wind turbine', 'Turbina wiatrowa', counts['dark-green']);
+				addLabel('blue', 'Hydropower plant', 'Elektrownia wodna', counts['blue']);
+				addLabel('black', 'Oil plant / diesel generator', 'Paliwa kopalne', counts['black']);
+				addLabel('red', 'Solar plant', 'Energia słoneczna', counts['red']);
+				addLabel('green', 'Biogas plant', 'Biogaz', counts['green']);
+				addLabel('orange', 'Tidal plant', 'Fale morskie', counts['orange']);
 			});
 
 			// console.log(gridsPerCity);
@@ -164,10 +179,14 @@
 		</script>
 
 		<style>
+			legend p {
+				font-size: 2.8em;
+			}
+
 			/**
 			 * Mountains
 			 * @see https://css-tricks.com/snippets/css/css-triangle/
-			 */
+			 *
 			.marker {
 				width: 0; 
 				height: 0; 
@@ -185,7 +204,7 @@
 
 			.marker.green  { border-bottom-color: #a6d96a }
 			.marker.dark-green  { border-bottom-color: #006837 }
-			.marker.blue   { border-bottom-color: #4575b4 } /* https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10 */
+			.marker.blue   { border-bottom-color: #4575b4 } /* https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10 
 			.marker.yellow { border-bottom-color: #e9bb3a }
 			.marker.red    { border-bottom-color: #d73027 }
 
