@@ -207,6 +207,21 @@
     "plant:source": "hydro",
     "power": "plant"
    }
-  }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+     "type": "Point",
+     "coordinates": [
+      -7.16862,
+      62.14935
+     ]
+    },
+    "properties": {
+     "plant:output:electricity": "yes",
+     "plant:source": "tidal",
+     "power": "plant"
+    }
+   }
  ]
 }
