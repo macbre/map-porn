@@ -116,7 +116,8 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
 .marker.blue   { background-color: #4575b4 } /* https://colorbrewer2.org/#type=diverging&scheme=RdYlBu&n=10 */
 .marker.yellow { background-color: #fee08b }
 .marker.red    { background-color: #d73027 }
-.marker.black  { background-color: #000a; border-radius: 0; }
+.marker.black  { background-color: #000a;  }
+.marker.orange { background-color: #fdae61; }
 /* 
 #map .marker.green {
     width: 24px;

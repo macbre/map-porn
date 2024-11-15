@@ -45,7 +45,7 @@ function setupMap(wrapperId, options, center, zoom) {
 
     // create color panes
     // https://leafletjs.com/examples/map-panes/
-    ['blue', 'yellow', 'green', 'red', 'dark-green'].forEach(color => {
+    ['blue', 'yellow', 'green', 'red', 'dark-green', 'orange', 'black'].forEach(color => {
         map.createPane(`markers-${color}`);
         map.getPane(`markers-${color}`).style.zIndex = {
             'blue': 600,
@@ -53,6 +53,8 @@ function setupMap(wrapperId, options, center, zoom) {
             'green': 800,
             'red': 900,
             'dark-green': 1000,
+            'orange': 1000,
+            'black': 1100,
         }[color] || 500;
     });
 
@@ -102,5 +104,5 @@ async function fetchGeoJSON(url) {
     console.log(`Fetching GeoJSON from <${url}> ...`);
 
     const res = await fetch(url);
-    return JSON.parse(await res.text());
+    return await res.json();
 }
