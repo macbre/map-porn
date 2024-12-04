@@ -16,7 +16,33 @@
     "name": "Sv\u00ednoyar kirkja",
     "religion": "christian",
     "wikidata": "Q104804403",
-    "wikimedia_commons": "Category:Sv\u00ednoyar kirkja"
+    "wikimedia_commons": "Category:Sv\u00ednoyar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1416487,
+      "id": "Q1416487"
+     },
+     "P625": {
+      "latitude": 62.27882,
+      "longitude": -6.34309,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Sv\u00ednoyar kirkja",
+     "P18": "Sv\u00ednoyar kirkja 1899 (cropped).jpg"
+    }
    }
   },
   {
@@ -35,7 +61,41 @@
     "name": "Glyvra kirkja",
     "religion": "christian",
     "wikidata": "Q20617971",
-    "wikimedia_commons": "Category:Glyvra kirkja"
+    "wikimedia_commons": "Category:Glyvra kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1926-05-26T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P18": "Church of Glyvrar, Faroe Islands.JPG",
+     "P625": {
+      "latitude": 62.12779,
+      "longitude": -6.72549,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Glyvra kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1011161,
+      "id": "Q1011161"
+     }
+    }
    }
   },
   {
@@ -54,7 +114,47 @@
     "name": "Fr\u00ed\u00f0rikskirkja",
     "religion": "christian",
     "wikidata": "Q1471711",
-    "wikimedia_commons": "Category:Fr\u00ed\u00f0rikskirkjan"
+    "wikimedia_commons": "Category:Fr\u00ed\u00f0rikskirkjan",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.087080555556,
+      "longitude": -6.7383916666667,
+      "altitude": null,
+      "precision": 0.00027777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P373": "Fr\u00ed\u00f0rikskirkjan",
+     "P18": "Frederik's Church in Nes, Faroe Islands.JPG",
+     "P1619": {
+      "time": "+1994-11-27T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1079297,
+      "id": "Q1079297"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 6479325,
+      "id": "Q6479325"
+     },
+     "P2671": "/g/120p4h6q"
+    }
    }
   },
   {
@@ -76,7 +176,75 @@
     "phone": "+298 314251",
     "religion": "christian",
     "wikidata": "Q1321091",
-    "wikimedia_commons": "Category:Vesturkirkjan"
+    "wikimedia_commons": "Category:Vesturkirkjan",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.0075,
+      "longitude": -6.7841666666667,
+      "altitude": null,
+      "precision": 0.00027777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P149": {
+      "entity-type": "item",
+      "numeric-id": 245188,
+      "id": "Q245188"
+     },
+     "P18": "Vesturkirkjan.2.jpg",
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 944273,
+      "id": "Q944273"
+     },
+     "P140": {
+      "entity-type": "item",
+      "numeric-id": 855585,
+      "id": "Q855585"
+     },
+     "P373": "Vesturkirkjan",
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 192540,
+      "id": "Q192540"
+     },
+     "P1619": {
+      "time": "+1975-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P2048": {
+      "amount": "+42",
+      "unit": "http://www.wikidata.org/entity/Q11573"
+     },
+     "P214": "132743068",
+     "P2671": "/g/120rrj2w",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 10704,
+      "id": "Q10704"
+     },
+     "P2754": {
+      "time": "+1975-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     }
+    }
    }
   },
   {
@@ -97,7 +265,73 @@
     "religion": "christian",
     "website": "http://www.folkakirkjan.fo/",
     "wikidata": "Q1072725",
-    "wikipedia": "fo:Havnar Kirkja"
+    "wikipedia": "fo:Havnar Kirkja",
+    "wikidata_claims": {
+     "P373": "T\u00f3rshavn Cathedral",
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.00963,
+      "longitude": -6.7716,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 944273,
+      "id": "Q944273"
+     },
+     "P646": "/m/07mpsd",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 56242235,
+      "id": "Q56242235"
+     },
+     "P18": "T\u00f3rshavn.2006.6.jpg",
+     "P935": "Havnar Kirkja",
+     "P140": {
+      "entity-type": "item",
+      "numeric-id": 855585,
+      "id": "Q855585"
+     },
+     "P571": {
+      "time": "+1788-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P149": {
+      "entity-type": "item",
+      "numeric-id": 51879601,
+      "id": "Q51879601"
+     },
+     "P910": {
+      "entity-type": "item",
+      "numeric-id": 55245161,
+      "id": "Q55245161"
+     },
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 192540,
+      "id": "Q192540"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 10704,
+      "id": "Q10704"
+     },
+     "P708": {
+      "entity-type": "item",
+      "numeric-id": 12313305,
+      "id": "Q12313305"
+     }
+    }
    }
   },
   {
@@ -115,7 +349,47 @@
     "name": "Hests kirkja",
     "religion": "christian",
     "wikidata": "Q20618420",
-    "wikimedia_commons": "Category:Hests kirkja"
+    "wikimedia_commons": "Category:Hests kirkja",
+    "wikidata_claims": {
+     "P18": "Hestur.10.jpg",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P625": {
+      "latitude": 61.95652,
+      "longitude": -6.88486,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1911-06-05T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "Hests kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1035832,
+      "id": "Q1035832"
+     },
+     "P2671": "/g/11ck8dtykl",
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 208327,
+      "id": "Q208327"
+     }
+    }
    }
   },
   {
@@ -133,7 +407,33 @@
     "name": "N\u00f3lsoyar Kirkja",
     "religion": "christian",
     "wikidata": "Q104804411",
-    "wikimedia_commons": "Category:N\u00f3lsoyar kirkja"
+    "wikimedia_commons": "Category:N\u00f3lsoyar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 240071,
+      "id": "Q240071"
+     },
+     "P625": {
+      "latitude": 62.00842,
+      "longitude": -6.67587,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "N\u00f3lsoyar Kirkja.jpg",
+     "P373": "N\u00f3lsoyar kirkja"
+    }
    }
   },
   {
@@ -158,7 +458,70 @@
     "name:pl": "Ko\u015bci\u00f3\u0142 \u015bw. Olafa",
     "religion": "christian",
     "wikidata": "Q631984",
-    "wikimedia_commons": "Category:Olavskirken"
+    "wikimedia_commons": "Category:Olavskirken",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 61.95161111,
+      "longitude": -6.79319444,
+      "altitude": null,
+      "precision": 2.777777777778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P18": "\u00d3lavskirkjan \u00ed Kirkjub\u00f8.JPG",
+     "P373": "Olavskirken, Streymoy",
+     "P138": {
+      "entity-type": "item",
+      "numeric-id": 208331,
+      "id": "Q208331"
+     },
+     "P571": {
+      "time": "+1250-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985786"
+     },
+     "P2043": {
+      "amount": "+21.8",
+      "unit": "http://www.wikidata.org/entity/Q11573"
+     },
+     "P2049": {
+      "amount": "+7.5",
+      "unit": "http://www.wikidata.org/entity/Q11573"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 1402843,
+      "id": "Q1402843"
+     },
+     "P2671": "/g/11x1ncv04",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 578732,
+      "id": "Q578732"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 578732,
+      "id": "Q578732"
+     },
+     "P3501": {
+      "entity-type": "item",
+      "numeric-id": 375335,
+      "id": "Q375335"
+     }
+    }
    }
   },
   {
@@ -187,7 +550,46 @@
     "roof:shape": "gabled",
     "source": "Umhv\u00f8rvisstovan www.us.fo",
     "wikidata": "Q20616220",
-    "wikimedia_commons": "Category:B\u00edggjar kirkja"
+    "wikimedia_commons": "Category:B\u00edggjar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P625": {
+      "latitude": 62.08636,
+      "longitude": -7.37049,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church building of Bour, Faroe Islands.JPG",
+     "P1619": {
+      "time": "+1865-10-16T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "B\u00edggjar kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 855276,
+      "id": "Q855276"
+     }
+    }
    }
   },
   {
@@ -222,7 +624,33 @@
     "religion": "christian",
     "wheelchair": "yes",
     "wikidata": "Q104804406",
-    "wikimedia_commons": "Category:S\u00f8rv\u00e1gs kirkja"
+    "wikimedia_commons": "Category:S\u00f8rv\u00e1gs kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 906365,
+      "id": "Q906365"
+     },
+     "P625": {
+      "latitude": 62.07299,
+      "longitude": -7.30912,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church of S\u00f8rv\u00e1gur, Faroe Islands.JPG",
+     "P373": "S\u00f8rv\u00e1gs kirkja"
+    }
    }
   },
   {
@@ -243,7 +671,33 @@
     "name": "Mi\u00f0v\u00e1gs kirkja",
     "religion": "christian",
     "wikidata": "Q104804407",
-    "wikimedia_commons": "Category:Mi\u00f0v\u00e1gs kirkja"
+    "wikimedia_commons": "Category:Mi\u00f0v\u00e1gs kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 855785,
+      "id": "Q855785"
+     },
+     "P625": {
+      "latitude": 62.04815,
+      "longitude": -7.19445,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Mi\u00f0v\u00e1gur, Faroe Islands (2).JPG",
+     "P373": "Mi\u00f0v\u00e1gs kirkja"
+    }
    }
   },
   {
@@ -261,7 +715,41 @@
     "name": "Hald\u00f3rsv\u00edkar kirkja",
     "religion": "christian",
     "wikidata": "Q20618168",
-    "wikimedia_commons": "Category:Hald\u00f3rsv\u00edkar kirkja"
+    "wikimedia_commons": "Category:Hald\u00f3rsv\u00edkar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.27586,
+      "longitude": -7.09242,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Haldarsv\u00edk 2013.JPG",
+     "P1619": {
+      "time": "+1856-12-07T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "Hald\u00f3rsv\u00edkar kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1032883,
+      "id": "Q1032883"
+     }
+    }
    }
   },
   {
@@ -281,7 +769,47 @@
     "religion": "christian",
     "wikidata": "Q20621500",
     "wikimedia_commons": "Category:Tj\u00f8rnuv\u00edkar kirkja",
-    "wikipedia": "da:Tj\u00f8rnuv\u00edkar kirkja"
+    "wikipedia": "da:Tj\u00f8rnuv\u00edkar kirkja",
+    "wikidata_claims": {
+     "P18": "Church of Tj\u00f8rnuv\u00edk, Faroe Islands.JPG",
+     "P373": "Tj\u00f8rnuv\u00edkar kirkja",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P1619": {
+      "time": "+1937-10-18T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P625": {
+      "latitude": 62.28929,
+      "longitude": -7.14822,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1093578,
+      "id": "Q1093578"
+     },
+     "P2671": "/g/11c3w8zcx5"
+    }
    }
   },
   {
@@ -300,7 +828,46 @@
     "name": "Dals kirkja",
     "religion": "christian",
     "wikidata": "Q20616346",
-    "wikimedia_commons": "Category:Dals kirkja"
+    "wikimedia_commons": "Category:Dals kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1957-10-20T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P625": {
+      "latitude": 61.78365,
+      "longitude": -6.6765,
+      "altitude": null,
+      "precision": 1e-07,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Dals kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 519723,
+      "id": "Q519723"
+     },
+     "P18": "Dals kirkja 01 (cropped).jpg",
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 208321,
+      "id": "Q208321"
+     }
+    }
    }
   },
   {
@@ -320,7 +887,33 @@
     "religion": "christian",
     "wheelchair": "no",
     "wikidata": "Q67446234",
-    "wikimedia_commons": "Category:Sk\u00favoyar kirkja"
+    "wikimedia_commons": "Category:Sk\u00favoyar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P18": "Sk\u00favoyar kirkja 2013.JPG",
+     "P625": {
+      "latitude": 61.77001,
+      "longitude": -6.80507,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Sk\u00favoyar kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 216849,
+      "id": "Q216849"
+     }
+    }
    }
   },
   {
@@ -339,7 +932,46 @@
     "name": "Hvalbiar kirkja",
     "religion": "christian",
     "wikidata": "Q25637508",
-    "wikimedia_commons": "Category:Hvalbiar kirkja"
+    "wikimedia_commons": "Category:Hvalbiar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1935-10-27T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P18": "Hvalba church in the summer, Faroe Islands.jpg",
+     "P625": {
+      "latitude": 61.59772,
+      "longitude": -6.95321,
+      "altitude": null,
+      "precision": 1e-07,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 666627,
+      "id": "Q666627"
+     },
+     "P373": "Hvalbiar kirkja",
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 532755,
+      "id": "Q532755"
+     }
+    }
    }
   },
   {
@@ -358,7 +990,52 @@
     "name": "Kirkju kirkja",
     "religion": "christian",
     "wikidata": "Q11980768",
-    "wikimedia_commons": "Category:Kirkju kirkja"
+    "wikimedia_commons": "Category:Kirkju kirkja",
+    "wikidata_claims": {
+     "P18": "The Church on Kirkja, Fugloy, Faroe Islands.JPG",
+     "P373": "Kirkju kirkja",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1933-05-28T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P84": {
+      "entity-type": "item",
+      "numeric-id": 11023954,
+      "id": "Q11023954"
+     },
+     "P625": {
+      "latitude": 62.31851,
+      "longitude": -6.31806,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 375415,
+      "id": "Q375415"
+     },
+     "P2671": "/g/1211rbq9"
+    }
    }
   },
   {
@@ -377,7 +1054,38 @@
     "name": "Hattarv\u00edkar kirkja",
     "religion": "christian",
     "wikidata": "Q104804414",
-    "wikimedia_commons": "Category:Hattarv\u00edkar kirkja"
+    "wikimedia_commons": "Category:Hattarv\u00edkar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 615780,
+      "id": "Q615780"
+     },
+     "P625": {
+      "latitude": 62.32905,
+      "longitude": -6.2771,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Hattarv\u00edkar kirkja",
+     "P18": "Hattarv\u00edkar kirkja, Fugloy (cropped).JPG",
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 934253,
+      "id": "Q934253"
+     }
+    }
    }
   },
   {
@@ -397,7 +1105,47 @@
     "religion": "christian",
     "wikidata": "Q11003117",
     "wikimedia_commons": "Category:Vi\u00f0arei\u00f0is kirkja",
-    "wikipedia": "da:Vi\u00f0arei\u00f0is kirkja"
+    "wikipedia": "da:Vi\u00f0arei\u00f0is kirkja",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P18": "Vi\u00f0arei\u00f0i Kirke (F\u00e6r\u00f8erne).JPG",
+     "P625": {
+      "latitude": 62.35985,
+      "longitude": -6.54345,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P1619": {
+      "time": "+1892-11-20T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "Vi\u00f0arei\u00f0is kirkja",
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 684650,
+      "id": "Q684650"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 901774,
+      "id": "Q901774"
+     },
+     "P2671": "/g/1219s9jd"
+    }
    }
   },
   {
@@ -416,7 +1164,41 @@
     "name": "\u00c1rnafjar\u00f0ar kirkja",
     "religion": "christian",
     "wikidata": "Q20622028",
-    "wikimedia_commons": "Category:\u00c1rnafjar\u00f0ar kirkja"
+    "wikimedia_commons": "Category:\u00c1rnafjar\u00f0ar kirkja",
+    "wikidata_claims": {
+     "P18": "Church of \u00c1rnafj\u00f8r\u00f0ur, Faroe Islands.jpg",
+     "P373": "\u00c1rnafjar\u00f0ar kirkja",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1937-10-10T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P625": {
+      "latitude": 62.25492,
+      "longitude": -6.53777,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 252240,
+      "id": "Q252240"
+     }
+    }
    }
   },
   {
@@ -440,7 +1222,42 @@
     "name:en": "Church of Mykines",
     "religion": "christian",
     "wikidata": "Q19382103",
-    "wikimedia_commons": "Category:Mykinesar kirkja"
+    "wikimedia_commons": "Category:Mykinesar kirkja",
+    "wikidata_claims": {
+     "P18": "Mykinesar kirkja.jpg",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1879-10-16T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P625": {
+      "latitude": 62.10401,
+      "longitude": -7.6439,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Mykinesar kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 213372,
+      "id": "Q213372"
+     },
+     "P2671": "/g/12mkz44_1"
+    }
    }
   },
   {
@@ -458,7 +1275,33 @@
     "name": "Mikladals kirkja",
     "religion": "christian",
     "wikidata": "Q67444762",
-    "wikimedia_commons": "Category:Mikladals kirkja"
+    "wikimedia_commons": "Category:Mikladals kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P18": "Mikladalur.2.Kalsoy.jpg",
+     "P625": {
+      "latitude": 62.3357,
+      "longitude": -6.76681,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Mikladals kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 635350,
+      "id": "Q635350"
+     }
+    }
    }
   },
   {
@@ -480,7 +1323,41 @@
     "name": "H\u00fasar Kirkja",
     "religion": "christian",
     "wikidata": "Q20618758",
-    "wikimedia_commons": "Category:H\u00fasar kirkja"
+    "wikimedia_commons": "Category:H\u00fasar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.26483,
+      "longitude": -6.6955,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P1619": {
+      "time": "+1920-07-11T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 933144,
+      "id": "Q933144"
+     },
+     "P18": "Kalsoy H\u00fasar Kirke.jpg",
+     "P373": "H\u00fasar kirkja"
+    }
    }
   },
   {
@@ -499,7 +1376,52 @@
     "religion": "christian",
     "wikidata": "Q3379802",
     "wikimedia_commons": "Category:Funnings kirkja",
-    "wikipedia": "da:Funnings kirkja"
+    "wikipedia": "da:Funnings kirkja",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.28684,
+      "longitude": -6.96635,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P18": "Faroe Islands, Eysturoy, Funningur (4).jpg",
+     "P373": "Funnings kirkja",
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P1619": {
+      "time": "+1847-11-30T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 585236,
+      "id": "Q585236"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 969578,
+      "id": "Q969578"
+     },
+     "P646": "/m/0264zw0"
+    }
    }
   },
   {
@@ -519,7 +1441,42 @@
     "name:fo": "Gj\u00e1ar kirkja",
     "religion": "christian",
     "wikidata": "Q11972130",
-    "wikimedia_commons": "Category:Gj\u00e1ar kirkja"
+    "wikimedia_commons": "Category:Gj\u00e1ar kirkja",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.32432,
+      "longitude": -6.94297889,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P18": "Church of Gj\u00f3gv, Faroe Islands.JPG",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P373": "Gj\u00e1ar kirkja",
+     "P1619": {
+      "time": "+1929-05-26T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 939708,
+      "id": "Q939708"
+     },
+     "P2671": "/g/122dm2zx"
+    }
    }
   },
   {
@@ -538,7 +1495,46 @@
     "name": "Elduv\u00edkar Kirkja",
     "religion": "christian",
     "wikidata": "Q20616748",
-    "wikimedia_commons": "Category:Elduv\u00edkar kirkja"
+    "wikimedia_commons": "Category:Elduv\u00edkar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1951-10-14T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P625": {
+      "latitude": 62.28236,
+      "longitude": -6.91334,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P373": "Elduv\u00edkar kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 222955,
+      "id": "Q222955"
+     },
+     "P18": "Elduv\u00edkar Kirkja (cropped).jpg"
+    }
    }
   },
   {
@@ -558,7 +1554,57 @@
     "religion": "christian",
     "wikidata": "Q1082994",
     "wikimedia_commons": "Category:Christianskirkjan",
-    "wikipedia": "da:Christianskirkjan"
+    "wikipedia": "da:Christianskirkjan",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.2254,
+      "longitude": -6.58648,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P18": "Christianskirkjan Klaksvik.JPG",
+     "P84": {
+      "entity-type": "item",
+      "numeric-id": 7172068,
+      "id": "Q7172068"
+     },
+     "P373": "Christianskirkjan",
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 1094328,
+      "id": "Q1094328"
+     },
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 202170,
+      "id": "Q202170"
+     },
+     "P1619": {
+      "time": "+1963-07-07T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P2671": "/g/122z2gmw",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 189361,
+      "id": "Q189361"
+     }
+    }
    }
   },
   {
@@ -577,7 +1623,33 @@
     "name": "Vestmanna kirkja",
     "religion": "christian",
     "wikidata": "Q104804417",
-    "wikimedia_commons": "Category:Vestmanna kirkja"
+    "wikimedia_commons": "Category:Vestmanna kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 608352,
+      "id": "Q608352"
+     },
+     "P625": {
+      "latitude": 62.15363,
+      "longitude": -7.17245,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Vestmanna kirkja. 28-05.2007.jpg",
+     "P373": "Vestmanna kirkja"
+    }
    }
   },
   {
@@ -597,7 +1669,8 @@
     "religion": "christian",
     "website": "https://keldan.fo/",
     "wikidata": "Q25637555",
-    "wikipedia": "fo:Keldan (samkoma)"
+    "wikipedia": "fo:Keldan (samkoma)",
+    "wikidata_claims": {}
    }
   },
   {
@@ -615,7 +1688,49 @@
     "name": "Kollafjar\u00f0ar kirkja",
     "religion": "christian",
     "wikidata": "Q20619296",
-    "wikimedia_commons": "Category:Kollafjar\u00f0ar kirkja"
+    "wikimedia_commons": "Category:Kollafjar\u00f0ar kirkja",
+    "wikidata_claims": {
+     "P18": "Church of Kollafj\u00f8r\u00f0ur, Faroe Islands.JPG",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P571": {
+      "time": "+1837-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P625": {
+      "latitude": 62.11702,
+      "longitude": -6.90159,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P214": "307430145",
+     "P373": "Kollafjar\u00f0ar kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 266643,
+      "id": "Q266643"
+     },
+     "P2671": "/g/11fzd0xb95",
+     "P244": "n2014014614"
+    }
    }
   },
   {
@@ -633,7 +1748,33 @@
     "name": "Oyndarfjar\u00f0ar kirkja",
     "religion": "christian",
     "wikidata": "Q104804398",
-    "wikimedia_commons": "Category:Oyndarfjar\u00f0ar kirkja"
+    "wikimedia_commons": "Category:Oyndarfjar\u00f0ar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 730352,
+      "id": "Q730352"
+     },
+     "P625": {
+      "latitude": 62.27699,
+      "longitude": -6.85184,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church of Oyndarfj\u00f8r\u00f0ur, Faroe Islands.JPG",
+     "P373": "Oyndarfjar\u00f0ar kirkja"
+    }
    }
   },
   {
@@ -651,7 +1792,33 @@
     "name": "Sandv\u00edkar kirkja",
     "religion": "christian",
     "wikidata": "Q104804394",
-    "wikimedia_commons": "Category:Sandv\u00edkar kirkja"
+    "wikimedia_commons": "Category:Sandv\u00edkar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1025816,
+      "id": "Q1025816"
+     },
+     "P625": {
+      "latitude": 61.63344,
+      "longitude": -6.92945,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Sandv\u00edkar kirkja..2.jpg",
+     "P373": "Sandv\u00edkar kirkja"
+    }
    }
   },
   {
@@ -677,7 +1844,48 @@
     "source": "Umhv\u00f8rvisstovan www.us.fo",
     "wikidata": "Q1560021",
     "wikimedia_commons": "Category:G\u00f8tu kirkja",
-    "wikipedia": "de:G\u00f8tu Kirkja"
+    "wikipedia": "de:G\u00f8tu Kirkja",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.19343,
+      "longitude": -6.74622,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P149": {
+      "entity-type": "item",
+      "numeric-id": 245188,
+      "id": "Q245188"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P18": "G\u00f8tu kirkja, G\u00f8tugj\u00f3gv, Faroe Islands.JPG",
+     "P5775": "Faroe stamp 426 church of gota.jpg",
+     "P1619": {
+      "time": "+1995-06-25T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "G\u00f8tu kirkja",
+     "P2671": "/g/120qknm0",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1031808,
+      "id": "Q1031808"
+     }
+    }
    }
   },
   {
@@ -695,7 +1903,33 @@
     "name": "Rituv\u00edkar kirkja",
     "religion": "christian",
     "wikidata": "Q104804413",
-    "wikimedia_commons": "Category:Rituv\u00edkar kirkja"
+    "wikimedia_commons": "Category:Rituv\u00edkar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1194895,
+      "id": "Q1194895"
+     },
+     "P625": {
+      "latitude": 62.10621,
+      "longitude": -6.68379,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Rituv\u00edkar kirkja",
+     "P18": "Rituv\u00edkar kirkja 01 (cropped).JPG"
+    }
    }
   },
   {
@@ -714,7 +1948,47 @@
     "name": "Tv\u00f8royrar Kirkja",
     "religion": "christian",
     "wikidata": "Q5117759",
-    "wikimedia_commons": "Category:Tv\u00f8royrar kirkja"
+    "wikimedia_commons": "Category:Tv\u00f8royrar kirkja",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 61.5539,
+      "longitude": -6.801,
+      "altitude": null,
+      "precision": 2.77777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P18": "Tv\u00f8royri kirkja.02.jpg",
+     "P373": "Tv\u00f8royrar kirkja",
+     "P571": {
+      "time": "+1908-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 754666,
+      "id": "Q754666"
+     },
+     "P646": "/m/0j9p57r"
+    }
    }
   },
   {
@@ -735,7 +2009,60 @@
     "name:en": "Church of Sandav\u00e1gur",
     "religion": "christian",
     "wikidata": "Q3585633",
-    "wikimedia_commons": "Category:Sandav\u00e1gs kirkja"
+    "wikimedia_commons": "Category:Sandav\u00e1gs kirkja",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.05393,
+      "longitude": -7.15155,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 1079322,
+      "id": "Q1079322"
+     },
+     "P646": "/m/02z4423",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P18": "Church of Sandav\u00e1gur, Faroe Islands.jpg",
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 207675,
+      "id": "Q207675"
+     },
+     "P571": {
+      "time": "+1917-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P1619": {
+      "time": "+1917-04-29T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "Sandav\u00e1gs kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 845272,
+      "id": "Q845272"
+     }
+    }
    }
   },
   {
@@ -772,7 +2099,78 @@
     "religion": "christian",
     "wikidata": "Q938587",
     "wikimedia_commons": "Category:St. Mary's Catholic Church (T\u00f3rshavn)",
-    "wikipedia": "da:Mariukirkjan"
+    "wikipedia": "da:Mariukirkjan",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P18": "Maria-Kirken2.jpg",
+     "P625": {
+      "latitude": 62.014375312578,
+      "longitude": -6.779776141718,
+      "altitude": null,
+      "precision": 0.000277778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "St. Mary's Catholic Church (T\u00f3rshavn)",
+     "P708": {
+      "entity-type": "item",
+      "numeric-id": 1537518,
+      "id": "Q1537518"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 944273,
+      "id": "Q944273"
+     },
+     "P571": {
+      "time": "+1987-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 192540,
+      "id": "Q192540"
+     },
+     "P138": {
+      "entity-type": "item",
+      "numeric-id": 345,
+      "id": "Q345"
+     },
+     "P140": {
+      "entity-type": "item",
+      "numeric-id": 1841,
+      "id": "Q1841"
+     },
+     "P825": {
+      "entity-type": "item",
+      "numeric-id": 345,
+      "id": "Q345"
+     },
+     "P2971": "42177",
+     "P3501": {
+      "entity-type": "item",
+      "numeric-id": 730757,
+      "id": "Q730757"
+     },
+     "P2671": "/g/122fvgt9",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 10704,
+      "id": "Q10704"
+     }
+    }
    }
   },
   {
@@ -791,7 +2189,41 @@
     "name": "Skopunar kirkja",
     "religion": "christian",
     "wikidata": "Q67442449",
-    "wikimedia_commons": "Category:Skopunar kirkja"
+    "wikimedia_commons": "Category:Skopunar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 61.90249,
+      "longitude": -6.88106,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P571": {
+      "time": "+1897-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "Skopunar kirkja",
+     "P18": "Skopunar kirkja..1.jpg",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 944256,
+      "id": "Q944256"
+     }
+    }
    }
   },
   {
@@ -825,7 +2257,33 @@
     "name": "Selatra\u00f0ar Kirkja",
     "religion": "christian",
     "wikidata": "Q104804396",
-    "wikimedia_commons": "Category:Selatra\u00f0ar kirkja"
+    "wikimedia_commons": "Category:Selatra\u00f0ar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1063000,
+      "id": "Q1063000"
+     },
+     "P625": {
+      "latitude": 62.15744,
+      "longitude": -6.88099,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church of Selatra\u00f0, Faroe Islands.JPG",
+     "P373": "Selatra\u00f0ar kirkja"
+    }
    }
   },
   {
@@ -843,7 +2301,33 @@
     "name": "H\u00f3sv\u00edkar kirkja",
     "religion": "christian",
     "wikidata": "Q104804401",
-    "wikimedia_commons": "Category:H\u00f3sv\u00edkar kirkja"
+    "wikimedia_commons": "Category:H\u00f3sv\u00edkar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 740111,
+      "id": "Q740111"
+     },
+     "P625": {
+      "latitude": 62.15208,
+      "longitude": -6.94397,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church of H\u00f3sv\u00edk, Faroe Islands.JPG",
+     "P373": "H\u00f3sv\u00edkar kirkja"
+    }
    }
   },
   {
@@ -862,7 +2346,33 @@
     "name": "Sumbiar Kirkja",
     "religion": "christian",
     "wikidata": "Q67486846",
-    "wikimedia_commons": "Category:Sumbiar kirkja"
+    "wikimedia_commons": "Category:Sumbiar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P18": "Su\u00f0uroy.Sumba.2.jpg",
+     "P625": {
+      "latitude": 61.40408,
+      "longitude": -6.71319,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Sumbiar kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 901784,
+      "id": "Q901784"
+     }
+    }
    }
   },
   {
@@ -880,7 +2390,46 @@
     "name": "Nes kirkja",
     "religion": "christian",
     "wikidata": "Q20620274",
-    "wikimedia_commons": "Category:Nes kirkja"
+    "wikimedia_commons": "Category:Nes kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.08132,
+      "longitude": -6.72998,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P571": {
+      "time": "+1843-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P18": "Nes kirkja 2004 (cropped).jpg",
+     "P373": "Nes kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1079297,
+      "id": "Q1079297"
+     }
+    }
    }
   },
   {
@@ -900,7 +2449,46 @@
     "religion": "christian",
     "wikidata": "Q20619547",
     "wikimedia_commons": "Category:Kv\u00edv\u00edkar kirkja",
-    "wikipedia": "da:Kv\u00edv\u00edkar kirkja"
+    "wikipedia": "da:Kv\u00edv\u00edkar kirkja",
+    "wikidata_claims": {
+     "P373": "Kv\u00edv\u00edkar kirkja",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 548364,
+      "id": "Q548364"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.117551849509,
+      "longitude": -7.0746038867533,
+      "altitude": null,
+      "precision": 2.77778e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Kvivik the church and village July 2012.JPG",
+     "P1619": {
+      "time": "+1903-12-13T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 933130,
+      "id": "Q933130"
+     }
+    }
    }
   },
   {
@@ -919,7 +2507,41 @@
     "name": "Kunoyar kirkja",
     "religion": "christian",
     "wikidata": "Q20619477",
-    "wikimedia_commons": "Category:Kunoyar kirkja"
+    "wikimedia_commons": "Category:Kunoyar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P18": "Kunoy church, Faroe Islands.jpg",
+     "P1619": {
+      "time": "+1867-12-01T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P625": {
+      "latitude": 62.29289,
+      "longitude": -6.67146,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "Kunoyar kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 212033,
+      "id": "Q212033"
+     }
+    }
    }
   },
   {
@@ -944,7 +2566,52 @@
     "start_date": "1858",
     "wikidata": "Q11999142",
     "wikimedia_commons": "Category:Saksunar kirkja",
-    "wikipedia": "no:Saksunar kirkja"
+    "wikipedia": "no:Saksunar kirkja",
+    "wikidata_claims": {
+     "P18": "Saksun Kirkja.Streymoy.fo.3.jpg",
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P373": "Saksunar kirkja",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P1619": {
+      "time": "+1858-06-20T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 22731,
+      "id": "Q22731"
+     },
+     "P625": {
+      "latitude": 62.2463,
+      "longitude": -7.1798,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 768990,
+      "id": "Q768990"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 928875,
+      "id": "Q928875"
+     },
+     "P2671": "/g/1210xt1x"
+    }
    }
   },
   {
@@ -964,7 +2631,47 @@
     "religion": "christian",
     "wikidata": "Q431648",
     "wikimedia_commons": "Category:Sands kirkja",
-    "wikipedia": "da:Sands kirkja"
+    "wikipedia": "da:Sands kirkja",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 61.8331,
+      "longitude": -6.81173,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P373": "Sands kirkja",
+     "P18": "Sands kirkja.jpg",
+     "P1619": {
+      "time": "+1839-11-08T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P2671": "/g/121vr5_n",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 842901,
+      "id": "Q842901"
+     }
+    }
    }
   },
   {
@@ -982,7 +2689,33 @@
     "name": "Nor\u00f0sk\u00e1la kirkja",
     "religion": "christian",
     "wikidata": "Q104804400",
-    "wikimedia_commons": "Category:Nor\u00f0sk\u00e1la kirkja"
+    "wikimedia_commons": "Category:Nor\u00f0sk\u00e1la kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1094638,
+      "id": "Q1094638"
+     },
+     "P625": {
+      "latitude": 62.21589,
+      "longitude": -7.00582,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church of Nor\u00f0sk\u00e1li, Faroe Islands.JPG",
+     "P373": "Nor\u00f0sk\u00e1la kirkja"
+    }
    }
   },
   {
@@ -1001,7 +2734,42 @@
     "name": "Sk\u00e1lav\u00edkar kirkja",
     "religion": "christian",
     "wikidata": "Q12001296",
-    "wikimedia_commons": "Category:Sk\u00e1lav\u00edkar kirkja"
+    "wikimedia_commons": "Category:Sk\u00e1lav\u00edkar kirkja",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 61.83017306,
+      "longitude": -6.669278,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P18": "Sk\u00e1lav\u00edkar kirkja 2012 (cropped).JPG",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P373": "Sk\u00e1lav\u00edkar kirkja",
+     "P1619": {
+      "time": "+1891-09-06T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1093560,
+      "id": "Q1093560"
+     },
+     "P2671": "/g/122ntw7m"
+    }
    }
   },
   {
@@ -1019,7 +2787,33 @@
     "name": "Hvannasunds kirkja",
     "religion": "christian",
     "wikidata": "Q104804404",
-    "wikimedia_commons": "Category:Hvannasunds kirkja"
+    "wikimedia_commons": "Category:Hvannasunds kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 933117,
+      "id": "Q933117"
+     },
+     "P625": {
+      "latitude": 62.29301,
+      "longitude": -6.51931,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church of Hvannasund, Faroe Islands.JPG",
+     "P373": "Hvannasunds kirkja"
+    }
    }
   },
   {
@@ -1044,7 +2838,46 @@
     "religion": "christian",
     "source": "Umhv\u00f8rvisstovan www.us.fo",
     "wikidata": "Q67442775",
-    "wikimedia_commons": "Category:Kaldbaks kirkja"
+    "wikimedia_commons": "Category:Kaldbaks kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.05834,
+      "longitude": -6.83258,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church of Kaldbak, Faroe Islands.JPG",
+     "P571": {
+      "time": "+1835-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P373": "Kaldbaks kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1025151,
+      "id": "Q1025151"
+     }
+    }
    }
   },
   {
@@ -1062,7 +2895,33 @@
     "name": "Hvalv\u00edkar kirkja",
     "religion": "christian",
     "wikidata": "Q104804416",
-    "wikimedia_commons": "Category:Hvalv\u00edkar kirkja"
+    "wikimedia_commons": "Category:Hvalv\u00edkar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 585244,
+      "id": "Q585244"
+     },
+     "P625": {
+      "latitude": 62.18727,
+      "longitude": -7.03586,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Hvalv\u00edk church 2022.jpg",
+     "P373": "Hvalv\u00edkar kirkja"
+    }
    }
   },
   {
@@ -1081,7 +2940,42 @@
     "name": "Ei\u00f0iskirkja",
     "religion": "christian",
     "wikidata": "Q20616696",
-    "wikimedia_commons": "Category:Ei\u00f0is kirkja"
+    "wikimedia_commons": "Category:Ei\u00f0is kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1881-09-18T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P625": {
+      "latitude": 62.29925,
+      "longitude": -7.09117,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 691775,
+      "id": "Q691775"
+     },
+     "P373": "Ei\u00f0is kirkja",
+     "P18": "Ei\u00f0is kirkja 01 (cropped).jpg",
+     "P973": "https://visitrunavik.fo/eidis-kirkja-2/"
+    }
    }
   },
   {
@@ -1099,7 +2993,47 @@
     "name": "Porkeris kirkja",
     "religion": "christian",
     "wikidata": "Q3425487",
-    "wikimedia_commons": "Category:Porkeris kirkja"
+    "wikimedia_commons": "Category:Porkeris kirkja",
+    "wikidata_claims": {
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 61.48084,
+      "longitude": -6.74626,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P646": "/m/02qr35l",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P1619": {
+      "time": "+1847-09-19T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P373": "Porkeris kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 943723,
+      "id": "Q943723"
+     },
+     "P18": "Porkeris kirkja 2004.jpg"
+    }
    }
   },
   {
@@ -1117,7 +3051,46 @@
     "name": "Sj\u00f3var kirkja",
     "religion": "christian",
     "wikidata": "Q67326959",
-    "wikimedia_commons": "Category:Sj\u00f3var kirkja"
+    "wikimedia_commons": "Category:Sj\u00f3var kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.11773,
+      "longitude": -6.75381,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Sj\u00f3var Church.1.jpg",
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P571": {
+      "time": "+1834-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "Sj\u00f3var kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1025132,
+      "id": "Q1025132"
+     }
+    }
    }
   },
   {
@@ -1136,7 +3109,46 @@
     "name": "Nor\u00f0rag\u00f8ta Kirkja",
     "religion": "christian",
     "wikidata": "Q20618151",
-    "wikimedia_commons": "Category:Gamla kirkjan \u00ed G\u00f8tu"
+    "wikimedia_commons": "Category:Gamla kirkjan \u00ed G\u00f8tu",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 62.19746,
+      "longitude": -6.73937,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church of Nor\u00f0rag\u00f8ta, Faroe Islands.JPG",
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P1619": {
+      "time": "+1833-09-22T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "Gamla kirkjan \u00ed G\u00f8tu",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 676532,
+      "id": "Q676532"
+     }
+    }
    }
   },
   {
@@ -1154,7 +3166,41 @@
     "denomination": "lutheran",
     "name": "Hoyv\u00edkar Kirkja",
     "religion": "christian",
-    "wikidata": "Q20618545"
+    "wikidata": "Q20618545",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+2007-11-04T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P625": {
+      "latitude": 62.02976,
+      "longitude": -6.77018,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 677723,
+      "id": "Q677723"
+     },
+     "P18": "Hoyv\u00edkar kirkjar 2014 (cropped).JPG",
+     "P373": "Hoyv\u00edkar kirkja"
+    }
    }
   },
   {
@@ -1179,7 +3225,47 @@
     "religion": "christian",
     "source": "Umhv\u00f8rvisstovan www.us.fo",
     "wikidata": "Q20617515",
-    "wikimedia_commons": "Category:F\u00e1mjins kirkja"
+    "wikimedia_commons": "Category:F\u00e1mjins kirkja",
+    "wikidata_claims": {
+     "P18": "F\u00e1mjin Kirkja 1.jpg",
+     "P373": "F\u00e1mjins kirkja",
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P571": {
+      "time": "+1875-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P625": {
+      "latitude": 61.52572,
+      "longitude": -6.87949,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 932433,
+      "id": "Q932433"
+     },
+     "P2671": "/g/11c3wv8z03"
+    }
    }
   },
   {
@@ -1204,7 +3290,46 @@
     "religion": "christian",
     "source": "Umhv\u00f8rvisstovan www.us.fo",
     "wikidata": "Q67443244",
-    "wikimedia_commons": "Category:\u00d8rav\u00edkar kirkja"
+    "wikimedia_commons": "Category:\u00d8rav\u00edkar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 61.53249,
+      "longitude": -6.8106,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "\u00d8rav\u00edk kirke.JPG",
+     "P1619": {
+      "time": "+1966-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P373": "\u00d8rav\u00edkar kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 285039,
+      "id": "Q285039"
+     }
+    }
    }
   },
   {
@@ -1223,7 +3348,51 @@
     "name": "Hovs kirkja",
     "religion": "christian",
     "wikidata": "Q67440312",
-    "wikimedia_commons": "Category:Hovs kirkja"
+    "wikimedia_commons": "Category:Hovs kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P625": {
+      "latitude": 61.50702,
+      "longitude": -6.75965,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Church of Hov.06-09 20042.jpg",
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
+     },
+     "P571": {
+      "time": "+1862-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P373": "Hovs kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1025136,
+      "id": "Q1025136"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 517832,
+      "id": "Q517832"
+     }
+    }
    }
   },
   {
@@ -1242,7 +3411,41 @@
     "name": "V\u00e1gs kirkja",
     "religion": "christian",
     "wikidata": "Q20621910",
-    "wikimedia_commons": "Category:V\u00e1gs kirkja"
+    "wikimedia_commons": "Category:V\u00e1gs kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1939-02-19T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P18": "Church of Vagur.jpg",
+     "P625": {
+      "latitude": 61.47365,
+      "longitude": -6.80826,
+      "altitude": null,
+      "precision": 1e-08,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P373": "V\u00e1gs kirkja",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 754670,
+      "id": "Q754670"
+     }
+    }
    }
   },
   {
@@ -1261,7 +3464,46 @@
     "name": "Fuglafjar\u00f0ar Kirkja",
     "religion": "christian",
     "wikidata": "Q104804409",
-    "wikimedia_commons": "Category:Fuglafjar\u00f0ar kirkja"
+    "wikimedia_commons": "Category:Fuglafjar\u00f0ar kirkja",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 16970,
+      "id": "Q16970"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 731990,
+      "id": "Q731990"
+     },
+     "P625": {
+      "latitude": 62.24308,
+      "longitude": -6.81531,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P18": "Fuglafjordur church, Faroe Islands.JPG",
+     "P373": "Fuglafjar\u00f0ar kirkja",
+     "P1619": {
+      "time": "+1984-06-10T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P84": {
+      "entity-type": "item",
+      "numeric-id": 5882046,
+      "id": "Q5882046"
+     }
+    }
    }
   }
  ]
