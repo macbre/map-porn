@@ -6,7 +6,7 @@ from posixpath import dirname
 from tempfile import gettempdir
 from dataclasses import dataclass
 from os import path
-from typing import Callable, Generator
+from typing import Iterator
 from xml import sax
 from xml.sax import handler, xmlreader
 
@@ -90,8 +90,8 @@ EXTRA_TAG_VALUE = None
 # TAG_VALUE = 'plant'
 
 # https://wiki.openstreetmap.org/wiki/Tag:building=church
-# TAG_KEY = 'building'
-# TAG_VALUE = 'church'
+TAG_KEY = 'building'
+TAG_VALUE = 'church'
 
 # https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema
 # https://www.cinematour.com/theatres/fo/FO/1.html
@@ -107,14 +107,14 @@ EXTRA_TAG_VALUE = None
 
 # https://wiki.openstreetmap.org/wiki/Tag:artwork_type=sculpture
 # https://wiki.openstreetmap.org/wiki/Tag:artwork_type=statue
-TAG_KEY = 'artwork_type'
-TAG_VALUE = 'sculpture'
-EXTRA_TAG_KEY = 'artwork_type'
-EXTRA_TAG_VALUE = 'statue'
+# TAG_KEY = 'artwork_type'
+# TAG_VALUE = 'sculpture'
+# EXTRA_TAG_KEY = 'artwork_type'
+# EXTRA_TAG_VALUE = 'statue'
 
 # https://wiki.openstreetmap.org/wiki/Tag:historic=memorial
-TAG_KEY = 'historic'
-TAG_VALUE = 'memorial'
+# TAG_KEY = 'historic'
+# TAG_VALUE = 'memorial'
 
 
 def cache_osm_file():
@@ -271,6 +271,39 @@ def iterate_xml(xml_file, node_callback: callable):
         reader.parse(f)
 
 
+def get_wikidata_claims(entity: str) -> Iterator[tuple[str, dict]]:
+    """
+    E.g. 'Q431648'
+
+    https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q431648&languages=en&props=claims&format=json
+    """
+    logger = logging.getLogger('wikidata')
+    logger.info(f'Getting claims for the {entity} entity')
+
+    resp = get_http_client().get('https://www.wikidata.org/w/api.php', params={
+        'ids' : entity,
+        'action': 'wbgetentities',
+        'languages': 'en',
+        'props': 'claims',
+        'format': 'json',
+    })
+    resp.raise_for_status()
+
+    entities: dict = resp.json().get('entities', {})
+    entity: dict = list(entities.values())[0]
+    claims: dict = entity.get('claims', {})
+
+    for property, claim in claims.items():
+        # P17 -> {'entity-type': 'item', 'numeric-id': 4628, 'id': 'Q4628'}
+        # print(property, claim[0]['mainsnak']['datavalue']['value'])
+
+        try:
+            value = claim[0]['mainsnak']['datavalue']['value']
+            yield property, value
+        except KeyError:
+            pass
+
+
 def main():
     logger = logging.getLogger(name="osm")
     logger.info(f'Looking for "{TAG_KEY}" = "{TAG_VALUE}" ...')
@@ -301,6 +334,18 @@ def main():
 
     local_file = cache_osm_file()
     iterate_xml(local_file, node_callback)
+
+    # fetch more properties from WikiData if the field is present
+    # "wikidata": "Q431648",
+    # https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q431648&languages=en&props=claims&format=json
+    for node in nodes:
+        if node.get('wikidata') is not None:
+            claims = {
+                key: value
+                for key, value in get_wikidata_claims(node.get('wikidata'))
+            }
+            node.tags.append(('wikidata_claims', claims))
+            break
 
     # write a GeoJSON file
     geojson_file = path.join(DIR, '..', 'geojson', f'osm-{TAG_KEY}-{TAG_VALUE}.json')
