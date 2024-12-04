@@ -345,7 +345,6 @@ def main():
                 for key, value in get_wikidata_claims(node.get('wikidata'))
             }
             node.tags.append(('wikidata_claims', claims))
-            break
 
     # write a GeoJSON file
     geojson_file = path.join(DIR, '..', 'geojson', f'osm-{TAG_KEY}-{TAG_VALUE}.json')
