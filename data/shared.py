@@ -2,6 +2,7 @@
 Some share utilities
 """
 from dataclasses import dataclass
+from typing import Any, Optional
 import requests
 
 @dataclass
@@ -29,6 +30,12 @@ class Node:
                 for (key, value) in self.tags 
             }
         }
+
+    def get(self, name: str) -> Optional[Any]:
+        for (key, value) in self.tags:
+            if key == name:
+                return value
+        return None
 
     def __repr__(self) -> str:
         return f'<{self.__class__.__name__}> {self.lat}, {self.lon}'
