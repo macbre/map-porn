@@ -11,7 +11,7 @@ async function initMap( callback ) {
 
     // render a small map showing the location of our main map
     // https://leafletjs.com/reference.html#map-getbounds
-    const smallMap = setupMap('small-map', options, [58, 0], 4);
+    const smallMap = setupMap('small-map', options, [58, 0], 3);
 
     const mapBounds = map.getBounds();
     const bounds = [mapBounds.getNorthWest(), mapBounds.getSouthEast()];
