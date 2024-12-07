@@ -24,35 +24,30 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Energy supply</h2>
-				<h2 lang="pl">Źródła energii</h2>
+				<h2 lang="en">Churches</h2>
+				<h2 lang="pl">Kościoły</h2>
 
-				<legend style="width: 41%">
+				<legend>
 					<!-- <img src="https://3.bp.blogspot.com/-d6oBGCensQ8/U2ADslYwc4I/AAAAAAAAIXM/SSR4NbDTxP8/s1600/IMG_0500.jpg"> -->
 					<p lang="en">
-						Historically, <b>peat has been used for heating</b> and cooking on Faroe Islands.
-						The pioneer Ólavur á Heygum conducted the <b>hydropower experiments</b> in Vestmanna in 1907. The first hydropower plant, commissioned in 1921, <b>remains operational today</b>.
+						Remarkably little medieval church furniture has been preserved in the Faroe Islands.
+						The current parish church in Kirkjubøur - Saint Olav's Church -  was built in the 13th century and is the only medieval church in the country that is still in use.
 						<br><br>
-						SEV — jointly owned by the municipalities — was founded in 1946 and is responsible for the electricity supply.
+						<strong>The Evangelical Lutheran Church has a total of 61 churches</strong>. The only Catholic church - Mariukirkjan is located in Tórshavn.
 						<br><br>
-						The <b>first wind turbines</b> on the Islands were installed in 1993.
-						The <b>biogas plant</b> FÖRKA outside Tórshavn was put into operation in 2020, and the <b>solar plant trial</b> on Suðuroy started a year earlier..
+						Old wooden churches in Nes and Gøta no longer hold religious services as they were replaced by modern churches. They therefore only used on special occasions.
 						<br><br>
-						In February 2024 <b>tidal powerplant in Vestmanna</b> delivered its first electricity to the national grid.
-						<br><br>
-						Vision 2030 sets the goal for <b>all electricity on Faroese land to come from green energy sources by 2030</b>.
+						Interestingly, <strong>the pulpit in Faroese churches is always placed on the north side</strong>, the church in Hósvík being the only exception.
 					</p>
-					<p lang="pl" _style="font-size: 1.6rem">
-						Podstawowym paliwem na Wyspach Owczych był przez wieki <b>torf</b>. Pionierskie próby związane z pozyskaniem <b>energii z mas wody</b> podjął w roku 1907 Ólavur á Heygum.
-						Pierwsza, uruchomiona w 1921 r. na Suðuroy, hydroelektrownia działa do dziś.
+					<p lang="pl">
+						Zaskakująco niewiele zachowało się z farerskich średniowiecznych świątyń.
+						XIII-wieczny kościół parafialny św. Olafa w Kirkjubøur jest jedynym średniowiecznym farerskim kościołem, w którym nadal odbywają się nabożeństwa.
 						<br><br>
-						Samorządowa spółka odpowiedzialna za dostawy energii elektrycznej powstała w 1946 roku.
+						<strong>Farerski Kościół ewangelicko-luterański ma łącznie 61 świątyń</strong>. Jedyny katolicki kościół - Mariukirkjan znajduje się w Tórshavn.
 						<br><br>
-						Pierwsze <b>turbiny wiatrowe</b> zainstalowano w roku 1993. W roku 2020 na opłotkach Tórshavn rozpoczęto produkcję <b>energii z biogazu</b>, zaś rok wcześniej ruszyły testy <b>farmy paneli słonecznych</b> (!) na Suðuroy.
+						Stare drewniane kościoły w Nes i Gøta - zastąpione przez nowoczesne budynki - nie służą już celom religijnym.
 						<br><br>
-						W lutym 2024 r. do sieci trafił prąd z instalacji pozyskującej <b>energię z fal morskich w Vestmannie</b>.
-						<br><br>
-						Cel "Vision 2030" zakłada <b>pozyskiwanie energii elektrycznej na Wyspach Owczych wyłączenie ze źródeł odnowialnych</b>.
+						Co ciekawe, <strong>ambona umieszczona jest zawsze po północnej stronie farerskiego kościoła</strong> - jedynym wyjątkiem jest świątynia w Hósvík.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -90,7 +85,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, -->SEV, OpenStreetMaps, trap.fo
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps, trap.fo, WikiData
 					</p>
 				</div>
 
@@ -126,26 +121,31 @@
 				// });
 				let counts = [];
 
-				L.geoJSON(await fetchGeoJSON('/geojson/osm-power-plant.json'), {
+				L.geoJSON(await fetchGeoJSON('/geojson/osm-building-church.json'), {
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
+						console.log(feature.properties);
 
-						// duplicated entry on Mykines
-						if (geo[0] == -7.6462321) return;
+						// https://www.wikidata.org/wiki/Q11999142
+						// P186 -> Q287 - wood
+						const material = feature.properties.wikidata_claims?.P186?.id;
+						const isWooden = material === 'Q287';
 
-						// "plant:source": "biogas",
-						const type = feature.properties['plant:source']; console.log({geo, type});
-						let color = 'black';
+						// "denomination": "roman_catholic",
+						const isCatholic = feature.properties.denomination === 'roman_catholic';
 
-						switch(type) {
-							case 'hydro':  color = 'blue';   break;
-							case 'oil':    color = 'black';  break;
-							case 'solar':  color = 'red';    break;
-							case 'biogas': color = 'green';  break;
-							case 'tidal':  color = 'orange'; break;
+						let color = 'blue';
+
+						if (isCatholic) {
+							color = 'orange'
+						}
+						else if (isWooden) {
+							color = 'green';
 						}
 
-						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
+						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`})
+							.addTo(map)
+							.bindPopup(feature.properties.name);
 
 						// count colors
 						if (!counts[color]) counts[color] = 0;
@@ -153,25 +153,9 @@
 					}
 				});
 
-				L.geoJSON(await fetchGeoJSON('/geojson/us-Kortal-SEV-4-vindmylla.json'), {
-					onEachFeature: feature => {
-						const geo = feature.geometry.coordinates;
-						const color = 'dark-green';
-
-						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
-
-						// count colors
-						if (!counts[color]) counts[color] = 0;
-						counts[color]++;
-					}
-				});
-
-				addLabel('dark-green', 'Wind turbine', 'Turbina wiatrowa', counts['dark-green']);
-				addLabel('blue', 'Hydropower plant', 'Elektrownia wodna', counts['blue']);
-				addLabel('black', 'Oil plant / diesel generator', 'Paliwa kopalne', counts['black']);
-				addLabel('red', 'Solar plant', 'Energia słoneczna', counts['red']);
-				addLabel('green', 'Biogas plant', 'Biogaz', counts['green']);
-				addLabel('orange', 'Tidal plant', 'Fale morskie', counts['orange']);
+				addLabel('blue', 'Concrete churches', 'Kościoły', counts['blue']);
+				addLabel('green', 'Wooden churches', 'Kościoły drewniane', counts['green']);
+				addLabel('orange', 'Catholic church', 'Kościół katolicki', counts['orange']);
 			});
 
 			// console.log(gridsPerCity);
