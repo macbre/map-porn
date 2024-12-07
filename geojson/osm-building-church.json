@@ -1397,11 +1397,6 @@
      },
      "P18": "Faroe Islands, Eysturoy, Funningur (4).jpg",
      "P373": "Funnings kirkja",
-     "P186": {
-      "entity-type": "item",
-      "numeric-id": 287,
-      "id": "Q287"
-     },
      "P1619": {
       "time": "+1847-11-30T00:00:00Z",
       "timezone": 0,
@@ -1521,11 +1516,6 @@
       "altitude": null,
       "precision": 1e-08,
       "globe": "http://www.wikidata.org/entity/Q2"
-     },
-     "P186": {
-      "entity-type": "item",
-      "numeric-id": 287,
-      "id": "Q287"
      },
      "P373": "Elduv\u00edkar kirkja",
      "P276": {
@@ -1711,15 +1701,15 @@
       "precision": 1e-08,
       "globe": "http://www.wikidata.org/entity/Q2"
      },
-     "P186": {
-      "entity-type": "item",
-      "numeric-id": 287,
-      "id": "Q287"
-     },
      "P17": {
       "entity-type": "item",
       "numeric-id": 4628,
       "id": "Q4628"
+     },
+     "P186": {
+      "entity-type": "item",
+      "numeric-id": 287,
+      "id": "Q287"
      },
      "P214": "307430145",
      "P373": "Kollafjar\u00f0ar kirkja",
@@ -1976,11 +1966,6 @@
       "after": 0,
       "precision": 9,
       "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-     },
-     "P186": {
-      "entity-type": "item",
-      "numeric-id": 287,
-      "id": "Q287"
      },
      "P276": {
       "entity-type": "item",
@@ -2417,11 +2402,6 @@
       "precision": 9,
       "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
      },
-     "P186": {
-      "entity-type": "item",
-      "numeric-id": 287,
-      "id": "Q287"
-     },
      "P18": "Nes kirkja 2004 (cropped).jpg",
      "P373": "Nes kirkja",
      "P276": {
@@ -2660,12 +2640,12 @@
       "precision": 11,
       "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
      },
+     "P2671": "/g/121vr5_n",
      "P186": {
       "entity-type": "item",
       "numeric-id": 287,
       "id": "Q287"
      },
-     "P2671": "/g/121vr5_n",
      "P276": {
       "entity-type": "item",
       "numeric-id": 842901,
@@ -3246,11 +3226,6 @@
       "after": 0,
       "precision": 9,
       "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-     },
-     "P186": {
-      "entity-type": "item",
-      "numeric-id": 287,
-      "id": "Q287"
      },
      "P625": {
       "latitude": 61.52572,
