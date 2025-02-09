@@ -90,8 +90,8 @@ EXTRA_TAG_VALUE = None
 # TAG_VALUE = 'plant'
 
 # https://wiki.openstreetmap.org/wiki/Tag:building=church
-TAG_KEY = 'building'
-TAG_VALUE = 'church'
+# TAG_KEY = 'building'
+# TAG_VALUE = 'church'
 
 # https://wiki.openstreetmap.org/wiki/Tag:amenity=cinema
 # https://www.cinematour.com/theatres/fo/FO/1.html
@@ -116,6 +116,10 @@ TAG_VALUE = 'church'
 # TAG_KEY = 'historic'
 # TAG_VALUE = 'memorial'
 
+# https://wiki.openstreetmap.org/wiki/Tag:sport=soccer
+# https://www.wikidata.org/wiki/Q845610
+TAG_KEY = 'sport'
+TAG_VALUE = 'soccer'
 
 def cache_osm_file():
     # https://download.geofabrik.de/europe/faroe-islands.html

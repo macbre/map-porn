@@ -1,0 +1,2574 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1917842,
+     62.047592
+    ]
+   },
+   "properties": {
+    "leisure": "sports_centre",
+    "name": "MB",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7227538,
+     62.106375
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "name": "Vi\u00f0 L\u00f8kin",
+    "sport": "soccer",
+    "surface": "artificial_turf",
+    "wikidata": "Q7379625",
+    "wikimedia_commons": "Category:Vi\u00f0 L\u00f8kin",
+    "wikipedia": "en:Vi\u00f0 L\u00f8kin",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.105833,
+      "longitude": -6.723333,
+      "altitude": null,
+      "precision": 0.0001,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P466": {
+      "entity-type": "item",
+      "numeric-id": 216857,
+      "id": "Q216857"
+     },
+     "P1083": {
+      "amount": "+2000",
+      "unit": "1"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 969578,
+      "id": "Q969578"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 1154710,
+      "id": "Q1154710"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 754664,
+      "id": "Q754664"
+     },
+     "P646": "/m/0gcdyy",
+     "P373": "Vi\u00f0 L\u00f8kin"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7449246,
+     62.1989725
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Vikingur",
+    "sport": "soccer",
+    "wikidata": "Q1287265",
+    "wikipedia": "en:Sarpuger\u00f0i",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.199788,
+      "longitude": -6.74552,
+      "altitude": null,
+      "precision": 2.77777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 1154710,
+      "id": "Q1154710"
+     },
+     "P646": "/m/0d_1c0",
+     "P18": "Sarpuger\u00f0i V\u00edkingur G\u00f8ta IMG 20210802 205412813 HDR.jpg"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7152542,
+     62.2048072
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Uppi \u00e1 Brekku",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0846195,
+     62.3058943
+    ]
+   },
+   "properties": {
+    "disused:leisure": "pitch",
+    "name": "Camping Ei\u00f0i",
+    "sport": "soccer",
+    "tourism": "camp_site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.172108,
+     62.1558828
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Plenan",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8151505,
+     62.2444698
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "wikidata": "Q5507283",
+    "wikipedia": "en:\u00cd Fl\u00f8tuger\u00f0i",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.245018,
+      "longitude": -6.814399,
+      "altitude": null,
+      "precision": 2.77777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P466": {
+      "entity-type": "item",
+      "numeric-id": 291719,
+      "id": "Q291719"
+     },
+     "P1083": {
+      "amount": "+3000",
+      "unit": "1"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 483110,
+      "id": "Q483110"
+     },
+     "P5288": "fro/flotugerdi",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 731990,
+      "id": "Q731990"
+     },
+     "P646": "/m/0gcdzm",
+     "P641": {
+      "entity-type": "item",
+      "numeric-id": 2736,
+      "id": "Q2736"
+     },
+     "P571": {
+      "time": "+1956-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7806289,
+     62.0185808
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Ni\u00f0ari v\u00f8llur",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7812169,
+     62.019826
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Ovari v\u00f8llur",
+    "name:en": "Gundadalur stadion",
+    "sport": "soccer",
+    "surface": "artificial_turf",
+    "wikidata": "Q221052",
+    "wikimedia_commons": "Category:Gundadalur Stadium",
+    "wikipedia": "en:Gundadalur",
+    "wikidata_claims": {
+     "P373": "Gundadalur Stadium",
+     "P625": {
+      "latitude": 62.0193487,
+      "longitude": -6.7811394,
+      "altitude": null,
+      "precision": 2.77777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P646": "/m/0bq3bq",
+     "P466": {
+      "entity-type": "item",
+      "numeric-id": 369420,
+      "id": "Q369420"
+     },
+     "P18": "Gundadalur Stadium, Torshavn 01.jpg",
+     "P1083": {
+      "amount": "+5000",
+      "unit": "1"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 944273,
+      "id": "Q944273"
+     },
+     "P127": {
+      "entity-type": "item",
+      "numeric-id": 10704,
+      "id": "Q10704"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 1154710,
+      "id": "Q1154710"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P1619": {
+      "time": "+1911-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 192540,
+      "id": "Q192540"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 10704,
+      "id": "Q10704"
+     },
+     "P641": {
+      "entity-type": "item",
+      "numeric-id": 2736,
+      "id": "Q2736"
+     },
+     "P571": {
+      "time": "+1911-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7793456,
+     62.0192285
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "T\u00f3rsv\u00f8llur",
+    "sport": "soccer",
+    "surface": "artificial_turf",
+    "wikidata": "Q845610",
+    "wikimedia_commons": "Category:T\u00f3rsv\u00f8llur",
+    "wikipedia": "en:T\u00f3rsv\u00f8llur",
+    "wikidata_claims": {
+     "P373": "T\u00f3rsv\u00f8llur",
+     "P625": {
+      "latitude": 62.019167,
+      "longitude": -6.778056,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 1154710,
+      "id": "Q1154710"
+     },
+     "P646": "/m/0c9n5g",
+     "P466": {
+      "entity-type": "item",
+      "numeric-id": 200688,
+      "id": "Q200688"
+     },
+     "P18": "Torsvollur Football Venue in Torshavn Faroe Islands.JPG",
+     "P1083": {
+      "amount": "+6040",
+      "unit": "1"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 944273,
+      "id": "Q944273"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P641": {
+      "entity-type": "item",
+      "numeric-id": 2736,
+      "id": "Q2736"
+     },
+     "P5288": "fro/torsvollur",
+     "P1619": {
+      "time": "+1999-07-09T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 192540,
+      "id": "Q192540"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 10704,
+      "id": "Q10704"
+     },
+     "P571": {
+      "time": "+1999-07-09T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 11,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8371282,
+     61.4670259
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "VB huset",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8373343,
+     61.4659825
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "wikidata": "Q1416579",
+    "wikimedia_commons": "Category:Vesturi \u00e1 Ei\u00f0inum Stadium",
+    "wikipedia": "en:\u00c1 Ei\u00f0inum",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 61.4659,
+      "longitude": -6.83651,
+      "altitude": null,
+      "precision": 0.01,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 483110,
+      "id": "Q483110"
+     },
+     "P18": "Vagur, faroe islands, football field.jpg",
+     "P1083": {
+      "amount": "+3000",
+      "unit": "1"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 754670,
+      "id": "Q754670"
+     },
+     "P646": "/m/0gcdxx",
+     "P373": "Vesturi \u00e1 Ei\u00f0inum Stadium"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.735271,
+     62.0992345
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "wikidata": "Q11756825",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.0998,
+      "longitude": -6.73617,
+      "altitude": null,
+      "precision": 0.1,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P466": {
+      "entity-type": "item",
+      "numeric-id": 516425,
+      "id": "Q516425"
+     },
+     "P1083": {
+      "amount": "+1200",
+      "unit": "1"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P18": "Lilit Svangaskar\u00f0.jpg",
+     "P641": {
+      "entity-type": "item",
+      "numeric-id": 2736,
+      "id": "Q2736"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 483110,
+      "id": "Q483110"
+     },
+     "P2671": "/g/125_dhsxl"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7359254,
+     62.1013966
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Svangaskar\u00f0",
+    "sport": "soccer",
+    "wikidata": "Q1060809",
+    "wikimedia_commons": "Category:Svangaskar\u00f0",
+    "wikipedia": "en:Svangaskar\u00f0",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.099722,
+      "longitude": -6.736111,
+      "altitude": null,
+      "precision": 0.0001,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P646": "/m/0c9n7j",
+     "P466": {
+      "entity-type": "item",
+      "numeric-id": 200688,
+      "id": "Q200688"
+     },
+     "P1083": {
+      "amount": "+6000",
+      "unit": "1"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 6479325,
+      "id": "Q6479325"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 1154710,
+      "id": "Q1154710"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P18": "Toftir4.jpg",
+     "P5288": "fro/svangaskard",
+     "P1619": {
+      "time": "+1980-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 840631,
+      "id": "Q840631"
+     },
+     "P373": "Svangaskar\u00f0",
+     "P641": {
+      "entity-type": "item",
+      "numeric-id": 2736,
+      "id": "Q2736"
+     },
+     "P571": {
+      "time": "+1980-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0192601,
+     62.2166572
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7877879,
+     62.1582218
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "leisure": "sports_hall",
+    "operator": "Sk\u00e1la \u00cdF",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5815638,
+     62.2245742
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Dj\u00fapum\u00fdru",
+    "sport": "soccer",
+    "wikidata": "Q10904309",
+    "wikipedia": "en:Vi\u00f0 Dj\u00fapum\u00fdrar",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.225246,
+      "longitude": -6.579201,
+      "altitude": null,
+      "precision": 2.77777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P466": {
+      "entity-type": "item",
+      "numeric-id": 723457,
+      "id": "Q723457"
+     },
+     "P1083": {
+      "amount": "+3000",
+      "unit": "1"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 483110,
+      "id": "Q483110"
+     },
+     "P5288": "fro/vid_djupumyrar",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 189361,
+      "id": "Q189361"
+     },
+     "P646": "/m/0d_1df",
+     "P18": "Vi\u00f0 Dj\u00fapum\u00fdrar, Klaksv\u00edk.jpg"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8287178,
+     62.0006193
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7658725,
+     62.0130436
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7547842,
+     62.1863964
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Sp\u00e6lipl\u00e1ssi\u00f0",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8016399,
+     61.9953623
+    ]
+   },
+   "properties": {
+    "addr:city": "Argir",
+    "addr:housenumber": "2A",
+    "addr:postcode": "160",
+    "addr:street": "Reynsg\u00f8ta",
+    "building": "yes",
+    "leisure": "sports_centre",
+    "name": "AB H\u00fasi\u00f0",
+    "sport": "soccer",
+    "website": "http://www.argjaboltfelag.com/",
+    "wikipedia": "en:Argja B\u00f3ltfelag"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8037162,
+     61.9954888
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7820725,
+     61.9988354
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "grass"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3111081,
+     62.0712769
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7777616,
+     62.0337354
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8529966,
+     61.5627395
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8283357,
+     61.4729315
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0932401,
+     62.2750234
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7689973,
+     62.0175293
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0494778,
+     62.23266
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.341372,
+     62.2788437
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7346744,
+     62.0861814
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6721483,
+     62.0090326
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1525633,
+     62.0550797
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Football Stadium",
+    "sport": "soccer",
+    "tourism": "attraction"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8476963,
+     61.562811
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5321766,
+     62.3609852
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7966164,
+     62.0015474
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.533507,
+     62.3015253
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7720411,
+     61.4436054
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1919978,
+     62.0475739
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9473717,
+     62.3251793
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2506474,
+     62.0769692
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0906855,
+     62.3009313
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "lit": "yes",
+    "name": "Ei\u00f0is V\u00f8llur",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8579264,
+     62.1950972
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8153557,
+     62.21913
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7699649,
+     62.1062477
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7708434,
+     62.3333834
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6966881,
+     62.2648573
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6000197,
+     62.2689077
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6676498,
+     62.2886075
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7730739,
+     62.0452473
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8313673,
+     62.0595098
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8547939,
+     61.984079
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8567972,
+     61.9823797
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7957225,
+     61.9531313
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9295322,
+     62.0957205
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9166899,
+     62.1096948
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9056961,
+     62.1166889
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0425424,
+     62.193608
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0426403,
+     62.1177693
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1441031,
+     62.0599197
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7483795,
+     62.1914681
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7479791,
+     62.1919723
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2077664,
+     62.0495333
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2482802,
+     62.0746476
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3054437,
+     62.0685507
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8451649,
+     62.2627416
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3691021,
+     62.0870217
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9981132,
+     62.2069072
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0009501,
+     62.2117463
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0153869,
+     62.2212796
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1093803,
+     62.299744
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0955162,
+     62.3003941
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.098424,
+     62.3015566
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "lit": "no",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8324205,
+     61.8587511
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9313726,
+     62.2364515
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8604905,
+     62.2780552
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7884693,
+     62.1592252
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Sk\u00e1la \u00cdF",
+    "sport": "soccer",
+    "wikidata": "Q7538165",
+    "wikipedia": "en:Undir M\u00fdruhjalla",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.16,
+      "longitude": -6.78861111,
+      "altitude": null,
+      "precision": 0.00027777777777778,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 483110,
+      "id": "Q483110"
+     },
+     "P18": "Football field of Sk\u00e1la, Faroe Islands.jpg",
+     "P1619": {
+      "time": "+1968-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 1025359,
+      "id": "Q1025359"
+     },
+     "P646": "/m/0gcdww",
+     "P641": {
+      "entity-type": "item",
+      "numeric-id": 2736,
+      "id": "Q2736"
+     },
+     "P571": {
+      "time": "+1968-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7802599,
+     62.1569261
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7612321,
+     62.1402575
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7552399,
+     62.1207679
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7618686,
+     62.1088144
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8761701,
+     62.1576325
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7626726,
+     62.1662722
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7274449,
+     62.1421512
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7215815,
+     62.1237947
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7214851,
+     62.1235038
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7160462,
+     62.1167105
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7254201,
+     62.1073771
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.725815,
+     62.1075304
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7379685,
+     62.1108691
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6874014,
+     62.1084064
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.711202,
+     62.2091243
+    ]
+   },
+   "properties": {
+    "barrier": "fence",
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7141121,
+     62.2090824
+    ]
+   },
+   "properties": {
+    "access": "private",
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7074943,
+     62.2096749
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6991559,
+     62.2092043
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7733759,
+     62.0403755
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7940905,
+     62.0282501
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7868971,
+     62.0263682
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7760484,
+     61.9928436
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9525815,
+     61.6028453
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "name": "Stadion Royn Hvalba",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7756584,
+     61.9991113
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7957244,
+     61.9955209
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.675363,
+     62.0103712
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7865187,
+     61.9987138
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7751842,
+     62.0306446
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7582177,
+     62.0163014
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0760342,
+     62.1199133
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7866811,
+     62.012923
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7957341,
+     62.0082212
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.805361,
+     62.0038533
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9074977,
+     62.1162501
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9056422,
+     62.1174684
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7656212,
+     61.4505488
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "ground"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0404517,
+     62.1904471
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1494346,
+     62.2889543
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8886928,
+     61.9041481
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8200118,
+     61.8371775
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6663978,
+     61.8282279
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.676706,
+     61.8086545
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6751678,
+     61.7841026
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7570519,
+     61.6857027
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7131177,
+     61.4042653
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9309761,
+     61.6323467
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7921352,
+     61.5512493
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7960108,
+     62.004368
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5886915,
+     62.2392403
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5394642,
+     62.2087185
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.584971,
+     62.2292983
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5996758,
+     62.2289452
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5895548,
+     62.2243536
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.580072,
+     62.225923
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7733178,
+     62.0276729
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5186466,
+     62.2928383
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5782541,
+     62.2247265
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "artificial_turf"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7804232,
+     62.1571148
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8593034,
+     62.1965261
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.805577,
+     61.770021
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7217754,
+     62.1144653
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7203429,
+     62.1035573
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9673897,
+     62.2870662
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7355864,
+     62.0976425
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6942996,
+     62.0687959
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer",
+    "surface": "gravel"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.688534,
+     62.1075514
+    ]
+   },
+   "properties": {
+    "leisure": "pitch",
+    "sport": "soccer"
+   }
+  }
+ ]
+}
