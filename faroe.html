@@ -24,8 +24,8 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Churches</h2>
-				<h2 lang="pl">Kościoły</h2>
+				<h2 lang="en">Football grounds</h2>
+				<h2 lang="pl">Boiska piłkarskie</h2>
 
 				<legend>
 					<!-- <img src="https://3.bp.blogspot.com/-d6oBGCensQ8/U2ADslYwc4I/AAAAAAAAIXM/SSR4NbDTxP8/s1600/IMG_0500.jpg"> -->
@@ -85,7 +85,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps, trap.fo, WikiData
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps, WikiData
 					</p>
 				</div>
 
@@ -121,26 +121,22 @@
 				// });
 				let counts = [];
 
-				L.geoJSON(await fetchGeoJSON('/geojson/osm-building-church.json'), {
+				L.geoJSON(await fetchGeoJSON('/geojson/osm-sport-soccer.json'), {
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
 						console.log(feature.properties);
 
-						// https://www.wikidata.org/wiki/Q11999142
-						// P186 -> Q287 - wood
-						const material = feature.properties.wikidata_claims?.P186?.id;
-						const isWooden = material === 'Q287';
+						if (!feature.properties.name) {
+							return;
+						}
 
-						// "denomination": "roman_catholic",
-						const isCatholic = feature.properties.denomination === 'roman_catholic';
+						// "name": "Stadion Royn Hvalba
+						const isGrass = feature.properties.name === 'Stadion Royn Hvalba';
 
 						let color = 'blue';
 
-						if (isCatholic) {
-							color = 'orange'
-						}
-						else if (isWooden) {
-							color = 'green';
+						if (isGrass) {
+							color = 'green'
 						}
 
 						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`})
@@ -153,9 +149,8 @@
 					}
 				});
 
-				addLabel('blue', 'Concrete churches', 'Kościoły', counts['blue']);
-				addLabel('green', 'Wooden churches', 'Kościoły drewniane', counts['green']);
-				addLabel('orange', 'Catholic church', 'Kościół katolicki', counts['orange']);
+				addLabel('blue', 'Football stadions', 'Stadiony piłarskie', counts['blue']);
+				addLabel('green', 'Grass pitches', 'Stadiony z nawierzchnią naturalną', counts['green']);
 			});
 
 			// console.log(gridsPerCity);
