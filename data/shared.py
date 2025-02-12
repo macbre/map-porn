@@ -5,8 +5,26 @@ from dataclasses import dataclass
 from typing import Any, Optional
 import requests
 
+
+class GeoJsonBase:
+    tags: list[tuple[str, str]]
+
+    def get(self, name: str) -> Optional[Any]:
+        for (key, value) in self.tags:
+            if key == name:
+                return value
+        return None
+
+    def get_properties(self) -> dict[str, str]:
+        return {
+            # e.g. ('name', '43 Viðurbyrgi')
+            key: value
+            for (key, value) in self.tags
+        }
+
+
 @dataclass
-class Node:
+class Node(GeoJsonBase):
     lat: str
     lon: str
     tags: list[tuple[str, str]]
@@ -24,21 +42,40 @@ class Node:
                 "type": "Point",
                 "coordinates": [float(self.lon), float(self.lat)]
             },
-            "properties": {
-                # e.g. ('name', '43 Viðurbyrgi')
-                key: value
-                for (key, value) in self.tags 
-            }
+            "properties": self.get_properties()
         }
-
-    def get(self, name: str) -> Optional[Any]:
-        for (key, value) in self.tags:
-            if key == name:
-                return value
-        return None
 
     def __repr__(self) -> str:
         return f'<{self.__class__.__name__}> {self.lat}, {self.lon}'
+
+
+@dataclass
+class LineString(GeoJsonBase):
+    tags: list[tuple[str, str]]
+
+    # {"type":"LineString","coordinates":[[-6.53700839728117,62.205172553658485], ...
+    coordinates: list[list[float]]
+
+    def to_geojson(self) -> dict:
+        """
+        Emits GeoJSON-compatible entry
+
+        @see https://geojson.org/
+        @see https://geojson.io/
+        """
+        return {
+            "type": "Feature",
+            "geometry": {
+                # https://datatracker.ietf.org/doc/html/rfc7946#section-3.1.4
+                "type": "LineString",
+                "coordinates": self.coordinates,
+            },
+            "properties": self.get_properties()
+        }
+
+    def __repr__(self) -> str:
+        return f'<{self.__class__.__name__}> [{self.coordinates[0]}, ...]'
+
 
 
 def nodes_to_geojson_collection(nodes: list[Node]) -> dict:
