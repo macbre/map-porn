@@ -5,7 +5,7 @@ import re
 
 from dataclasses import dataclass
 from os import path
-from typing import Iterable
+from typing import Iterable, Optional
 
 from shared import LineString, get_http_client, nodes_to_geojson_collection
 
@@ -26,6 +26,14 @@ class Hike:
     geo_json: dict
     url_slug: str
     distance_km: int
+
+
+def get_open_graph_meta_entry(html: str, property: str) -> Optional[str]:
+    """
+    <meta property="og:description" content="A lovely trip to the scout house in Skúvadalur among sheep, birds and historical traces." />
+    """
+    matches = re.search(rf'<meta property="og:{property}" content="([^"]+)" />', html)
+    return matches.group(1) if matches else None
 
 
 def get_hikes() -> Iterable[Hike]:
@@ -82,9 +90,9 @@ def get_hikes() -> Iterable[Hike]:
             url_slug=url_slug,
             url=resp.url,
             geo_json=geo_json,
-            name='',
-            description='',
-            image='',
+            name=get_open_graph_meta_entry(resp.text, property='title'),
+            description=get_open_graph_meta_entry(resp.text, property='description'),
+            image=get_open_graph_meta_entry(resp.text, property='image'),
             distance_km=distance_km,
         )
 
@@ -113,9 +121,10 @@ def main():
                 coordinates=hike.geo_json.get('coordinates', []),
                 tags=[
                     ('name', hike.name),
+                    ('description', hike.description),
+                    ('image', hike.image),
                     ('distance_km', hike.distance_km),
                     ('url', hike.url),
-                    ('image', hike.image),
                 ]
             )
         )
