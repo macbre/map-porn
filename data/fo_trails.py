@@ -21,14 +21,8 @@ class Hike:
     """
     A bit of typing for the huge JSON that visitfaroeislands.com provides
     """
-    # headline: "Skálafjørður – Selatrað"
-    # type: "hike"
     # url_slug: "skalafjordur-selatrad"
-    # distance: 5600
-    headline: str
-    type: str
     url_slug: str
-    distance: int
 
 
 def get_hikes() -> Iterable[Hike]:
@@ -50,24 +44,13 @@ def get_hikes() -> Iterable[Hike]:
     # {"type":"hike"
     raw_json = raw_json \
         .replace('\\"', '"') \
-        .replace('\\\\u', '\\u') \
-        .replace(',[{"type":"hike"', '\n[{"type": "hike"') \
-        .replace(',{"type":"hike"', '\n{"type":"hike"')
+        .replace('\\\\u', '\\u')
     
-    with open('/tmp/fo_trails.jsonl', 'wt') as fp:
-        fp.write(raw_json)
-
-    logger.info(f'JSON: {raw_json[:100]}...{raw_json[-100:]}')
-
-    # treat as nd+json
-    for line in raw_json.split('\n'):
-        try:
-            parsed = json.loads(line)
-            yield Hike(headline=parsed['headline'], type=parsed['type'], url_slug=parsed['url_slug'], distance=parsed['distance'])
-
-        except json.JSONDecodeError as ex:
-            # logging.error(f'Parsing the JSON-encoded line failed around: {line[ex.colno-20:ex.colno+20]}', exc_info=True)
-            pass
+    # find url_slus
+    # "url_slug":"langasandur-streymnes1"
+    for match in re.finditer(r'"url_slug":"([^"]+)"', raw_json):
+        url_slug = match.group(1)
+        yield Hike(url_slug=url_slug)
 
 
 def main():
@@ -84,7 +67,8 @@ def main():
         # type: "hike"
         # url_slug: "skalafjordur-selatrad"
         # distance: 5600
-        logger.info(f'Processing hike #{idx+1}: {hike.headline} ({hike.distance} m long) - {hike.url_slug} ...')
+        logger.info(f'Processing hike #{idx+1}: {hike.url_slug} ...')
+        # logger.info(f'Processing hike #{idx+1}: {hike.headline} ({hike.distance} m long) - {hike.url_slug} ...')
         '''
         routes = fetch_json(f'/areas/{operator["id"]}')['routes']
 
