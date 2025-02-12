@@ -56,19 +56,19 @@ def get_hikes() -> Iterable[Hike]:
         # fetch the page
 
         # https://visitfaroeislands.com/en/whatson/hiking/hike/nordoyri-skuvadalur
-        # var geoJson = {"type":"LineString","coordinates":[[-6.53700839728117,62.205172553658485], ...
-
-        # meta
-        # <meta property="og:title" content="Norðoyri - Skúvadalur" />
-        # <meta property="og:description" content="A lovely trip to the scout house in Skúvadalur among sheep, birds and historical traces." />
-        # <meta property="og:image" content="https://vfibackend.com/uploads/2023-06-01-skuvadalur-37-8w6a6439.jpg" />
         resp = get_http_client().get(url=f'https://visitfaroeislands.com/en/whatson/hiking/hike/{url_slug}')
 
         resp.raise_for_status()
         logger.info(f'HTTP {resp.status_code} {resp.url}')
 
-        raw_json = re.search(r'geoJson = ([^;]+);', resp.text).group(1)
+        # var geoJson = {"type":"LineString","coordinates":[[-6.53700839728117,62.205172553658485], ...
+        raw_json = re.search(r'({"type":"LineString","coordinates":[^}]+})', resp.text).group(1)
         geo_json = json.loads(raw_json)
+
+        # TODO: parse meta
+        # <meta property="og:title" content="Norðoyri - Skúvadalur" />
+        # <meta property="og:description" content="A lovely trip to the scout house in Skúvadalur among sheep, birds and historical traces." />
+        # <meta property="og:image" content="https://vfibackend.com/uploads/2023-06-01-skuvadalur-37-8w6a6439.jpg" />
 
         yield Hike(
             url_slug=url_slug,
@@ -96,6 +96,9 @@ def main():
         # distance: 5600
         logger.info(f'Processing hike #{idx+1}: {hike.name} {hike.url_slug} ...')
 
+        coordinates = hike.geo_json.get('coordinates', [])
+        assert len(coordinates) > 1, 'We need the route to have more than a single coordinate'
+
         nodes.append(
             LineString(
                 coordinates=hike.geo_json.get('coordinates', []),
@@ -107,7 +110,15 @@ def main():
             )
         )
 
+        # debug
+        if idx > 5: break
+
     # write the JSON
+    """
+    All across the Faroe Islands, you'll find bygdagøtur – old village paths that have been in use since the islands were first settled.
+
+    According to Faroese legislation walking on the in- and outfields require the landowners’ permission. You are only allowed to walk in this area with a guide. Hiking here without a guide can be fined.
+    """
     logger.info(f'Collected {len(nodes)} nodes with hikes')
 
     geojson_file = path.join(DIR, '..', 'geojson', 'fo-hikes.json')
