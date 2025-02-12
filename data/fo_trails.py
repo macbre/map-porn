@@ -37,13 +37,14 @@ def get_open_graph_meta_entry(html: str, property: str) -> Optional[str]:
 
 
 def get_hikes() -> Iterable[Hike]:
-    url = BASE_URL
-
     logger = logging.getLogger(name="get_hikes")
     resp = get_http_client().get(url='https://visitfaroeislands.com/en/whatson/hiking')
 
     resp.raise_for_status()
-    logger.info(f'HTTP {resp.status_code} {resp.url}')
+    logger.info(f'HTTP {resp.status_code} {resp.url} ({resp.encoding})')
+
+    # HTTP response says it's encoded as ISO-8859-1, while it's really a proper utf-8
+    resp.encoding = 'utf-8'
 
     # .apply([],JSON.parse( "[[ ... ]]" ))
     raw_json: str = re.search(r'\.apply\(\[\],JSON\.parse\( "\[\[(.*)\]\]" \)\)', resp.text).group(1)
@@ -68,13 +69,17 @@ def get_hikes() -> Iterable[Hike]:
         resp = get_http_client().get(url=f'https://visitfaroeislands.com/en/whatson/hiking/hike/{url_slug}')
 
         resp.raise_for_status()
-        logger.info(f'HTTP {resp.status_code} {resp.url}')
+        logger.info(f'HTTP {resp.status_code} {resp.url} ({resp.encoding})')
+
+        # HTTP response says it's encoded as ISO-8859-1, while it's really a proper utf-8
+        resp.encoding = 'utf-8'
+        resp_text = resp.text
 
         # var geoJson = {"type":"LineString","coordinates":[[-6.53700839728117,62.205172553658485], ...
-        raw_json = re.search(r'({"type":"LineString","coordinates":[^}]+})', resp.text).group(1)
+        raw_json = re.search(r'({"type":"LineString","coordinates":[^}]+})', resp_text).group(1)
         geo_json = json.loads(raw_json)
 
-        # TODO: parse meta
+        # parse meta data
         # <meta property="og:title" content="Norðoyri - Skúvadalur" />
         # <meta property="og:description" content="A lovely trip to the scout house in Skúvadalur among sheep, birds and historical traces." />
         # <meta property="og:image" content="https://vfibackend.com/uploads/2023-06-01-skuvadalur-37-8w6a6439.jpg" />
@@ -84,15 +89,15 @@ def get_hikes() -> Iterable[Hike]:
             5 km
         </b>
         """
-        distance_km = int(re.search(r'"distance_fact">\s+(\d+) km\s+</b>', resp.text).group(1))
+        distance_km = int(re.search(r'"distance_fact">\s+(\d+) km\s+</b>', resp_text).group(1))
 
         yield Hike(
             url_slug=url_slug,
             url=resp.url,
             geo_json=geo_json,
-            name=get_open_graph_meta_entry(resp.text, property='title'),
-            description=get_open_graph_meta_entry(resp.text, property='description'),
-            image=get_open_graph_meta_entry(resp.text, property='image'),
+            name=get_open_graph_meta_entry(resp_text, property='title'),
+            description=get_open_graph_meta_entry(resp_text, property='description'),
+            image=get_open_graph_meta_entry(resp_text, property='image'),
             distance_km=distance_km,
         )
 
@@ -130,11 +135,11 @@ def main():
         )
 
         # debug
-        if idx > 5: break
+        # if idx > 5: break
 
     # write the JSON
     """
-    All across the Faroe Islands, you'll find bygdagøtur – old village paths that have been in use since the islands were first settled.
+    All across the Faroe Islands, you'll find bygdagøtur – old village paths that have been in use since the islands were first settled. These trails are marked by stone cairns.
 
     According to Faroese legislation walking on the in- and outfields require the landowners’ permission. You are only allowed to walk in this area with a guide. Hiking here without a guide can be fined.
     """
