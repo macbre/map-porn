@@ -25,6 +25,7 @@ class Hike:
     image: str
     geo_json: dict
     url_slug: str
+    distance_km: int
 
 
 def get_hikes() -> Iterable[Hike]:
@@ -70,13 +71,21 @@ def get_hikes() -> Iterable[Hike]:
         # <meta property="og:description" content="A lovely trip to the scout house in Skúvadalur among sheep, birds and historical traces." />
         # <meta property="og:image" content="https://vfibackend.com/uploads/2023-06-01-skuvadalur-37-8w6a6439.jpg" />
 
+        """
+        <b data-overlay-text-target="distance_fact">
+            5 km
+        </b>
+        """
+        distance_km = int(re.search(r'"distance_fact">\s+(\d+) km\s+</b>', resp.text).group(1))
+
         yield Hike(
             url_slug=url_slug,
             url=resp.url,
             geo_json=geo_json,
             name='',
             description='',
-            image=''
+            image='',
+            distance_km=distance_km,
         )
 
 
@@ -94,7 +103,7 @@ def main():
         # type: "hike"
         # url_slug: "skalafjordur-selatrad"
         # distance: 5600
-        logger.info(f'Processing hike #{idx+1}: {hike.name} {hike.url_slug} ...')
+        logger.info(f'Processing hike #{idx+1}: {hike.name} {hike.url_slug} ({hike.distance_km} km) ...')
 
         coordinates = hike.geo_json.get('coordinates', [])
         assert len(coordinates) > 1, 'We need the route to have more than a single coordinate'
@@ -104,6 +113,7 @@ def main():
                 coordinates=hike.geo_json.get('coordinates', []),
                 tags=[
                     ('name', hike.name),
+                    ('distance_km', hike.distance_km),
                     ('url', hike.url),
                     ('image', hike.image),
                 ]
