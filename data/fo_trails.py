@@ -7,31 +7,33 @@ from dataclasses import dataclass
 from os import path
 from typing import Iterable
 
-from shared import Node, get_http_client, nodes_to_geojson_collection
+from shared import LineString, get_http_client, nodes_to_geojson_collection
 
 DIR = path.abspath(path.dirname(__file__))
 
 # https://visitfaroeislands.com/en/whatson/hiking
 # browser console: Array.from(Spruce.store("app").list.values())[0]
-
 BASE_URL = 'https://visitfaroeislands.com/en/whatson/hiking'
 
 @dataclass
 class Hike:
-    """
-    A bit of typing for the huge JSON that visitfaroeislands.com provides
-    """
+    name: str
+    description: str
+    url: str
     # url_slug: "skalafjordur-selatrad"
+    url_slug: str
+    image: str
+    geo_json: dict
     url_slug: str
 
 
 def get_hikes() -> Iterable[Hike]:
     url = BASE_URL
 
-    logger = logging.getLogger(name="http")
+    logger = logging.getLogger(name="get_hikes")
     resp = get_http_client().get(url='https://visitfaroeislands.com/en/whatson/hiking')
-    resp.raise_for_status()
 
+    resp.raise_for_status()
     logger.info(f'HTTP {resp.status_code} {resp.url}')
 
     # .apply([],JSON.parse( "[[ ... ]]" ))
@@ -50,14 +52,39 @@ def get_hikes() -> Iterable[Hike]:
     # "url_slug":"langasandur-streymnes1"
     for match in re.finditer(r'"url_slug":"([^"]+)"', raw_json):
         url_slug = match.group(1)
-        yield Hike(url_slug=url_slug)
+
+        # fetch the page
+
+        # https://visitfaroeislands.com/en/whatson/hiking/hike/nordoyri-skuvadalur
+        # var geoJson = {"type":"LineString","coordinates":[[-6.53700839728117,62.205172553658485], ...
+
+        # meta
+        # <meta property="og:title" content="Norðoyri - Skúvadalur" />
+        # <meta property="og:description" content="A lovely trip to the scout house in Skúvadalur among sheep, birds and historical traces." />
+        # <meta property="og:image" content="https://vfibackend.com/uploads/2023-06-01-skuvadalur-37-8w6a6439.jpg" />
+        resp = get_http_client().get(url=f'https://visitfaroeislands.com/en/whatson/hiking/hike/{url_slug}')
+
+        resp.raise_for_status()
+        logger.info(f'HTTP {resp.status_code} {resp.url}')
+
+        raw_json = re.search(r'geoJson = ([^;]+);', resp.text).group(1)
+        geo_json = json.loads(raw_json)
+
+        yield Hike(
+            url_slug=url_slug,
+            url=resp.url,
+            geo_json=geo_json,
+            name='',
+            description='',
+            image=''
+        )
 
 
 def main():
     logger = logging.getLogger(name="fo_trails")
 
     # prepare the list of nodes
-    nodes: list[Node] = []
+    nodes: list[LineString] = []
 
     logger.info('Getting the list of hikes ...')
 
@@ -67,38 +94,23 @@ def main():
         # type: "hike"
         # url_slug: "skalafjordur-selatrad"
         # distance: 5600
-        logger.info(f'Processing hike #{idx+1}: {hike.url_slug} ...')
-        # logger.info(f'Processing hike #{idx+1}: {hike.headline} ({hike.distance} m long) - {hike.url_slug} ...')
-        '''
-        routes = fetch_json(f'/areas/{operator["id"]}')['routes']
+        logger.info(f'Processing hike #{idx+1}: {hike.name} {hike.url_slug} ...')
 
-        for route in routes:
-            # name: "Leið 1: Tórshavn",
-            logger.info(f'Processing route: {route["name"]} (id #{route["id"]}) ...')
-
-            # https://buscms.sona.fo/v2/routes/32
-            stops = fetch_json(f'/routes/{route["id"]}')['stations']
-
-            nodes.extend(
-                # e.g. Node(lat=62.25408443, lon=-6.529764124, tags=[('name', '43 Viðurbyrgi'), ('operator', 'Klaksvík')])
-                Node(
-                    lat=stop['lat'],
-                    lon=stop['lng'],
-                    tags=[
-                        ('name', stop['name']),
-                        ('operator', operator['name'])
-                    ]
-                )
-                for stop in stops
+        nodes.append(
+            LineString(
+                coordinates=hike.geo_json.get('coordinates', []),
+                tags=[
+                    ('name', hike.name),
+                    ('url', hike.url),
+                    ('image', hike.image),
+                ]
             )
-            '''
+        )
 
-    '''
     # write the JSON
-    logger.info(f'Collected {len(nodes)} nodes with bus stops')
-    # print(nodes)
+    logger.info(f'Collected {len(nodes)} nodes with hikes')
 
-    geojson_file = path.join(DIR, '..', 'geojson', 'sona-busses.json')
+    geojson_file = path.join(DIR, '..', 'geojson', 'fo-hikes.json')
     logger.info(f'Writing {len(nodes)} node(s) GeoJSON to {geojson_file} ...')
 
     with open(geojson_file, 'wt') as f:
@@ -107,7 +119,6 @@ def main():
             fp=f,
             indent=True
         )
-    '''
     logger.info('Done')
 
 
