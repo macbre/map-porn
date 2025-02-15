@@ -1,0 +1,3 @@
+# @see https://github.com/depcheck/depcheck#usage-with-a-configuration-file
+ignores:
+- 'leaflet'  # used in the HTML file, loaded from CDN
