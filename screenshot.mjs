@@ -1,14 +1,7 @@
 #!/usr/bin/env node
 import puppeteer from 'puppeteer';
-
-import path from 'path';
-import fs from 'fs/promises';
 import log from 'npmlog';
-
-import imagemin from 'imagemin';
-import imageminPngquant from 'imagemin-pngquant';
-
-import {setTimeout} from "timers/promises";
+import {setTimeout} from "node:timers/promises";
 
 const url = 'http://localhost:3000/faroe';
 
