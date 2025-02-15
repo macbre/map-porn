@@ -123,17 +123,18 @@ EXTRA_TAG_VALUE = None
 
 # https://wiki.openstreetmap.org/wiki/Tag:tourism=museum
 # https://www.openstreetmap.org/node/8443937222
-TAG_KEY = 'tourism'
-TAG_VALUE = 'museum'
+# TAG_KEY = 'tourism'
+# TAG_VALUE = 'museum'
 
 # https://wiki.openstreetmap.org/wiki/Tag:waterway=stream
 # https://www.openstreetmap.org/way/724580036
+# TODO: save as lines instead of points
 # TAG_KEY = 'waterway'
 # TAG_VALUE = 'stream'
 # https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall
 # https://www.openstreetmap.org/node/5658226279
-# EXTRA_TAG_KEY = 'waterway'
-# EXTRA_TAG_VALUE = 'waterfall'
+TAG_KEY = 'waterway'
+TAG_VALUE = 'waterfall'
 
 
 def cache_osm_file():

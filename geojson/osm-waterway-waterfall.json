@@ -1,0 +1,1212 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0711733,
+     62.3083878
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2402265,
+     62.0234355
+    ]
+   },
+   "properties": {
+    "height": "30",
+    "name": "B\u00f8sdalafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.335435,
+     62.1285394
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3510544,
+     62.2741975
+    ]
+   },
+   "properties": {
+    "name": "Kj\u00f3dalsfossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4357777,
+     62.1075049
+    ]
+   },
+   "properties": {
+    "name": "M\u00falafossur",
+    "tourism": "attraction",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7806113,
+     62.0260673
+    ]
+   },
+   "properties": {
+    "name:en": "Svartafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9606479,
+     62.332967
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5492262,
+     62.31035
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1929876,
+     62.2525235
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1755153,
+     62.2483019
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5300898,
+     62.2569169
+    ]
+   },
+   "properties": {
+    "intermittent": "no",
+    "name": "Kr\u00e1ar\u00e1fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8765861,
+     62.0654919
+    ]
+   },
+   "properties": {
+    "name": "T\u00fdggjar\u00e1foss",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8773059,
+     62.0624041
+    ]
+   },
+   "properties": {
+    "name": "T\u00fdggjar\u00e1foss",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9064689,
+     62.1200426
+    ]
+   },
+   "properties": {
+    "name": "\u00c1 Fossi",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9456051,
+     62.152482
+    ]
+   },
+   "properties": {
+    "name": "Lag\u00e1fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4039025,
+     62.0922139
+    ]
+   },
+   "properties": {
+    "name": "Skar\u00f0s\u00e1fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9811198,
+     62.3399466
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3798943,
+     62.1214577
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3474386,
+     62.1269915
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3440298,
+     62.1272138
+    ]
+   },
+   "properties": {
+    "height": "80",
+    "name": "Reips\u00e1fossur",
+    "note": "height includes whole gorge.",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9770479,
+     61.6355804
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7645916,
+     62.3355993
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6902971,
+     62.073713
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8440817,
+     62.0448317
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9658314,
+     62.037006
+    ]
+   },
+   "properties": {
+    "name": "Nipufossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9751085,
+     62.0471128
+    ]
+   },
+   "properties": {
+    "name": "\u00c1arst\u00edggjafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9717487,
+     62.0548976
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8604373,
+     61.9882561
+    ]
+   },
+   "properties": {
+    "name": "Kikafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8322323,
+     61.9837264
+    ]
+   },
+   "properties": {
+    "name": "\u00c1 Fossum",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9443473,
+     62.07518
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8769029,
+     62.0634125
+    ]
+   },
+   "properties": {
+    "name": "T\u00fdggjar\u00e1foss",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8765755,
+     62.0645358
+    ]
+   },
+   "properties": {
+    "name": "T\u00fdggjar\u00e1foss",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.867715,
+     62.0607055
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9317097,
+     62.0894626
+    ]
+   },
+   "properties": {
+    "name": "Bl\u00e1fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9037548,
+     62.0969903
+    ]
+   },
+   "properties": {
+    "name": "Ravnafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.900932,
+     62.0963499
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9044386,
+     62.0967546
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9000648,
+     62.1000097
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8997899,
+     62.0999715
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8978748,
+     62.0996305
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8987765,
+     62.0998026
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9705221,
+     62.1005264
+    ]
+   },
+   "properties": {
+    "name": "Kr\u00e1kufossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0431506,
+     62.1228299
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0434958,
+     62.1195179
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0815675,
+     62.1240923
+    ]
+   },
+   "properties": {
+    "name": "Ravnafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0832127,
+     62.129197
+    ]
+   },
+   "properties": {
+    "name": "Kjalnafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.218424,
+     62.210338
+    ]
+   },
+   "properties": {
+    "name": "Fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2149383,
+     62.2182222
+    ]
+   },
+   "properties": {
+    "name": "Fremri Fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9456696,
+     62.1482212
+    ]
+   },
+   "properties": {
+    "name": "\u00c1 Fossi",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1687022,
+     62.2428838
+    ]
+   },
+   "properties": {
+    "name": "Brei\u00f0\u00e1fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0795293,
+     62.2507668
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0794282,
+     62.2509807
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0775296,
+     62.2510925
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8539888,
+     61.8732772
+    ]
+   },
+   "properties": {
+    "name": "Kr\u00f3kafossar",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8328431,
+     61.8703837
+    ]
+   },
+   "properties": {
+    "name": "Tv\u00f8r\u00e1fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8048147,
+     61.8442495
+    ]
+   },
+   "properties": {
+    "name": "Tra\u00f0afossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7999189,
+     61.8474575
+    ]
+   },
+   "properties": {
+    "name": "Fossurin \u00ed Ternubrekkuni",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8352085,
+     61.8490231
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7500715,
+     61.819931
+    ]
+   },
+   "properties": {
+    "name": "Erjafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.738222,
+     61.8206465
+    ]
+   },
+   "properties": {
+    "name": "Vatnafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7375535,
+     61.8245228
+    ]
+   },
+   "properties": {
+    "name": "Fossin \u00ed R\u00e6ttum",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7311904,
+     61.8235652
+    ]
+   },
+   "properties": {
+    "name": "Fossin \u00ed Elinarh\u00fasi",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.758393,
+     61.8321579
+    ]
+   },
+   "properties": {
+    "name": "Fossurin \u00e1 Sandsg\u00f8tu",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7575136,
+     61.8329151
+    ]
+   },
+   "properties": {
+    "name": "Ovasti Fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7870183,
+     61.8544519
+    ]
+   },
+   "properties": {
+    "name": "L\u00e6seturfossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7024628,
+     61.8320976
+    ]
+   },
+   "properties": {
+    "name": "Fossin \u00e1 Valnabrekku",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6515033,
+     61.8190086
+    ]
+   },
+   "properties": {
+    "height": "40",
+    "name": "Hellisfossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.738892,
+     61.4406707
+    ]
+   },
+   "properties": {
+    "name": "Bl\u00e1fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7666549,
+     61.4333283
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9135444,
+     61.5576447
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9178645,
+     61.5612549
+    ]
+   },
+   "properties": {
+    "name": "Fossurin \u00ed Skar\u00f0i",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9233951,
+     61.5760882
+    ]
+   },
+   "properties": {
+    "name": "Fossurin \u00e1 Ni\u00f0astabotni",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5577757,
+     62.3178649
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5386739,
+     62.3017949
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3701105,
+     62.0873229
+    ]
+   },
+   "properties": {
+    "name": "Bjarnafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3704061,
+     62.278168
+    ]
+   },
+   "properties": {
+    "name": "Nor\u00f0dalsfossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5469084,
+     62.2600355
+    ]
+   },
+   "properties": {
+    "intermittent": "no",
+    "name": "Svartifossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5189179,
+     62.2512702
+    ]
+   },
+   "properties": {
+    "intermittent": "no",
+    "name": "Yvir \u00e1 Fossi",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8120101,
+     62.0317266
+    ]
+   },
+   "properties": {
+    "name": "Villingafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1761972,
+     62.1576407
+    ]
+   },
+   "properties": {
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1087866,
+     62.276684
+    ]
+   },
+   "properties": {
+    "name": "Kluftafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1488418,
+     62.2870904
+    ]
+   },
+   "properties": {
+    "name": "Brandaskersfossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9094281,
+     61.5551353
+    ]
+   },
+   "properties": {
+    "name": "\u00c1smundarfossar",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9070751,
+     61.5555751
+    ]
+   },
+   "properties": {
+    "name": "Heimarufossar",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8368261,
+     61.5656952
+    ]
+   },
+   "properties": {
+    "name": "Ranafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.847704,
+     61.571875
+    ]
+   },
+   "properties": {
+    "name": "Bl\u00e1fossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8370291,
+     61.565327
+    ]
+   },
+   "properties": {
+    "name": "Ranafossur",
+    "waterway": "waterfall"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.837482,
+     61.5537987
+    ]
+   },
+   "properties": {
+    "name": "T\u00fagvufossur",
+    "waterway": "waterfall"
+   }
+  }
+ ]
+}
