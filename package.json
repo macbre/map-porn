@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Templates used to generate maps based on geo data for Faroe Islands and Ireland",
   "scripts": {
+    "check-dependencies": "npx depcheck@1.4.7",
     "start": "serve",
     "screenshot": "node screenshot.mjs"
   },
