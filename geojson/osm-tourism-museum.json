@@ -1,0 +1,683 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9283851,
+     61.6327916
+    ]
+   },
+   "properties": {
+    "addr:city": "Sandv\u00edk",
+    "addr:country": "FO",
+    "addr:housename": "H\u00fasi\u00f0 uttan \u00c1nna",
+    "addr:housenumber": "3",
+    "addr:postcode": "860",
+    "addr:street": "St\u00f8\u00f0arvegur",
+    "museum": "local",
+    "name": "H\u00fasi\u00f0 uttan \u00c1nna",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "tourism": "museum",
+    "us.fo:Adressutal": "25322"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7083607,
+     62.2114912
+    ]
+   },
+   "properties": {
+    "addr:city": "Leirv\u00edk",
+    "addr:country": "FO",
+    "addr:housenumber": "6",
+    "addr:postcode": "520",
+    "addr:street": "Bryggjan",
+    "museum": "maritime",
+    "name": "B\u00e1tasavn",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "tourism": "museum",
+    "us.fo:Adressutal": "16870"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0933494,
+     62.2992988
+    ]
+   },
+   "properties": {
+    "addr:city": "Ei\u00f0i",
+    "addr:country": "FO",
+    "addr:housenumber": "5",
+    "addr:postcode": "470",
+    "addr:street": "Heimt\u00fan",
+    "email": "fornminnisfelag@eidi.fo",
+    "name": "L\u00e1tri\u00f0",
+    "phone": "+298 595280",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "tourism": "museum",
+    "us.fo:Adressutal": "22909",
+    "website": "https://www.facebook.com/EidiMuseum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7228058,
+     62.1243582
+    ]
+   },
+   "properties": {
+    "addr:city": "Glyvrar",
+    "addr:country": "FO",
+    "addr:housenumber": "14",
+    "addr:postcode": "625",
+    "addr:street": "Glyvravegur",
+    "name": "Bygdasavni\u00f0 Forni",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "tourism": "museum",
+    "us.fo:Adressutal": "24469"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5967123,
+     62.2305019
+    ]
+   },
+   "properties": {
+    "addr:city": "Klaksv\u00edk",
+    "addr:country": "FO",
+    "addr:housenumber": "84",
+    "addr:postcode": "700",
+    "addr:street": "Klaksv\u00edksvegur",
+    "name:en": "Museum of North Islands",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "tourism": "museum",
+    "us.fo:Adressutal": "14808"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5256555,
+     62.2925821
+    ]
+   },
+   "properties": {
+    "addr:city": "Nor\u00f0depil",
+    "addr:country": "FO",
+    "addr:housename": "Universiteti\u00f0 \u00ed Nor\u00f0depli",
+    "addr:housenumber": "2",
+    "addr:postcode": "730",
+    "addr:street": "Oyravegur",
+    "name": "Nor\u00f0oya Motorsavn",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "tourism": "museum",
+    "us.fo:Adressutal": "28911"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5293747,
+     62.2861643
+    ]
+   },
+   "properties": {
+    "addr:city": "Depil",
+    "addr:country": "FO",
+    "addr:housenumber": "1",
+    "addr:postcode": "735",
+    "addr:street": "\u00cd Depli",
+    "museum": "history",
+    "name": "Depilsgar\u00f0urin",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "tourism": "museum",
+    "us.fo:Adressutal": "29031"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1889678,
+     62.0509175
+    ]
+   },
+   "properties": {
+    "name": "K\u00e1lval\u00ed\u00f0",
+    "note": "Call +298 332425 or +298 275325",
+    "tourism": "museum",
+    "website": "https://visitvagar.fo/welcome-to-vagar/about/about-vagar-and-mykines/midvagur/kalvalid/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7805435,
+     62.0177372
+    ]
+   },
+   "properties": {
+    "addr:housenumber": "9, J9",
+    "addr:street": "Gundadalsvegur",
+    "image": "File:Listasavn_F\u00f8roya.jpg",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Listasavn F\u00f8roya",
+    "name:da": "F\u00e6r\u00f8ernes Kunstmuseum",
+    "name:en": "National Gallery of the Faroe Islands",
+    "name:is": "Listasafn F\u00e6reyja",
+    "opening_hours": "Mo-Su 11:00-17:00",
+    "phone": "+298 313579",
+    "tourism": "museum",
+    "website": "https://art.fo/en/",
+    "wikidata": "Q1130410",
+    "wikipedia": "fo:Listasavn F\u00f8roya",
+    "wikidata_claims": {
+     "P18": "Listasavn F\u00f8roya.jpg",
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 944273,
+      "id": "Q944273"
+     },
+     "P646": "/m/02x7gb3",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 207694,
+      "id": "Q207694"
+     },
+     "P214": "158531423",
+     "P935": "Listasavn F\u00f8roya",
+     "P571": {
+      "time": "+1989-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P84": {
+      "entity-type": "item",
+      "numeric-id": 12328778,
+      "id": "Q12328778"
+     },
+     "P856": "http://www.art.fo/",
+     "P1329": "+298-313579",
+     "P269": "081828535",
+     "P244": "nb2007015153",
+     "P2013": "ListasavnForoya",
+     "P1037": {
+      "entity-type": "item",
+      "numeric-id": 63953971,
+      "id": "Q63953971"
+     },
+     "P6375": {
+      "text": "9 Gundadalsvegur, T\u00f3rshavn 100, Faroe Islands",
+      "language": "en"
+     },
+     "P968": "mailto:info@art.fo",
+     "P625": {
+      "latitude": 62.0175,
+      "longitude": -6.780556,
+      "altitude": null,
+      "precision": 1e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P227": "10048570-4",
+     "P8313": "F\u00e6r\u00f8ernes_Kunstmuseum",
+     "P373": "Listasavn F\u00f8roya",
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 10704,
+      "id": "Q10704"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1764549,
+     62.2468442
+    ]
+   },
+   "properties": {
+    "email": "duvugardar@olivant.fo",
+    "name": "D\u00favugar\u00f0ar",
+    "phone": "+298596560",
+    "tourism": "museum",
+    "website": "https://www.facebook.com/duvugardar"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7585445,
+     62.0293356
+    ]
+   },
+   "properties": {
+    "email": "savn@savn.fo",
+    "fee": "yes",
+    "museum": "open_air,_local,history",
+    "name": "Hoyv\u00edksgar\u00f0ur",
+    "tourism": "museum",
+    "website": "https://www.tjodsavnid.fo/framsyningar/hoyviksgardur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9724262,
+     62.1728757
+    ]
+   },
+   "properties": {
+    "museum": "history",
+    "name": "Hvalast\u00f8\u00f0in vi\u00f0 \u00c1ir",
+    "name:en": "Former Whaling Station",
+    "tourism": "museum",
+    "website": "https://www.tjodsavnid.fo/framsyningar/hvalastodin-vid-air"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1504587,
+     62.1533754
+    ]
+   },
+   "properties": {
+    "fee": "yes",
+    "name": "The SagaMuseum",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "tourism": "museum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3102716,
+     62.0707199
+    ]
+   },
+   "properties": {
+    "tourism": "museum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.170993,
+     62.1536908
+    ]
+   },
+   "properties": {
+    "addr:city": "Vestmanna",
+    "addr:country": "FO",
+    "addr:housenumber": "23",
+    "addr:postcode": "350",
+    "addr:street": "Bakkavegur",
+    "name": "Vestmanna Bygdarsavn",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "tourism": "museum",
+    "us.fo:adressutal": "18870",
+    "us.fo:galdandi_fr\u00e1": "2005-4-18",
+    "us.fo:postnr": "350",
+    "us.fo:veganr": "2087"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7650435,
+     62.0321017
+    ]
+   },
+   "properties": {
+    "addr:city": "Hoyv\u00edk",
+    "addr:housenumber": "6",
+    "addr:postcode": "188",
+    "addr:street": "Brekkut\u00fan",
+    "charge": "60 DKK/adult; 30 DKK/senior; 30 DKK/student",
+    "email": "savn@savn.fo",
+    "museum": "history",
+    "name": "Tj\u00f3\u00f0savni\u00f0",
+    "operator:type": "government",
+    "phone": "+298 340 500",
+    "tourism": "museum",
+    "website": "https://www.tjodsavnid.fo/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7396305,
+     62.1978228
+    ]
+   },
+   "properties": {
+    "addr:housenumber": "10",
+    "addr:street": "Tr\u00f3ndarg\u00f8ta",
+    "description": "Open: 01 June - 31 August",
+    "name": "Bl\u00e1sastova",
+    "note": "Open: 01 June - 31 August",
+    "opening_hours": "Tu-Sa 13:00-16:00",
+    "phone": "+298222717",
+    "tourism": "museum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7929101,
+     61.9519363
+    ]
+   },
+   "properties": {
+    "building": "house",
+    "name": "Kirkjb\u00f8argar\u00f0ur",
+    "tourism": "museum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7840712,
+     62.0222631
+    ]
+   },
+   "properties": {
+    "addr:city": "T\u00f3rshavn",
+    "addr:housenumber": "14",
+    "addr:postcode": "100",
+    "addr:street": "Nor\u00f0ari Ringvegur",
+    "amenity": "culture_center",
+    "building": "yes",
+    "image": "File:Nordens_Hus_pa_Faeroerne.jpg",
+    "name": "Nor\u00f0urlandah\u00fasi\u00f0",
+    "name:da": "Nordens hus",
+    "name:en": "Nordic House in the Faroe Islands",
+    "name:fo": "Nor\u00f0urlandah\u00fasi\u00f0",
+    "name:no": "Nordens hus",
+    "name:sv": "Nordens hus",
+    "opening_hours": "10:00-17:00; Su 14:00-17:00",
+    "phone": "+298 351351",
+    "roof:material": "grass",
+    "tourism": "museum",
+    "website": "http://www.nlh.fo/",
+    "wikidata": "Q1078945",
+    "wikimedia_commons": "Category:Nordic House in the Faroe Islands",
+    "wikipedia": "en:Nordic House in the Faroe Islands",
+    "wikidata_claims": {
+     "P625": {
+      "latitude": 62.0221,
+      "longitude": -6.7846,
+      "altitude": null,
+      "precision": 2.77777777778e-06,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P646": "/m/0dsfs7",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 1329623,
+      "id": "Q1329623"
+     },
+     "P373": "Nordic House in the Faroe Islands",
+     "P214": "137936435",
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P935": "Nordic House in the Faroes",
+     "P856": "http://hotelforoyar.fo/",
+     "P1329": "+298-317500",
+     "P18": "Nordens Hus pa Faeroerne.jpg",
+     "P269": "180997882",
+     "P244": "n87939548",
+     "P5652": "7611",
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 944273,
+      "id": "Q944273"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 10704,
+      "id": "Q10704"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7646936,
+     62.0323391
+    ]
+   },
+   "properties": {
+    "addr:city": "Hoyv\u00edk",
+    "addr:housenumber": "15",
+    "addr:postcode": "188",
+    "addr:street": "S\u00f8vn Landsins K\u00fardalsvegur",
+    "building": "yes",
+    "name": "F\u00f8roya Fornminnisavn",
+    "name:da": "F\u00e6r\u00f8ernes Nationalmuseum",
+    "name:en": "Faroese National Heritage",
+    "name:fo": "F\u00f8roya Fornminnisavn",
+    "opening_hours": "Mo-Su 10:00-17:00",
+    "phone": "+298 340500",
+    "tourism": "museum",
+    "website": "https://www.natmus.fo/",
+    "wikidata": "Q946378",
+    "wikimedia_commons": "Category:F\u00f8roya Fornminnissavn",
+    "wikipedia": "en:National Museum of the Faroe Islands",
+    "wikidata_claims": {
+     "P856": "http://www.natmus.fo/",
+     "P373": "F\u00f8roya Fornminnissavn",
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 944273,
+      "id": "Q944273"
+     },
+     "P646": "/m/0czd_mw",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 33506,
+      "id": "Q33506"
+     },
+     "P214": "129185180",
+     "P1329": "+298-340500",
+     "P244": "n98056334",
+     "P227": "6122072-3",
+     "P706": {
+      "entity-type": "item",
+      "numeric-id": 192540,
+      "id": "Q192540"
+     },
+     "P18": "Faroese skeletons.JPG",
+     "P6375": {
+      "text": "K\u00fardalsvegur 2, FO 188 Hoyv\u00edk",
+      "language": "fo"
+     },
+     "P625": {
+      "latitude": 62.0319,
+      "longitude": -6.7649,
+      "altitude": null,
+      "precision": 0.0001,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P1343": {
+      "entity-type": "item",
+      "numeric-id": 73357989,
+      "id": "Q73357989"
+     },
+     "P1619": {
+      "time": "+1952-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P2427": "grid.511448.d",
+     "P6782": "00ek68a72",
+     "P213": "0000000406081577",
+     "P10689": "44619145"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8827788,
+     61.9030061
+    ]
+   },
+   "properties": {
+    "building": "residential",
+    "name": "Bygdarsavni\u00f0",
+    "tourism": "museum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7127448,
+     61.4036878
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "name": "Bygdasavn",
+    "tourism": "museum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8218204,
+     61.4727104
+    ]
+   },
+   "properties": {
+    "building": "house",
+    "name": "Ruth Smith Savni\u00f0",
+    "tourism": "museum",
+    "wikidata": "Q20620834",
+    "wikimedia_commons": "File:Gamla Sk\u00fala, V\u00e1gur 2004.jpg",
+    "wikipedia": "fo:Ruth Smith Savni\u00f0",
+    "wikidata_claims": {
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 207694,
+      "id": "Q207694"
+     },
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P131": {
+      "entity-type": "item",
+      "numeric-id": 250131,
+      "id": "Q250131"
+     },
+     "P625": {
+      "latitude": 61.47267,
+      "longitude": -6.82166,
+      "altitude": null,
+      "precision": 1e-05,
+      "globe": "http://www.wikidata.org/entity/Q2"
+     },
+     "P276": {
+      "entity-type": "item",
+      "numeric-id": 754670,
+      "id": "Q754670"
+     },
+     "P18": "Gamla Sk\u00fala, V\u00e1gur 2004.jpg",
+     "P373": "Ruth Smith Art Museum"
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8124352,
+     61.832077
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "name": "Listasavni\u00f0 \u00e1 Sandi",
+    "tourism": "museum"
+   }
+  }
+ ]
+}
