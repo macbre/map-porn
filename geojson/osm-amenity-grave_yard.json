@@ -1,0 +1,1247 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1763991,
+     62.1504435
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard",
+    "denomination": "lutheran",
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1763991,
+     62.1504435
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard",
+    "denomination": "lutheran",
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8157057,
+     62.2433137
+    ]
+   },
+   "properties": {
+    "denomination": "lutheran",
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0902055,
+     62.2995493
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard",
+    "denomination": "protestant",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7956337,
+     62.0005036
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7775848,
+     62.0100328
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "name": "\u00e1 Sv\u00ednaryggi",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7270257,
+     62.1285151
+    ]
+   },
+   "properties": {
+    "denomination": "protestant",
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1717201,
+     62.1534976
+    ]
+   },
+   "properties": {
+    "barrier": "fence",
+    "fence_type": "concrete",
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2055164,
+     62.0462909
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "name": "Kirkjugar\u00f0ur \u00ed Mi\u00f0v\u00e1gi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6717838,
+     62.005429
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "name": "N\u00fdggi Kirkjugar\u00f0urin \u00ed N\u00f3lsoy"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8119322,
+     61.4688003
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.093294,
+     62.2760913
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0928119,
+     62.2761418
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1487944,
+     62.287807
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7931543,
+     61.9518926
+    ]
+   },
+   "properties": {
+    "barrier": "fence",
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9423761,
+     62.3242094
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8676143,
+     61.8970154
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7990127,
+     61.9541812
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8808548,
+     62.1574463
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7134973,
+     61.4044083
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5440584,
+     62.3600874
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5399066,
+     62.359773
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5614104,
+     62.224446
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5607249,
+     62.2243945
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5819285,
+     62.2271961
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.4382177,
+     62.109854
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery",
+    "wall": "dry_stone"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778136,
+     62.1564981
+    ]
+   },
+   "properties": {
+    "denomination": "protestant",
+    "landuse": "cemetery",
+    "name": "Kirkjugar\u00f0urin",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1795537,
+     62.2463844
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8537528,
+     62.2766452
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery",
+    "wall:material": "stones"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5257114,
+     62.2924993
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7885859,
+     61.547589
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7898139,
+     62.3611745
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7545536,
+     62.1205134
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6958469,
+     62.2648245
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9080485,
+     62.283379
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6712403,
+     62.2927967
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8329205,
+     62.0582233
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7452836,
+     62.1964682
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8917973,
+     61.9575555
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9109461,
+     62.1166272
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8965038,
+     62.1179412
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9441887,
+     62.1523792
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0323129,
+     62.1860213
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery",
+    "name": "N\u00fdggi Kirkjugar\u00f0urin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0315564,
+     62.1861859
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery",
+    "name": "Gamli Kirkjugar\u00f0ur"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0790358,
+     62.1140885
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.151287,
+     62.0541855
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1922418,
+     62.0472965
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.848883,
+     62.2621492
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.370233,
+     62.0864197
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0055947,
+     62.2158406
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0055782,
+     62.2161666
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7543621,
+     62.1181865
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7391654,
+     62.1975395
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6764923,
+     61.7838476
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9664771,
+     62.2865757
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9660573,
+     62.2869215
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8525124,
+     62.2770847
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.811227,
+     61.8325694
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7663368,
+     62.33579
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7311174,
+     62.0815377
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7304114,
+     62.0812408
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6813762,
+     62.1050357
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7142796,
+     62.2104984
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9460791,
+     61.5961655
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "name": "Kirkjugar\u00f0urin \u00ed Leirab\u00f8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9297696,
+     61.6300343
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9452405,
+     61.6031181
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "memorial": "stone",
+    "name": "Gl kirkjugar\u00f0urin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0744512,
+     62.1170289
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7667945,
+     61.447431
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "name": "Kirkjugar\u00f0urin \u00e1 Leiti",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8186648,
+     61.4732179
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0927937,
+     62.2760095
+    ]
+   },
+   "properties": {
+    "barrier": "wall",
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8710642,
+     61.8980544
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6692444,
+     61.830209
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "name": "N\u00fdggi Kirkjugar\u00f0urin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.661887,
+     61.8323006
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "name": "Gamli Kirkjugar\u00f0urin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.678981,
+     61.8093009
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7113665,
+     61.4025905
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7470808,
+     61.4806681
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7597961,
+     61.5068792
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8721885,
+     61.5199398
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8799736,
+     61.525633
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7467993,
+     61.4809968
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8219628,
+     61.5483055
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.6436844,
+     62.1040777
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3187973,
+     62.3185752
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.2752561,
+     62.3318908
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3428481,
+     62.2788239
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5220695,
+     62.2516604
+    ]
+   },
+   "properties": {
+    "denomination": "lutheran",
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6722106,
+     62.2935433
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775558,
+     62.0382559
+    ]
+   },
+   "properties": {
+    "addr:street": "Klingran",
+    "amenity": "grave_yard",
+    "name": "Kirkjugar\u00f0urin \u00ed Hoyv\u00edk"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.205835,
+     62.0458464
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8012358,
+     61.7667514
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9211598,
+     61.6346682
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery",
+    "name": "Gamli Kirkjugar\u00f0urin"
+   }
+  }
+ ]
+}
