@@ -1,0 +1,91 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1763991,
+     62.1504435
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard",
+    "denomination": "lutheran",
+    "landuse": "cemetery",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0902055,
+     62.2995493
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard",
+    "denomination": "protestant",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7956337,
+     62.0005036
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard",
+    "religion": "christian"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0928119,
+     62.2761418
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5819285,
+     62.2271961
+    ]
+   },
+   "properties": {
+    "amenity": "grave_yard"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775558,
+     62.0382559
+    ]
+   },
+   "properties": {
+    "addr:street": "Klingran",
+    "amenity": "grave_yard",
+    "name": "Kirkjugar\u00f0urin \u00ed Hoyv\u00edk"
+   }
+  }
+ ]
+}

@@ -133,8 +133,16 @@ EXTRA_TAG_VALUE = None
 # TAG_VALUE = 'stream'
 # https://wiki.openstreetmap.org/wiki/Tag:waterway=waterfall
 # https://www.openstreetmap.org/node/5658226279
-TAG_KEY = 'waterway'
-TAG_VALUE = 'waterfall'
+# TAG_KEY = 'waterway'
+# TAG_VALUE = 'waterfall'
+
+# https://wiki.openstreetmap.org/wiki/Tag:amenity=grave_yard
+#
+# TODO: handles ways
+#   https://www.openstreetmap.org/way/782638560
+#   https://www.openstreetmap.org/way/559502615
+TAG_KEY = 'amenity'
+TAG_VALUE = 'grave_yard'
 
 
 def cache_osm_file():
