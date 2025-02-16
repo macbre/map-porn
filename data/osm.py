@@ -137,12 +137,15 @@ EXTRA_TAG_VALUE = None
 # TAG_VALUE = 'waterfall'
 
 # https://wiki.openstreetmap.org/wiki/Tag:amenity=grave_yard
-#
-# TODO: handles ways
-#   https://www.openstreetmap.org/way/782638560
-#   https://www.openstreetmap.org/way/559502615
+# https://www.openstreetmap.org/way/782638560
+# https://www.openstreetmap.org/way/559502615
 TAG_KEY = 'amenity'
 TAG_VALUE = 'grave_yard'
+
+# https://wiki.openstreetmap.org/wiki/Tag:landuse=cemetery
+# This tag is used for a cemetery that isn't part of a place of worship. 
+EXTRA_TAG_KEY = 'landuse'
+EXTRA_TAG_VALUE = 'cemetery'
 
 
 def cache_osm_file():
