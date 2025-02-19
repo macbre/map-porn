@@ -4,7 +4,7 @@
 }
 
 body {
-    font-family: Gudea, sans-serif;
+    font-family: Outfit, sans-serif;
     margin: 25px;
     background-color: #3c91d055;
     background-color: white;
@@ -201,7 +201,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
  * Legends
  */
 #overlay {
-    font-family: Gudea, sans-serif;
+    font-family: Outfit, sans-serif;
     position: absolute;
     z-index: 500;
     padding: 50px 25px;
@@ -262,7 +262,7 @@ legend img {
 }
 
 legend ul {
-    font-family: 'Gudea', sans-serif;
+    font-family: Outfit, sans-serif;
     list-style: none;
     line-height: 2.5em;
     font-size: 3em;
@@ -311,6 +311,7 @@ legend li .tally {
 }
 
 label#atlantic-ocean {
+    font-family: Lora, serif;
     font-size: 5em;
     font-style: italic;
 
@@ -325,7 +326,7 @@ label#atlantic-ocean {
 
 /* added via L.tooltip (wuth a black marker) */
 .leaflet-tooltip {
-    font-family: Gudea, sans-serif;
+    font-family: Outfit, sans-serif;
     background: transparent;
     /* background-color: #fffa; */
     padding: 0;
