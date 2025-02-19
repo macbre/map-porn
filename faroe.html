@@ -3,7 +3,7 @@
 	<title>Faroe Islands - map</title>
 
 	<!-- fonts -->
-	<link href="https://fonts.googleapis.com/css2?family=Gudea:wght@400;700&family=Josefin+Sans:wght@100;600&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;600&family=Josefin+Sans:wght@100;600&family=Lora:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">
 
 	<!-- leaflet -->
 	<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
@@ -24,30 +24,21 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Churches</h2>
-				<h2 lang="pl">Kościoły</h2>
+				<h2 lang="en">Old village paths</h2>
+				<h2 lang="pl">Szlaki między osadami</h2>
 
 				<legend>
-					<!-- <img src="https://3.bp.blogspot.com/-d6oBGCensQ8/U2ADslYwc4I/AAAAAAAAIXM/SSR4NbDTxP8/s1600/IMG_0500.jpg"> -->
+					<img src="https://live.staticflickr.com/316/19725846794_a69913f540_c_d.jpg">
 					<p lang="en">
-						Remarkably little medieval church furniture has been preserved in the Faroe Islands.
-						The current parish church in Kirkjubøur - Saint Olav's Church -  was built in the 13th century and is the only medieval church in the country that is still in use.
+						All across the Faroe Islands, you'll find <strong>bygdagøtur</strong> - old narrow village paths that have been in use since the islands were first settled.
+						They were used to get to the neighboring villages, attend the church, carry the coffin to the nearby cemetery, and deliver the post.
 						<br><br>
-						<strong>The Evangelical Lutheran Church has a total of 61 churches</strong>. The only Catholic church - Mariukirkjan is located in Tórshavn.
-						<br><br>
-						Old wooden churches in Nes and Gøta no longer hold religious services as they were replaced by modern churches. They therefore only used on special occasions.
-						<br><br>
-						Interestingly, <strong>the pulpit in Faroese churches is always placed on the north side</strong>, the church in Hósvík being the only exception.
+						These trails are <strong>marked by stone cairns (varðar)</strong> and free to hike along. Do remember to <strong>stay on the path</strong>. Walking on the in- and outfields require the landowners’ permission.
 					</p>
 					<p lang="pl">
-						Zaskakująco niewiele zachowało się z farerskich średniowiecznych świątyń.
-						XIII-wieczny kościół parafialny św. Olafa w Kirkjubøur jest jedynym średniowiecznym farerskim kościołem, w którym nadal odbywają się nabożeństwa.
+						Wyspy Owcze poprzecinane są licznymi <strong>bygdagøtur</strong> - szlakami, które od stuleci łączyły osady. Korzystano z nich by dotrzeć do sąsiedniej wioski, wziąć udział w nabożeństwie, przenieść zmarłego na miejsce wiecznego spoczynku, dostarczyć pocztę.
 						<br><br>
-						<strong>Farerski Kościół ewangelicko-luterański ma łącznie 61 świątyń</strong>. Jedyny katolicki kościół - Mariukirkjan znajduje się w Tórshavn.
-						<br><br>
-						Stare drewniane kościoły w Nes i Gøta - zastąpione przez nowoczesne budynki - nie służą już celom religijnym.
-						<br><br>
-						Co ciekawe, <strong>ambona umieszczona jest zawsze po północnej stronie farerskiego kościoła</strong> - jedynym wyjątkiem jest świątynia w Hósvík.
+						Szlaki te <strong>znaczą kamienne kopczyki (varðar)</strong>, pomagające w nawigacji. Korzystanie z nich <strong>jest bezpłatne</strong>. Pamiętajmy jednak, aby <strong>nie zbaczać z wyznaczonej ścieżki</strong>. Uszanujmy farerskie prawo własności.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -85,7 +76,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps, trap.fo, WikiData
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, --><!-- OpenStreetMaps, trap.fo, WikiData,--> Visit Faroe Islands
 					</p>
 				</div>
 
@@ -110,6 +101,69 @@
 			];
 
 			await initMap(async (map) => {
+
+				const coloursMapping = {
+					'red': '#d73027',
+					'green': '#006837',
+					'orange': '#fdae61',
+					'black': '#000',
+				};
+
+				let counts = [];
+
+				// https://leafletjs.com/reference.html#geojson
+    			L.geoJSON(await fetchGeoJSON('/geojson/fo-hikes.json'), {
+					pane: `markers-blue`, // so that the geojson layer is rendered and visible
+					style: feature => {
+						const distance_km = feature.properties.distance_km;
+						let colour = 'green'; // up to 4 km
+						let weight = 2;
+
+						if (distance_km >= 15) {
+							weight = 6;
+							colour = 'black';
+						}
+						else if (distance_km >= 10) {
+							weight = 4;
+							colour = 'orange';
+						}
+						else if (distance_km >= 5) {
+							weight = 3;
+							colour = 'red';
+						}
+
+						console.log(colour, {name: feature.properties.name, distance: feature.properties.distance_km});
+
+						counts[colour] = counts[colour] || 0;
+						counts[colour]++;
+
+						// https://leafletjs.com/reference.html#path-option
+						return {
+							color: coloursMapping[colour] || 'black',
+							weight,
+							opacity: 0.7,
+						};
+					},
+					// add markers at both ends of the trail
+					/**
+					onEachFeature: (feature, _layer) => {
+						const points = feature.geometry.coordinates;
+						const start = points[0];
+						const end = points[points.length - 1];
+						console.log(start, end);
+
+						L.marker([start[1], start[0]], {icon: getIcon('blue', '', 4), pane: `markers-blue`}).addTo(map);
+						L.marker([end[1], end[0]], {icon: getIcon('blue', '', 4), pane: `markers-blue`}).addTo(map);
+        			}
+					**/
+				}).addTo(map);
+
+				addLabel('dark-green', 'Up to 5 km long', 'Do 5 km długości', counts['green']);
+				addLabel('red', 'Between 5 to 10 km', 'Od 5 do 10 km', counts['red']);
+				addLabel('orange', 'Between 10 and 15 km', 'Od 10 km do 15 km', counts['orange']);
+				addLabel('black', 'Over 15 km', 'Ponad 15 km', counts['black']);
+
+				/**
 				// green / blue / yellow
 				// await addGeoJSONLayer(map, '/geojson/osm-natural-peak.json', 'blue', 'peak', 'wzniesienie', (feature) => {
 				// 	// const city = feature.properties.city;
@@ -120,7 +174,9 @@
             	// 	L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`}).addTo(map);
 				// });
 				let counts = [];
+				**/
 
+				/**
 				L.geoJSON(await fetchGeoJSON('/geojson/osm-building-church.json'), {
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
@@ -152,10 +208,7 @@
 						counts[color]++;
 					}
 				});
-
-				addLabel('blue', 'Concrete churches', 'Kościoły', counts['blue']);
-				addLabel('green', 'Wooden churches', 'Kościoły drewniane', counts['green']);
-				addLabel('orange', 'Catholic church', 'Kościół katolicki', counts['orange']);
+				**/
 			});
 
 			// console.log(gridsPerCity);
