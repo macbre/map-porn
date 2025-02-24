@@ -1,9 +1,11 @@
 """
 Some share utilities
 """
+import logging
 from dataclasses import dataclass
-from typing import Any, Optional
-import requests
+from typing import Any, Optional, Iterator
+
+from requests import Session 
 
 
 class GeoJsonBase:
@@ -94,14 +96,48 @@ def nodes_to_geojson_collection(nodes: list[Node]) -> dict:
 
 _http_client = None
 
-def get_http_client() -> requests.Session:
+def get_http_client() -> Session:
     """
     https://requests.readthedocs.io/en/latest/user/advanced/
     """
     global _http_client
 
     if _http_client is None:
-        _http_client = requests.Session()
+        _http_client = Session()
         _http_client.headers.update({'user-agent': 'python (https://github.com/macbre/map-porn)'})
 
     return _http_client
+
+
+def get_wikidata_claims(entity: str) -> Iterator[tuple[str, dict]]:
+    """
+    E.g. 'Q431648'
+
+    https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q431648&languages=en&props=claims&format=json
+    """
+    logger = logging.getLogger('wikidata')
+    logger.info(f'Getting claims for the {entity} entity')
+
+    resp = get_http_client().get('https://www.wikidata.org/w/api.php', params={
+        'ids' : entity,
+        'action': 'wbgetentities',
+        'languages': 'en',
+        'props': 'claims',
+        'format': 'json',
+    })
+    resp.raise_for_status()
+
+    entities: dict = resp.json().get('entities', {})
+    entity: dict = list(entities.values())[0]
+    claims: dict = entity.get('claims', {})
+
+    for property, claim in claims.items():
+        # P17 -> {'entity-type': 'item', 'numeric-id': 4628, 'id': 'Q4628'}
+        # print(property, claim[0]['mainsnak']['datavalue']['value'])
+
+        try:
+            value = claim[0]['mainsnak']['datavalue']['value']
+            yield property, value
+        except KeyError:
+            pass
+
