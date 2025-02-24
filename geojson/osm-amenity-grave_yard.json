@@ -416,8 +416,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -6.5257114,
-     62.2924993
+     -6.5257065,
+     62.2925151
     ]
    },
    "properties": {
@@ -429,8 +429,8 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -6.7885859,
-     61.547589
+     -6.7885916,
+     61.5475784
     ]
    },
    "properties": {
@@ -1241,6 +1241,19 @@
    "properties": {
     "landuse": "cemetery",
     "name": "Gamli Kirkjugar\u00f0urin"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7634298,
+     61.5451292
+    ]
+   },
+   "properties": {
+    "landuse": "cemetery"
    }
   }
  ]
