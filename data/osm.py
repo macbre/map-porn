@@ -2,6 +2,8 @@
 import bz2
 import logging
 import json
+import subprocess
+
 from posixpath import dirname
 from tempfile import gettempdir
 from dataclasses import dataclass
@@ -148,9 +150,22 @@ EXTRA_TAG_KEY = 'landuse'
 EXTRA_TAG_VALUE = 'cemetery'
 
 
+"""
+This function fetches the osm.pbf ProtoBuf over HTTP, converts it into osm.bz2 XML file and caches it locally.
+
+https://download.geofabrik.de/bz2.html
+
+brew install osmium-tool
+apt install osmium-tool
+
+osmium cat myfile.osm.pbf -o myfile.osm.bz2
+"""
 def cache_osm_file():
     # https://download.geofabrik.de/europe/faroe-islands.html
-    URL = 'https://download.geofabrik.de/europe/faroe-islands-latest.osm.bz2'
+    # URL = 'https://download.geofabrik.de/europe/faroe-islands-latest.osm.bz2'
+    URL = 'https://download.geofabrik.de/europe/faroe-islands-latest.osm.pbf'
+
+    PBF_FILE = path.join(DIR, 'osm-faroe-islands.pbf.bz2')
     LOCAL_FILE = path.join(DIR, 'osm-faroe-islands.xml.bz2')
 
     logger = logging.getLogger(name="fetch")
@@ -166,9 +181,18 @@ def cache_osm_file():
 
     logger.info(f'HTTP {resp.status_code}')
 
-    with open(LOCAL_FILE, "wb") as f:
+    with open(PBF_FILE, "wb") as f:
         f.write(resp.content)
 
+    # https://docs.python.org/3/library/subprocess.html#subprocess.run
+    # osmium cat myfile.osm.pbf -o myfile.osm.bz2
+    logger.info(f'Converting PBF file to osm.bz2 ...')
+
+    resp = subprocess.run(["osmium", "cat", PBF_FILE, "-o", LOCAL_FILE])
+    if resp.returncode is not 0:
+        raise Exception(resp.stderr)
+
+    logger.info(f'osm.bz2 file stored in {LOCAL_FILE}')
     return LOCAL_FILE
 
 
