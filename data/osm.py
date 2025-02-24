@@ -21,6 +21,8 @@ DIR = path.abspath(path.dirname(__file__))
 EXTRA_TAG_KEY = None
 EXTRA_TAG_VALUE = None
 
+# EXTRA_CALLBACK = None
+
 # https://wiki.openstreetmap.org/wiki/Category:Tag_descriptions
 
 # https://wiki.openstreetmap.org/wiki/Buses#Stops_and_bus_stations
@@ -141,13 +143,35 @@ EXTRA_TAG_VALUE = None
 # https://wiki.openstreetmap.org/wiki/Tag:amenity=grave_yard
 # https://www.openstreetmap.org/way/782638560
 # https://www.openstreetmap.org/way/559502615
-TAG_KEY = 'amenity'
-TAG_VALUE = 'grave_yard'
-
+# TAG_KEY = 'amenity'
+# TAG_VALUE = 'grave_yard'
 # https://wiki.openstreetmap.org/wiki/Tag:landuse=cemetery
 # This tag is used for a cemetery that isn't part of a place of worship. 
-EXTRA_TAG_KEY = 'landuse'
-EXTRA_TAG_VALUE = 'cemetery'
+# EXTRA_TAG_KEY = 'landuse'
+# EXTRA_TAG_VALUE = 'cemetery'
+
+# https://wiki.openstreetmap.org/wiki/Tag:highway=primary
+TAG_KEY = 'highway'
+TAG_VALUE = 'primary'
+
+# find all nodes with the "highway" tag, e.g. highway=primary + highway=secondary + highway=residential + highway=tertiary + ...
+def EXTRA_CALLBACK(node_attrs: dict[str, str], node_tags: list[tuple]) -> bool:
+    tags: dict[str, str] = {key:value for (key,value) in node_tags}
+
+    # no geodata, skip
+    if 'lat' not in node_attrs:
+        return False
+
+    if tags.get('highway') in ['primary', 'secondary', 'residential', 'tertiary']:
+        # ignore:
+        # "junction": "roundabout",
+        # 'tunnel', 'yes'
+        if 'junction' not in tags and 'tunnel' not in tags:
+            # we require a name
+            if 'name' in tags:
+                return True
+
+    return False
 
 
 """
@@ -341,6 +365,17 @@ def main():
         """
         This will be called for each parsed <node> tag
         """
+        if EXTRA_CALLBACK:
+            if EXTRA_CALLBACK(node_attrs, node_tags) is True:
+                logger.info(f'Matching node found: {node_attrs} ({node_tags}')
+
+                nodes.append(Node(
+                    lat=node_attrs['lat'],
+                    lon=node_attrs['lon'],
+                    tags=node_tags
+                ))
+            return
+
         # <tag k="bus" v="yes"/>
         # <tag k="highway" v="bus_stop"/>
         matches = [
