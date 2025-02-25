@@ -104,6 +104,13 @@ def main():
         if street_city:
             street_city_unique.add(street_city)
 
+    with open(GEOJSON_FILE + '.txt', 'wt') as f:
+        streets = list(street_city_unique)
+        streets.sort()
+
+        for entry in streets:
+            f.write(f'{entry}\n')
+
     # now, extract street names from the pairs and prepare the list of the most common ones
     street_names = Counter()
 
