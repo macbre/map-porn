@@ -155,6 +155,20 @@ TAG_KEY = 'highway'
 TAG_VALUE = 'primary'
 
 # find all nodes with the "highway" tag, e.g. highway=primary + highway=secondary + highway=residential + highway=tertiary + ...
+#
+# $ cat osm-highway-primary.json | jq .features[].properties.name -r | sort | uniq -c | sort -rn
+#   28 Bakkavegur
+#   27 Selatraðarvegur
+#   20 Víkarvegur
+#   20 Sundalagsvegur
+#   20 Hvítanesvegur
+#   18 Kirkjuvegur
+#   18 Gerðisvegur
+#   17 Bøgøta
+#   16 R.C. Effersøes gøta
+#   16 Kaldbaksvegur
+#   16 Glyvursvegur
+#   15 Í Túni
 def EXTRA_CALLBACK(node_attrs: dict[str, str], node_tags: list[tuple]) -> bool:
     tags: dict[str, str] = {key:value for (key,value) in node_tags}
 
@@ -166,7 +180,8 @@ def EXTRA_CALLBACK(node_attrs: dict[str, str], node_tags: list[tuple]) -> bool:
         # ignore:
         # "junction": "roundabout",
         # 'tunnel', 'yes'
-        if 'junction' not in tags and 'tunnel' not in tags:
+        # "bridge": "yes"
+        if 'junction' not in tags and 'tunnel' not in tags and 'bridge' not in tags:
             # we require a name
             if 'name' in tags:
                 return True
