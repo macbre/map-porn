@@ -1,0 +1,1937 @@
+A.C. Evensens gøta, Tórshavn
+Abbatrøð, Tórshavn
+Abbreyt, Sandavágur
+Aggusteinusvegur, Hoyvík
+Agnið, Nes, Eysturoy
+Akkuleyugøta, Sandur
+Akrabergsvegur, Sumba
+Akranesgøta, Tórshavn
+Akravegur, Akrar
+Amtmansbrekkan, Tórshavn
+Andrasargøta, Hoyvík
+Antarvegur, Runavík
+Argisvegur, Hellurnar
+Argjaboðagøta, Argir
+Argjavegur, Argir
+Arrheboesvegur, Sandavágur
+Atlagøta, Hoyvík
+Bakkabrúgvin, Kirkja
+Bakkafløttur, Porkeri
+Bakkagøta, Argir
+Bakkagøta, Tjørnuvík
+Bakkahella, Tórshavn
+Bakkavegur, Elduvík
+Bakkavegur, Fuglafjørður
+Bakkavegur, Glyvrar
+Bakkavegur, Haldórsvík
+Bakkavegur, Haraldssund
+Bakkavegur, Hattarvík
+Bakkavegur, Húsar
+Bakkavegur, Ljósá
+Bakkavegur, Mikladalur
+Bakkavegur, Porkeri
+Bakkavegur, Skálavík
+Bakkavegur, Sørvágur
+Bakkavegur, Velbastaður
+Bakkavegur, Vestmanna
+Bakkavegur, Viðareiði
+Baraldsgøta, Tórshavn
+Beinisvegur, Skúgvoy
+Beitisbrekka, Glyvrar
+Beitisbrekka, Mikladalur
+Beitisrás, Stykkið
+Beitisvegur, Kirkja
+Beitisvegur, Leirvík
+Beitið, Vágur
+Bergsvegur, Tórshavn
+Berjabrekka, Tórshavn
+Berjavegur, Runavík
+Bertugøta, Hoyvík
+Billugøta, Argir
+Birnugøta, Tórshavn
+Biskupsmerkur, Leirvík
+Biskupsstøðgøta, Klaksvík
+Biskupstorg, Klaksvík
+Bjargalíð, Vestmanna
+Bjargatrøðin, Vágur
+Bjarnavegur, Fuglafjørður
+Bjarnoyarvegur, Tórshavn
+Blankagøta, Tórshavn
+Blikagøta, Runavík
+Blákollugøta, Tórshavn
+Blómubrekka, Tórshavn
+Borgartún, Argir
+Botnavegur, Kollafjørður
+Boðanesgøta, Hoyvík
+Brattabrekka, Klaksvík
+Brattabrekka, Tórshavn
+Brattagøta, Gøtugjógv
+Brattalíð, Tórshavn
+Breiðablik, Tórshavn
+Breiðabrekka, Saltangará
+Brekkubøur, Vágur
+Brekkugerði, Hósvík
+Brekkugil, Trongisvágur
+Brekkugøta, Saltangará
+Brekkugøta, Selatrað
+Brekkugøta, Tórshavn
+Brekkulág, Trongisvágur
+Brekkuskákið, Klaksvík
+Brekkutún, Hoyvík
+Brekkutún, Kollafjørður
+Brekkutún, Trongisvágur
+Brekkuvegur, Eiði
+Brekkuvegur, Gjógv
+Brekkuvegur, Hov
+Brekkuvegur, Leirvík
+Brekkuvegur, Toftir
+Brestisvegur, Skúgvoy
+Bringsnagøta, Tórshavn
+Bringstún, Argir
+Brobbersgøta, Tórshavn
+Bryggjan, Hósvík
+Bryggjan, Leirvík
+Bryggjan, Skála
+Bryggjan, Sørvágur
+Bryggjan, Vágur
+Bryggjubakki, Tórshavn
+Brúarvegur, Hov
+Brúgv, Fuglafjørður
+Brúgvarskákið, Klaksvík
+Brúnagøta, Tórshavn
+Brýnið, Fuglafjørður
+Bumshamarsvegur, Klaksvík
+Byrgishavn, Ørðavík
+Byrgisvegur, Gjógv
+Byrgisvegur, Søldarfjørður
+Byrgisvegur, Vestmanna
+Báraldarbrekka, Vágur
+Bátahylur, Strendur
+Bátahylurin, Skála
+Bíargarður, Hvalba
+Bíarvegur, Hvalba
+Bíggjarvegur, Bøur
+Bíggjarvegur, Sørvágur
+Bíggjarvegur, Tórshavn
+Bókbindaragøta, Tórshavn
+Bóndabrekka, Tórshavn
+Bóndagerði, Leirvík
+Bóndaheygur, Tórshavn
+Bóndansbeiti, Sørvágur
+Bóndatún, Ørðavík
+Bóndavegur, Mikladalur
+Bótolvsvegur, Miðvágur
+Bøgøta, Húsavík
+Bøgøta, Klaksvík
+Bøgøta, Kollafjørður
+Bøgøta, Lamba
+Bøgøta, Mykines
+Bøgøta, Strendur
+Bøgøta, Sumba
+Bøgøta, Sørvágur
+Bøgøta, Tórshavn
+Bøgøta, Vestmanna
+Bøgøta, Vágur
+Bøherðan, Skopun
+Bøkjarabrekka, Tórshavn
+Bønhúsvegur, Árnafjørður
+Børkugøta, Fuglafjørður
+Børkugøta, Trongisvágur
+Børkugøta, Tórshavn
+Børkuvegur, Runavík
+Bøvegur, Fuglafjørður
+Bøvegur, Svínoy
+Búðabrekka, Klaksvík
+Búðarvegur, Skálavík
+Búðaskákið, Klaksvík
+C. Pløyens gøta, Tórshavn
+Dagmarsgøta, Miðvágur
+Dalabøur, Skála
+Dalabú, Tórshavn
+Dalagerði, Skálavík
+Dalagøta, Tórshavn
+Dalakrókur, Tórshavn
+Dalalíð, Tórshavn
+Dalalíð, Vestmanna
+Dalastígur, Tórshavn
+Dalatrøð, Tórshavn
+Dalatún, Tórshavn
+Dalavegur, Gjógv
+Dalavegur, Glyvrar
+Dalavegur, Saltangará
+Dalavegur, Skálavík
+Dalavegur, Tórshavn
+Dalavegur, Viðareiði
+Dalbøgøta, Fuglafjørður
+Dalkinsvegur, Elduvík
+Dalsbøur, Sandavágur
+Dalsgøta, Syðradalur, Kalsoy
+Dalsvegur, Dalur
+Dalsvegur, Fuglafjørður
+Dalsvegur, Gásadalur
+Dalsvegur, Norðragøta
+Dalsvegur, Porkeri
+Dalsvegur, Vágur
+Davidsgøta, Leynar
+Deildarvegur, Mikladalur
+Deildarvegur, Syðrugøta
+Djóna í Geil gøta, Tórshavn
+Djúpagilsvegur, Hoyvík
+Djúpheiðar, Sørvágur
+Doktara Dahls gøta, Tórshavn
+Doktara Jakobsens gøta, Tórshavn
+Doktaragøta, Tvøroyri
+Drelnes, Ørðavík
+Dungabrekka, Sandavágur
+Dungagøta, Eiði
+Dungagøta, Tórshavn
+Dungansvegur, Selatrað
+Dungavegur, Elduvík
+Dvørgasteinsvegur, Skálafjørður
+Dvørgastígur, Tórshavn
+Dáateigur, Sandavágur
+Dánjalsgøta, Sandavágur
+Dánjalstrøð, Tórshavn
+Dávabrekka, Klaksvík
+Dávabreyt, Bøur
+Dávagerði, Strendur
+Dímun, Stóra Dímun
+Dýrindalsgøta, Hoyvík
+Edmundstrøð, Ánirnar
+Eggjargøta, Nólsoy
+Eggjarvegur, Elduvík
+Eggjarvegur, Leirvík
+Eggjarvegur, Miðvágur
+Eggjarvegur, Viðareiði
+Eggjavegur, Vágur
+Egholmstrøð, Tórshavn
+Eiler Jacobsens gøta, Skálavík
+Einarsgøta, Hoyvík
+Einarsvegur, Skúgvoy
+Eingjargøta, Hellurnar
+Eingjartoftir, Sandavágur
+Eirargarður, Tórshavn
+Eiriksgøta, Miðvágur
+Eiriksgøta, Tórshavn
+Eiðisbrekka, Undir Gøtueiði
+Eiðisvegur, Eiði
+Eiðisvegur, Hvalba
+Eiðisvegur, Ljósá
+Eiðisvegur, Norðskáli
+Eiðisvegur, Svínáir
+Eiðisvegur, Vágur
+Eiðsvíksvegur, Viðareiði
+Ennigøta, Rituvík
+Ennivegur, Fuglafjørður
+Erlings jals gøta, Tórshavn
+Ervavegur, Velbastaður
+Essalág, Tórshavn
+Eyrgøta, Strendur
+Eystan Garð, Klaksvík
+Eystan Heyg, Tórshavn
+Eystanvegur, Sandur
+Eystara Bryggja, Tórshavn
+Eystari Ringvegur, Tórshavn
+Eystur í Hagan, Svínoy
+Eysturi á Veg, Gjógv
+Eysturi í Túni, Eiði
+Eysturoyartunnilin, Hoyvík
+Eysturoyartunnilin, Saltnes
+Eysturoyartunnilin, Strendur
+Eysturoyarvegur, Klaksvík
+Eysturstræti, Tórshavn
+Eyðansbrekka, Sandavágur
+Eyðargøta, Norðragøta
+Fagragil, Fuglafjørður
+Fagralíð, Skála
+Fagralíð, Tórshavn
+Faksagøta, Tórshavn
+Faktorsvegur, Klaksvík
+Falkavegur, Tórshavn
+Fiskivinnuhavnin, Saltangará
+Fjalsgøta, Tórshavn
+Fjalsgøta, Vágur
+Fjalslíð, Vestmanna
+Fjalstún, Tórshavn
+Fjalsvegur, Fuglafjørður
+Fjalsvegur, Vestmanna
+Fjarðarvegur, Skálafjørður
+Fjarðarvegur, Undir Gøtueiði
+Fjarðarvegur, Vestmanna
+Fjarðavegur, Funningsfjørður
+Fjósabrekka, Klaksvík
+Fjósagøta, Tórshavn
+Fjósteigur, Sandavágur
+Fjørdalsgøta, Mykines
+Fjøruvegur, Eiði
+Fjøruvegur, Glyvrar
+Fjøruvegur, Haraldssund
+Fjøruvegur, Leirvík
+Fjøruvegur, Norðoyri
+Fjøruvegur, Rituvík
+Fjøruvegur, Runavík
+Fjøruvegur, Saltangará
+Fjøruvegur, Æðuvík
+Flatarvegur, Hoyvík
+Flatibøur, Nes, Eysturoy
+Flatnabrekka, Signabøur
+Flatnagerði, Tórshavn
+Flatnavegur, Gjógv
+Flatnavegur, Norðoyri
+Flatnavegur, Norðskáli
+Flatnavegur, Signabøur
+Flatnavegur, Vestmanna
+Flatnavegur, Viðareiði
+Flesjavegur, Klaksvík
+Flogvøllurin, Sørvágur
+Fløguvegur, Fámjin
+Fløttavegur, Mikladalur
+Fløttisgøta, Vestmanna
+Fløtugerði, Leirvík
+Fløtugøta, Hósvík
+Fløtuvegur, Oyndarfjørður
+Fløtuvegur, Strendur
+Folagerði, Tórshavn
+Follendisvegur, Strendur
+Foragøta, Strendur
+Foravegur, Eiði
+Foravegur, Svínoy
+Fornabrekka, Klaksvík
+Fornagarður, Gjógv
+Fornagøta, Mikladalur
+Fornagøta, Árnafjørður
+Fornarætt, Trongisvágur
+Fornavegur, Lamba
+Fornavegur, Norðoyri
+Fossabrúgv, Klaksvík
+Fossagøta, Klaksvík
+Fossagøta, Strendur
+Fossavegur, Fámjin
+Fossavegur, Vágur
+Fossávegur, Norðdepil
+Fram við Ánni, Húsavík
+Frammi við Rætt, Stykkið
+Frammi á Trøð, Stykkið
+Frammi í Dal, Kollafjørður
+Frammi í Forna, Kvívík
+Frammi í Gerði, Kvívík
+Friðartún, Runavík
+Froðbiarvegur, Froðba
+Fríðriks Petersens gøta, Tórshavn
+Fríðriksgøta, Toftir
+Fríðufløtur, Strendur
+Frúutrøð, Tórshavn
+Fuglafjarðarvegur, Fuglafjørður
+Fuglafjarðarvegur, Norðragøta
+Fugloyarvegur, Hattarvík
+Fugloyarvegur, Kirkja
+Fugloyarvegur, Tórshavn
+Funningsvegur, Funningsfjørður
+Funningsvegur, Funningur
+Fyri oman Brúgv, Syðrugøta
+Fyri uttan Kirkju, Mikladalur
+Fámjinsvegur, Fámjin
+Fámjinsvegur, Ørðavík
+Fílasandsvegur, Oyrarbakki
+Fútaklettur, Sandavágur
+Fútalág, Tórshavn
+Gaddareyn, Hvalba
+Gaddavegur, Nes, Eysturoy
+Gamla Klokkaragøta, Tórshavn
+Gamlarætt, Kirkjubøur
+Gamli Vegur, Norðragøta
+Gamli Velbastaðvegur, Tórshavn
+Gamlivegur, Hattarvík
+Gamlivegur, Hoyvík
+Gamlivegur, Kirkjubøur
+Gamlivegur, Oyndarfjørður
+Gamlivegur, Sandavágur
+Gamlivegur, Skopun
+Gamlivegur, Skála
+Garðabrekka, Syðrugøta
+Garðabrekka, Vágur
+Garðagøta, Haraldssund
+Garðagøta, Miðvágur
+Garðagøta, Sandvík
+Garðagøta, Syðrugøta
+Garðatún, Vestmanna
+Garðavegur, Fuglafjørður
+Garðavegur, Hoyvík
+Garðavegur, Klaksvík
+Garðavegur, Leynar
+Garðavegur, Skopun
+Garðavegur, Skálavík
+Garðavegur, Søldarfjørður
+Garðavegur, Vestmanna
+Garðsendavegur, Hósvík
+Garðsendi, Klaksvík
+Garðsgøta, Argir
+Garðsgøta, Klaksvík
+Garðsgøta, Mykines
+Garðstún, Argir
+Garðstún, Sandavágur
+Garðsvegur, Eiði
+Garðsvegur, Hov
+Garðsvegur, Leirvík
+Garðsvegur, Sørvágur
+Garðsvegur, Viðareiði
+Geilagarður, Leirvík
+Geilargøta, Rituvík
+Geilargøta, Syðrugøta
+Geilartún, Tórshavn
+Geilarvegur, Elduvík
+Geilarvegur, Glyvrar
+Geilin, Eiði
+Geilin, Gásadalur
+Geilin, Hósvík
+Geilin, Innan Glyvur
+Geilin, Klaksvík
+Geilin, Kvívík
+Geilin, Lamba
+Geilin, Saltangará
+Geilin, Sandavágur
+Geilin, Vágur
+Geitagerði, Tórshavn
+Gerðagøta, Klaksvík
+Gerðavegur, Dalur
+Gerðavegur, Skálafjørður
+Gerðavegur, Strendur
+Gerðavegur, Syðrugøta
+Gerðisbrekka, Skála
+Gerðisbreyt, Velbastaður
+Gerðisgøta, Kvívík
+Gerðisgøta, Lamba
+Gerðisgøta, Miðvágur
+Gerðisgøta, Skála
+Gerðisgøta, Vestmanna
+Gerðismørk, Leirvík
+Gerðistún, Vestmanna
+Gerðisvegur, Eiði
+Gerðisvegur, Funningsfjørður
+Gerðisvegur, Gásadalur
+Gerðisvegur, Hvalvík
+Gerðisvegur, Hvítanes
+Gerðisvegur, Leirvík
+Gerðisvegur, Runavík
+Gerðisvegur, Saltangará
+Gerðisvegur, Signabøur
+Gerðisvegur, Skopun
+Gerðisvegur, Skálavík
+Gerðisvegur, Søldarfjørður
+Gerðisvegur, Vestmanna
+Geytagøta, Norðragøta
+Gilabrekka, Kunoy
+Giljageil, Hvalba
+Giljavegur, Hósvík
+Giljavegur, Sandavágur
+Gillagøta, Hoyvík
+Gimbragøta, Ljósá
+Gjáarvegur, Funningur
+Gjáarvegur, Gjógv
+Gjánoyrarvegur, Langasandur
+Gjógvarávegur, Fuglafjørður
+Gjógvarávegur, Vágur
+Gjørðabrekka, Porkeri
+Glaðsgøta, Hósvík
+Glyvravegur, Glyvrar
+Glyvursgøta, Saltangará
+Glyvursvegur, Argir
+Glyvursvegur, Innan Glyvur
+Glyvursvegur, Strendur
+Glyvursvegur, Tórshavn
+Gongin, Tórshavn
+Gortrugøta, Hoyvík
+Granagøta, Tórshavn
+Grannatún, Saltangará
+Grasgøta, Saltangará
+Gripsvegur, Tórshavn
+Grunnlendisgøta, Oyndarfjørður
+Grásteinsgøta, Tórshavn
+Gríms Kambans gøta, Tórshavn
+Grótbrekka, Klaksvík
+Grótbrotsgøta, Saltangará
+Grótbrúgv, Vestmanna
+Gróthústoft, Strendur
+Gróthúsvegur, Hoyvík
+Gróthúsvegur, Mykines
+Gróvargøta, Syðrugøta
+Grønalíð, Tórshavn
+Grønlandsvegur, Tórshavn
+Grønudalur, Porkeri
+Grýtingsvegur, Sumba
+Gudmundargøta, Miðvágur
+Gulasteinsvegur, Saltangará
+Gullbrandsrás, Hellurnar
+Gummaldagøta, Miðvágur
+Gundadalsvegur, Tórshavn
+Gundadalur, Tórshavn
+Gustugøta, Tórshavn
+Guttormsgøta, Hoyvík
+Guðrunargøta, Norðragøta
+Guðrunartún, Vestmanna
+Gásadalsvegur, Bøur
+Gásadalsvegur, Gásadalur
+Gásadalsvegur, Tórshavn
+Gásamýri, Leirvík
+Gæsugøta, Tórshavn
+Gøtuteigur, Hvalba
+Gøtuvegur, Gøtugjógv
+Gøtuvegur, Norðragøta
+Gøtuvegur, Syðrugøta
+Hagabrekka, Skálavík
+Hagagerði, Sørvágur
+Hagagøta, Argir
+Hallarheygur, Tórshavn
+Hallarvegur, Vestmanna
+Hamarsgøta, Sørvágur
+Hamarsgøta, Tórshavn
+Hamarssniðið, Klaksvík
+Hamarsvegur, Eiði
+Hamarsvegur, Skálavík
+Hammershaimbsvegur, Sandavágur
+Hamrabyrgi, Víkarbyrgi
+Handan Á, Elduvík
+Handan Á, Mykines
+Handan Á, Tórshavn
+Handansvegur, Svínoy
+Handaratún, Tórshavn
+Hannugøta, Argir
+Hans Andriasar gøta, Sandavágur
+Hans Andriasar gøta, Tórshavn
+Hanusargøta, Tórshavn
+Haraldstrøð, Tórshavn
+Haraldstún, Sandavágur
+Havnalagið, Haldórsvík
+Havnargøta, Tórshavn
+Havnargøta, Vestmanna
+Havnargøta, Ørðavík
+Havnarlagið, Funningsfjørður
+Havnarlagið, Tvøroyri
+Havragerði, Tórshavn
+Havursgøta, Kvívík
+Heima á Bø, Svínoy
+Heima á Garði, Kirkjubøur
+Heimara Bryggja, Miðvágur
+Heimara bryggja, Klaksvík
+Heimaratún, Tórshavn
+Heimasandsvegur, Sandur
+Heimasta Horn, Tórshavn
+Heimastivegur, Skálavík
+Heimi í Húsi, Kunoy
+Heimi í Túni, Funningur
+Heimigarður, Húsar
+Heimistovuvegur, Glyvrar
+Heimtún, Eiði
+Heinagerði, Streymnes
+Heinagøta, Tórshavn
+Heiðagøta, Argir
+Heiðagøta, Miðvágur
+Heiðaravegur, Skálavík
+Heiðarvegur, Froðba
+Heiðaskákið, Tórshavn
+Heiðastubbi, Tórshavn
+Heiðatrøð, Miðvágur
+Heiðatrøðin, Trongisvágur
+Heiðatrøðin, Tvøroyri
+Heiðatún, Argir
+Heiðavegur, Miðvágur
+Heiðavegur, Norðskáli
+Heiðavegur, Runavík
+Heiðavegur, Saltangará
+Heiðavegur, Sandvík
+Heiðavegur, Tórshavn
+Heiðavegur, Viðareiði
+Heiðriksmørk, Leirvík
+Hellisgøta, Ljósá
+Hellutún, Tórshavn
+Helnabrekka, Klaksvík
+Helnaskákið, Klaksvík
+Hermundarjørð, Eiði
+Hetlandsvegur, Tórshavn
+Heygabrekka, Runavík
+Heygagerði, Sandavágur
+Heygagøta, Vestmanna
+Heygalíð, Vestmanna
+Heyganesgøta, Vestmanna
+Heygatún, Vestmanna
+Heygavegur, Hov
+Heygavegur, Klaksvík
+Heygavegur, Kollafjørður
+Heygavegur, Porkeri
+Heygavegur, Selatrað
+Heygavegur, Viðareiði
+Heygsbreyt, Tórshavn
+Heygsgerði, Tórshavn
+Heygskrókur, Tórshavn
+Heygsmannavegur, Tórshavn
+Heygsstøð, Strendur
+Heygstún, Argir
+Heygsvegur, Strendur
+Heygsvegur, Toftir
+Heygsvegur, Tórshavn
+Heykavegur, Tórshavn
+Hjallavegur, Saltangará
+Hjallavegur, Saltnes
+Hjallavegur, Toftir
+Hjaltarók, Tórshavn
+Hornagøta, Eiði
+Hornagøta, Tórshavn
+Hornavegur, Fuglafjørður
+Hornavegur, Hoyvík
+Hornavegur, Miðvágur
+Hornavegur, Oyri
+Hornavegur, Selatrað
+Hornavegur, Vestmanna
+Hoydalsvegur, Tórshavn
+Hoygarðsvegur, Miðvágur
+Hoygarðsvegur, Viðareiði
+Hoyvíksvegur, Tórshavn
+Huginsgøta, Hoyvík
+Hulkavegur, Strendur
+Hundsarabotnur, Oyrareingir
+Hvalbiarvegur, Trongisvágur
+Hvalsoyargøta, Tórshavn
+Hvalvíksvegur, Hvalvík
+Hvammavegur, Trongisvágur
+Hvannasundsgøta, Tórshavn
+Hvannasundsvegur, Norðdepil
+Hvanndalsbrekka, Vágur
+Hvanngøta, Sandur
+Hvannkrókur, Tórshavn
+Hvarvið, Tórshavn
+Hvilvtarvegur, Fámjin
+Hvítakletsvegur, Eiði
+Hvítanesvegur, Hoyvík
+Hvítanesvegur, Hvítanes
+Hvítanesvegur, Tórshavn
+Hvíthúsbrekka, Klaksvík
+Hákunargøta, Hoyvík
+Hákunarheyggjur, Toftir
+Hálagøta, Sandvík
+Hálsabrekka, Skálafjørður
+Hálsagøta, Saltangará
+Hálsagøta, Strendur
+Hálsatjørn, Tórshavn
+Háskúlavegur, Tórshavn
+Hólabrekkan, Hvalba
+Hólavegur, Porkeri
+Hólmagøta, Oyrarbakki
+Hórheiðar, Skála
+Hóvabrekka, Argir
+Høgabólsvegur, Saltangará
+Høgabø, Vágur
+Høganesvegur, Toftir
+Høgibøur, Leirvík
+Høvdagøta, Argir
+Høvdarhagavegur, Skopun
+Høvdavegur, Leirvík
+Húsabrekka, Miðvágur
+Húsabrekka, Sandavágur
+Húsabrúgv, Tórshavn
+Húsadalsvegur, Sørvágur
+Húsagøta, Kollafjørður
+Húsagøta, Tórshavn
+Húsanesvegur, Miðvágur
+Húsavíkarvegur, Húsavík
+Húsgarður, Syðrugøta
+Hústoftavegur, Lamba
+Ingibjargargøta, Hoyvík
+Inn á Bakka, Gásadalur
+Inn á Gjógv, Elduvík
+Innandalsvegur, Fuglafjørður
+Innandalsvegur, Mikladalur
+Innara Bryggja, Miðvágur
+Innaridalur, Skálavík
+Innariteigur, Saltangará
+Inni á Bakka, Funningsfjørður
+Inni á Fjósi, Kirkjubøur
+Inni á Fløtum, Kaldbak
+Inni á Fløtum, Søldarfjørður
+Inni á Leiti, Sandavágur
+Inni á Støð, Miðvágur
+Inni í Brekkum, Sandur
+Inni í Bø, Stykkið
+Inni í Dal, Sandur
+Inni í Firði, Kollafjørður
+J.C. Svabos gøta, Tórshavn
+J.H. Schrøters gøta, Tórshavn
+Jansstovugøta, Tórshavn
+Janusargøta, Tórshavn
+Jatnavegur, Miðvágur
+Javnagøta, Tórshavn
+Jekaragøta, Tórshavn
+Jensgøta, Skálafjørður
+Junkaravegur, Kvívík
+Jákup Nolsøes gøta, Tórshavn
+Jákups Dahls gøta, Tórshavn
+Jóan Karls gøta, Tórshavn
+Jóan Paula gøta, Kollafjørður
+Jóannesar Paturssonar gøta, Tórshavn
+Jóansgøta, Hoyvík
+Jógvan Waagsteinsgøta, Klaksvík
+Jóhansgøta, Signabøur
+Jónas Broncks gøta, Tórshavn
+Jøkulstræti, Tórshavn
+Jørundargøta, Hoyvík
+Jørundsgøta, Klaksvík
+Jústabrekka, Klaksvík
+Jústsgøta, Tórshavn
+Kalavegur, Kirkja
+Kaldbaksvegur, Hoyvík
+Kaldbaksvegur, Kaldbak
+Kaldbaksvegur, Kaldbaksbotnur
+Kaldbaksvegur, Sund
+Kalsoyarvegur, Húsar
+Kalsoyarvegur, Mikladalur
+Kalsoyarvegur, Syðradalur, Kalsoy
+Kalsoyarvegur, Trøllanes
+Kamarshella, Oyndarfjørður
+Kambsenni, Fuglafjørður
+Karlamagnusarbreyt, Hoyvík
+Karlotsgøta, Hoyvík
+Karlsvegur, Klaksvík
+Karvatoftir, Fuglafjørður
+Kastalag, Eiði
+Kelduskákið, Klaksvík
+Kelduvegur, Kunoy
+Kerjagøta, Tórshavn
+Kinnarvegur, Syðrugøta
+Kinnavegur, Oyndarfjørður
+Kirkjatún, Miðvágur
+Kirkjavegur, Miðvágur
+Kirkjubrekka, Klaksvík
+Kirkjubrekkan, Tvøroyri
+Kirkjubreyt, Bøur
+Kirkjubøarvegur, Kirkjubøur
+Kirkjubøarvegur, Velbastaður
+Kirkjugarðar, Miðvágur
+Kirkjugøta, Funningur
+Kirkjugøta, Glyvrar
+Kirkjugøta, Haldórsvík
+Kirkjugøta, Rituvík
+Kirkjugøta, Sandur
+Kirkjugøta, Selatrað
+Kirkjugøta, Svínoy
+Kirkjugøta, Viðareiði
+Kirkjugøtan, Skálavík
+Kirkjumørk, Funningur
+Kirkjustræti, Hoyvík
+Kirkjuvegur, Dalur
+Kirkjuvegur, Eiði
+Kirkjuvegur, Elduvík
+Kirkjuvegur, Fuglafjørður
+Kirkjuvegur, Kvívík
+Kirkjuvegur, Nes, Eysturoy
+Kirkjuvegur, Sandavágur
+Kirkjuvegur, Sandvík
+Kirkjuvegur, Strendur
+Kirkjuvegur, Sørvágur
+Kirkjuvegur, Tjørnuvík
+Kirkjuvegur, Tórshavn
+Kjalarskákið, Klaksvík
+Kjalarvegur, Klaksvík
+Kjóadalsvegur, Sørvágur
+Klaksvíksskákið, Klaksvík
+Klaksvíksvegur, Klaksvík
+Klettagøta, Sandvík
+Klettaskot, Tórshavn
+Klingran, Hoyvík
+Klingrugarður, Klaksvík
+Klokkaragøta, Tórshavn
+Klovavegur, Porkeri
+Klovavegur, Søldarfjørður
+Klávusarvegur, Glyvrar
+Knúksdalur, Syðradalur, Kalsoy
+Kolavegurin, Hvalba
+Kolshjallar, Eiði
+Kolsvegur, Eiði
+Kommunubrekka, Klaksvík
+Kongabrekkan, Tvøroyri
+Kongabrúgvin, Tórshavn
+Kongagøta, Tórshavn
+Kongsgil, Tórshavn
+Kongshavn, Saltangará
+Kongsstovubrekka, Nólsoy
+Kopargøta, Tórshavn
+Korkagøta, Tórshavn
+Korndalsgøta, Nólsoy
+Korndalsvegur, Eiði
+Kovalág, Tórshavn
+Koytugøta, Sandur
+Kristiansgøta, Hoyvík
+Kristjansgøta, Viðareiði
+Krossgøta, Kaldbak
+Krossgøta, Tórshavn
+Krosslabrekka, Vágur
+Krosslið, Vágur
+Krosslíð, Tórshavn
+Krossurin, Sumba
+Kráargilsvegur, Rituvík
+Kráargøta, Argir
+Kráargøta, Klaksvík
+Kráarrás, Rituvík
+Kráarvegur, Fuglafjørður
+Kráarvegur, Hvalvík
+Kráarvegur, Leirvík
+Kráarvegur, Tórshavn
+Kráavegur, Vágur
+Krókabrekka, Tórshavn
+Krókagøta, Nólsoy
+Krókaskákið, Norðdepil
+Krókavegur, Válur
+Krókábrekka, Sandavágur
+Krøkjugøta, Sandur
+Kulibakki, Leirvík
+Kumlavegur, Miðvágur
+Kumláarbrekka, Skála
+Kunoyarvegur, Haraldssund
+Kunoyarvegur, Kunoy
+Kvígandalsvegur, Vatnsoyrar
+Kvíggjartún, Argir
+Kvíggjartún, Miðvágur
+Kvíggjarvegur, Hestur
+Kvíggjarvegur, Nes, Eysturoy
+Kvíggjarvegur, Oyndarfjørður
+Kvíggjarvegur, Toftir
+Kvíggjávegur, Sumba
+Kákagøta, Tórshavn
+Kálhagabrekka, Vágur
+Kálvagerði, Tórshavn
+Kálvalíðvegur, Miðvágur
+Kálvhúsvegur, Glyvrar
+Kósabrekka, Klaksvík
+Kósarbrúgvin, Klaksvík
+Kósaskákið, Klaksvík
+Køstavegur, Sandavágur
+Kúrdalsvegur, Hoyvík
+Lagatrøð, Tórshavn
+Lambagerði, Tórshavn
+Lambareiðisvegur, Lambareiði
+Lambastovubrekkan, Sørvágur
+Lambavegur, Lamba
+Landavegur, Tórshavn
+Landsfjósið, Kollafjørður
+Landsvegur, Hov, Hov
+Landsvegur, Hósvík, Hósvík
+Landsvegur, Skálavík, Skálavík
+Landsvegur, Stykkið, Stykkið
+Langadalsvegur, Vágur
+Langagerði, Gásadalur
+Langanes, Strendur
+Langanesvegur, Glyvrar
+Langatrøð, Vágur
+Langatún, Tórshavn
+Lauritsargøta, Tórshavn
+Lavagøta, Tórshavn
+Laðabrekka, Tórshavn
+Laðagøta, Strendur
+Laðið, Bøur
+Laðið, Mikladalur
+Leirvíkarvegur, Norðragøta
+Leirvíksvegur, Leirvík
+Leirvíksvegur, Skopun
+Leitisbrekka, Saltangará
+Leitisgøta, Argir
+Leitisgøta, Hósvík
+Leitisvatn, Miðvágur
+Leitisvegur, Glyvrar
+Leitisvegur, Haraldssund
+Leitisvegur, Miðvágur
+Leitisvegur, Saltangará
+Leitisvegur, Vestmanna
+Leivsgøta, Tórshavn
+Lendingarvegur, Kunoy
+Leynarvegur, Leynar
+Liasarvegur, Tórshavn
+Liljugøta, Tórshavn
+Liljuteigur, Sandavágur
+Livulág, Tórshavn
+Liðabrekka, Mykines
+Liðabrekkan, Sørvágur
+Liðagøta, Tórshavn
+Liðarvegur, Skopun
+Lokkagarðsvegur, Sumba
+Lonargøta, Kollafjørður
+Lonarstræti, Sandavágur
+Longubreyt, Gásadalur
+Lopransdalur, Lopra
+Lopransvegur, Lopra
+Lotavegur, Rituvík
+Lucas Debesar gøta, Tórshavn
+Lukkasarstøð, Sund
+Lygnesvegur, Søldarfjørður
+Lykkjugerði, Tórshavn
+Lyngbrekkugøta, Lamba
+Lynggøta, Trongisvágur
+Lynggøta, Tórshavn
+Lyngvegur, Norðskáli
+Lyngvegur, Runavík
+Láarvegur, Runavík
+Láarvegur, Tórshavn
+Lágabø, Vágur
+Lágagøta, Miðvágur
+Lágargerði, Strendur
+Lágargøta, Tvøroyri
+Lágarvegur, Strendur
+Lágibøur, Toftir
+Lágiryggur, Eiði
+Lávíkabrekka, Klaksvík
+Lækjutún, Gásadalur
+Lækjuvegur, Eiði
+Líggjasarbrekka, Klaksvík
+Lítla Tvørgøta, Tórshavn
+Lítlabrekka, Ørðavík
+Lítlagerði, Tórshavn
+Lítlagøta, Skála
+Lítlarás, Saltangará
+Lítlatrøð, Tórshavn
+Lítlatún, Æðuvík
+Líðargøta, Ørðavík
+Líðartún, Ørðavík
+Líðarvegur, Gásadalur
+Líðarvegur, Leirvík
+Líðarvegur, Rituvík
+Líðarvegur, Vágur
+Líðin, Ørðavík
+Lómsvegur, Runavík
+Løgmannabreyt, Hoyvík
+Løgmansbreyt, Sandavágur
+Løkjatún, Argir
+Løksvegur, Runavík
+Løðugarður, Eiði
+Lützenstrøð, Tórshavn
+Lýðarsvegur, Hoyvík
+Lýðarsvegur, Toftir
+M.A. Winthers gøta, Tórshavn
+Magnus Heinasonar gøta, Tórshavn
+Mainifløta, Eiði
+Malarendavegur, Nólsoy
+Malarvegur, Eiði
+Mammulág, Tórshavn
+Mannaskarð, Tórshavn
+Mannbrekka, Hoyvík
+Marinargøta, Hoyvík
+Maritugøta, Hoyvík
+Mariugøta, Tórshavn
+Mariusargøta, Skálafjørður
+Marknagilsvegur, Tórshavn
+Marknalíð, Tórshavn
+Marknavegur, Klaksvík
+Marknavegur, Skipanes
+Marknavegur, Vatnsoyrar
+Marknoyrarvegur, Vágur
+Mattalágarvegur, Tórshavn
+Meinhartstrøð, Tórshavn
+Mikkjalsbøur, Funningur
+Mikkjalsgøta, Miðvágur
+Mikkjalstrøð, Tórshavn
+Millum Fjarða, Skálafjørður
+Millum Garðarnar, Kunoy
+Millum Gerðini, Undir Gøtueiði
+Millum Gilja, Hoyvík
+Millum Helli, Ljósá
+Millum Hjalla, Elduvík
+Millum Hjalla, Klaksvík
+Millum Horna, Tórshavn
+Millum Húsa, Hattarvík
+Millum Stovur, Elduvík
+Millum Svalir, Leirvík
+Mirmansvegur, Fuglafjørður
+Misávegur, Vágur
+Miðbrekka, Miðvágur
+Miðbrekkan, Tvøroyri
+Miðgøta, Dalur
+Miðgøta, Sandur
+Miðhjallar, Sandavágur
+Miðrás, Tórshavn
+Miðtún, Tvøroyri
+Miðtún, Tórshavn
+Mjólkargøta, Kaldbak
+Mjørkadalur, Kaldbaksbotnur
+Mortansstovubrekka, Norðragøta
+Mortansstovubrekka, Tórshavn
+Mykinesgøta, Tórshavn
+Myllágøta, Langasandur
+Myllágøta, Norðragøta
+Mylnugøta, Klaksvík
+Mylnugøta, Signabøur
+Mylnugøta, Tórshavn
+Mylnuskákið, Klaksvík
+Mylnuvegur, Ljósá
+Mylnuvegur, Runavík
+Mækjugøta, Tórshavn
+Mækjuvegur, Klaksvík
+Móritsarvegur, Hoyvík
+Mørkin Mikla, Sandur
+Mørkin, Fuglafjørður
+Møttisgil, Skála
+Múlavegur, Gásadalur
+Múlavegur, Múli
+Múlavegur, Norðdepil
+Múlheiðar, Leynar
+Mýravegur, Hvalba
+Mýravegur, Rituvík
+Mýravegur, Runavík
+Mýravegur, Sørvágur
+Mýrigarður, Skálavík
+Mýrigøta, Tórshavn
+Mýrisnípulág, Klaksvík
+Mýrisnípuvegur, Skálafjørður
+Mýrisnípuvegur, Tórshavn
+Mýrivegur, Klaksvík
+Mýrivegur, Norðskáli
+Mýrubrekka, Strendur
+Mýrugøta, Strendur
+Mýrutún, Sandavágur
+Mýruvegur, Skálafjørður
+Nesavegur, Sandavágur
+Neslíð, Nes, Vágur
+Neslíð, Vestmanna
+Nesvegur, Hvalba
+Nesvegur, Nes, Eysturoy
+Nesvegur, Nes, Vágur
+Nesvegur, Válur
+Nesvík, Nesvík
+Neystagøta, Hósvík
+Neystatún, Sandavágur
+Neystavegur, Fámjin
+Neystavegur, Streymnes
+Neytageilin, Sandvík
+Nicolai Mohrs gøta, Hoyvík
+Niels Finsens gøta, Tórshavn
+Niels Winthers gøta, Tórshavn
+Niðan Horn, Klaksvík
+Niðan Háls, Klaksvík
+Niðan Mannaskarð, Árnafjørður
+Niðan Miðvað, Klaksvík
+Niðara Gerðisbrekka, Sørvágur
+Niðaragøta, Hoyvík
+Niðari Vegur, Skipanes
+Niðari Vegur, Søldarfjørður
+Niðari Vegur, Vestmanna
+Niðarivegur, Sørvágur
+Niðri við Strond, Leynar
+Niðri á Sandi, Søldarfjørður
+Niðri á Støð, Glyvrar
+Niðri í Húsi, Hattarvík
+Niðri í Túni, Funningur
+Noregsvegur, Tórshavn
+Norðari Ringvegur, Tórshavn
+Norðbergsvegur, Hvalba
+Norðborg, Klaksvík
+Norðhavnin, Ánirnar
+Norðnátún, Mikladalur
+Norðradalsvegur, Norðradalur
+Norðskálavegur, Norðskáli
+Norðtoftavegur, Depil
+Norðtoftavegur, Norðtoftir
+Norðurgarður, Húsar
+Norðurhædd, Saltangará
+Norðuri á Heyggi, Velbastaður
+Norðuri á Trøð, Velbastaður
+Norðuri í Bø, Oyndarfjørður
+Norðuri í Fløgum, Eiði
+Norðuri í Húsi, Kunoy
+Norðuri í Sundum, Kollafjørður
+Norðurrás, Tórshavn
+Norðurstíggjur, Argir
+Nípuvegur, Sandur
+Nóatún, Tórshavn
+Nólsoyar Páls gøta, Tórshavn
+Nólsoyar Pálsgøta, Klaksvík
+Nýggivegur, Hvalba
+Nýggivegur, Klaksvík
+Nýggivegur, Kunoy
+Nýggivegur, Miðvágur
+Nýggivegur, Runavík
+Nýggjagerði, Leirvík
+Nýggjavegsbrekka, Streymnes
+Ognarvegur, Skopun
+Oknarvegur, Tórshavn
+Olevugøta, Leynar
+Olgarsgøta, Hoyvík
+Olivarsvegur, Miðvágur
+Oljubryggjan við Grótrætt, Klaksvík
+Oman Eið, Klaksvík
+Oman Gil, Hoyvík
+Oman Hoydalar, Hoyvík
+Oman Mattalág, Tórshavn
+Oman Pisuvarða, Tórshavn
+Oman Reyðhús, Klaksvík
+Oman Rygg, Fuglafjørður
+Oman Sandheyggj, Glyvrar
+Oman Stóragarð, Tórshavn
+Oman Svínanes, Svínáir
+Oman Valrætt, Klaksvík
+Oman Viðarlund, Tórshavn
+Oman Váðklett, Klaksvík
+Oman Á Bakka, Gjógv
+Oman Í Fjøru, Funningur
+Onnugøta, Hoyvík
+Onundarvegur, Sandavágur
+Orknoyavegur, Tórshavn
+Ovara Gerðisbrekka, Sørvágur
+Ovara Tvørgøta, Tórshavn
+Ovaragøta, Hoyvík
+Ovari Vegur, Haldórsvík
+Ovari Vegur, Leynar
+Ovari Vegur, Oyndarfjørður
+Ovari Vegur, Sandur
+Ovari Vegur, Tvøroyri
+Ovari Vegur, Vestmanna
+Ovarivegur, Kirkjubøur
+Ovarivegur, Sumba
+Ovarivegur, Sørvágur
+Ovasta Byrgið, Sandur
+Ovastuhjallar, Sandavágur
+Oyggjarvegur, Sandvík
+Oyggjarvegur, Tórshavn
+Oyndarfjarðarvegur, Hellurnar
+Oyran, Norðragøta
+Oyrarbakkavegur, Oyrarbakki
+Oyrarnar, Toftir
+Oyrarvegur, Klaksvík
+Oyrarvegur, Oyri
+Oyrarvegur, Vágur
+Oyravegur, Norðdepil
+Oyravegur, Skálavík
+Oyravegur, Vatnsoyrar
+Pedda við Stein gøta, Tórshavn
+Per Mohrs vegur, Hoyvík
+Perskonugøta, Tórshavn
+Peturstrøð, Tórshavn
+Polatrøð, Kollafjørður
+Porkerisvegur, Porkeri
+Poul Juels gøta, Tórshavn
+Prestagøta, Miðvágur
+Prestheiðar, Runavík
+Prestvegur, Klaksvík
+Purkugerði, Tórshavn
+Pálsgøta, Nólsoy
+Pætursgøta, Hoyvík
+R.C. Effersøes gøta, Tórshavn
+Rasmusargøta, Haraldssund
+Rasmusargøta, Kolbeinagjógv
+Rasmusargøta, Miðvágur
+Rasmusargøta, Tórshavn
+Ravnsoyargøta, Tórshavn
+Regnavegur, Leirvík
+Regnavegur, Toftir
+Reiðgøta, Tórshavn
+Rektaragøta, Tórshavn
+Revagøta, Kvívík
+Reynagøta, Norðdepil
+Reynavegur, Kirkja
+Reyngøta, Tórshavn
+Reynið, Hestur
+Reynsgøta, Argir
+Reynslíð, Vestmanna
+Reynstún, Argir
+Reyðagøta, Tórshavn
+Rituvíkarvegur, Rituvík
+Rossagerði, Fuglafjørður
+Rossagøta, Hósvík
+Rossatrøðin, Sørvágur
+Rosságøta, Argir
+Rundingur, Tórshavn
+Runtagøta, Sandur
+Ryggjavegur, Húsavík
+Rygsgøta, Argir
+Rygsgøta, Miðvágur
+Rygstún, Miðvágur
+Rygsvegur, Klaksvík
+Ryskigøta, Tórshavn
+Rættargarðar, Norðskáli
+Rættargøta, Argir
+Rættargøta, Klaksvík
+Rættargøta, Langasandur
+Rættargøta, Norðdepil
+Rættargøta, Strendur
+Rættartún, Oyri
+Rættartún, Tórshavn
+Rættarvegur, Hellurnar
+Rættarvegur, Hósvík
+Rógvuvegur, Vestmanna
+Rókahavnin, Runavík
+Rókartún, Kollafjørður
+Rókavegur, Runavík
+Rókavegur, Saltnes
+Rólantsgøta, Hoyvík
+Rúnarvegur, Runavík
+Saksunarvegur, Saksun
+Saltnesvegur, Saltnes
+Salvarávegur, Syðrugøta
+Samognarbøur, Leirvík
+Sanatoriivegur, Hoyvík
+Sandabrekkan, Sandur
+Sandagerðisvegur, Tórshavn
+Sandavegur, Hvalba
+Sandbakkin, Tjørnuvík
+Sandoyrabug, Hvannasund
+Sandoyravegur, Hvannasund
+Sandvíkarvegur, Hvalba
+Sandvíkarvegur, Sandvík
+Sandáarbreyt, Tórshavn
+Sandágøta, Argir
+Sandávegur, Selatrað
+Sarpavegur, Sandavágur
+Sarpugerði, Norðragøta
+Selatraðarvegur, Kolbeinagjógv
+Selatraðarvegur, Morskranes
+Selatraðarvegur, Selatrað
+Selatraðvegur, Skopun
+Selheygsgøta, Klaksvík
+Selvindisvegur, Strendur
+Sevdalsvegur, Fuglafjørður
+Sevmýri, Tvøroyri
+Seyðagøta, Eiði
+Siglugøta, Lopra
+Sigmundargøta, Tórshavn
+Sigmundarvegur, Skúgvoy
+Sivjugøta, Hoyvík
+Sjóberið, Sandavágur
+Sjógrasgøta, Sandur
+Sjógøta, Húsavík
+Sjógøta, Sumba
+Sjógøta, Tvøroyri
+Sjóvarbrekka, Strendur
+Sjóvartún, Leirvík
+Sjóvartún, Vestmanna
+Sjóvarvegur, Strendur
+Sjúkrahúsbrekka, Klaksvík
+Sjúkrahúsbrekkan, Tvøroyri
+Sjúrðargarður, Fámjin
+Sjúrðargøta, Norðragøta
+Sjúrðargøta, Tórshavn
+Skaldavegur, Miðvágur
+Skansavegur, Tórshavn
+Skarvanesvegur, Sandur
+Skarvanesvegur, Skarvanes
+Skarðsvegur, Klaksvík
+Skemmingsgøta, Tórshavn
+Skeravegur, Skopun
+Skipanesvegur, Skipanes
+Skipara Hansens gøta, Tórshavn
+Skiparagøta, Glyvrar
+Skiparagøta, Tórshavn
+Skiparavegur, Porkeri
+Skopunarvegur, Skopun
+Skoragjógvarvegur, Kirkja
+Skoragøta, Rituvík
+Skoralíð, Vestmanna
+Skorpisoyrarvegur, Langasandur
+Skotarók, Tórshavn
+Skraddaragøta, Hoyvík
+Skraddaragøta, Sandavágur
+Skrivaragriftin, Klaksvík
+Skrivaragøta, Tórshavn
+Skriðubakki, Kaldbak
+Skriðugøta, Lambareiði
+Skriðuvegur, Lambareiði
+Skákið, Rituvík
+Skákið, Skála
+Skákið, Tórshavn
+Skákið, Vágur
+Skálabeiti, Vágur
+Skálafjarðarvegur, Skála
+Skálafjarðarvegur, Skálafjørður
+Skálatrøð, Tórshavn
+Skálavegur, Hvalba
+Skálavegur, Porkeri
+Skálavegur, Skála
+Skálavegur, Vestmanna
+Skálavegur, Vágur
+Skáltavegur, Klaksvík
+Skørugøta, Tórshavn
+Skúlabrekkan, Sørvágur
+Skúlagøta, Haldórsvík
+Skúlagøta, Selatrað
+Skúlagøta, Tórshavn
+Skúlateigur, Sandavágur
+Skúlavegur, Glyvrar
+Skúlavegur, Hvalvík
+Skúlavegur, Húsavík
+Skúlavegur, Klaksvík
+Skúlavegur, Oyrarbakki
+Skúlavegur, Skopun
+Skúlavegur, Strendur
+Skúlavegur, Sørvágur
+Sleipnisgøta, Tórshavn
+Slættalíð, Tórshavn
+Slættanesgøta, Tórshavn
+Smillavegur, Vágur
+Smiðjugerði, Tórshavn
+Smiðjuvegur, Bøur
+Smyrilsvegur, Tvøroyri
+Smyrilsvegur, Tórshavn
+Smærugøta, Runavík
+Smærugøta, Trongisvágur
+Smærugøta, Tórshavn
+Smæruteigur, Sandavágur
+Snaraløksgøta, Saltangará
+Snæbjarnarvegur, Hvalba
+Snípuvegur, Runavík
+Sodnhúsvegur, Mykines
+Sornhúsgøta, Hestur
+Sornhúsgøta, Klaksvík
+Sornhúsgøta, Saltangará
+Sornhúsgøta, Stykkið
+Sornhúsgøta, Tórshavn
+Sornhústún, Tvøroyri
+Sornhúsvegur, Tvøroyri
+Sporamørk, Leirvík
+Spunagøta, Argir
+Spógvalág, Klaksvík
+Spógvavegur, Runavík
+Spógvavegur, Tvøroyri
+Spógvavegur, Tórshavn
+Stallagøta, Norðragøta
+Stangabrúgvin, Klaksvík
+Stangaskákið, Klaksvík
+Stangavegur, Klaksvík
+Stapavegur, Hov
+Staratún, Klaksvík
+Staravegur, Tórshavn
+Steigarbrekka, Sandavágur
+Steigartún, Sandavágur
+Steinagerði, Kvívík
+Steinatún, Tórshavn
+Steinavíksgøta, Svínáir
+Steinsgøta, Kollafjørður
+Steinsheyggjur, Vágur
+Stiðjagøta, Tórshavn
+Stoffabrekkan, Sørvágur
+Stoffalág, Tórshavn
+Stoksoyrarbakki, Klaksvík
+Stoksoyrarvegur, Klaksvík
+Stovugerði, Fuglafjørður
+Strandatún, Strendur
+Strandavegur, Strendur
+Streymnesvegur, Streymnes
+Strond, Ánirnar
+Strætið, Sørvágur
+Stykkjagerði, Stykkið
+Stykkjavegur, Stykkið
+Stígargøta, Froðba
+Stórabryggja, Klaksvík
+Stóragerði, Tórshavn
+Stóratún, Æðuvík
+Stórheyggjur, Vágur
+Stórhúsvegur, Skála
+Støðarvegur, Sandvík
+Støðlabrekka, Søldarfjørður
+Støðlagøta, Argir
+Støðlatún, Argir
+Sund, Sund
+Sundalagsvegur, Hvalvík
+Sundalagsvegur, Nesvík
+Sundalagsvegur, Streymnes
+Sundhøvdi, Nesvík
+Sundsvegur, Hvannasund
+Sundsvegur, Tórshavn
+Sunnanávegur, Mikladalur
+Sunnbiarvegur, Sumba
+Suðurhædd, Saltangará
+Suðuri á Bø, Kunoy
+Suðuri í Fjósi, Bøur
+Suðuri í lægd, Kunoy
+Suðuroyavegur, Tórshavn
+Suðurrás, Tórshavn
+Suðurstíggjur, Argir
+Svabosvegur, Miðvágur
+Svalbardsgøta, Trongisvágur
+Svalbardsvegur, Tórshavn
+Svangaskarð, Toftir
+Sverrisgøta, Tórshavn
+Svínáavegur, Svínáir
+Svørvisvegur, Funningur
+Syðradalsvegur, Syðradalur, Kalsoy
+Syðradalsvegur, Syðradalur, Streymoy
+Syðradalsvegur, Velbastaður
+Sámalsgøta, Tórshavn
+Sárubrekka, Sandavágur
+Sævareingir, Skálavík
+Sævargøta, Klaksvík
+Sílagøta, Tórshavn
+Símunargøta, Tórshavn
+Sívarsvegur, Hoyvík
+Sóljubrekka, Runavík
+Sóljugøta, Trongisvágur
+Sóljugøta, Tórshavn
+Sóljuteigur, Sandavágur
+Sólteigur, Skipanes
+Sólteigur, Tórshavn
+Sótabakki, Skálavík
+Søldarfjarðarvegur, Søldarfjørður
+Søltuvíkarvegur, Sandur
+Sýnarbrekkan, Oyndarfjørður
+Sýnarvegur, Glyvrar
+Sýnávegur, Skála
+Sýrugøta, Runavík
+Sýrugøta, Tórshavn
+Sýslumansgøta, Fuglafjørður
+Tangavegur, Strendur
+Tartalág, Oyndarfjørður
+Tartavegur, Oyndarfjørður
+Teigagøta, Tjørnuvík
+Teigavegur, Fámjin
+Ternubrekkan, Hellurnar
+Ternuteigur, Klaksvík
+Tildugøta, Tórshavn
+Tinganes, Tórshavn
+Tinghúsvegur, Tórshavn
+Tingstøðin, Klaksvík
+Tjaldravegur, Runavík
+Tjaldursteigur, Klaksvík
+Tjaldursvegur, Tvøroyri
+Tjaldursvegur, Tórshavn
+Tjarnardeild, Tórshavn
+Tjarnarlág, Tórshavn
+Tjarnarvegur, Runavík
+Tjóðhildargøta, Tórshavn
+Todnes, Norðdepil
+Toftabrekka, Vágur
+Toftagjógv, Toftir
+Toftagøtan, Fuglafjørður
+Toftalíð, Vágur
+Toftanes, Leirvík
+Toftanesvegur, Fuglafjørður
+Toftatún, Hósvík
+Toftavegur, Hvalba
+Toftavegur, Toftir
+Toftavegur, Vestmanna
+Toftavegur, Vágur
+Tollaksgøta, Norðragøta
+Torbjarnargøta, Norðragøta
+Torfinsgøta, Tórshavn
+Torgrímsgøta, Sandvík
+Torkilsgøta, Hoyvík
+Torkilskrókur, Fuglafjørður
+Torkilsvegur, Sandavágur
+Tormansbakki, Miðvágur
+Tormansgøta, Miðvágur
+Tormansvegur, Skopun
+Torsteinsgøta, Tórshavn
+Torvgøta, Klaksvík
+Torvgøta, Saltangará
+Torvgøta, Vatnsoyrar
+Torvheyggjur, Froðba
+Trappugøta, Tórshavn
+Trapputún, Tórshavn
+Traðabrekka, Tórshavn
+Traðagøta, Argir
+Traðagøta, Klaksvík
+Traðarbrekka, Sørvágur
+Traðargøtan, Fuglafjørður
+Traðartún, Argir
+Traðarvegur, Bøur
+Traðarvegur, Hov
+Traðarvegur, Saltangará
+Traðarvegur, Sandavágur
+Traðarvegur, Selatrað
+Traðarvegur, Strendur
+Traðarvegur, Sørvágur
+Traðarvegur, Trongisvágur
+Traðarvegur, Tvøroyri
+Traðarávegur, Syðrugøta
+Traðarók, Klaksvík
+Traðavegur, Fámjin
+Traðavegur, Kollafjørður
+Traðavegur, Streymnes
+Traðavegur, Tórshavn
+Traðavegur, Vágur
+Trongisvágsvegur, Trongisvágur
+Tróndarbrekka, Fuglafjørður
+Tróndargøta, Miðvágur
+Tróndargøta, Norðragøta
+Tróndargøta, Tórshavn
+Tumbakkavegur, Húsavík
+Tummasargøta, Tórshavn
+Tunga, Funningur
+Tungugarðar, Bøur
+Tungugøta, Fuglafjørður
+Tungugøta, Oyri
+Tungugøta, Tórshavn
+Tungureynsgøta, Miðvágur
+Tunguvegur, Skopun
+Tunnilsvegur við Norðskála, Oyrarbakki
+Turiðargøta, Skúgvoy
+Turiðargøta, Tórshavn
+Tvørgarðsgøta, Miðvágur
+Tvørgøta, Sandur
+Tvørgøta, Tórshavn
+Tvørteigur, Vágur
+Tvørávegur, Tvøroyri
+Títlingstún, Klaksvík
+Títlingsvegur, Tórshavn
+Tórgarðsgøta, Tórshavn
+Tórisvegur, Skúgvoy
+Tórsbyrgi, Tórshavn
+Tórsgøta, Tórshavn
+Tórugøta, Skúgvoy
+Tórugøta, Tórshavn
+Tórðargøta, Norðragøta
+Tøðutún, Gásadalur
+Túalsvegur, Mykines
+Túnagøta, Saltangará
+Túnið, Norðoyri
+Túnið, Tjørnuvík
+Túvugøta, Svínáir
+Túvuvegur, Klaksvík
+Túvuvegur, Norðdepil
+Túvuvegur, Syðrugøta
+Um Eiði, Svínoy
+Um Eiðisskarð, Eiði
+Um Eiðisskarð, Funningur
+Um Heygar, Fuglafjørður
+Undir Bjørgum, Oyrarbakki
+Undir Borgarhálsi, Velbastaður
+Undir Brekku, Saltangará
+Undir Brekkuenda, Klaksvík
+Undir Brekkuni, Sandur
+Undir Bryggjubakka, Tórshavn
+Undir Brúnni, Klaksvík
+Undir Brúnni, Tórshavn
+Undir Bólheyggi, Sørvágur
+Undir Bøbrekku, Nólsoy
+Undir Fobbakletti, Sandavágur
+Undir Fossum, Klaksvík
+Undir Giljum, Hvalvík
+Undir Glaðsheyggi, Tórshavn
+Undir Grashjalla, Klaksvík
+Undir Gráasteini, Kvívík
+Undir Gráasteini, Tórshavn
+Undir Grótheyggi, Oyrarbakki
+Undir Gørðum, Glyvrar
+Undir Gøtuni, Sandur
+Undir Halgheyggi, Sandavágur
+Undir Hamarsenda, Haraldssund
+Undir Hamri, Hvalvík
+Undir Hamri, Klaksvík
+Undir Hellusvaði, Sandavágur
+Undir Heyggi, Porkeri
+Undir Heygnum, Gásadalur
+Undir Heygnum, Tvøroyri
+Undir Heygnum, Tórshavn
+Undir Hválinum, Tvøroyri
+Undir Hálsi, Klaksvík
+Undir Hæddini, Klaksvík
+Undir Húsareyni, Tórshavn
+Undir Kerjum, Tórshavn
+Undir Kjallara, Tórshavn
+Undir Klakki, Klaksvík
+Undir Kletti, Saltangará
+Undir Kongavarða, Argir
+Undir Kongseiði, Lambareiði
+Undir Kráarbrekku, Klaksvík
+Undir Krákugjógv, Tórshavn
+Undir Liðakletti, Sørvágur
+Undir Lokka, Norðdepil
+Undir Lyngbrekku, Lamba
+Undir Miðhorni, Tórshavn
+Undir Mýruhjalla, Skála
+Undir Nesinum, Toftir
+Undir Pisuvarða, Tórshavn
+Undir Reyni, Elduvík
+Undir Reynum, Sandur
+Undir Ryggi, Tórshavn
+Undir Ryski, Sørvágur
+Undir Rókini, Hvannasund
+Undir Skoragarði, Sørvágur
+Undir Skorum, Froðba
+Undir Svartafossi, Tórshavn
+Undir Svartakletti, Hvannasund
+Undir Svartakletti, Saltangará
+Undir Svínaryggi, Tórshavn
+Undir Tinnukletti, Saltangará
+Undir Torvbrekku, Strendur
+Undir Ólastovuheygnum, Gjógv
+Uppi á Brekkum, Leirvík
+Uppi á Grind, Eiði
+Uppi á Heiðum, Velbastaður
+Uppi á Leiti, Oyndarfjørður
+Uppi á Reyni, Sørvágur
+Uppi á Váli, Svínoy
+Uppi í Húsi, Hattarvík
+Uppi í Trøð, Kvívík
+Uppi í Túni, Funningur
+Uppsalagøta, Klaksvík
+Urðarvegur, Innan Glyvur
+Urðnagøta, Sandavágur
+Uttan Kirkju, Sandvík
+Uttan Á, Sandur
+Uttaragerð, Skálavík
+V.U. Hammershaimbs gøta, Tórshavn
+Vaglið, Tórshavn
+Vaglið, Árnafjørður
+Vaktarhúsbrekka, Tórshavn
+Vaktarhúsgøta, Tórshavn
+Vaktarhúsvegur, Gøtugjógv
+Valarabrekkan, Tvøroyri
+Vallalíð, Tórshavn
+Vallaratún, Tórshavn
+Valloyrarvegur, Sandavágur
+Varpabrúgvin, Klaksvík
+Varðabrekka, Tórshavn
+Varðabyrgi, Tórshavn
+Varðabú, Tórshavn
+Varðagøta, Rituvík
+Varðagøta, Sørvágur
+Varðagøta, Tórshavn
+Varðalág, Tórshavn
+Varðatún, Tórshavn
+Vatnaskarðar, Hoyvík
+Vatnavegur, Miðvágur
+Vatnsoyrarvegur, Tórshavn
+Vegurin Langi, Hoyvík
+Velbastaðvegur, Tórshavn
+Velbastaðvegur, Velbastaður
+Vestan Garða, Ørðavík
+Vestara Bryggja, Tórshavn
+Vestari Ringvegur, Tórshavn
+Vestmannavegurin, Kvívík
+Vestmannavegurin, Válur
+Vesturgøta, Lopra
+Vesturgøta, Tórshavn
+Vesturrás, Fuglafjørður
+Vilhelmstrøð, Tórshavn
+Viljormsgøta, Hoyvík
+Villingadalsvegur, Tórshavn
+Villumsgøta, Tórshavn
+Við Bólstein, Leirvík
+Við Drekkarsá, Klaksvík
+Við Dvørgastein, Leirvík
+Við Eirikstoftir, Miðvágur
+Við Garð, Leirvík
+Við Gjónna, Gjógv
+Við Gjónna, Gøtugjógv
+Við Gjónna, Syðradalur, Kalsoy
+Við Grind, Hov
+Við Grástein, Hvalvík
+Við Grástein, Klaksvík
+Við Gálgastein, Tórshavn
+Við Havnará, Tórshavn
+Við Hurð, Glyvrar
+Við Hálsatjørn, Strendur
+Við Høgnaheyggj, Glyvrar
+Við Júksnará, Syðrugøta
+Við Klingurstjørn, Argir
+Við Klovnastein, Undir Gøtueiði
+Við Klovningastein, Sandur
+Við Korkusá, Norðragøta
+Við Krossá, Kaldbak
+Við Kvíggjá, Sumba
+Við Kykslið, Vágur
+Við Langanes, Glyvrar
+Við Leitisstein, Norðragøta
+Við Løkin, Runavík
+Við Matará, Syðrugøta
+Við Myllutjørn, Hoyvík
+Við Mylnutún, Klaksvík
+Við Másheyg, Klaksvík
+Við Nónvarða, Strendur
+Við Pæturshús, Nes, Eysturoy
+Við Ranggil, Leirvík
+Við Rangá, Trongisvágur
+Við Ravnagil, Klaksvík
+Við Rossalið, Mikladalur
+Við Rætt, Toftir
+Við Sandin, Klaksvík
+Við Sandá, Argir
+Við Sandá, Tórshavn
+Við Sjógv, Kollafjørður
+Við Sornhús, Gjógv
+Við Stovutoft, Funningsfjørður
+Við Stóraklett, Sandavágur
+Við Stórheyggj, Æðuvík
+Við Svartheygg, Norðskáli
+Við Svartá, Saksun
+Við Sílá, Tvøroyri
+Við Toftir, Hvalba
+Við Trøllagil, Klaksvík
+Við Trøllaklett, Søldarfjørður
+Við Týkarheyggj, Miðvágur
+Við Á, Kaldbak
+Við Á, Porkeri
+Við Á, Ørðavík
+Við Áir, Hvalvík
+Við Álvheygg, Elduvík
+Við Ánna, Norðragøta
+Við Ósagarð, Vágur
+Viðareiðisvegur, Viðareiði
+Viðargøta, Argir
+Viðurbyrgi, Árnafjørður
+Vollavegur, Glyvrar
+Vágsbotnur, Tórshavn
+Vágsgeil, Klaksvík
+Vágsheygsgøta, Klaksvík
+Vágstún, Klaksvík
+Vágsvegur, Vágur
+Válagøta, Nólsoy
+Válavegur, Válur
+Válgaratún, Tórshavn
+Vættrastígur, Tórshavn
+Víkarbyrgisvegur, Víkarbyrgi
+Víkarvegur, Kvívík
+Víkarvegur, Leirvík
+Víkarvegur, Porkeri
+Víkavegur, Haldórsvík
+Víkavegur, Klaksvík
+Víkavegur, Nesvík
+Víkavegur, Oyndarfjørður
+Vípuvegur, Runavík
+Vípuvegur, Tvøroyri
+Vípuvegur, Tórshavn
+Vørðslan, Tórshavn
+Vørðubrekka, Argir
+Vørðugøta, Miðvágur
+Vørðuvegur, Hósvík
+Ytra Bryggja, Miðvágur
+Ytriteigur, Saltangará
+Ytsti Vegur, Sandvík
+Yviri við Strond, Tórshavn
+Yviri í Gjógv, Eiði
+Ziskagøta, Klaksvík
+Á Bakka, Leirvík
+Á Bakkanum, Lopra
+Á Bakkanum, Svínáir
+Á Bakkanum, Syðradalur, Kalsoy
+Á Barnalofti, Eiði
+Á Brekku, Klaksvík
+Á Brekkukletti, Toftir
+Á Brekkunum, Trongisvágur
+Á Breyt, Mykines
+Á Brúgv, Mykines
+Á Buggarði, Sumba
+Á Byrgi, Strendur
+Á Byrgisheyggi, Lamba
+Á Bø, Kaldbak
+Á Dalhellu, Viðareiði
+Á Dalinum, Ørðavík
+Á Dungasandi, Sørvágur
+Á Eiðinum, Klaksvík
+Á Eystaru Hellu, Kvívík
+Á Flat, Funningsfjørður
+Á Flatabø, Eiði
+Á Fløtti, Tórshavn
+Á Fløttinum, Klaksvík
+Á Fløttinum, Porkeri
+Á Fossi, Sørvágur
+Á Fossum, Klaksvík
+Á Frælsinum, Tórshavn
+Á Gaddi, Leirvík
+Á Gerðabrekku, Skálavík
+Á Giljanesi, Sandavágur
+Á Giljatrøðni, Sandavágur
+Á Grønabóli, Klaksvík
+Á Gørðum, Kaldbak
+Á Gørðum, Nes, Eysturoy
+Á Gøtuteigi, Leirvík
+Á Hamranesi, Hvalba
+Á Heyggi, Norðragøta
+Á Heyggi, Porkeri
+Á Heyggi, Sandur
+Á Heygnum Mikla, Tórshavn
+Á Heygnum, Glyvrar
+Á Heygnum, Kvívík
+Á Heygnum, Saltangará
+Á Heygum, Toftir
+Á Heygunum, Lamba
+Á Hillingatanga, Sandavágur
+Á Hjalla, Hoyvík
+Á Hvítanesi, Hvítanes
+Á Hálsi, Sørvágur
+Á Hólalagi, Hvalba
+Á Hólmanum, Miðvágur
+Á Høvdanum, Froðba
+Á Høvdanum, Sund
+Á Kelduni, Sørvágur
+Á Kinn, Lamba
+Á Kjalnesi, Kollafjørður
+Á Kjeltajørð, Sumba
+Á Klettum, Sandur
+Á Kneysum, Toftir
+Á Kvíggj, Sørvágur
+Á Kópagørðum, Norðdepil
+Á Langabakka, Ørðavík
+Á Langasandi, Kollafjørður
+Á Leingjuni, Sørvágur
+Á Longubrekku, Sørvágur
+Á Lygnnesi, Kollafjørður
+Á Lágabø, Sørvágur
+Á Líknargøtu, Saltangará
+Á Magnusarbø, Sørvágur
+Á Merkrunum, Sandavágur
+Á Middagsvarða, Sørvágur
+Á Miðgerði, Kollafjørður
+Á Mølini, Skálavík
+Á Mýratrøðni, Sørvágur
+Á Mýrini, Hoyvík
+Á Mýrini, Nólsoy
+Á Mýru, Oyndarfjørður
+Á Mýruni, Elduvík
+Á Mýrunum, Sandvík
+Á Nesi, Nes, Vágur
+Á Oyrareingjum, Oyrareingir
+Á Oyrunum, Vágur
+Á Ravnaskúta, Sandur
+Á Reyni, Sandur
+Á Ryggi, Mikladalur
+Á Ryggi, Nólsoy
+Á Ryggi, Sandur
+Á Ryggi, Trongisvágur
+Á Rætt, Kollafjørður
+Á Rókatrøð, Hvalba
+Á Rókini, Haldórsvík
+Á Sandi Mikla, Runavík
+Á Sandinum, Vatnsoyrar
+Á Signabø, Signabøur
+Á Skælingi, Skælingur
+Á Sondum, Sandavágur
+Á Soylugørðum, Kaldbak
+Á Stongum, Sørvágur
+Á Stórheyggi, Velbastaður
+Á Svartafossi, Sørvágur
+Á Svínanesi, Svínáir
+Á Sýnini, Leirvík
+Á Teigi, Tórshavn
+Á Tippinum, Sandvík
+Á Tjørnini, Norðdepil
+Á Todnesi, Kollafjørður
+Á Trøllanesi, Trøllanes
+Á Tungu, Bøur
+Á Túgvu, Tórshavn
+Á Túni, Kvívík
+Á Ørg, Sørvágur
+Áarbakkin, Skopun
+Áarbøur, Sandur
+Áargarður, Leirvík
+Áargeil, Leirvík
+Áargeil, Tórshavn
+Áargøta, Dalur
+Áargøta, Miðvágur
+Áarlið, Sandavágur
+Áarrás, Argir
+Áartún, Mykines
+Áarvegur, Elduvík
+Áarvegur, Hósvík
+Áarvegur, Kvívík
+Áarvegur, Tórshavn
+Ágarður, Sandur
+Álaker, Tórshavn
+Álvastígur, Tórshavn
+Ánavegur, Ánirnar
+Ápramsvegur, Miðvágur
+Árnfjarðarvegur, Árnafjørður
+Ægishædd, Tórshavn
+Ærgisbrekka, Saltangará
+Æðugøta, Runavík
+Æðuvíkarvegur, Rituvík
+Æðuvíkarvegur, Æðuvík
+Í Barmi, Eiði
+Í Botni, Vágur
+Í Brekkum, Fuglafjørður
+Í Brekkuni, Tórshavn
+Í Bygdini, Funningsfjørður
+Í Bygdini, Sørvágur
+Í Dalinum, Lamba
+Í Depli, Depil
+Í Fjalstrøðini, Hvalba
+Í Fornanum, Sørvágur
+Í Fámará, Vágur
+Í Garðinum, Kirkja
+Í Garðinum, Klaksvík
+Í Geilini, Kirkjubøur
+Í Geilini, Nólsoy
+Í Geilini, Sandvík
+Í Geilini, Sørvágur
+Í Geilini, Vatnsoyrar
+Í Gerði, Strendur
+Í Gerðinum, Sørvágur
+Í Gerðunum, Árnafjørður
+Í Gjørðum, Porkeri
+Í Gomlutrøð, Hvalba
+Í Grønulág, Tórshavn
+Í Heiðatrøðini, Hvalba
+Í Heiðunum, Porkeri
+Í Heygnum, Sandvík
+Í Heygunum, Trongisvágur
+Í Homrum, Kollafjørður
+Í Horni, Sandur
+Í Hólinum, Porkeri
+Í Húsgarði, Trongisvágur
+Í Kass, Rituvík
+Í Kelduni, Hvalba
+Í Kerinum, Sumba
+Í Kongsbø, Norðragøta
+Í Koytu, Sandur
+Í Króki, Miðvágur
+Í Lambabyrgi, Trongisvágur
+Í Leirum, Hvalba
+Í Leivsgarði, Hov
+Í Lon, Tórshavn
+Í Lágabø, Kirkjubøur
+Í Lágni, Tórshavn
+Í Líðini, Kollafjørður
+Í Líðini, Vatnsoyrar
+Í Mýrunum, Vágur
+Í Nesi, Sandur
+Í Nýggjagørðum, Nólsoy
+Í Pálsliða, Norðragøta
+Í Skørðunum, Porkeri
+Í Snið, Skipanes
+Í Soylu, Sandur
+Í Stong, Nólsoy
+Í Støð, Fuglafjørður
+Í Støðlunum, Froðba
+Í Støðlunum, Tvøroyri
+Í Støðni, Hvalba
+Í Sundhøvda, Oyrarbakki
+Í Svanga, Tórshavn
+Í Syðrutoftum, Trongisvágur
+Í Toft, Søldarfjørður
+Í Toftaryggjum, Vágur
+Í Trøðum, Sandur
+Í Tungu, Syðrugøta
+Í Túni, Gjógv
+Í Túni, Kirkja
+Í Túni, Nólsoy
+Í Túninum, Mikladalur
+Í Urðini, Árnafjørður
+Í Vika, Tórshavn
+Írarók, Tórshavn
+Ísaksgøta, Hoyvík
+Íslandsvegur, Tórshavn
+Ólavsstovuvegur, Æðuvík
+Ólavsvegur, Nes, Eysturoy
+Ólavsvegur, Toftir
+Ólivantsgøta, Hoyvík
+Óluvugøta, Norðragøta
+Óluvugøta, Tórshavn
+Ónavíksvegur, Lopra
+Ósabakkavegur, Kollafjørður
+Ósavegur, Trongisvágur
+Ósávegur, Klaksvík
+Óðinshædd, Tórshavn
+Øksnagerði, Tórshavn
+Ørðavíkarvegur, Ørðavík
+Út á Bakka, Oyri
+Úti við Neyst, Hvalvík
+Úti á Bakka, Sandavágur
+Úti á Bø, Eiði
+Úti á Bø, Funningur
+Úti á Bø, Kvívík
+Úti á Bø, Sandavágur
+Úti á Fløtum, Klaksvík
+Úti á Fløtum, Skála
+Úti á Heyggi, Velbastaður
+Úti á Lending, Hellurnar
+Úti á Støð, Miðvágur
+Úti á Støð, Sandavágur
+Úti á Trøð, Sandavágur
+Úti í Bø, Skálavík
+Úti í Bø, Syðrugøta
+Úti í Dølum, Velbastaður
+Úti í Nípu, Miðvágur
+Úti í Rætt, Hvalba
+Úti í Støð, Sandur
