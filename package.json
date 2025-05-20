@@ -19,7 +19,7 @@
   "homepage": "https://github.com/macbre/map-porn#readme",
   "dependencies": {
     "npmlog": "^7.0.1",
-    "puppeteer": "^24.8.2",
+    "puppeteer": "^24.9.0",
     "serve": "^14.2.4"
   }
 }
