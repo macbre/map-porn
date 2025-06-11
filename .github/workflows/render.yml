@@ -38,7 +38,7 @@ jobs:
       run: ./screenshot.mjs
 
     - name: Commit the changes
-      uses: stefanzweifel/git-auto-commit-action@v5
+      uses: stefanzweifel/git-auto-commit-action@v6
       with:
         ref: ${{ github.head_ref }}  # https://github.com/marketplace/actions/git-auto-commit#checkout-the-correct-branch
         commit_message: Commit the maps
