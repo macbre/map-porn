@@ -20,6 +20,6 @@
   "dependencies": {
     "npmlog": "^7.0.1",
     "puppeteer": "^24.18.0",
-    "serve": "^14.2.4"
+    "serve": "^14.2.5"
   }
 }
