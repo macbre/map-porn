@@ -1,0 +1,649 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7985031,
+     62.0114922
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6652035,
+     62.2925682
+    ]
+   },
+   "properties": {
+    "landuse": "forest",
+    "name": "Vi\u00f0arlundin \u00ed Kunoy",
+    "tourism": "attraction",
+    "wheelchair": "no"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5632467,
+     62.2255261
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.904171,
+     62.1173137
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1469736,
+     62.0576516
+    ]
+   },
+   "properties": {
+    "landuse": "forest",
+    "name": "Vi\u00f0arlundin \u00e1 Abbreyt"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1863688,
+     62.0491975
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1924855,
+     62.0484032
+    ]
+   },
+   "properties": {
+    "landuse": "forest",
+    "leaf_type": "needleleaved"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1928677,
+     62.047559
+    ]
+   },
+   "properties": {
+    "landuse": "forest",
+    "leaf_type": "needleleaved"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1936872,
+     62.0477278
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3075143,
+     62.0728768
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7614518,
+     62.1383846
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.881396,
+     62.1604711
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8916731,
+     62.1603871
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8918465,
+     62.1603279
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7120048,
+     62.2063973
+    ]
+   },
+   "properties": {
+    "landuse": "forest",
+    "name": "Uppi \u00e1 Brekkum"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7100997,
+     62.2048519
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7736378,
+     62.0440836
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8457044,
+     62.0114176
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8461174,
+     62.0116223
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.84619,
+     62.011376
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8460707,
+     62.0112331
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8458636,
+     62.0108854
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8469486,
+     62.0107656
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8449257,
+     62.010533
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8449288,
+     62.0107598
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8440701,
+     62.0119947
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8415426,
+     62.0104695
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8415363,
+     62.0105078
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8418785,
+     62.0103501
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8422207,
+     62.0103722
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8423619,
+     62.0102971
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8425566,
+     62.0102838
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8416367,
+     62.0101763
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8412443,
+     62.0102544
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8413542,
+     62.0100982
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.840877,
+     62.0101321
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8419022,
+     62.0098692
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8418785,
+     62.0098065
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8420982,
+     62.0099243
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8423965,
+     62.0098065
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8427386,
+     62.0097873
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8430902,
+     62.0099509
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8435905,
+     62.010014
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8436943,
+     62.0101256
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8440013,
+     62.0103316
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8430506,
+     62.0091696
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1623009,
+     62.1541542
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6052476,
+     62.2722794
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6657563,
+     62.2926824
+    ]
+   },
+   "properties": {
+    "landuse": "forest"
+   }
+  }
+ ]
+}

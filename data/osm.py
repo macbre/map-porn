@@ -151,8 +151,13 @@ EXTRA_TAG_VALUE = None
 # EXTRA_TAG_VALUE = 'cemetery'
 
 # https://wiki.openstreetmap.org/wiki/Tag:highway=primary
-TAG_KEY = 'highway'
-TAG_VALUE = 'primary'
+# TAG_KEY = 'highway'
+# TAG_VALUE = 'primary'
+
+# https://wiki.openstreetmap.org/wiki/Tag:landuse=forest
+TAG_KEY = 'landuse'
+TAG_VALUE = 'forest'
+
 
 # find all nodes with the "highway" tag, e.g. highway=primary + highway=secondary + highway=residential + highway=tertiary + ...
 #
@@ -169,25 +174,26 @@ TAG_VALUE = 'primary'
 #   16 Kaldbaksvegur
 #   16 Glyvursvegur
 #   15 Í Túni
-def EXTRA_CALLBACK(node_attrs: dict[str, str], node_tags: list[tuple]) -> bool:
-    tags: dict[str, str] = {key:value for (key,value) in node_tags}
+# def EXTRA_CALLBACK(node_attrs: dict[str, str], node_tags: list[tuple]) -> bool:
+#     tags: dict[str, str] = {key:value for (key,value) in node_tags}
 
-    # no geodata, skip
-    if 'lat' not in node_attrs:
-        return False
+#     # no geodata, skip
+#     if 'lat' not in node_attrs:
+#         return False
 
-    if tags.get('highway') in ['primary', 'secondary', 'residential', 'tertiary']:
-        # ignore:
-        # "junction": "roundabout",
-        # 'tunnel', 'yes'
-        # "bridge": "yes"
-        if 'junction' not in tags and 'tunnel' not in tags and 'bridge' not in tags:
-            # we require a name
-            if 'name' in tags:
-                return True
+#     if tags.get('highway') in ['primary', 'secondary', 'residential', 'tertiary']:
+#         # ignore:
+#         # "junction": "roundabout",
+#         # 'tunnel', 'yes'
+#         # "bridge": "yes"
+#         if 'junction' not in tags and 'tunnel' not in tags and 'bridge' not in tags:
+#             # we require a name
+#             if 'name' in tags:
+#                 return True
 
-    return False
+#     return False
 
+EXTRA_CALLBACK = False
 
 """
 This function fetches the osm.pbf ProtoBuf over HTTP, converts it into osm.bz2 XML file and caches it locally.
@@ -228,7 +234,7 @@ def cache_osm_file():
     logger.info(f'Converting PBF file to osm.bz2 ...')
 
     resp = subprocess.run(["osmium", "cat", PBF_FILE, "-o", LOCAL_FILE])
-    if resp.returncode is not 0:
+    if resp.returncode != 0:
         raise Exception(resp.stderr)
 
     logger.info(f'osm.bz2 file stored in {LOCAL_FILE}')
