@@ -18,7 +18,7 @@
 
 	<link rel="license" href="https://creativecommons.org/licenses/by/4.0/" />
 
-	<body lang="en" _lang="pl">
+	<body lang="en">
 		<div id="wrapper">
 			<section id="overlay">
 				<h1 lang="en">Faroe Islands</h1>
@@ -32,7 +32,7 @@
 					<p lang="en">
 						The first roundabout (<em>rundkoyring</em>) in the Faroe Islands was opened in March 1990 in Runavík.
 						<br><br>
-						Since then, a few dozen have been built across the islands — <strong>half of them in Tórshavn alone</strong>. On the entire island of Vágar, though, you’ll only find three. The same goes for Klaksvík, the second-largest Faroese town.
+						Since then, a few dozen have been built across the islands — <strong>half of them in Tórshavn alone</strong>. On the entire island of Vágar, though, you’ll only find three. The same goes for Klaksvík, the second-largest Faroese town. But there, in the middle of the roundabout, you'll <strong>find a large hook</strong> - it emphasizes that Klaksvik is a fishing port.
 						<br><br>
 						In December 2020, the Eysturoyartunnilin tunnel opened, featuring <strong>the world’s first undersea roundabout</strong>. It’s that dot right in the middle of the fjord.
 					</p>
@@ -40,7 +40,7 @@
 						Pierwsze farerskie rondo (<em>rundkoyring</em>) zostało otwarte w roku 1990 w Runavíku.
 						<br><br>
 						Na współczesnych mapach drogowych znajdziemy ich już kilkadziesiąt – <strong>połowę z nich w samym Tórshavn</strong>.
-						Cała wyspa Vágar ma ich <strong>tylko trzy</strong>. Podobnie jak drugie co do wielkości miasto na Wyspach - Klaksvík. Ale za to tam na środku ronda znajdziemy wielki hak.
+						Cała wyspa Vágar ma ich <strong>tylko trzy</strong>. Podobnie jak drugie co do wielkości miasto na Wyspach - Klaksvík. Ale za to tam na środku ronda <strong>znajdziemy wielki hak</strong>.
 						<br><br>
 						W grudniu 2020 roku - wraz z otwarciem Eysturoyartunnilin - oddano do użytku <strong>pierwsze na świecie podmorskie rondo</strong>. Tak, to ta kropka pośrodku fiordu.
 					</p>
@@ -353,6 +353,14 @@
 				box-shadow: none;
 			}**/
 		</style>
+
+	<script>
+	// Add #pl anchor to the URL to see the Polish map format
+	if (document.location.hash === '#pl') {
+		console.log('Mapka po polsku ...')
+		document.body.setAttribute('lang', 'pl') 
+	}
+	</script>
 
 	</body>
 </html>
