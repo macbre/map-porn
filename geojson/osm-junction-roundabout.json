@@ -768,54 +768,6 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -6.773696,
-     61.9928597
-    ]
-   },
-   "properties": {
-    "highway": "cycleway",
-    "junction": "roundabout",
-    "lanes": "1",
-    "surface": "asphalt"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.7907098,
-     61.9967678
-    ]
-   },
-   "properties": {
-    "highway": "cycleway",
-    "junction": "roundabout",
-    "lanes": "1",
-    "surface": "asphalt"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.7959207,
-     62.0006273
-    ]
-   },
-   "properties": {
-    "highway": "cycleway",
-    "junction": "roundabout",
-    "lanes": "1",
-    "surface": "asphalt"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
      -6.7972308,
      62.044465
     ]
