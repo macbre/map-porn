@@ -110,6 +110,13 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     /* filter: sepia(0.2); */
 }
 
+.marker-small {
+    --marker-size-small: 8px;
+    width: var(--marker-size-small);
+    height: var(--marker-size-small);
+    border-radius: var(--marker-size-small);
+}
+
 /* https://colorbrewer2.org/#type=diverging&scheme=RdYlGn&n=10 */
 .marker.green  { background-color: #a6d96a }
 .marker.dark-green  { background-color: #006837 }

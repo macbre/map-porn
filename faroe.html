@@ -18,27 +18,31 @@
 
 	<link rel="license" href="https://creativecommons.org/licenses/by/4.0/" />
 
-	<body lang="en" _lang="pl">
+	<body lang="en">
 		<div id="wrapper">
 			<section id="overlay">
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Old village paths</h2>
-				<h2 lang="pl">Szlaki między osadami</h2>
+				<h2 lang="en">Roundabouts</h2>
+				<h2 lang="pl">Ronda</h2>
 
 				<legend>
-					<img src="https://live.staticflickr.com/316/19725846794_a69913f540_c_d.jpg">
+					<img src="https://i0.wp.com/farerskiekadry.pl/wp-content/uploads/2024/06/IMG_4117-scaled.jpg?w=1258&quality=89&ssl=1">
 					<p lang="en">
-						All across the Faroe Islands, you'll find <strong>bygdagøtur</strong> - old narrow village paths that have been in use since the islands were first settled.
-						They were used to get to the neighboring villages, attend the church, carry the coffin to the nearby cemetery, and deliver the post.
+						The first roundabout (<em>rundkoyring</em>) in the Faroe Islands was opened in March 1990 in Runavík.
 						<br><br>
-						These trails are <strong>marked by stone cairns (varðar)</strong> and free to hike along. Do remember to <strong>stay on the path</strong>. Walking on the in- and outfields require the landowners’ permission.
+						Since then, a few dozen have been built across the islands — <strong>half of them in Tórshavn alone</strong>. On the entire island of Vágar, though, you’ll only find three. The same goes for Klaksvík, the second-largest Faroese town. But there, in the middle of the roundabout, you'll <strong>find a large hook</strong> - it emphasizes that Klaksvik is a fishing port.
+						<br><br>
+						In December 2020, the Eysturoyartunnilin tunnel opened, featuring <strong>the world’s first undersea roundabout</strong>. It’s that dot right in the middle of the fjord.
 					</p>
 					<p lang="pl">
-						Wyspy Owcze poprzecinane są licznymi <strong>bygdagøtur</strong> - szlakami, które od stuleci łączyły osady. Korzystano z nich by dotrzeć do sąsiedniej wioski, wziąć udział w nabożeństwie, przenieść zmarłego na miejsce wiecznego spoczynku, dostarczyć pocztę.
+						Pierwsze farerskie rondo (<em>rundkoyring</em>) zostało otwarte w roku 1990 w Runavíku.
 						<br><br>
-						Szlaki te <strong>znaczą kamienne kopczyki (varðar)</strong>, pomagające w nawigacji. Korzystanie z nich <strong>jest bezpłatne</strong>. Pamiętajmy jednak, aby <strong>nie zbaczać z wyznaczonej ścieżki</strong>. Uszanujmy farerskie prawo własności.
+						Na współczesnych mapach drogowych znajdziemy ich już kilkadziesiąt – <strong>połowę z nich w samym Tórshavn</strong>.
+						Cała wyspa Vágar ma ich <strong>tylko trzy</strong>. Podobnie jak drugie co do wielkości miasto na Wyspach - Klaksvík. Ale za to tam na środku ronda <strong>znajdziemy wielki hak</strong>.
+						<br><br>
+						W grudniu 2020 roku - wraz z otwarciem Eysturoyartunnilin - oddano do użytku <strong>pierwsze na świecie podmorskie rondo</strong>. Tak, to ta kropka pośrodku fiordu.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -76,7 +80,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, --><!-- OpenStreetMaps, trap.fo, WikiData,--> Visit Faroe Islands
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps<!--, trap.fo, WikiData,--><!--Visit Faroe Islands-->
 					</p>
 				</div>
 
@@ -112,6 +116,7 @@
 				let counts = [];
 
 				// https://leafletjs.com/reference.html#geojson
+				/**
     			L.geoJSON(await fetchGeoJSON('/geojson/fo-hikes.json'), {
 					pane: `markers-blue`, // so that the geojson layer is rendered and visible
 					style: feature => {
@@ -155,7 +160,6 @@
 						L.marker([start[1], start[0]], {icon: getIcon('blue', '', 4), pane: `markers-blue`}).addTo(map);
 						L.marker([end[1], end[0]], {icon: getIcon('blue', '', 4), pane: `markers-blue`}).addTo(map);
         			}
-					**/
 				}).addTo(map);
 
 				addLabel('dark-green', 'Up to 5 km long', 'Do 5 km długości', counts['green']);
@@ -176,30 +180,30 @@
 				let counts = [];
 				**/
 
-				/**
-				L.geoJSON(await fetchGeoJSON('/geojson/osm-building-church.json'), {
+				/**/
+				L.geoJSON(await fetchGeoJSON('/geojson/osm-junction-roundabout.json'), {
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
 						console.log(feature.properties);
 
 						// https://www.wikidata.org/wiki/Q11999142
 						// P186 -> Q287 - wood
-						const material = feature.properties.wikidata_claims?.P186?.id;
-						const isWooden = material === 'Q287';
+						// const material = feature.properties.wikidata_claims?.P186?.id;
+						// const isWooden = material === 'Q287';
 
-						// "denomination": "roman_catholic",
-						const isCatholic = feature.properties.denomination === 'roman_catholic';
+						// // "denomination": "roman_catholic",
+						// const isCatholic = feature.properties.denomination === 'roman_catholic';
 
-						let color = 'blue';
+						let color = 'red';
 
-						if (isCatholic) {
-							color = 'orange'
-						}
-						else if (isWooden) {
-							color = 'green';
-						}
+						// if (isCatholic) {
+						// 	color = 'orange'
+						// }
+						// else if (isWooden) {
+						// 	color = 'green';
+						// }
 
-						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`})
+						L.marker([geo[1], geo[0]], {icon: getIcon(color, '', true/*small*/), pane: `markers-${color}`})
 							.addTo(map)
 							.bindPopup(feature.properties.name);
 
@@ -208,7 +212,9 @@
 						counts[color]++;
 					}
 				});
-				**/
+
+				addLabel('red', 'Roundabout', 'Rondo', counts['red']);
+				/**/
 			});
 
 			// console.log(gridsPerCity);
@@ -347,6 +353,14 @@
 				box-shadow: none;
 			}**/
 		</style>
+
+	<script>
+	// Add #pl anchor to the URL to see the Polish map format
+	if (document.location.hash === '#pl') {
+		console.log('Mapka po polsku ...')
+		document.body.setAttribute('lang', 'pl') 
+	}
+	</script>
 
 	</body>
 </html>
