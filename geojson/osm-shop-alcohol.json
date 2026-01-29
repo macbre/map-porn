@@ -64,6 +64,19 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
+     -6.7951634,
+     62.0481896
+    ]
+   },
+   "properties": {
+    "shop": "alcohol"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
      -6.5931745,
      62.2288613
     ]
@@ -126,37 +139,12 @@
    "geometry": {
     "type": "Point",
     "coordinates": [
-     -6.8273414,
-     61.550147
+     -7.146550,
+     62.153479
     ]
    },
    "properties": {
-    "addr:city": "\u00d8r\u00f0av\u00edk",
-    "addr:country": "FO",
-    "addr:housenumber": "7",
-    "addr:postcode": "827",
-    "addr:street": "\u00c1 Langabakka",
-    "email": "jan@foroyabjor.fo",
-    "name": "F\u00f6roya Bj\u00f3r",
-    "opening_hours": "Mo-Fr 10:00-17:30, Sa 10:00-14:00",
-    "phone": "+298 37 24 54",
-    "shop": "alcohol",
-    "website": "https://bjor.fo/"
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Point",
-    "coordinates": [
-     -6.8047272,
-     61.9986677
-    ]
-   },
-   "properties": {
-    "building": "yes",
-    "drink:beer": "yes",
-    "name": "F\u00f8roya Bj\u00f3r",
+    "name": "R\u00fasdrekkas\u00f8la Landsins",
     "shop": "alcohol"
    }
   }
