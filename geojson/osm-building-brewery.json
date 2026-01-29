@@ -1,0 +1,116 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1485867,
+     62.1524529
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "building:colour": "#A0404B",
+    "building:material": "metal",
+    "craft": "distillery",
+    "height": "6",
+    "name": "Faer Isles Distillery",
+    "phone": "+298 779000",
+    "product": "whiskey;vodka;gin;akvavit",
+    "roof:colour": "#3F4555",
+    "roof:shape": "gabled",
+    "website": "https://faer.fo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5888513,
+     62.2265801
+    ]
+   },
+   "properties": {
+    "brewery": "yes",
+    "building": "brewery",
+    "name": "F\u00f8roya Bj\u00f3r",
+    "product": "beer",
+    "website": "https://bjor.fo",
+    "wikidata": "Q257229",
+    "wikipedia": "en:F\u00f6roya_Bj\u00f3r",
+    "wikidata_claims": {
+     "P646": "/m/0478wv7",
+     "P17": {
+      "entity-type": "item",
+      "numeric-id": 4628,
+      "id": "Q4628"
+     },
+     "P935": "F\u00f6roya Bj\u00f3r",
+     "P856": "http://www.foroyabjor.dk/",
+     "P31": {
+      "entity-type": "item",
+      "numeric-id": 131734,
+      "id": "Q131734"
+     },
+     "P18": "F\u00f6roya Bj\u00f3r 2.jpg",
+     "P159": {
+      "entity-type": "item",
+      "numeric-id": 189361,
+      "id": "Q189361"
+     },
+     "P571": {
+      "time": "+1888-00-00T00:00:00Z",
+      "timezone": 0,
+      "before": 0,
+      "after": 0,
+      "precision": 9,
+      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+     },
+     "P740": {
+      "entity-type": "item",
+      "numeric-id": 189361,
+      "id": "Q189361"
+     },
+     "P1454": {
+      "entity-type": "item",
+      "numeric-id": 134161,
+      "id": "Q134161"
+     },
+     "P1056": {
+      "entity-type": "item",
+      "numeric-id": 44,
+      "id": "Q44"
+     },
+     "P8313": "F\u00f6roya_Bj\u00f3r",
+     "P373": "F\u00f6roya Bj\u00f3r",
+     "P452": {
+      "entity-type": "item",
+      "numeric-id": 11644505,
+      "id": "Q11644505"
+     }
+    }
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.58934,
+     62.2265548
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "craft": "distillery",
+    "name": "Einar's Distillery",
+    "operator": "F\u00f8roya Bj\u00f3r",
+    "phone": "+298 47 54 54",
+    "website": "https://www.einarsdistillery.com/"
+   }
+  }
+ ]
+}
