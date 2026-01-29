@@ -1,0 +1,164 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7231083,
+     62.1130202
+    ]
+   },
+   "properties": {
+    "addr:city": "Saltangar\u00e1",
+    "addr:country": "FO",
+    "addr:housenumber": "25B",
+    "addr:postcode": "600",
+    "addr:street": "Hei\u00f0avegur",
+    "name": "R\u00fasdrekkas\u00f8lan",
+    "shop": "alcohol",
+    "source": "Umhv\u00f8rvisstovan www.us.fo",
+    "us.fo:Adressutal": "32205",
+    "website": "https://rusan.fo/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7654572,
+     62.0225611
+    ]
+   },
+   "properties": {
+    "addr:city": "T\u00f3rshavn",
+    "addr:housenumber": "67",
+    "addr:postcode": "100",
+    "addr:street": "Hoyv\u00edksvegur",
+    "check_date:opening_hours": "2024-06-17",
+    "name": "R\u00fasan",
+    "opening_hours": "Mo-Fr 10:00-17:30; Sa 10:00-14:00",
+    "phone": "+298 340400",
+    "shop": "alcohol",
+    "website": "https://rusan.fo/",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2094631,
+     62.0472555
+    ]
+   },
+   "properties": {
+    "shop": "alcohol"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5931745,
+     62.2288613
+    ]
+   },
+   "properties": {
+    "name": "R\u00fasdrekkas\u00f8la landsins",
+    "shop": "alcohol",
+    "wheelchair": "limited"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8177084,
+     61.8339949
+    ]
+   },
+   "properties": {
+    "check_date": "2023-08-05",
+    "name": "R\u00fasdrekkas\u00f8la Landsins",
+    "opening_hours": "Mo-Th 14:00-17:30; Fr 14:00-19:00; Sa 10:00-14:00",
+    "shop": "alcohol"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0015831,
+     62.209824
+    ]
+   },
+   "properties": {
+    "name": "R\u00fasdrekkas\u00f8la Landsins",
+    "phone": "+298 340407",
+    "shop": "alcohol",
+    "website": "https://rusan.fo/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8366719,
+     61.5570495
+    ]
+   },
+   "properties": {
+    "name": "R\u00fasdrekkas\u00f8la Landsins",
+    "opening_hours": "Mo-Do 13:00-17:30; Fr 12:00-17:30; Sa 10:00-14:00",
+    "shop": "alcohol"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8273414,
+     61.550147
+    ]
+   },
+   "properties": {
+    "addr:city": "\u00d8r\u00f0av\u00edk",
+    "addr:country": "FO",
+    "addr:housenumber": "7",
+    "addr:postcode": "827",
+    "addr:street": "\u00c1 Langabakka",
+    "email": "jan@foroyabjor.fo",
+    "name": "F\u00f6roya Bj\u00f3r",
+    "opening_hours": "Mo-Fr 10:00-17:30, Sa 10:00-14:00",
+    "phone": "+298 37 24 54",
+    "shop": "alcohol",
+    "website": "https://bjor.fo/"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8047272,
+     61.9986677
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "drink:beer": "yes",
+    "name": "F\u00f8roya Bj\u00f3r",
+    "shop": "alcohol"
+   }
+  }
+ ]
+}

@@ -159,9 +159,12 @@ EXTRA_TAG_VALUE = None
 # TAG_VALUE = 'forest'
 
 # https://wiki.openstreetmap.org/wiki/Tag:shop=supermarket
-TAG_KEY = 'shop'
-TAG_VALUE = 'supermarket'
+# TAG_KEY = 'shop'
+# TAG_VALUE = 'supermarket'
 
+# https://wiki.openstreetmap.org/wiki/Pl:Tag:shop=alcohol
+TAG_KEY = 'shop'
+TAG_VALUE = 'alcohol'
 
 
 # find all nodes with the "highway" tag, e.g. highway=primary + highway=secondary + highway=residential + highway=tertiary + ...
