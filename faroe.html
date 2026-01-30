@@ -24,25 +24,28 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Roundabouts</h2>
-				<h2 lang="pl">Ronda</h2>
+				<h2 lang="en">Off-license stores</h2>
+				<h2 lang="pl">Sklepy monopolowe</h2>
 
 				<legend>
-					<img src="https://i0.wp.com/farerskiekadry.pl/wp-content/uploads/2024/06/IMG_4117-scaled.jpg?w=1258&quality=89&ssl=1">
+					<img src="https://farerskiekadry.pl/wp-content/uploads/2026/01/Rusan_Klaksvik.jpg">
 					<p lang="en">
-						The first roundabout (<em>rundkoyring</em>) in the Faroe Islands was opened in March 1990 in Runavík.
+						<em>Rúsdrekkasøla Landsins</em>, better known as <em>Rúsan</em>, is the national alcohol retailer of the Faroe Islands.
 						<br><br>
-						Since then, a few dozen have been built across the islands — <strong>half of them in Tórshavn alone</strong>. On the entire island of Vágar, though, you’ll only find three. The same goes for Klaksvík, the second-largest Faroese town. But there, in the middle of the roundabout, you'll <strong>find a large hook</strong> - it emphasizes that Klaksvik is a fishing port.
+						The temperance movement led to <strong>a referendum on 6 November 1907 to ban alcohol</strong> — <strong>the first time Faroese women were allowed to vote</strong>.
 						<br><br>
-						In December 2020, the Eysturoyartunnilin tunnel opened, featuring <strong>the world’s first undersea roundabout</strong>. It’s that dot right in the middle of the fjord.
+						Even though the ban passed by a wide margin, <strong>it wasn’t a total ban</strong>. It only stopped the sale and serving of alcohol, while people were still allowed to import it for their own use.
+						<br><br>
+						<strong>In 1992, alcohol laws were liberalised</strong>, setting up Rúsdrekkasøla Landsins as the public monopoly for alcohol sales.
 					</p>
 					<p lang="pl">
-						Pierwsze farerskie rondo (<em>rundkoyring</em>) zostało otwarte w roku 1990 w Runavíku.
+						Alkohol na Wyspach Owczych kupić można w sieci państwowych sklepów monopolowych <em>Rúsdrekkasøla Landsins</em>, <strong>zwanych przez Farerów Rúsan</strong>.
 						<br><br>
-						Na współczesnych mapach drogowych znajdziemy ich już kilkadziesiąt – <strong>ponad połowę z nich w samym Tórshavn</strong>.
-						Cała wyspa Vágar ma ich <strong>tylko trzy</strong>. Podobnie jak drugie co do wielkości miasto na Wyspach - Klaksvík. Ale za to tam na środku ronda <strong>znajdziemy wielki hak</strong>.
+						Popularny na archipelagu <strong>ruch abstynencki doprowadził do referendum, które odbyło się w listopadzie 1907 roku </strong>. W głosowaniu tym <strong>po raz pierwszy w farerskiej historii udział wzięły kobiety</strong>.
 						<br><br>
-						W grudniu 2020 roku - wraz z otwarciem Eysturoyartunnilin - oddano do użytku <strong>pierwsze na świecie podmorskie rondo</strong>. Tak, to ta kropka pośrodku fiordu.
+						Jednak wprowadzona w kolejnym roku <strong>prohibicja nie była całkowita</strong>. Zakazano sprzedaży i wyszynku alkoholu, nadal jednak mocniejsze trunki można było sprowadzać indywidualnie.
+						<br><br>
+						<strong>Liberalizacja prawa z roku 1992</strong> ustanowiła państwowy monopol alkoholowy znany pod nazwą Rúsdrekkasøla Landsins.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -80,7 +83,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps<!--, trap.fo, WikiData,--><!--Visit Faroe Islands-->
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps, rusan.fo<!--, WikiData,--><!--Visit Faroe Islands-->
 					</p>
 				</div>
 
@@ -181,7 +184,7 @@
 				**/
 
 				/**/
-				L.geoJSON(await fetchGeoJSON('/geojson/osm-junction-roundabout.json'), {
+				L.geoJSON(await fetchGeoJSON('/geojson/osm-shop-alcohol.json'), {
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
 						console.log(feature.properties);
@@ -194,7 +197,7 @@
 						// // "denomination": "roman_catholic",
 						// const isCatholic = feature.properties.denomination === 'roman_catholic';
 
-						let color = 'red';
+						let color = 'orange';
 
 						// if (isCatholic) {
 						// 	color = 'orange'
@@ -203,7 +206,7 @@
 						// 	color = 'green';
 						// }
 
-						L.marker([geo[1], geo[0]], {icon: getIcon(color, '', true/*small*/), pane: `markers-${color}`})
+						L.marker([geo[1], geo[0]], {icon: getIcon(color, '', false/*small*/), pane: `markers-${color}`})
 							.addTo(map)
 							.bindPopup(feature.properties.name);
 
@@ -213,7 +216,7 @@
 					}
 				});
 
-				addLabel('red', 'Roundabout', 'Rondo', counts['red']);
+				addLabel('orange', 'Rúsan', 'Rúsan', counts['orange']);
 				/**/
 			});
 
