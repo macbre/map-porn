@@ -40,8 +40,9 @@ def call_flickr_api(params: dict[str, str]) -> object:
             raise FlickrAPIError(f"Request returned error #{data['code']}: {data['message']}")
 
         return data
-    except json.JSONDecodeError:
-        logging.error('Parsing the response failed', exc_info=True)
+    except json.JSONDecodeError as ex:
+        logging.error(f'Parsing the response failed: {ex.msg}', exc_info=True)
+        logging.warning(ex.doc)
         raise
 
 
@@ -69,7 +70,7 @@ def main():
 
     with open(csv_file, 'wt') as fp:
         csv = writer(fp, delimiter="\t")
-        csv.writerow(['id', 'lat', 'lon', 'date_taken'])
+        csv.writerow(['id', 'lat', 'lon', 'date_taken', 'title'])
 
         while True:
             # https://www.flickr.com/services/api/flickr.photos.search.html
@@ -77,7 +78,7 @@ def main():
             resp = call_flickr_api({
                 'api_key': FLICKR_API_KEY,
                 'format': 'json',
-                'nojsoncallback': '1',
+                'nojsoncallback': '1',  # otherwise "jsonFlickrApi()" is added to the response :/
                 'method': 'flickr.photos.search',
                 'page': str(page),
                 'per_page': '100',
@@ -92,9 +93,8 @@ def main():
                 # the date can be in the form of a unix timestamp or mysql datetime.
                 'min_date_taken': '2012-01-01 00:00:00',
 
-                # keep the default, otherwise the order of results is not deteministic and we're getting duplicates
-                # 'per_page': 100
-                'sort': 'data-taken-asc',
+                # date-posted-asc, date-posted-desc, date-taken-asc, date-taken-desc, interestingness-desc, interestingness-asc, and relevance.
+                'sort': 'relevance',
 
                 # Currently supported fields are: description, license, date_upload, date_taken, owner_name, icon_server, original_format,
                 # last_update, geo, tags, machine_tags, o_dims, views, media, path_alias,
@@ -120,7 +120,7 @@ def main():
 
                 # "id":"55076143656","owner":"59703682@N05","title":"Between Land and Tide","latitude":"61.468730","longitude":"-6.764811","datetaken": "2006-07-21 00:25:02"
                 # logger.info(f"#{photo['id']}: ({photo['latitude']}, {photo['longitude']} at {photo['datetaken']}")
-                csv.writerow([photo['id'], photo['latitude'], photo['longitude'], photo['datetaken']])
+                csv.writerow([photo['id'], photo['latitude'], photo['longitude'], photo['datetaken'], photo['title']])
                 photos.append(photo['id'])
 
             page +=1
