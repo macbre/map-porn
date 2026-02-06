@@ -12,6 +12,13 @@ DIR = path.abspath(path.dirname(__file__))
 
 FLICKR_REST_URL = 'https://www.flickr.com/services/rest/'
 
+class DuplicatedPhotoError(Exception):
+    pass
+
+
+class FlickrAPIError(Exception):
+    pass
+
 
 def call_flickr_api(params: dict[str, str]) -> object:
     logger = logging.getLogger(name="flickr-api")
@@ -26,7 +33,13 @@ def call_flickr_api(params: dict[str, str]) -> object:
     try:
         logger.debug(f'Headers: {resp.headers}')
         logger.debug(f'Resp: {resp.text}')
-        return json.loads(resp.text)
+        data = json.loads(resp.text)
+
+        # {"stat":"fail","code":100,"message":"Invalid API Key (Key has expired)"}
+        if data.get('stat') == 'fail':
+            raise FlickrAPIError(f"Request returned error #{data['code']}: {data['message']}")
+
+        return data
     except json.JSONDecodeError:
         logging.error('Parsing the response failed', exc_info=True)
         raise
@@ -51,6 +64,9 @@ def main():
 
     page = 1
 
+    # for duplicates detection in consequtive responses from the API
+    photos: list[str] = []
+
     with open(csv_file, 'wt') as fp:
         csv = writer(fp, delimiter="\t")
         csv.writerow(['id', 'lat', 'lon', 'date_taken'])
@@ -63,11 +79,23 @@ def main():
                 'format': 'json',
                 'nojsoncallback': '1',
                 'method': 'flickr.photos.search',
-                'bbox': ','.join(map(lambda item: str(item), FLICKR_BOUNDARY_BOX)),
                 'page': str(page),
+                'per_page': '100',
+
+                # Geo queries require some sort of limiting agent in order to prevent the database from crying.
+                # This is basically like the check against "parameterless searches" for queries without a geo component.
+                #
+                # A tag, for instance, is considered a limiting agent as are user defined min_date_taken and min_date_upload parameters.
+                # If no limiting factor is passed we return only photos added in the last 12 hours (though we may extend the limit in the future).
+                'bbox': ','.join(map(lambda item: str(item), FLICKR_BOUNDARY_BOX)),
+
+                # the date can be in the form of a unix timestamp or mysql datetime.
+                'min_date_taken': '2012-01-01 00:00:00',
+
                 # keep the default, otherwise the order of results is not deteministic and we're getting duplicates
                 # 'per_page': 100
                 'sort': 'data-taken-asc',
+
                 # Currently supported fields are: description, license, date_upload, date_taken, owner_name, icon_server, original_format,
                 # last_update, geo, tags, machine_tags, o_dims, views, media, path_alias,
                 # url_sq, url_t, url_s, url_q, url_m, url_n, url_z, url_c, url_l, url_o
@@ -85,13 +113,19 @@ def main():
                 logger.info(f"Page #{page} ...")
 
             for photo in resp.get('photos', {}).get('photo', []):
+                if photo['id'] in photos:
+                    # raise DuplicatedPhotoError(f"#{photo['id']} photo already returned by a previous API request")
+                    logger.warning(f"#{photo['id']} photo already returned by a previous API request")
+                    continue
+
                 # "id":"55076143656","owner":"59703682@N05","title":"Between Land and Tide","latitude":"61.468730","longitude":"-6.764811","datetaken": "2006-07-21 00:25:02"
                 # logger.info(f"#{photo['id']}: ({photo['latitude']}, {photo['longitude']} at {photo['datetaken']}")
                 csv.writerow([photo['id'], photo['latitude'], photo['longitude'], photo['datetaken']])
+                photos.append(photo['id'])
 
             page +=1
 
-    logger.info('Done')
+    logger.info(f'Done, {len(photos)} photos found')
 
 
 if __name__ == '__main__':
