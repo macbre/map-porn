@@ -31,7 +31,7 @@
 
     var map = L.map('map', {
       zoomControl: false, // Add zoom control separately below
-      center: [61.951667, -6.9675], // west of Tórshavn
+      center: [0, 0],
       zoom: 9, // Initial zoom level
       attributionControl: false, // Instead of default attribution, we add custom at the bottom of script
       scrollWheelZoom: false
@@ -53,7 +53,13 @@
       subdomains: 'abcd',
       maxZoom: 19,
       pane: 'shadowPane'  // always display on top
-    }).addTo(map)
+    }).addTo(map);
+
+    // Longitude has a range of -180 to 180 , latitude of -90 to 90. Defaults to -180, -90, 180, 90 if not specified. 
+    let minLat = 90;
+    let maxLat = -90;
+    let minLon = 180;
+    let maxLon = -180;
 
     // Read data from CSV file
     $.get('./geojson/flickr-faroe.csv', function(csvString) {
@@ -63,8 +69,22 @@
       var data = Papa.parse(csvString.trim()).data.filter(
         function(row) { return row[0] !== 'id'; } // skip the header
       ).map(function(a) {
-        return [ parseFloat(a[1]), parseFloat(a[2]) ];
-      })
+        const lat = parseFloat(a[1]);
+        const lon = parseFloat(a[2]);
+        
+        minLat = Math.min(minLat, lat);
+        maxLat = Math.max(maxLat, lat);
+
+        minLon = Math.min(minLon, lon);
+        maxLon = Math.max(maxLon, lon);
+
+        return [ lat, lon ];
+      });
+
+      const center = new L.LatLng( ( maxLat + minLat ) / 2, (maxLon + minLon) / 2 );
+      console.log('bbox', {minLat, minLon, maxLat, maxLon, center});
+      console.log('Points', {count: data.length});
+      map.panTo(center);
 
       // Add all points into a heat layer
       // https://github.com/Leaflet/Leaflet.heat
@@ -74,7 +94,7 @@
         blur: 4,
         max: 1.2,
         minOpacity: 0.05,
-      })
+      });
 
       // Add the heatlayer to the map
       heat.addTo(map)
