@@ -70,7 +70,7 @@ def main():
 
     # we're going to sort the results by the date taken in descending order, on each page move the "max_taken_date" further into past
     min_taken_date ='2000-00-00 00:00:00'
-    max_taken_date ='2026-02-01 00:00:00'
+    max_taken_date ='2026-01-01 00:00:00'
 
     with open(csv_file, 'wt') as fp:
         csv = writer(fp, delimiter="\t")
