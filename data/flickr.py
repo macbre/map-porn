@@ -37,7 +37,7 @@ def call_flickr_api(params: dict[str, str]) -> object:
 
         # {"stat":"fail","code":100,"message":"Invalid API Key (Key has expired)"}
         if data.get('stat') == 'fail':
-            raise FlickrAPIError(f"Request returned error #{data['code']}: {data['message']}")
+            raise FlickrAPIError(data['message'], data['code'])
 
         return data
     except json.JSONDecodeError as ex:
@@ -68,6 +68,9 @@ def main():
     # for duplicates detection in consequtive responses from the API
     photos: list[str] = []
 
+    # we're going to sort the results by the date taken in descending order, on each page move the "max_taken_date" further into past
+    max_taken_date ='2026-02-01 00:00:00'
+
     with open(csv_file, 'wt') as fp:
         csv = writer(fp, delimiter="\t")
         csv.writerow(['id', 'lat', 'lon', 'date_taken', 'title'])
@@ -80,8 +83,10 @@ def main():
                 'format': 'json',
                 'nojsoncallback': '1',  # otherwise "jsonFlickrApi()" is added to the response :/
                 'method': 'flickr.photos.search',
-                'page': str(page),
-                'per_page': '100',
+                # 'page': str(page),
+                'page': '1',
+
+                'per_page': '500',
 
                 # Geo queries require some sort of limiting agent in order to prevent the database from crying.
                 # This is basically like the check against "parameterless searches" for queries without a geo component.
@@ -91,10 +96,11 @@ def main():
                 'bbox': ','.join(map(lambda item: str(item), FLICKR_BOUNDARY_BOX)),
 
                 # the date can be in the form of a unix timestamp or mysql datetime.
-                'min_date_taken': '2012-01-01 00:00:00',
+                'min_taken_date': '2000-01-01 00:00:00',
+                'max_taken_date': max_taken_date,
 
                 # date-posted-asc, date-posted-desc, date-taken-asc, date-taken-desc, interestingness-desc, interestingness-asc, and relevance.
-                'sort': 'relevance',
+                'sort': 'date-taken-desc',
 
                 # Currently supported fields are: description, license, date_upload, date_taken, owner_name, icon_server, original_format,
                 # last_update, geo, tags, machine_tags, o_dims, views, media, path_alias,
@@ -122,6 +128,8 @@ def main():
                 # logger.info(f"#{photo['id']}: ({photo['latitude']}, {photo['longitude']} at {photo['datetaken']}")
                 csv.writerow([photo['id'], photo['latitude'], photo['longitude'], photo['datetaken'], photo['title']])
                 photos.append(photo['id'])
+
+                max_taken_date = photo['datetaken']
 
             page +=1
 
