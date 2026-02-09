@@ -74,7 +74,7 @@ def main():
 
     with open(csv_file, 'wt') as fp:
         csv = writer(fp, delimiter="\t")
-        csv.writerow(['id', 'lat', 'lon', 'date_taken', 'title'])
+        csv.writerow(['id', 'lat', 'lon', 'date_taken', 'title', 'url'])
 
         while True:
             # https://www.flickr.com/services/api/flickr.photos.search.html
@@ -87,7 +87,7 @@ def main():
                 # 'page': str(page),
                 'page': '1',
 
-                'per_page': '500',
+                'per_page': '1000',
 
                 # Geo queries require some sort of limiting agent in order to prevent the database from crying.
                 # This is basically like the check against "parameterless searches" for queries without a geo component.
@@ -106,12 +106,8 @@ def main():
                 # Currently supported fields are: description, license, date_upload, date_taken, owner_name, icon_server, original_format,
                 # last_update, geo, tags, machine_tags, o_dims, views, media, path_alias,
                 # url_sq, url_t, url_s, url_q, url_m, url_n, url_z, url_c, url_l, url_o
-                'extras': ','.join(['geo', 'views', 'date_taken'])
+                'extras': ','.join(['geo', 'views', 'date_taken', 'url_m'])
             })
-
-            if page > resp.get('photos', {}).get('pages'):
-                logger.info("Reached the last page")
-                break
 
             if page == 1:
                 # INFO:flickr:Results count: 41243
@@ -127,12 +123,16 @@ def main():
 
                 # "id":"55076143656","owner":"59703682@N05","title":"Between Land and Tide","latitude":"61.468730","longitude":"-6.764811","datetaken": "2006-07-21 00:25:02"
                 # logger.info(f"#{photo['id']}: ({photo['latitude']}, {photo['longitude']} at {photo['datetaken']}")
-                csv.writerow([photo['id'], photo['latitude'], photo['longitude'], photo['datetaken'], photo['title']])
+                csv.writerow([photo['id'], photo['latitude'], photo['longitude'], photo['datetaken'], photo['title'], photo.get('url_m', '')])
                 photos.append(photo['id'])
 
                 # keep searching from here on the next page
                 min_taken_date = photo['datetaken']
                 # max_taken_date = photo['datetaken']
+
+                if min_taken_date == max_taken_date:
+                    logger.info('Reached the end of the results')
+                    break
 
             page +=1
 
