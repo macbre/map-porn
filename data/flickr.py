@@ -69,6 +69,7 @@ def main():
     photos: list[str] = []
 
     # we're going to sort the results by the date taken in descending order, on each page move the "max_taken_date" further into past
+    min_taken_date ='2000-00-00 00:00:00'
     max_taken_date ='2026-02-01 00:00:00'
 
     with open(csv_file, 'wt') as fp:
@@ -96,11 +97,11 @@ def main():
                 'bbox': ','.join(map(lambda item: str(item), FLICKR_BOUNDARY_BOX)),
 
                 # the date can be in the form of a unix timestamp or mysql datetime.
-                'min_taken_date': '2000-01-01 00:00:00',
+                'min_taken_date': min_taken_date,
                 'max_taken_date': max_taken_date,
 
                 # date-posted-asc, date-posted-desc, date-taken-asc, date-taken-desc, interestingness-desc, interestingness-asc, and relevance.
-                'sort': 'date-taken-desc',
+                'sort': 'date-taken-asc',
 
                 # Currently supported fields are: description, license, date_upload, date_taken, owner_name, icon_server, original_format,
                 # last_update, geo, tags, machine_tags, o_dims, views, media, path_alias,
@@ -129,7 +130,9 @@ def main():
                 csv.writerow([photo['id'], photo['latitude'], photo['longitude'], photo['datetaken'], photo['title']])
                 photos.append(photo['id'])
 
-                max_taken_date = photo['datetaken']
+                # keep searching from here on the next page
+                min_taken_date = photo['datetaken']
+                # max_taken_date = photo['datetaken']
 
             page +=1
 
