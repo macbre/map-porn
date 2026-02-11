@@ -37,7 +37,7 @@ def call_flickr_api(params: dict[str, str]) -> object:
 
         # {"stat":"fail","code":100,"message":"Invalid API Key (Key has expired)"}
         if data.get('stat') == 'fail':
-            raise FlickrAPIError(f"Request returned error #{data['code']}: {data['message']}")
+            raise FlickrAPIError(data['message'], data['code'])
 
         return data
     except json.JSONDecodeError as ex:
@@ -68,9 +68,13 @@ def main():
     # for duplicates detection in consequtive responses from the API
     photos: list[str] = []
 
+    # we're going to sort the results by the date taken in descending order, on each page move the "max_taken_date" further into past
+    min_taken_date ='2000-00-00 00:00:00'
+    max_taken_date ='2026-01-01 00:00:00'
+
     with open(csv_file, 'wt') as fp:
         csv = writer(fp, delimiter="\t")
-        csv.writerow(['id', 'lat', 'lon', 'date_taken', 'title'])
+        csv.writerow(['id', 'owner', 'lat', 'lon', 'date_taken', 'title', 'image'])
 
         while True:
             # https://www.flickr.com/services/api/flickr.photos.search.html
@@ -80,8 +84,10 @@ def main():
                 'format': 'json',
                 'nojsoncallback': '1',  # otherwise "jsonFlickrApi()" is added to the response :/
                 'method': 'flickr.photos.search',
-                'page': str(page),
-                'per_page': '100',
+                # 'page': str(page),
+                'page': '1',
+
+                'per_page': '500',  # defaults to 100, the maximum allowed value is 500
 
                 # Geo queries require some sort of limiting agent in order to prevent the database from crying.
                 # This is basically like the check against "parameterless searches" for queries without a geo component.
@@ -91,20 +97,17 @@ def main():
                 'bbox': ','.join(map(lambda item: str(item), FLICKR_BOUNDARY_BOX)),
 
                 # the date can be in the form of a unix timestamp or mysql datetime.
-                'min_date_taken': '2012-01-01 00:00:00',
+                'min_taken_date': min_taken_date,
+                'max_taken_date': max_taken_date,
 
                 # date-posted-asc, date-posted-desc, date-taken-asc, date-taken-desc, interestingness-desc, interestingness-asc, and relevance.
-                'sort': 'relevance',
+                'sort': 'date-taken-asc',
 
                 # Currently supported fields are: description, license, date_upload, date_taken, owner_name, icon_server, original_format,
                 # last_update, geo, tags, machine_tags, o_dims, views, media, path_alias,
                 # url_sq, url_t, url_s, url_q, url_m, url_n, url_z, url_c, url_l, url_o
-                'extras': ','.join(['geo', 'views', 'date_taken'])
+                'extras': ','.join(['geo', 'views', 'date_taken', 'url_l'])
             })
-
-            if page > resp.get('photos', {}).get('pages'):
-                logger.info("Reached the last page")
-                break
 
             if page == 1:
                 # INFO:flickr:Results count: 41243
@@ -112,7 +115,15 @@ def main():
             else:
                 logger.info(f"Page #{page} ...")
 
-            for photo in resp.get('photos', {}).get('photo', []):
+            # get photos from the response, leave if none returned
+            photos_in_resp = resp.get('photos', {}).get('photo', [])
+
+            if len(photos_in_resp) == 0:
+                logger.info('No photos returned')
+                break
+
+            # add each photo to the output file, skip duplicates
+            for photo in photos_in_resp:
                 if photo['id'] in photos:
                     # raise DuplicatedPhotoError(f"#{photo['id']} photo already returned by a previous API request")
                     logger.warning(f"#{photo['id']} photo already returned by a previous API request")
@@ -120,8 +131,16 @@ def main():
 
                 # "id":"55076143656","owner":"59703682@N05","title":"Between Land and Tide","latitude":"61.468730","longitude":"-6.764811","datetaken": "2006-07-21 00:25:02"
                 # logger.info(f"#{photo['id']}: ({photo['latitude']}, {photo['longitude']} at {photo['datetaken']}")
-                csv.writerow([photo['id'], photo['latitude'], photo['longitude'], photo['datetaken'], photo['title']])
+                csv.writerow([photo['id'], photo['owner'], photo['latitude'], photo['longitude'], photo['datetaken'], photo['title'], photo.get('url_l', '')])
                 photos.append(photo['id'])
+
+                # keep searching from here on the next page
+                min_taken_date = photo['datetaken']
+                # max_taken_date = photo['datetaken']
+
+                if min_taken_date == max_taken_date:
+                    logger.info('Reached the end of the results')
+                    break
 
             page +=1
 
