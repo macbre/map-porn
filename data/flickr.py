@@ -74,7 +74,7 @@ def main():
 
     with open(csv_file, 'wt') as fp:
         csv = writer(fp, delimiter="\t")
-        csv.writerow(['id', 'lat', 'lon', 'date_taken', 'title', 'url'])
+        csv.writerow(['id', 'owner', 'lat', 'lon', 'date_taken', 'title', 'image'])
 
         while True:
             # https://www.flickr.com/services/api/flickr.photos.search.html
@@ -87,7 +87,7 @@ def main():
                 # 'page': str(page),
                 'page': '1',
 
-                'per_page': '1000',
+                'per_page': '500',  # defaults to 100, the maximum allowed value is 500
 
                 # Geo queries require some sort of limiting agent in order to prevent the database from crying.
                 # This is basically like the check against "parameterless searches" for queries without a geo component.
@@ -106,7 +106,7 @@ def main():
                 # Currently supported fields are: description, license, date_upload, date_taken, owner_name, icon_server, original_format,
                 # last_update, geo, tags, machine_tags, o_dims, views, media, path_alias,
                 # url_sq, url_t, url_s, url_q, url_m, url_n, url_z, url_c, url_l, url_o
-                'extras': ','.join(['geo', 'views', 'date_taken', 'url_m'])
+                'extras': ','.join(['geo', 'views', 'date_taken', 'url_l'])
             })
 
             if page == 1:
@@ -115,7 +115,15 @@ def main():
             else:
                 logger.info(f"Page #{page} ...")
 
-            for photo in resp.get('photos', {}).get('photo', []):
+            # get photos from the response, leave if none returned
+            photos_in_resp = resp.get('photos', {}).get('photo', [])
+
+            if len(photos_in_resp) == 0:
+                logger.info('No photos returned')
+                break
+
+            # add each photo to the output file, skip duplicates
+            for photo in photos_in_resp:
                 if photo['id'] in photos:
                     # raise DuplicatedPhotoError(f"#{photo['id']} photo already returned by a previous API request")
                     logger.warning(f"#{photo['id']} photo already returned by a previous API request")
@@ -123,7 +131,7 @@ def main():
 
                 # "id":"55076143656","owner":"59703682@N05","title":"Between Land and Tide","latitude":"61.468730","longitude":"-6.764811","datetaken": "2006-07-21 00:25:02"
                 # logger.info(f"#{photo['id']}: ({photo['latitude']}, {photo['longitude']} at {photo['datetaken']}")
-                csv.writerow([photo['id'], photo['latitude'], photo['longitude'], photo['datetaken'], photo['title'], photo.get('url_m', '')])
+                csv.writerow([photo['id'], photo['owner'], photo['latitude'], photo['longitude'], photo['datetaken'], photo['title'], photo.get('url_l', '')])
                 photos.append(photo['id'])
 
                 # keep searching from here on the next page

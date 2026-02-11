@@ -69,9 +69,11 @@
       var data = Papa.parse(csvString.trim()).data.filter(
         function(row) { return row[0] !== 'id'; } // skip the header
       ).map(function(a) {
-        const lat = parseFloat(a[1]);
-        const lon = parseFloat(a[2]);
-        
+        // id	owner	lat	lon	date_taken	title	image
+        // 26743559071	129295967@N06	62.009325	-6.774617	1992-08-01 00:00:00	Tórshavn, Faroe Islands, August 1992	https://live.staticflickr.com/7163/26743559071_52cc8b9854_b.jpg
+        const lat = parseFloat(a[2]);
+        const lon = parseFloat(a[3]);
+
         minLat = Math.min(minLat, lat);
         maxLat = Math.max(maxLat, lat);
 
