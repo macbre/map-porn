@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>Leaflet Heatmap Template</title>
+  <title>Leaflet Heatmap</title>
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tachyons/4.11.1/tachyons.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css">
@@ -23,8 +23,8 @@
   <div id="map" class="vh-100 vw-100 bg-near-white"></div>
 
   <div id="legend" class="bg-white fixed top-0 left-0 pa2 mt2 ml2 br1 o-90" style="z-index: 999; width: 380px">
-    <h1 class="f3 mt0">Flickr photos</h1>
-    <p>Photos taken</p>
+    <h1 class="f3 mt0">Flickr photos heatmap</h1>
+    <p>Photos: <span id="photos-count">counting ...</span></p>
   </div>
 
   <script>
@@ -34,7 +34,7 @@
       center: [0, 0],
       zoom: 9, // Initial zoom level
       attributionControl: false, // Instead of default attribution, we add custom at the bottom of script
-      scrollWheelZoom: false
+      // scrollWheelZoom: false
     })
 
     // Add zoom in/out buttons to the top-right
@@ -62,17 +62,30 @@
     let maxLon = -180;
 
     // Read data from CSV file
-    $.get('./geojson/flickr-faroe.csv', function(csvString) {
+    $.get('./flickr-faroe.csv', function(csvString) {
+
+      let photosCount = 0;
 
       // Use PapaParse to transform file into arrays
       // 53863663194	62.116063	-7.042662	2016-09-09 18:39:35	Dark and gloomy
-      var data = Papa.parse(csvString.trim()).data.filter(
+      var data = Papa.parse(csvString.trim())
+      .data
+      .filter(
         function(row) { return row[0] !== 'id'; } // skip the header
-      ).map(function(a) {
+      )
+      .filter(
+        function(row) {
+          // skip photos taken before 1990
+          const takenAt = row[4] || '';
+          const takenAtYear = parseInt(takenAt.split('-')[0], 10);
+          return takenAtYear >= 1990;
+        }
+      )
+      .map(function(row) {
         // id	owner	lat	lon	date_taken	title	image
         // 26743559071	129295967@N06	62.009325	-6.774617	1992-08-01 00:00:00	Tórshavn, Faroe Islands, August 1992	https://live.staticflickr.com/7163/26743559071_52cc8b9854_b.jpg
-        const lat = parseFloat(a[2]);
-        const lon = parseFloat(a[3]);
+        const lat = parseFloat(row[2]);
+        const lon = parseFloat(row[3]);
 
         minLat = Math.min(minLat, lat);
         maxLat = Math.max(maxLat, lat);
@@ -80,12 +93,12 @@
         minLon = Math.min(minLon, lon);
         maxLon = Math.max(maxLon, lon);
 
+        photosCount++
+
         return [ lat, lon ];
       });
 
       const center = new L.LatLng( ( maxLat + minLat ) / 2, (maxLon + minLon) / 2 );
-      console.log('bbox', {minLat, minLon, maxLat, maxLon, center});
-      console.log('Points', {count: data.length});
       map.panTo(center);
 
       // Add all points into a heat layer
@@ -93,13 +106,18 @@
       var heat = L.heatLayer(data, {
         radius: 10,
         gradient: {0.05: 'green', 0.45: 'orange', 0.8: 'red'},
-        blur: 10,
-        max: 1,
-        minOpacity: 0,
+        // blur: 10,
+        // max: 1,
+        // minOpacity: 0,
       });
 
       // Add the heatlayer to the map
       heat.addTo(map)
+
+      document.getElementById('photos-count').textContent = photosCount;
+
+      console.log('bbox', {minLat, minLon, maxLat, maxLon, center});
+      console.log('Points', {count: data.length});
     })
 
     // Add custom attribution
