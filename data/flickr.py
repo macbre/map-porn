@@ -53,6 +53,8 @@ def main():
     # The 4 values represent the bottom-left corner of the box and the top-right corner:
     # minimum_longitude, minimum_latitude, maximum_longitude, maximum_latitude.
     FLICKR_BOUNDARY_BOX = [-7.789,61.351,-6.064,62.433]
+    CSV_FILE_NAME = 'faroe'
+
     FLICKR_API_KEY = getenv('FLICKR_API_KEY')
 
     if FLICKR_API_KEY is None:
@@ -60,7 +62,7 @@ def main():
 
     logger.info(f'Getting Flickr photos from within the boundary box: {FLICKR_BOUNDARY_BOX} ...')
 
-    csv_file = path.join(DIR, '..', 'geojson', 'flickr-faroe.csv')
+    csv_file = path.join(DIR, '..', 'geojson', f'flickr-{CSV_FILE_NAME}.csv')
     logger.info(f'Writing CSV data to {csv_file} ...')
 
     page = 1
