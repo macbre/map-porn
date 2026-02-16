@@ -79,6 +79,16 @@
       )
       .filter(
         function(row) {
+          // 52967177@N02 - myself - 625 photos
+          // return (row[1] === '52967177@N02');
+
+          // Skip some authors
+          // https://www.flickr.com/photos/99017945@N03 - Dagstovnurin Gjái - 2070 photos
+          return (row[1] !== '99017945@N03');
+        }
+      )
+      .filter(
+        function(row) {
           // skip photos taken before 1990
           const takenAt = row[4] || '';
           const takenAtYear = parseInt(takenAt.split('-')[0], 10);
