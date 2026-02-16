@@ -1,0 +1,1273 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9266011,
+     62.0406652
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "fixme": "needs survey",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7979901,
+     61.9541707
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "fixme": "needs survey",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7939098,
+     62.0038479
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7774891,
+     62.0032444
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8272916,
+     62.0008031
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7833325,
+     61.9970929
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8533925,
+     61.983337
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "fixme": "needs survey",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7813601,
+     62.0226761
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7893874,
+     62.0279692
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7851968,
+     62.0221121
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7890635,
+     62.0258738
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7832328,
+     62.0089926
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7770374,
+     62.0089297
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7722827,
+     62.0196843
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7730238,
+     62.0104318
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7733565,
+     62.0139436
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7632818,
+     62.0217818
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.765376,
+     62.0079603
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7670593,
+     62.0105489
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8310017,
+     62.0594361
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9514968,
+     61.6034168
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8177758,
+     61.8339432
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "collection_times": "Mo-Fr 15:30",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.644357,
+     62.1040076
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0971299,
+     62.2989578
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8824754,
+     61.9557411
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9022854,
+     62.116824
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9992249,
+     62.2086566
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7225746,
+     62.1171712
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7437557,
+     62.2001841
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "location": "on the wall to the shop PE",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7086517,
+     62.2100735
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6725983,
+     62.0090752
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "collection_times": "Mo,Tu,Th 06:00",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5843723,
+     62.2256237
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8164448,
+     62.242443
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "fixme": "needs survey",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.342824,
+     62.2779912
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "collection_times": "Mo,We,Fr 08:00",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.3147373,
+     62.3179764
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "collection_times": "Mo,We,Fr 08:30",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8222055,
+     61.4725081
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8134119,
+     61.473811
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8126852,
+     61.4735075
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7481215,
+     61.4823383
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8420844,
+     61.5620685
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8108517,
+     61.5553447
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8106962,
+     61.5563393
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7979981,
+     61.5513482
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6767488,
+     61.784529
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6619184,
+     61.8318914
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1927096,
+     62.0481698
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.369046,
+     62.0859365
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3071643,
+     62.0715857
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.3083332,
+     62.0724004
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0754788,
+     62.1186917
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.146627,
+     62.1533508
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.03983,
+     62.1885691
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0492853,
+     62.2323154
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9239326,
+     62.096737
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0127775,
+     62.2196233
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.0001038,
+     62.2105844
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9875485,
+     62.1913224
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9432007,
+     62.1515666
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8741618,
+     62.1569532
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7350212,
+     62.0844438
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7384297,
+     62.091969
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6947207,
+     62.0692692
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7627546,
+     62.1066467
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7609631,
+     62.1085473
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7257689,
+     62.1297834
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7815963,
+     62.1584822
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8535556,
+     62.2004465
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.752402,
+     62.1570723
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7179966,
+     62.1416689
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7547009,
+     62.1852611
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7573,
+     62.203687
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.025256,
+     62.2294973
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9673028,
+     62.2871733
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9307851,
+     62.2364564
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.9438481,
+     62.3251523
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8549573,
+     62.2762322
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5286869,
+     62.2985247
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "collection_times": "Mo,We,Fr 12:00",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5203635,
+     62.2965286
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5308914,
+     62.3598877
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "collection_times": "Mo-Fr 12:00",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8882799,
+     61.9052216
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "name": "Worlds largest Postbox",
+    "note": "former largest postbox"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5854205,
+     62.2289056
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5959272,
+     62.2301809
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5780934,
+     62.2261619
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta",
+    "operator:wikidata": "Q946337"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8800402,
+     61.9026441
+    ]
+   },
+   "properties": {
+    "amenity": "post_box"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8159426,
+     61.8335637
+    ]
+   },
+   "properties": {
+    "amenity": "post_box"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1468916,
+     62.2889513
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2022165,
+     62.0481134
+    ]
+   },
+   "properties": {
+    "amenity": "post_box",
+    "operator": "Posta"
+   }
+  }
+ ]
+}
