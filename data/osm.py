@@ -167,10 +167,14 @@ EXTRA_TAG_VALUE = None
 # TAG_VALUE = 'alcohol'
 
 # building=brewery and craft=distillery
-TAG_KEY = 'building'
-TAG_VALUE = 'brewery'
-EXTRA_TAG_KEY = 'craft'
-EXTRA_TAG_VALUE = 'distillery'
+# TAG_KEY = 'building'
+# TAG_VALUE = 'brewery'
+# EXTRA_TAG_KEY = 'craft'
+# EXTRA_TAG_VALUE = 'distillery'
+
+# https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dgolf_course
+TAG_KEY = 'leisure'
+TAG_VALUE = 'golf_course'
 
 # find all nodes with the "highway" tag, e.g. highway=primary + highway=secondary + highway=residential + highway=tertiary + ...
 #

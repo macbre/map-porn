@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7435251,
+     61.9803902
+    ]
+   },
+   "properties": {
+    "email": "golf@golf.fo",
+    "leisure": "golf_course",
+    "name": "T\u00f3rshavnar Golffelag",
+    "website": "https://www.golf.fo/"
+   }
+  }
+ ]
+}
