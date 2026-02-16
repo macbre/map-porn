@@ -62,7 +62,11 @@
     let maxLon = -180;
 
     // Read data from CSV file
-    $.get('./flickr-faroe.csv', function(csvString) {
+    // faroe, tricity
+    const heatMapName = (document.location.hash || '#faroe').substring(1);
+    console.log('heatMapName', heatMapName);
+
+    $.get(`./flickr-${heatMapName}.csv`, function(csvString) {
 
       let photosCount = 0;
 

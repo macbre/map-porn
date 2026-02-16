@@ -55,6 +55,14 @@ def main():
     FLICKR_BOUNDARY_BOX = [-7.789,61.351,-6.064,62.433]
     CSV_FILE_NAME = 'faroe'
 
+    # https://norbertrenner.de/osm/bbox.html
+    # (54.276,18.493,54.53,18.755)
+    # INFO:flickr:Results count: 202784 on 812 pages
+    # INFO:flickr:Done, 131613 photos found
+    bbox = [54.276,18.493,54.53,18.755]
+    FLICKR_BOUNDARY_BOX = [bbox[1], bbox[0], bbox[3], bbox[2]]
+    CSV_FILE_NAME = 'tricity'
+
     FLICKR_API_KEY = getenv('FLICKR_API_KEY')
 
     if FLICKR_API_KEY is None:
