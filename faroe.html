@@ -16,6 +16,10 @@
 	<script src="static/map.js"></script>
 	<script src="static/faroe.js"></script>
 
+	<!-- for heatmaps -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.0/papaparse.min.js"></script>
+
 	<link rel="license" href="https://creativecommons.org/licenses/by/4.0/" />
 
 	<body lang="en">
@@ -24,28 +28,28 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Off-license stores</h2>
-				<h2 lang="pl">Sklepy monopolowe</h2>
+				<h2 lang="en">Most photographed places</h2>
+				<h2 lang="pl">Fotografowane miejsca</h2>
 
 				<legend>
-					<img src="https://farerskiekadry.pl/wp-content/uploads/2026/01/Rusan_Klaksvik.jpg">
+					<!-- <img src="https://farerskiekadry.pl/wp-content/uploads/2026/01/Rusan_Klaksvik.jpg"> -->
 					<p lang="en">
-						<em>Rúsdrekkasøla Landsins</em>, better known as <em>Rúsan</em>, is the national alcohol retailer of the Faroe Islands.
+						We like to think there are no blank spots left in the world. That every place on the map has long since been described and uploaded to the internet.
 						<br><br>
-						The temperance movement led to <strong>a referendum on 6 November 1907 to ban alcohol</strong> — <strong>the first time Faroese women were allowed to vote</strong>.
+						Or maybe that is not entirely true. All it takes is a look at a map with the <strong>locations of photos that have been uploaded to Flickr</strong>.
 						<br><br>
-						Even though the ban passed by a wide margin, <strong>it wasn’t a total ban</strong>. It only stopped the sale and serving of alcohol, while people were still allowed to import it for their own use.
+						The red patches – the places photographed most often – are no surprise: <strong>Tórshavn, the Faroese “Golden Circle” of Gjógv, Saksun, and Mykines</strong>. Plus its latest addition – the tip of the island of Kalsoy, made famous by the most recent James Bond film.
 						<br><br>
-						<strong>In 1992, alcohol laws were liberalised</strong>, setting up Rúsdrekkasøla Landsins as the public monopoly for alcohol sales.
+						Svínoy and Sandoy, on the other hand, are still waiting for their chroniclers. Yet another reason to visit Faroe Islands.
 					</p>
 					<p lang="pl">
-						Alkohol na Wyspach Owczych kupić można w sieci państwowych sklepów monopolowych <em>Rúsdrekkasøla Landsins</em>, <strong>zwanych przez Farerów Rúsan</strong>.
+						Wydaje nam się, że na świecie nie ma już białych plam. Że każde miejsce na mapie zostało dawno obejrzane, opisane i wrzucone do internetu.
 						<br><br>
-						Popularny na archipelagu <strong>ruch abstynencki doprowadził do referendum, które odbyło się w listopadzie 1907 roku </strong>. W głosowaniu tym <strong>po raz pierwszy w farerskiej historii udział wzięły kobiety</strong>.
+						A jednak to nie do końca prawda. Wystarczy zerknąć na mapę z naniesionymi miejscami, w których <strong>zrobiono zdjęcia wrzucane przez lata na Flickra</strong>.
 						<br><br>
-						Jednak wprowadzona w kolejnym roku <strong>prohibicja nie była całkowita</strong>. Zakazano sprzedaży i wyszynku alkoholu, nadal jednak mocniejsze trunki można było sprowadzać indywidualnie.
+						Czerwone miejsca – tam, gdzie zdjęć jest najwięcej – wcale nie dziwią: <strong>Tórshavn, farerski „Złoty Krąg” z Gjógv, Saksun i Mykines</strong>. I jego ostatnie uzupełnienie – <strong>kraniec wyspy Kalsoy</strong>, rozsławiony ostatnim filmem o Agencie 007.
 						<br><br>
-						<strong>Liberalizacja prawa z roku 1992</strong> ustanowiła państwowy monopol alkoholowy znany pod nazwą Rúsdrekkasøla Landsins.
+						Za to Svínoy czy Sandoy wciąż czekają na swoich kronikarzy. Jest więc na szczęście po co wracać.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -83,7 +87,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps, rusan.fo<!--, WikiData,--><!--Visit Faroe Islands-->
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, --><!--OpenStreetMaps, rusan.fo--><!--, WikiData,--><!--Visit Faroe Islands,-->Flickr
 					</p>
 				</div>
 
@@ -183,7 +187,7 @@
 				let counts = [];
 				**/
 
-				/**/
+				/**
 				L.geoJSON(await fetchGeoJSON('/geojson/osm-shop-alcohol.json'), {
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
@@ -206,7 +210,8 @@
 						// 	color = 'green';
 						// }
 
-						L.marker([geo[1], geo[0]], {icon: getIcon(color, '', false/*small*/), pane: `markers-${color}`})
+						// false - small
+						L.marker([geo[1], geo[0]], {icon: getIcon(color, '', false), pane: `markers-${color}`})
 							.addTo(map)
 							.bindPopup(feature.properties.name);
 
@@ -218,6 +223,69 @@
 
 				addLabel('orange', 'Rúsan', 'Rúsan', counts['orange']);
 				/**/
+
+				const res = await fetch('./geojson/flickr-faroe.csv');
+    			res.text().then(function(csvString) {
+					let photosCount = 0;
+
+					// Use PapaParse to transform file into arrays
+					// 53863663194	62.116063	-7.042662	2016-09-09 18:39:35	Dark and gloomy
+					var data = Papa.parse(csvString.trim())
+						.data
+						.filter(
+							function(row) { return row[0] !== 'id'; } // skip the header
+						)
+						.filter(
+							function(row) {
+								// 52967177@N02 - myself - 625 photos
+								// return (row[1] === '52967177@N02');
+
+								// Skip some authors
+								// https://www.flickr.com/photos/99017945@N03 - Dagstovnurin Gjái - 2070 photos
+								return (row[1] !== '99017945@N03');
+							}
+						)
+						.filter(
+							function(row) {
+								// skip photos taken before 1990
+								const takenAt = row[4] || '';
+								const takenAtYear = parseInt(takenAt.split('-')[0], 10);
+								return takenAtYear >= 1990;
+							}
+						)
+						.map(function(row) {
+							// id	owner	lat	lon	date_taken	title	image
+							// 26743559071	129295967@N06	62.009325	-6.774617	1992-08-01 00:00:00	Tórshavn, Faroe Islands, August 1992	https://live.staticflickr.com/7163/26743559071_52cc8b9854_b.jpg
+							const lat = parseFloat(row[2]);
+							const lon = parseFloat(row[3]);
+
+							// minLat = Math.min(minLat, lat);
+							// maxLat = Math.max(maxLat, lat);
+
+							// minLon = Math.min(minLon, lon);
+							// maxLon = Math.max(maxLon, lon);
+
+							photosCount++
+
+							return [ lat, lon ];
+						});
+
+					// Add all points into a heat layer
+					// https://github.com/Leaflet/Leaflet.heat
+					var heat = L.heatLayer(data, {
+						radius: 12,
+						gradient: {0.1: '#006837', 0.2: '#fee08b', 0.4: '#d73027aa', 0.95: '#d73027'},
+						blur: 3,
+						// max: 1,
+						// minOpacity: 0,
+					});
+
+					// Add the heatlayer to the map
+					heat.addTo(map);
+
+					console.log('Heat map added to the map', {heat, photosCount});
+					addLabel('red', 'Photos', 'Fotografie', photosCount);
+				});
 			});
 
 			// console.log(gridsPerCity);

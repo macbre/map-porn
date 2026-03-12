@@ -397,3 +397,8 @@ section.info p {
     letter-spacing: -.025em;
     line-height: 1.5em;
 }
+
+/* for heatmaps */
+.leaflet-overlay-pane {
+    z-index: 500;
+}
