@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import puppeteer from 'puppeteer';
-import log from 'npmlog';
+import { log } from 'npmlog';
 import {setTimeout} from "node:timers/promises";
 
 const url = 'http://localhost:3000/faroe';
