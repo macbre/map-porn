@@ -177,8 +177,12 @@ EXTRA_TAG_VALUE = None
 # TAG_VALUE = 'golf_course'
 
 # https://wiki.openstreetmap.org/wiki/Tag:amenity=post_box
-TAG_KEY = 'amenity'
-TAG_VALUE = 'post_box'
+# TAG_KEY = 'amenity'
+# TAG_VALUE = 'post_box'
+
+# https://wiki.openstreetmap.org/wiki/Tag:office%3Ddiplomatic
+TAG_KEY = 'office'
+TAG_VALUE = 'diplomatic'
 
 # find all nodes with the "highway" tag, e.g. highway=primary + highway=secondary + highway=residential + highway=tertiary + ...
 #

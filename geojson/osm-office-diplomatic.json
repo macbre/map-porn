@@ -1,0 +1,58 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.771429,
+     62.0088762
+    ]
+   },
+   "properties": {
+    "consulate": "honorary_consul",
+    "contact:email": "torshavn@hk-diplo.de",
+    "country": "DE",
+    "diplomatic": "consulate",
+    "name": "Forbundsrepublikken Tysklands honor\u00e6rkonsul",
+    "name:de": "Honorarkonsul der Bundesrepublik Deutschland",
+    "office": "diplomatic"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7715218,
+     62.0088213
+    ]
+   },
+   "properties": {
+    "diplomatic": "consulate",
+    "name": "Consulatul Onorific al Rom\u00e2niei",
+    "office": "diplomatic"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7701482,
+     62.0090248
+    ]
+   },
+   "properties": {
+    "building": "yes",
+    "check_date": "2025-08-27",
+    "consulate": "consulate_general",
+    "country": "IS",
+    "diplomatic": "consulate",
+    "name": "A\u00f0alkonsul\u00e1t \u00cdslands \u00ed F\u00f8royum",
+    "office": "diplomatic"
+   }
+  }
+ ]
+}
