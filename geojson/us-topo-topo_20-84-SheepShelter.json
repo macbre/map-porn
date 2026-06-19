@@ -1,0 +1,7160 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 1,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.77778050100288,
+     61.44687600037774
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dd2952-4b71-11e7-816a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 2,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.873812999638674,
+     61.49309030013898
+    ]
+   },
+   "properties": {
+    "OBJECTID": 2,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dd5063-4b71-11e7-a483-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.750239499805406,
+     61.477981000051166
+    ]
+   },
+   "properties": {
+    "OBJECTID": 3,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dd7774-4b71-11e7-b975-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.754968399350807,
+     61.41922610013847
+    ]
+   },
+   "properties": {
+    "OBJECTID": 4,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dd7774-4b71-11e7-ab68-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.869607001281226,
+     61.48431799956806
+    ]
+   },
+   "properties": {
+    "OBJECTID": 5,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dd9e85-4b71-11e7-a113-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778486400226944,
+     61.44348080008236
+    ]
+   },
+   "properties": {
+    "OBJECTID": 6,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dd9e85-4b71-11e7-8dc1-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.778527599220011,
+     61.44573450052945
+    ]
+   },
+   "properties": {
+    "OBJECTID": 7,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ddc596-4b71-11e7-8156-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.829950398284803,
+     61.46583139947411
+    ]
+   },
+   "properties": {
+    "OBJECTID": 8,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ddc596-4b71-11e7-92cc-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776144698600526,
+     61.44220470046477
+    ]
+   },
+   "properties": {
+    "OBJECTID": 9,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ddeca7-4b71-11e7-ba60-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7860993007070585,
+     61.47500699963182
+    ]
+   },
+   "properties": {
+    "OBJECTID": 10,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9de13b8-4b71-11e7-9ad2-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 11,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.831268301076968,
+     61.467333300381945
+    ]
+   },
+   "properties": {
+    "OBJECTID": 11,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9de13b8-4b71-11e7-b583-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 12,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.868215101794282,
+     61.48706759930269
+    ]
+   },
+   "properties": {
+    "OBJECTID": 12,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9de3ac9-4b71-11e7-a746-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 13,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767014900455324,
+     61.4860524010737
+    ]
+   },
+   "properties": {
+    "OBJECTID": 13,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9de3ac9-4b71-11e7-b14b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 14,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776431600014411,
+     61.448646299804054
+    ]
+   },
+   "properties": {
+    "OBJECTID": 14,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9de61da-4b71-11e7-b221-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 15,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774060800052363,
+     61.46918489922773
+    ]
+   },
+   "properties": {
+    "OBJECTID": 15,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9de61da-4b71-11e7-93db-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 16,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.843308701040952,
+     61.480067399166344
+    ]
+   },
+   "properties": {
+    "OBJECTID": 16,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9de88eb-4b71-11e7-aa6c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 17,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7738963002132975,
+     61.44132019937645
+    ]
+   },
+   "properties": {
+    "OBJECTID": 17,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9deaffc-4b71-11e7-a2ff-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 18,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.876079301364709,
+     61.49372270014502
+    ]
+   },
+   "properties": {
+    "OBJECTID": 18,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9deaffc-4b71-11e7-93d4-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 19,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.85468199989868,
+     61.490281300439094
+    ]
+   },
+   "properties": {
+    "OBJECTID": 19,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ded70d-4b71-11e7-aaf3-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 20,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.795374600862725,
+     61.44422169989142
+    ]
+   },
+   "properties": {
+    "OBJECTID": 20,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ded70d-4b71-11e7-89ae-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 21,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.86318900017984,
+     61.487818700136245
+    ]
+   },
+   "properties": {
+    "OBJECTID": 21,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9defe1e-4b71-11e7-9f41-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 22,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.760096600608881,
+     61.49732300087296
+    ]
+   },
+   "properties": {
+    "OBJECTID": 22,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9defe1e-4b71-11e7-a450-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 23,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767762700370294,
+     61.48413010062874
+    ]
+   },
+   "properties": {
+    "OBJECTID": 23,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9df252f-4b71-11e7-9508-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 24,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7523143005148984,
+     61.456926400371884
+    ]
+   },
+   "properties": {
+    "OBJECTID": 24,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9df252f-4b71-11e7-b519-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 25,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.871384698810411,
+     61.48253790010571
+    ]
+   },
+   "properties": {
+    "OBJECTID": 25,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9df4c40-4b71-11e7-b47e-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 26,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.836464398514778,
+     61.478529700149714
+    ]
+   },
+   "properties": {
+    "OBJECTID": 26,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9df7351-4b71-11e7-88f3-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 27,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.829868699335629,
+     61.47644800032232
+    ]
+   },
+   "properties": {
+    "OBJECTID": 27,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9df7351-4b71-11e7-ab97-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 28,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.753432998966961,
+     61.49638440012904
+    ]
+   },
+   "properties": {
+    "OBJECTID": 28,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9df9a62-4b71-11e7-a6fe-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 29,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.779809800776597,
+     61.46944260062366
+    ]
+   },
+   "properties": {
+    "OBJECTID": 29,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9df9a62-4b71-11e7-83de-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 30,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.759687200613476,
+     61.49819280039356
+    ]
+   },
+   "properties": {
+    "OBJECTID": 30,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dfc173-4b71-11e7-912e-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 31,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.758508500177334,
+     61.454417599798916
+    ]
+   },
+   "properties": {
+    "OBJECTID": 31,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dfc173-4b71-11e7-838a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 32,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774557298623713,
+     61.471741700819585
+    ]
+   },
+   "properties": {
+    "OBJECTID": 32,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dfe884-4b71-11e7-9486-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 33,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8713194001659135,
+     61.49363549974258
+    ]
+   },
+   "properties": {
+    "OBJECTID": 33,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9dfe884-4b71-11e7-a860-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 34,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.767018100163966,
+     61.44058089903683
+    ]
+   },
+   "properties": {
+    "OBJECTID": 34,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e00f95-4b71-11e7-9e81-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 35,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.839336901125693,
+     61.46854729968172
+    ]
+   },
+   "properties": {
+    "OBJECTID": 35,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e00f95-4b71-11e7-823e-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 36,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.758272501237248,
+     61.49534180058634
+    ]
+   },
+   "properties": {
+    "OBJECTID": 36,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e036a6-4b71-11e7-a186-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 37,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.782226900514846,
+     61.44580750002938
+    ]
+   },
+   "properties": {
+    "OBJECTID": 37,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e036a6-4b71-11e7-97ac-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 38,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787959199659874,
+     61.441089900003554
+    ]
+   },
+   "properties": {
+    "OBJECTID": 38,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e05db7-4b71-11e7-b233-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 39,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.75542969989199,
+     61.42704830013644
+    ]
+   },
+   "properties": {
+    "OBJECTID": 39,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e084c8-4b71-11e7-9e96-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 40,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7741151016996755,
+     61.438424900435315
+    ]
+   },
+   "properties": {
+    "OBJECTID": 40,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e084c8-4b71-11e7-b1a9-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 41,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.84525130099956,
+     61.46797019903306
+    ]
+   },
+   "properties": {
+    "OBJECTID": 41,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e0abd9-4b71-11e7-9519-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 42,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.893414700337565,
+     61.512036099642
+    ]
+   },
+   "properties": {
+    "OBJECTID": 42,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e0abd9-4b71-11e7-acd4-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 43,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.811659899699809,
+     61.545809800290726
+    ]
+   },
+   "properties": {
+    "OBJECTID": 43,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e0d2ea-4b71-11e7-9377-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 44,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.760888599310492,
+     61.52498539939153
+    ]
+   },
+   "properties": {
+    "OBJECTID": 44,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e0d2ea-4b71-11e7-810b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 45,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.844660300736052,
+     61.56276859961649
+    ]
+   },
+   "properties": {
+    "OBJECTID": 45,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e0f9fb-4b71-11e7-9855-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 46,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7642375998412225,
+     61.567952900379794
+    ]
+   },
+   "properties": {
+    "OBJECTID": 46,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e0f9fb-4b71-11e7-918c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 47,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.867102301311181,
+     61.520886899462674
+    ]
+   },
+   "properties": {
+    "OBJECTID": 47,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e1210c-4b71-11e7-a1db-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 48,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780456999306212,
+     61.50433199993725
+    ]
+   },
+   "properties": {
+    "OBJECTID": 48,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e1481d-4b71-11e7-abd5-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 49,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.871984598529917,
+     61.519097700480955
+    ]
+   },
+   "properties": {
+    "OBJECTID": 49,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e1481d-4b71-11e7-ac9e-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 50,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.873517898396747,
+     61.515781499797804
+    ]
+   },
+   "properties": {
+    "OBJECTID": 50,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e16f2e-4b71-11e7-a734-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 51,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789757999487632,
+     61.50589820043751
+    ]
+   },
+   "properties": {
+    "OBJECTID": 51,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e16f2e-4b71-11e7-a934-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 52,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.79545160013004,
+     61.50488189942037
+    ]
+   },
+   "properties": {
+    "OBJECTID": 52,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e1963f-4b71-11e7-9776-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 53,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.838798099912626,
+     61.53822789961107
+    ]
+   },
+   "properties": {
+    "OBJECTID": 53,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e1963f-4b71-11e7-9c41-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 54,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.945512799019989,
+     61.64490340003455
+    ]
+   },
+   "properties": {
+    "OBJECTID": 54,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e1bd50-4b71-11e7-9b3f-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 55,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.795243399266591,
+     61.53319689961862
+    ]
+   },
+   "properties": {
+    "OBJECTID": 55,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e1bd50-4b71-11e7-a433-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 56,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.764295998916366,
+     61.56793099959383
+    ]
+   },
+   "properties": {
+    "OBJECTID": 56,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e1e461-4b71-11e7-9fec-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 57,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.841579299179761,
+     61.5394755998092
+    ]
+   },
+   "properties": {
+    "OBJECTID": 57,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e1e461-4b71-11e7-ac28-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 58,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.799536299915818,
+     61.55412979943936
+    ]
+   },
+   "properties": {
+    "OBJECTID": 58,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e20b72-4b71-11e7-9929-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 59,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.843066399625324,
+     61.56287400011819
+    ]
+   },
+   "properties": {
+    "OBJECTID": 59,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e20b72-4b71-11e7-9d40-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 60,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.978909199906686,
+     61.61417890037382
+    ]
+   },
+   "properties": {
+    "OBJECTID": 60,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e23283-4b71-11e7-b331-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 61,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.785219000326108,
+     61.50430950041853
+    ]
+   },
+   "properties": {
+    "OBJECTID": 61,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e25994-4b71-11e7-9f12-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 62,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.830615899082261,
+     61.53616489939515
+    ]
+   },
+   "properties": {
+    "OBJECTID": 62,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e25994-4b71-11e7-a9ad-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 63,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.762843400224166,
+     61.52707840086421
+    ]
+   },
+   "properties": {
+    "OBJECTID": 63,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e280a5-4b71-11e7-add5-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 64,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.83691390031267,
+     61.567423799585825
+    ]
+   },
+   "properties": {
+    "OBJECTID": 64,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e280a5-4b71-11e7-a57b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 65,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.814854999991671,
+     61.53552950057518
+    ]
+   },
+   "properties": {
+    "OBJECTID": 65,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e2a7b6-4b71-11e7-819c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 66,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.798950998979951,
+     61.538735200401774
+    ]
+   },
+   "properties": {
+    "OBJECTID": 66,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e2a7b6-4b71-11e7-86c0-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 67,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.844475299427008,
+     61.566586800326
+    ]
+   },
+   "properties": {
+    "OBJECTID": 67,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e2cec7-4b71-11e7-ae7c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 68,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.760648499411776,
+     61.54410619988268
+    ]
+   },
+   "properties": {
+    "OBJECTID": 68,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e2cec7-4b71-11e7-bf61-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 69,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.770687399749164,
+     61.526617200211284
+    ]
+   },
+   "properties": {
+    "OBJECTID": 69,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e2f5d8-4b71-11e7-82f6-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 70,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.889455301791586,
+     61.562098799666074
+    ]
+   },
+   "properties": {
+    "OBJECTID": 70,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e2f5d8-4b71-11e7-b8d1-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 71,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.831842100940004,
+     61.53575199938895
+    ]
+   },
+   "properties": {
+    "OBJECTID": 71,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e31ce9-4b71-11e7-9b42-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 72,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.865845699697024,
+     61.5259099002582
+    ]
+   },
+   "properties": {
+    "OBJECTID": 72,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e31ce9-4b71-11e7-a665-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 73,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7696006978901435,
+     61.56232990051131
+    ]
+   },
+   "properties": {
+    "OBJECTID": 73,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e343fa-4b71-11e7-b564-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 74,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.873010898851992,
+     61.56245290014586
+    ]
+   },
+   "properties": {
+    "OBJECTID": 74,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e36b0b-4b71-11e7-9ff9-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 75,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.869176800823475,
+     61.5670240001366
+    ]
+   },
+   "properties": {
+    "OBJECTID": 75,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e36b0b-4b71-11e7-8241-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 76,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.763613000261646,
+     61.54909499996375
+    ]
+   },
+   "properties": {
+    "OBJECTID": 76,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e3921c-4b71-11e7-b8ec-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 77,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.794328000008111,
+     61.509493700526896
+    ]
+   },
+   "properties": {
+    "OBJECTID": 77,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e3921c-4b71-11e7-ab76-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 78,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.870163301658523,
+     61.52312680024543
+    ]
+   },
+   "properties": {
+    "OBJECTID": 78,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e3b92d-4b71-11e7-94d6-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 79,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.760974300039567,
+     61.544101100067635
+    ]
+   },
+   "properties": {
+    "OBJECTID": 79,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e3b92d-4b71-11e7-8a69-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 80,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.787896698840525,
+     61.533368999642775
+    ]
+   },
+   "properties": {
+    "OBJECTID": 80,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e3e03e-4b71-11e7-8947-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 81,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.868193499725388,
+     61.52173379956653
+    ]
+   },
+   "properties": {
+    "OBJECTID": 81,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e3e03e-4b71-11e7-9c20-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 82,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.927756200483394,
+     61.57634879909109
+    ]
+   },
+   "properties": {
+    "OBJECTID": 82,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e4074f-4b71-11e7-be88-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 83,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.862811399759271,
+     61.55924300047889
+    ]
+   },
+   "properties": {
+    "OBJECTID": 83,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e4074f-4b71-11e7-acdf-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 84,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.761640097857084,
+     61.5256497003124
+    ]
+   },
+   "properties": {
+    "OBJECTID": 84,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e42e60-4b71-11e7-bdaf-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 85,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.883542200610152,
+     61.56440790005259
+    ]
+   },
+   "properties": {
+    "OBJECTID": 85,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e42e60-4b71-11e7-a837-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 86,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8193681980164484,
+     61.56100060063692
+    ]
+   },
+   "properties": {
+    "OBJECTID": 86,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e45571-4b71-11e7-a727-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 87,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.854319299959523,
+     61.558855299410105
+    ]
+   },
+   "properties": {
+    "OBJECTID": 87,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e47c82-4b71-11e7-87a1-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 88,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.813505299876805,
+     61.537162000217336
+    ]
+   },
+   "properties": {
+    "OBJECTID": 88,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e47c82-4b71-11e7-959d-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 89,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.864406700296537,
+     61.56681759975559
+    ]
+   },
+   "properties": {
+    "OBJECTID": 89,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e4a393-4b71-11e7-ac84-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 90,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.962856700613944,
+     61.59137439990263
+    ]
+   },
+   "properties": {
+    "OBJECTID": 90,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e4a393-4b71-11e7-b788-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 91,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.867092400420254,
+     61.562045900082246
+    ]
+   },
+   "properties": {
+    "OBJECTID": 91,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e4caa4-4b71-11e7-b56b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 92,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.825493098923045,
+     61.56525930023565
+    ]
+   },
+   "properties": {
+    "OBJECTID": 92,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e4caa4-4b71-11e7-b9ff-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 93,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.761089698829483,
+     61.56672580030272
+    ]
+   },
+   "properties": {
+    "OBJECTID": 93,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e4f1b5-4b71-11e7-a41a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 94,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.958319900516065,
+     61.59504009973301
+    ]
+   },
+   "properties": {
+    "OBJECTID": 94,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e4f1b5-4b71-11e7-9578-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 95,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.825265899692524,
+     61.5352509994668
+    ]
+   },
+   "properties": {
+    "OBJECTID": 95,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e518c6-4b71-11e7-a8e8-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 96,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.82013669964452,
+     61.53112259959816
+    ]
+   },
+   "properties": {
+    "OBJECTID": 96,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e53fd7-4b71-11e7-9698-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 97,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8412193003210415,
+     61.56718920087872
+    ]
+   },
+   "properties": {
+    "OBJECTID": 97,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e53fd7-4b71-11e7-ac70-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 98,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.838131600049121,
+     61.56967340026581
+    ]
+   },
+   "properties": {
+    "OBJECTID": 98,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e566e8-4b71-11e7-b5bb-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 99,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.818711499703811,
+     61.56264749980144
+    ]
+   },
+   "properties": {
+    "OBJECTID": 99,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e566e8-4b71-11e7-835e-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 100,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8027710004736335,
+     61.55546699943016
+    ]
+   },
+   "properties": {
+    "OBJECTID": 100,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e58df9-4b71-11e7-b8d6-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 101,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7826280997755175,
+     61.50733229913549
+    ]
+   },
+   "properties": {
+    "OBJECTID": 101,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e58df9-4b71-11e7-a7b0-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 102,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.88621700057589,
+     61.516435299418326
+    ]
+   },
+   "properties": {
+    "OBJECTID": 102,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e5b50a-4b71-11e7-900a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 103,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.966164200905134,
+     61.60693330078298
+    ]
+   },
+   "properties": {
+    "OBJECTID": 103,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e5b50a-4b71-11e7-9990-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 104,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.782058900214217,
+     61.505369099914326
+    ]
+   },
+   "properties": {
+    "OBJECTID": 104,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e5dc1b-4b71-11e7-a489-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 105,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.779762700973304,
+     61.55145080053282
+    ]
+   },
+   "properties": {
+    "OBJECTID": 105,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e5dc1b-4b71-11e7-a1b7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 106,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.766808599706014,
+     61.56464820068319
+    ]
+   },
+   "properties": {
+    "OBJECTID": 106,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e6032c-4b71-11e7-aac5-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 107,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.76683740067085,
+     61.56469560009724
+    ]
+   },
+   "properties": {
+    "OBJECTID": 107,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e6032c-4b71-11e7-b201-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 108,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.821748099924555,
+     61.76878900069718
+    ]
+   },
+   "properties": {
+    "OBJECTID": 108,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e62a3d-4b71-11e7-9270-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 109,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.811247100575771,
+     61.7785469996712
+    ]
+   },
+   "properties": {
+    "OBJECTID": 109,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e6514e-4b71-11e7-a6fe-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 110,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.751500899484767,
+     61.87098730015469
+    ]
+   },
+   "properties": {
+    "OBJECTID": 110,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e6514e-4b71-11e7-a412-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 111,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8658230011020365,
+     61.93986280029556
+    ]
+   },
+   "properties": {
+    "OBJECTID": 111,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e6785f-4b71-11e7-8a85-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 112,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.808714500041459,
+     61.7786032005605
+    ]
+   },
+   "properties": {
+    "OBJECTID": 112,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e6785f-4b71-11e7-877f-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 113,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.823694700425919,
+     61.76880690032901
+    ]
+   },
+   "properties": {
+    "OBJECTID": 113,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e69f70-4b71-11e7-a18f-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 114,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.756029800520964,
+     61.87121340038435
+    ]
+   },
+   "properties": {
+    "OBJECTID": 114,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e69f70-4b71-11e7-ba17-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 115,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.796747499856898,
+     61.75807710058445
+    ]
+   },
+   "properties": {
+    "OBJECTID": 115,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e6c681-4b71-11e7-ab9a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 116,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8192631004382,
+     61.77908340020089
+    ]
+   },
+   "properties": {
+    "OBJECTID": 116,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e6c681-4b71-11e7-99ce-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 117,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8417075003662395,
+     61.86821059948819
+    ]
+   },
+   "properties": {
+    "OBJECTID": 117,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e6ed92-4b71-11e7-8b21-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 118,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.780057001179681,
+     61.87490640031329
+    ]
+   },
+   "properties": {
+    "OBJECTID": 118,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e714a3-4b71-11e7-a1c5-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 119,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.757232099132662,
+     61.86264490012462
+    ]
+   },
+   "properties": {
+    "OBJECTID": 119,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e714a3-4b71-11e7-9b2f-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 120,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.791611499402053,
+     61.83526880012062
+    ]
+   },
+   "properties": {
+    "OBJECTID": 120,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e73bb4-4b71-11e7-a553-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 121,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.808939798941036,
+     61.89186730010664
+    ]
+   },
+   "properties": {
+    "OBJECTID": 121,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e73bb4-4b71-11e7-b50b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 122,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.836380101320419,
+     61.84487719921464
+    ]
+   },
+   "properties": {
+    "OBJECTID": 122,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e762c5-4b71-11e7-9771-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 123,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8331370994668195,
+     61.85648729971351
+    ]
+   },
+   "properties": {
+    "OBJECTID": 123,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e762c5-4b71-11e7-be51-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 124,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.804409400157689,
+     61.88709640072466
+    ]
+   },
+   "properties": {
+    "OBJECTID": 124,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e789d6-4b71-11e7-a66b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 125,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.757018700761943,
+     61.86591490043968
+    ]
+   },
+   "properties": {
+    "OBJECTID": 125,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e789d6-4b71-11e7-9e84-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 126,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.790282798974334,
+     61.83641480050083
+    ]
+   },
+   "properties": {
+    "OBJECTID": 126,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e7b0e7-4b71-11e7-9445-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 127,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.76440520104219,
+     61.86845560044026
+    ]
+   },
+   "properties": {
+    "OBJECTID": 127,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e7b0e7-4b71-11e7-b926-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 128,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.750734400945401,
+     61.86587379985206
+    ]
+   },
+   "properties": {
+    "OBJECTID": 128,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e7d7f8-4b71-11e7-8ce2-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 129,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.837412900214384,
+     61.83667439910546
+    ]
+   },
+   "properties": {
+    "OBJECTID": 129,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e7ff09-4b71-11e7-a810-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 130,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.695428399131068,
+     61.423248399323995
+    ]
+   },
+   "properties": {
+    "OBJECTID": 130,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e7ff09-4b71-11e7-a98a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 131,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.695440699320646,
+     61.442610800060294
+    ]
+   },
+   "properties": {
+    "OBJECTID": 131,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e8261a-4b71-11e7-964d-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 132,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6909265986266035,
+     61.438858300017365
+    ]
+   },
+   "properties": {
+    "OBJECTID": 132,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e8261a-4b71-11e7-9e86-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 133,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.737972400966021,
+     61.48637429977971
+    ]
+   },
+   "properties": {
+    "OBJECTID": 133,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e84d2b-4b71-11e7-9ddc-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 134,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.716181799763491,
+     61.45566260017011
+    ]
+   },
+   "properties": {
+    "OBJECTID": 134,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e84d2b-4b71-11e7-b950-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 135,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.701509199104379,
+     61.423322099758686
+    ]
+   },
+   "properties": {
+    "OBJECTID": 135,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e8743c-4b71-11e7-a00c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 136,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.72695739923376,
+     61.46070000005552
+    ]
+   },
+   "properties": {
+    "OBJECTID": 136,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e8743c-4b71-11e7-95b7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 137,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.713519299053946,
+     61.49014089966093
+    ]
+   },
+   "properties": {
+    "OBJECTID": 137,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e89b4d-4b71-11e7-9851-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 138,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.679031300327083,
+     61.41001900048427
+    ]
+   },
+   "properties": {
+    "OBJECTID": 138,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e8c25e-4b71-11e7-9c3f-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 139,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728437100209986,
+     61.443407999565316
+    ]
+   },
+   "properties": {
+    "OBJECTID": 139,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e8c25e-4b71-11e7-ae16-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 140,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.729149700169942,
+     61.43932379934997
+    ]
+   },
+   "properties": {
+    "OBJECTID": 140,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e8e96f-4b71-11e7-81cf-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 141,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.694026299806615,
+     61.42126360006238
+    ]
+   },
+   "properties": {
+    "OBJECTID": 141,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e8e96f-4b71-11e7-a84f-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 142,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.693549701329041,
+     61.39993380012993
+    ]
+   },
+   "properties": {
+    "OBJECTID": 142,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e91080-4b71-11e7-b926-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 143,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.702699500683923,
+     61.40374999981301
+    ]
+   },
+   "properties": {
+    "OBJECTID": 143,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e91080-4b71-11e7-8614-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 144,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.684088300295333,
+     61.417699500702504
+    ]
+   },
+   "properties": {
+    "OBJECTID": 144,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e93791-4b71-11e7-9425-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 145,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.706068099470417,
+     61.42164600008326
+    ]
+   },
+   "properties": {
+    "OBJECTID": 145,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e93791-4b71-11e7-953e-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 146,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.696563299462438,
+     61.42228419907324
+    ]
+   },
+   "properties": {
+    "OBJECTID": 146,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e95ea2-4b71-11e7-9cca-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 147,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.697300500158866,
+     61.42395490049389
+    ]
+   },
+   "properties": {
+    "OBJECTID": 147,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e95ea2-4b71-11e7-855b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 148,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.742801699248246,
+     61.485473299320134
+    ]
+   },
+   "properties": {
+    "OBJECTID": 148,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e985b3-4b71-11e7-bd67-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 149,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.735658998381444,
+     61.483577600031424
+    ]
+   },
+   "properties": {
+    "OBJECTID": 149,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e9acc4-4b71-11e7-acd0-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 150,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.746055598963986,
+     61.49507830076568
+    ]
+   },
+   "properties": {
+    "OBJECTID": 150,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e9acc4-4b71-11e7-9361-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 151,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.727793100568728,
+     61.44397510094827
+    ]
+   },
+   "properties": {
+    "OBJECTID": 151,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e9d3d5-4b71-11e7-97d5-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 152,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7257040998012725,
+     61.44555799974919
+    ]
+   },
+   "properties": {
+    "OBJECTID": 152,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e9d3d5-4b71-11e7-8b91-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 153,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722102800627515,
+     61.452653399219244
+    ]
+   },
+   "properties": {
+    "OBJECTID": 153,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e9fae6-4b71-11e7-af1c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 154,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7392007996025285,
+     61.458331599701914
+    ]
+   },
+   "properties": {
+    "OBJECTID": 154,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9e9fae6-4b71-11e7-ad68-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 155,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.749305098937953,
+     61.49079060056285
+    ]
+   },
+   "properties": {
+    "OBJECTID": 155,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ea21f7-4b71-11e7-894d-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 156,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.695054500506349,
+     61.40101679992288
+    ]
+   },
+   "properties": {
+    "OBJECTID": 156,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ea21f7-4b71-11e7-b312-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 157,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.69397440089443,
+     61.43475519988111
+    ]
+   },
+   "properties": {
+    "OBJECTID": 157,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ea4908-4b71-11e7-8f19-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 158,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.725186199461031,
+     61.44968880033679
+    ]
+   },
+   "properties": {
+    "OBJECTID": 158,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ea7019-4b71-11e7-a186-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 159,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7312561996046085,
+     61.439824700048355
+    ]
+   },
+   "properties": {
+    "OBJECTID": 159,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ea7019-4b71-11e7-94b7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 160,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.718884700995427,
+     61.408549499733496
+    ]
+   },
+   "properties": {
+    "OBJECTID": 160,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ea972a-4b71-11e7-8049-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 161,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.733265400650727,
+     61.4417849995709
+    ]
+   },
+   "properties": {
+    "OBJECTID": 161,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ea972a-4b71-11e7-8854-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 162,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.682396399621244,
+     61.41910560051998
+    ]
+   },
+   "properties": {
+    "OBJECTID": 162,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eabe3b-4b71-11e7-bba1-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 163,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722426698539916,
+     61.43917899948958
+    ]
+   },
+   "properties": {
+    "OBJECTID": 163,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eabe3b-4b71-11e7-b0cb-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 164,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.697552000524175,
+     61.4218182005443
+    ]
+   },
+   "properties": {
+    "OBJECTID": 164,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eae54c-4b71-11e7-b2bc-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 165,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.743184898539871,
+     61.49651830089839
+    ]
+   },
+   "properties": {
+    "OBJECTID": 165,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eae54c-4b71-11e7-94f5-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 166,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722440900088895,
+     61.485684800324655
+    ]
+   },
+   "properties": {
+    "OBJECTID": 166,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eb0c5d-4b71-11e7-925d-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 167,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.743001399027512,
+     61.49669509942724
+    ]
+   },
+   "properties": {
+    "OBJECTID": 167,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eb336e-4b71-11e7-82df-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 168,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7215387001936495,
+     61.44130859976443
+    ]
+   },
+   "properties": {
+    "OBJECTID": 168,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eb336e-4b71-11e7-b793-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 169,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.714620699813509,
+     61.43821859981275
+    ]
+   },
+   "properties": {
+    "OBJECTID": 169,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eb5a7f-4b71-11e7-84e8-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 170,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.713278600118751,
+     61.42545879987961
+    ]
+   },
+   "properties": {
+    "OBJECTID": 170,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eb5a7f-4b71-11e7-b7a9-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 171,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.682741999444631,
+     61.41911160110408
+    ]
+   },
+   "properties": {
+    "OBJECTID": 171,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eb8190-4b71-11e7-a6ab-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 172,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.717140098938605,
+     61.41484619992559
+    ]
+   },
+   "properties": {
+    "OBJECTID": 172,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eb8190-4b71-11e7-9b48-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 173,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.724077099668065,
+     61.44436279954336
+    ]
+   },
+   "properties": {
+    "OBJECTID": 173,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eba8a1-4b71-11e7-8b8a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 174,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.67331679994336,
+     61.39880080005779
+    ]
+   },
+   "properties": {
+    "OBJECTID": 174,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eba8a1-4b71-11e7-ba2c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 175,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.743219500058701,
+     61.4146453000703
+    ]
+   },
+   "properties": {
+    "OBJECTID": 175,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ebcfb2-4b71-11e7-b9f6-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 176,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6907653987648485,
+     61.43858689947659
+    ]
+   },
+   "properties": {
+    "OBJECTID": 176,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ebcfb2-4b71-11e7-9375-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 177,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.745499898944872,
+     61.49261929975443
+    ]
+   },
+   "properties": {
+    "OBJECTID": 177,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ebf6c3-4b71-11e7-8fca-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 178,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.708292901229325,
+     61.442713900240086
+    ]
+   },
+   "properties": {
+    "OBJECTID": 178,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ec1dd4-4b71-11e7-9983-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 179,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.725513400596499,
+     61.489735199972245
+    ]
+   },
+   "properties": {
+    "OBJECTID": 179,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ec1dd4-4b71-11e7-9ae9-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 180,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.719924900885097,
+     61.44007060018436
+    ]
+   },
+   "properties": {
+    "OBJECTID": 180,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ec44e5-4b71-11e7-a124-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 181,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.716288799191079,
+     61.4892962993095
+    ]
+   },
+   "properties": {
+    "OBJECTID": 181,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ec44e5-4b71-11e7-aa70-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 182,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.733709998245203,
+     61.41201620049714
+    ]
+   },
+   "properties": {
+    "OBJECTID": 182,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ec6bf6-4b71-11e7-94d4-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 183,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.743143500824027,
+     61.49662799948596
+    ]
+   },
+   "properties": {
+    "OBJECTID": 183,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ec6bf6-4b71-11e7-ba55-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 184,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.742580399064721,
+     61.49600439988652
+    ]
+   },
+   "properties": {
+    "OBJECTID": 184,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ec9307-4b71-11e7-8fef-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 185,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.704658200431059,
+     61.42513490049843
+    ]
+   },
+   "properties": {
+    "OBJECTID": 185,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ec9307-4b71-11e7-a18e-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 186,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.694937101131572,
+     61.43464390035989
+    ]
+   },
+   "properties": {
+    "OBJECTID": 186,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ecba18-4b71-11e7-81ec-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 187,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.740707500609974,
+     61.48875740023908
+    ]
+   },
+   "properties": {
+    "OBJECTID": 187,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ece129-4b71-11e7-bf16-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 188,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.719958798119527,
+     61.453796199760056
+    ]
+   },
+   "properties": {
+    "OBJECTID": 188,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ece129-4b71-11e7-a21c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 189,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.742610100919696,
+     61.496492299309345
+    ]
+   },
+   "properties": {
+    "OBJECTID": 189,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ed083a-4b71-11e7-b873-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 190,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.721253199235393,
+     61.451245600155445
+    ]
+   },
+   "properties": {
+    "OBJECTID": 190,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ed083a-4b71-11e7-96e5-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 191,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.743537600859993,
+     61.41321200040561
+    ]
+   },
+   "properties": {
+    "OBJECTID": 191,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ed2f4b-4b71-11e7-9045-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 192,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.675513600312453,
+     61.41019789999681
+    ]
+   },
+   "properties": {
+    "OBJECTID": 192,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ed2f4b-4b71-11e7-83dd-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 193,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7333897002642615,
+     61.43955910062167
+    ]
+   },
+   "properties": {
+    "OBJECTID": 193,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ed565c-4b71-11e7-a19c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 194,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.74231620030589,
+     61.49605950050775
+    ]
+   },
+   "properties": {
+    "OBJECTID": 194,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ed565c-4b71-11e7-8e37-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 195,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7128769997128,
+     61.41460459947604
+    ]
+   },
+   "properties": {
+    "OBJECTID": 195,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ed7d6d-4b71-11e7-8674-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 196,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.678078999579096,
+     61.402691300115194
+    ]
+   },
+   "properties": {
+    "OBJECTID": 196,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ed7d6d-4b71-11e7-b8da-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 197,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6945318995434855,
+     61.41999759963611
+    ]
+   },
+   "properties": {
+    "OBJECTID": 197,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eda47e-4b71-11e7-8613-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 198,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.726486699705272,
+     61.48813940037897
+    ]
+   },
+   "properties": {
+    "OBJECTID": 198,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9edcb8f-4b71-11e7-bf76-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 199,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.730978900194014,
+     61.40977069982814
+    ]
+   },
+   "properties": {
+    "OBJECTID": 199,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9edcb8f-4b71-11e7-9787-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 200,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.691579298269985,
+     61.4291231998958
+    ]
+   },
+   "properties": {
+    "OBJECTID": 200,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9edf2a0-4b71-11e7-8d35-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 201,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.740026298834007,
+     61.43433619945888
+    ]
+   },
+   "properties": {
+    "OBJECTID": 201,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9edf2a0-4b71-11e7-ba0b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 202,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7354998994193025,
+     61.43651230063465
+    ]
+   },
+   "properties": {
+    "OBJECTID": 202,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ee19b1-4b71-11e7-8aab-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 203,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7305073998500795,
+     61.488551899432
+    ]
+   },
+   "properties": {
+    "OBJECTID": 203,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ee19b1-4b71-11e7-b4a7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 204,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723475201075858,
+     61.40840839974524
+    ]
+   },
+   "properties": {
+    "OBJECTID": 204,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ee40c2-4b71-11e7-b6f8-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 205,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.746030699660739,
+     61.45806099965188
+    ]
+   },
+   "properties": {
+    "OBJECTID": 205,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ee67d3-4b71-11e7-a87c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 206,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.70609829891973,
+     61.4097922999834
+    ]
+   },
+   "properties": {
+    "OBJECTID": 206,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ee67d3-4b71-11e7-8ba7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 207,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.684811598449041,
+     61.413478499400576
+    ]
+   },
+   "properties": {
+    "OBJECTID": 207,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ee8ee4-4b71-11e7-933b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 208,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.734340999568005,
+     61.459542099153055
+    ]
+   },
+   "properties": {
+    "OBJECTID": 208,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ee8ee4-4b71-11e7-9464-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 209,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.673998100116594,
+     61.407834299335775
+    ]
+   },
+   "properties": {
+    "OBJECTID": 209,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eeb5f5-4b71-11e7-adb6-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 210,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.674531000372655,
+     61.403363400233914
+    ]
+   },
+   "properties": {
+    "OBJECTID": 210,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eeb5f5-4b71-11e7-b39e-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 211,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.702377598948078,
+     61.42345339955353
+    ]
+   },
+   "properties": {
+    "OBJECTID": 211,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eedd06-4b71-11e7-87d7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 212,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.697780599709073,
+     61.444486800366356
+    ]
+   },
+   "properties": {
+    "OBJECTID": 212,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9eedd06-4b71-11e7-a9ad-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 213,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.744031300113779,
+     61.49313629962157
+    ]
+   },
+   "properties": {
+    "OBJECTID": 213,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ef0417-4b71-11e7-95e7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 214,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.702644201487651,
+     61.4018562999644
+    ]
+   },
+   "properties": {
+    "OBJECTID": 214,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ef0417-4b71-11e7-a56c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 215,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.697207098960871,
+     61.39941859917972
+    ]
+   },
+   "properties": {
+    "OBJECTID": 215,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ef2b28-4b71-11e7-97eb-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 216,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7023199990781395,
+     61.40801089997181
+    ]
+   },
+   "properties": {
+    "OBJECTID": 216,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ef2b28-4b71-11e7-8471-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 217,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.720153799698057,
+     61.48532359924396
+    ]
+   },
+   "properties": {
+    "OBJECTID": 217,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ef5239-4b71-11e7-a5e1-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 218,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.718719800145282,
+     61.438061299528265
+    ]
+   },
+   "properties": {
+    "OBJECTID": 218,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ef794a-4b71-11e7-aac4-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 219,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.714753200008527,
+     61.43667999923527
+    ]
+   },
+   "properties": {
+    "OBJECTID": 219,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9ef794a-4b71-11e7-bad7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 220,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.714023599622356,
+     61.411349499773635
+    ]
+   },
+   "properties": {
+    "OBJECTID": 220,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9efa05b-4b71-11e7-a9b9-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 221,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723692999745237,
+     61.45054160032137
+    ]
+   },
+   "properties": {
+    "OBJECTID": 221,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9efa05b-4b71-11e7-a656-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 222,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.68832800069358,
+     61.39718539962806
+    ]
+   },
+   "properties": {
+    "OBJECTID": 222,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9efc76c-4b71-11e7-8fc9-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 223,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.699471299187566,
+     61.42429960050568
+    ]
+   },
+   "properties": {
+    "OBJECTID": 223,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9efee7d-4b71-11e7-a8d1-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 224,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.688847098323442,
+     61.42016450038106
+    ]
+   },
+   "properties": {
+    "OBJECTID": 224,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9efee7d-4b71-11e7-878b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 225,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.679828198868415,
+     61.415073399568016
+    ]
+   },
+   "properties": {
+    "OBJECTID": 225,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f0158e-4b71-11e7-bf9b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 226,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.690463600096314,
+     61.397928299687074
+    ]
+   },
+   "properties": {
+    "OBJECTID": 226,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f0158e-4b71-11e7-8961-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 227,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6949873993646385,
+     61.43059649967529
+    ]
+   },
+   "properties": {
+    "OBJECTID": 227,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f03c9f-4b71-11e7-946e-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 228,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.727127501031099,
+     61.4607413993467
+    ]
+   },
+   "properties": {
+    "OBJECTID": 228,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f03c9f-4b71-11e7-ada2-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 229,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.74278949942919,
+     61.49686410073101
+    ]
+   },
+   "properties": {
+    "OBJECTID": 229,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f063b0-4b71-11e7-a25d-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 230,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7376936000641,
+     61.520552399647364
+    ]
+   },
+   "properties": {
+    "OBJECTID": 230,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f063b0-4b71-11e7-954d-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 231,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.737583900790422,
+     61.519315099526565
+    ]
+   },
+   "properties": {
+    "OBJECTID": 231,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f08ac1-4b71-11e7-8289-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 232,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.734979102044851,
+     61.51180789981599
+    ]
+   },
+   "properties": {
+    "OBJECTID": 232,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f08ac1-4b71-11e7-a17c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 233,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.746872100085554,
+     61.507952200098146
+    ]
+   },
+   "properties": {
+    "OBJECTID": 233,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f0b1d2-4b71-11e7-b81a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 234,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.738002599408419,
+     61.50672200050267
+    ]
+   },
+   "properties": {
+    "OBJECTID": 234,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f0b1d2-4b71-11e7-81f2-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 235,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7429095995260955,
+     61.50578979958354
+    ]
+   },
+   "properties": {
+    "OBJECTID": 235,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f0d8e3-4b71-11e7-908f-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 236,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.699614700182705,
+     61.76138489920165
+    ]
+   },
+   "properties": {
+    "OBJECTID": 236,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f0fff4-4b71-11e7-a915-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 237,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7189982985843475,
+     61.77589449910022
+    ]
+   },
+   "properties": {
+    "OBJECTID": 237,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f0fff4-4b71-11e7-8db9-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 238,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.670099099036174,
+     61.78017669954451
+    ]
+   },
+   "properties": {
+    "OBJECTID": 238,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f12705-4b71-11e7-b8b1-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 239,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.660712500281064,
+     61.79012450048075
+    ]
+   },
+   "properties": {
+    "OBJECTID": 239,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f12705-4b71-11e7-88df-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 240,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.659223099420879,
+     61.79099319948849
+    ]
+   },
+   "properties": {
+    "OBJECTID": 240,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f14e16-4b71-11e7-8444-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 241,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7315993000245555,
+     61.7848814992831
+    ]
+   },
+   "properties": {
+    "OBJECTID": 241,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f14e16-4b71-11e7-9f9a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 242,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.736631300858903,
+     61.78804210035751
+    ]
+   },
+   "properties": {
+    "OBJECTID": 242,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f17527-4b71-11e7-ad7b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 243,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.666243999041069,
+     61.82667489919932
+    ]
+   },
+   "properties": {
+    "OBJECTID": 243,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f17527-4b71-11e7-a2a3-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 244,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6846541000575135,
+     61.80558049932243
+    ]
+   },
+   "properties": {
+    "OBJECTID": 244,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f19c38-4b71-11e7-9df7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 245,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.660004599038464,
+     61.790302299965866
+    ]
+   },
+   "properties": {
+    "OBJECTID": 245,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f1c349-4b71-11e7-b3c7-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 246,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.747945399319116,
+     61.79706850030534
+    ]
+   },
+   "properties": {
+    "OBJECTID": 246,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f1c349-4b71-11e7-a2dd-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 247,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.738315599104785,
+     61.78797009921992
+    ]
+   },
+   "properties": {
+    "OBJECTID": 247,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f1ea5a-4b71-11e7-825b-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 248,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.674180401052614,
+     61.78181050008391
+    ]
+   },
+   "properties": {
+    "OBJECTID": 248,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f1ea5a-4b71-11e7-b71c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 249,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6610035000622645,
+     61.79009219973088
+    ]
+   },
+   "properties": {
+    "OBJECTID": 249,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2116b-4b71-11e7-b453-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 250,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.692455098321468,
+     61.7791650005361
+    ]
+   },
+   "properties": {
+    "OBJECTID": 250,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2116b-4b71-11e7-91ce-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 251,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.698812300066247,
+     61.82628650044939
+    ]
+   },
+   "properties": {
+    "OBJECTID": 251,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2387c-4b71-11e7-8f14-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 252,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.736952098834708,
+     61.86426069927373
+    ]
+   },
+   "properties": {
+    "OBJECTID": 252,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f25f8d-4b71-11e7-ba2f-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 253,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6767181015874355,
+     61.82548239945593
+    ]
+   },
+   "properties": {
+    "OBJECTID": 253,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f25f8d-4b71-11e7-b173-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 254,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.677996300951267,
+     61.82425690043543
+    ]
+   },
+   "properties": {
+    "OBJECTID": 254,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2869e-4b71-11e7-935a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 255,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.746940299744312,
+     61.81555709973325
+    ]
+   },
+   "properties": {
+    "OBJECTID": 255,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2869e-4b71-11e7-b67c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 256,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.6597015008337,
+     61.790424299730745
+    ]
+   },
+   "properties": {
+    "OBJECTID": 256,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2adaf-4b71-11e7-9a82-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 257,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.61574019924824,
+     61.956701900199356
+    ]
+   },
+   "properties": {
+    "OBJECTID": 257,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2adaf-4b71-11e7-9850-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 258,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.687875199986848,
+     61.782180400047984
+    ]
+   },
+   "properties": {
+    "OBJECTID": 258,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2d4c0-4b71-11e7-ade8-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 259,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.728686299564097,
+     61.82398639931244
+    ]
+   },
+   "properties": {
+    "OBJECTID": 259,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2d4c0-4b71-11e7-9b65-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 260,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.836168500403135,
+     61.8645429999941
+    ]
+   },
+   "properties": {
+    "OBJECTID": 260,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f2fbd1-4b71-11e7-9ad4-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 261,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8678082995218155,
+     61.835573699295715
+    ]
+   },
+   "properties": {
+    "OBJECTID": 261,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f322e2-4b71-11e7-bc4a-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 262,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.874105801193055,
+     61.835404000122
+    ]
+   },
+   "properties": {
+    "OBJECTID": 262,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f322e2-4b71-11e7-bf08-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 263,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.855525500012878,
+     61.83406110045001
+    ]
+   },
+   "properties": {
+    "OBJECTID": 263,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f349f3-4b71-11e7-ac4c-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 264,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.85122369941114,
+     61.834868999973104
+    ]
+   },
+   "properties": {
+    "OBJECTID": 264,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f349f3-4b71-11e7-93b1-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 265,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.745417499303372,
+     61.81784650025364
+    ]
+   },
+   "properties": {
+    "OBJECTID": 265,
+    "F_CODE": "FR003",
+    "ACC": 1,
+    "CCN": "Copyright 2016 by MOD DNK",
+    "SDP": "Pleiades Multispectral and Panchromatic Monoscopic Imagery",
+    "SDV": "2016-01-01",
+    "SRT": 110,
+    "TXT": "N_A",
+    "GFID": "f9f37104-4b71-11e7-82db-92c6247b835e",
+    "collected_by": null,
+    "collection_date": null,
+    "modified_by": null,
+    "modified_date": 946684800000,
+    "imported_from_usgis": 1737553945000
+   }
+  }
+ ]
+}

@@ -115,11 +115,11 @@ POLYGONS_TO_POINTS = True
 # https://gis.us.fo/arcgis/rest/services/ferdsla/us_ferdsluteljingar/MapServer/0
 # https://www.landsverk.fo/fo-fo/borgari/fer%C3%B0sluteljara-hagtoel
 # https://gis.us.fo/arcgis/rest/services/ferdsla/us_ferdsluteljingar/MapServer/0/query?where=1%3D1&f=pjson&outFields=*
-FOLDER = 'ferdsla'
-SERVICE = 'us_ferdsluteljingar'
-MAP_ID = 0
-PROPERTY_NAME = None
-PROPERTY_VALUE = "ferdsla"
+# FOLDER = 'ferdsla'
+# SERVICE = 'us_ferdsluteljingar'
+# MAP_ID = 0
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "ferdsla"
 
 # https://gis.us.fo/arcgis/rest/services/sev/us_sev/MapServer/7
 # FOLDER = 'sev'
@@ -138,12 +138,12 @@ PROPERTY_VALUE = "ferdsla"
 
 
 # https://agisportal.sev.fo/arcgis/rest/services/Kortal/SEV/MapServer/3
-ARCGIS_SERVER = 'agisportal.sev.fo'
-FOLDER = 'Kortal'
-SERVICE = 'SEV'
-MAP_ID = 3
-PROPERTY_NAME = None
-PROPERTY_VALUE = "orkustod"
+# ARCGIS_SERVER = 'agisportal.sev.fo'
+# FOLDER = 'Kortal'
+# SERVICE = 'SEV'
+# MAP_ID = 3
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "orkustod"
 
 
 # https://gis.us.fo/arcgis/rest/services/foroya_tele/us_televarps_sendarar/MapServer/0
@@ -165,6 +165,61 @@ PROPERTY_VALUE = "orkustod"
 # PROPERTY_NAME = None
 # PROPERTY_VALUE = "gotuljos"
 
+# https://gis.us.fo/arcgis/rest/services/stadarnovn/us_stadarnovn/MapServer/0
+# ARCGIS_SERVER = 'gis.us.fo'
+# FOLDER = 'stadarnovn'
+# SERVICE = 'us_stadarnovn'
+# MAP_ID = 1
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = None
+
+# https://gis.us.fo/arcgis/rest/services/vegir/us_vegir/MapServer/1
+# ferry routes
+# ARCGIS_SERVER = 'gis.us.fo'
+# FOLDER = 'vegir'
+# SERVICE = 'us_vegir'
+# MAP_ID = 1
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = 'Skipaleiðnavn'
+
+# https://gis.us.fo/arcgis/rest/services/vegir/us_vegir/MapServer/13
+# main roads
+# ARCGIS_SERVER = 'gis.us.fo'
+# FOLDER = 'vegir'
+# SERVICE = 'us_vegir'
+# MAP_ID = 13
+# PROPERTY_NAME = "speed_limit"
+# PROPERTY_VALUE = "80"
+# POLYGONS_TO_POINTS = False
+
+# mapa topo
+# https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/125
+ARCGIS_SERVER = 'gis.us.fo'
+FOLDER = 'topo'
+SERVICE = 'topo_20'
+MAP_ID = 125
+PROPERTY_NAME = None
+PROPERTY_VALUE = "wood_area"
+POLYGONS_TO_POINTS = False
+
+# https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/84
+# https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/84?f=pjson
+ARCGIS_SERVER = 'gis.us.fo'
+FOLDER = 'topo'
+SERVICE = 'topo_20'
+MAP_ID = 84
+PROPERTY_NAME = None
+PROPERTY_VALUE = "SheepShelter"
+POLYGONS_TO_POINTS = False
+
+# https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/109
+ARCGIS_SERVER = 'gis.us.fo'
+FOLDER = 'topo'
+SERVICE = 'topo_20'
+MAP_ID = 109
+PROPERTY_NAME = None
+PROPERTY_VALUE = "River_line"
+POLYGONS_TO_POINTS = False
 
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
