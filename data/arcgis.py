@@ -26,11 +26,15 @@ POLYGONS_TO_POINTS = True
 
 # https://gis.us.fo/arcgis/rest/services/poi/us_poi/MapServer/layers
 # https://kort.foroyakort.fo/kort/
-# FOLDER = 'poi'
-# SERVICE = 'us_poi'
-# MAP_ID = 19
-# PROPERTY_NAME = 'poi_icon'
+FOLDER = 'poi'
+SERVICE = 'us_poi'
+MAP_ID = 19
+PROPERTY_NAME = 'poi_icon'
 # PROPERTY_VALUE = 'bus'
+# PROPERTY_VALUE = 'gas_station'
+# PROPERTY_VALUE = 'gas_station'
+# PROPERTY_VALUE = 'movies'
+PROPERTY_VALUE = 'supermarket'
 
 # https://gis.us.fo/arcgis/rest/services/topo_20/us_topo20/MapServer/1184
 # """
@@ -194,32 +198,32 @@ POLYGONS_TO_POINTS = True
 
 # mapa topo
 # https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/125
-ARCGIS_SERVER = 'gis.us.fo'
-FOLDER = 'topo'
-SERVICE = 'topo_20'
-MAP_ID = 125
-PROPERTY_NAME = None
-PROPERTY_VALUE = "wood_area"
-POLYGONS_TO_POINTS = False
+# ARCGIS_SERVER = 'gis.us.fo'
+# FOLDER = 'topo'
+# SERVICE = 'topo_20'
+# MAP_ID = 125
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "wood_area"
+# POLYGONS_TO_POINTS = False
 
 # https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/84
 # https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/84?f=pjson
-ARCGIS_SERVER = 'gis.us.fo'
-FOLDER = 'topo'
-SERVICE = 'topo_20'
-MAP_ID = 84
-PROPERTY_NAME = None
-PROPERTY_VALUE = "SheepShelter"
-POLYGONS_TO_POINTS = False
+# ARCGIS_SERVER = 'gis.us.fo'
+# FOLDER = 'topo'
+# SERVICE = 'topo_20'
+# MAP_ID = 84
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "SheepShelter"
+# POLYGONS_TO_POINTS = False
 
 # https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/109
-ARCGIS_SERVER = 'gis.us.fo'
-FOLDER = 'topo'
-SERVICE = 'topo_20'
-MAP_ID = 109
-PROPERTY_NAME = None
-PROPERTY_VALUE = "River_line"
-POLYGONS_TO_POINTS = False
+# ARCGIS_SERVER = 'gis.us.fo'
+# FOLDER = 'topo'
+# SERVICE = 'topo_20'
+# MAP_ID = 109
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "River_line"
+# POLYGONS_TO_POINTS = False
 
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';

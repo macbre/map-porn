@@ -1,0 +1,65 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 278,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7710436415483475,
+     62.01064732623234
+    ]
+   },
+   "properties": {
+    "OBJECTID": 278,
+    "feature_id": 142,
+    "poi_type": "theatre",
+    "poi_category": "Hentleikar",
+    "poi_icon": "movies",
+    "poi_title": "Havnar Bio",
+    "poi_title_short": "Havnar Bio",
+    "street_name": "Tingh\u00fasvegur",
+    "house_no": "8",
+    "city": "T\u00f3rshavn",
+    "phone_no": null,
+    "website": "http://www.bio.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 281,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.58149746532181,
+     62.2247689586486
+    ]
+   },
+   "properties": {
+    "OBJECTID": 281,
+    "feature_id": 327,
+    "poi_type": "theatre",
+    "poi_category": "Hentleikar",
+    "poi_icon": "movies",
+    "poi_title": "Atlantis Bio",
+    "poi_title_short": "Atlantis Bio",
+    "street_name": "B\u00f8g\u00f8ta",
+    "house_no": "5",
+    "city": "Klaksv\u00edk",
+    "phone_no": "456900",
+    "website": "http://www.atlantis.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 700,
+    "priority": null
+   }
+  }
+ ]
+}

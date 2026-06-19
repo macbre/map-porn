@@ -1,0 +1,725 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 1,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776851257665922,
+     62.01766825517067
+    ]
+   },
+   "properties": {
+    "OBJECTID": 1,
+    "feature_id": 7,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "Hoydalsvegur",
+    "house_no": "44",
+    "city": "T\u00f3rshavn",
+    "phone_no": "343550",
+    "website": "http://www.fast.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.782810993337565,
+     62.005035623734194
+    ]
+   },
+   "properties": {
+    "OBJECTID": 3,
+    "feature_id": 5,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "\u00e1 Fr\u00e6lsinum",
+    "house_no": "15",
+    "city": "T\u00f3rshavn",
+    "phone_no": "347447",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 4,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.824518711930847,
+     61.47070150589705
+    ]
+   },
+   "properties": {
+    "OBJECTID": 4,
+    "feature_id": 149,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "L\u00ed\u00f0arvegur",
+    "house_no": "2",
+    "city": "V\u00e1gur",
+    "phone_no": "373175",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 900,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 5,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7562089517716215,
+     62.12531103499282
+    ]
+   },
+   "properties": {
+    "OBJECTID": 5,
+    "feature_id": 158,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "\u00e1 Byrgi",
+    "house_no": "7",
+    "city": "Strendur",
+    "phone_no": "447859",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 490,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 6,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7144002746976135,
+     62.21318618123055
+    ]
+   },
+   "properties": {
+    "OBJECTID": 6,
+    "feature_id": 159,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "H\u00f8vdavegur",
+    "house_no": "5",
+    "city": "Leirv\u00edk",
+    "phone_no": "443360",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 520,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 7,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.325481318900036,
+     62.0699371134125
+    ]
+   },
+   "properties": {
+    "OBJECTID": 7,
+    "feature_id": 160,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "Bakkavegur",
+    "house_no": "57",
+    "city": "S\u00f8rv\u00e1gur",
+    "phone_no": "332855",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 380,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 8,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8244575027308585,
+     61.84172308343834
+    ]
+   },
+   "properties": {
+    "OBJECTID": 8,
+    "feature_id": 161,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "Heimasandsvegur",
+    "house_no": "141",
+    "city": "Sandur",
+    "phone_no": "361101",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 210,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 9,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.818387791478879,
+     61.47317561428998
+    ]
+   },
+   "properties": {
+    "OBJECTID": 9,
+    "feature_id": 162,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "V\u00e1gsvegur",
+    "house_no": "85",
+    "city": "V\u00e1gur",
+    "phone_no": "343595",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 900,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 10,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8128311574089935,
+     61.55528594219365
+    ]
+   },
+   "properties": {
+    "OBJECTID": 10,
+    "feature_id": 163,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "Sj\u00f3g\u00f8ta",
+    "house_no": "15",
+    "city": "Tv\u00f8royri",
+    "phone_no": "372232",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 800,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 11,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.950018620631817,
+     61.60316456118255
+    ]
+   },
+   "properties": {
+    "OBJECTID": 11,
+    "feature_id": 164,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "Sk\u00e1lavegur",
+    "house_no": "6",
+    "city": "Hvalba",
+    "phone_no": "375436",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 850,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 16,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7783431588804515,
+     62.021146252401984
+    ]
+   },
+   "properties": {
+    "OBJECTID": 16,
+    "feature_id": 6,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "Nor\u00f0ari Ringvegur",
+    "house_no": "6",
+    "city": "T\u00f3rshavn",
+    "phone_no": "347446",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 94,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.589191757246124,
+     62.23084223487112
+    ]
+   },
+   "properties": {
+    "OBJECTID": 94,
+    "feature_id": 145,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "Stangavegur",
+    "house_no": "1",
+    "city": "Klaksv\u00edk",
+    "phone_no": "347449",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 700,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 95,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.193005259660111,
+     62.048084629241146
+    ]
+   },
+   "properties": {
+    "OBJECTID": 95,
+    "feature_id": 147,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "Leitisvegur",
+    "house_no": "21",
+    "city": "Mi\u00f0v\u00e1gur",
+    "phone_no": "347444",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 370,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 96,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.723425861108348,
+     62.115019776359965
+    ]
+   },
+   "properties": {
+    "OBJECTID": 96,
+    "feature_id": 146,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "Hei\u00f0avegur",
+    "house_no": "41",
+    "city": "Saltangar\u00e1",
+    "phone_no": "347445",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 600,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 97,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7575281217828245,
+     62.20380405415106
+    ]
+   },
+   "properties": {
+    "OBJECTID": 97,
+    "feature_id": 148,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "vi\u00f0 \u00c1nna",
+    "house_no": "68",
+    "city": "Nor\u00f0rag\u00f8ta",
+    "phone_no": "347448",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 512,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 261,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.783379819351064,
+     61.99650332949417
+    ]
+   },
+   "properties": {
+    "OBJECTID": 261,
+    "feature_id": 8,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "Tra\u00f0ag\u00f8ta",
+    "house_no": "41",
+    "city": "Argir",
+    "phone_no": "343570",
+    "website": "http://www.fast.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 160,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 270,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.842494593534501,
+     61.562119162991955
+    ]
+   },
+   "properties": {
+    "OBJECTID": 270,
+    "feature_id": 150,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "\u00d3savegur",
+    "house_no": "28",
+    "city": "Trongisv\u00e1gur",
+    "phone_no": "371466",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 826,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 271,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.80900478022152,
+     61.841010226398666
+    ]
+   },
+   "properties": {
+    "OBJECTID": 271,
+    "feature_id": 151,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "\u00cd Tr\u00f8\u00f0um",
+    "house_no": "2",
+    "city": "Sandur",
+    "phone_no": "361010",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 210,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 272,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.99933174800828,
+     62.20911262612339
+    ]
+   },
+   "properties": {
+    "OBJECTID": 272,
+    "feature_id": 152,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "Oyrarbakkavegur",
+    "house_no": "1",
+    "city": "Oyri",
+    "phone_no": "422255",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 450,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 273,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.146098788922561,
+     62.15323225884651
+    ]
+   },
+   "properties": {
+    "OBJECTID": 273,
+    "feature_id": 153,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Magn",
+    "poi_title_short": "Magn",
+    "street_name": "Ni\u00f0ari Vegur",
+    "house_no": "81",
+    "city": "Vestmanna",
+    "phone_no": "424453",
+    "website": "http://www.magn.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 350,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 274,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5857076221443975,
+     62.228648934824704
+    ]
+   },
+   "properties": {
+    "OBJECTID": 274,
+    "feature_id": 154,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "N\u00f3lsoyar P\u00e1lsg\u00f8ta",
+    "house_no": "11",
+    "city": "Klaksv\u00edk",
+    "phone_no": "343585",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 700,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 275,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.983722087092387,
+     62.11916070825407
+    ]
+   },
+   "properties": {
+    "OBJECTID": 275,
+    "feature_id": 155,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "Frammi \u00ed Dal",
+    "house_no": "6",
+    "city": "Kollafj\u00f8r\u00f0ur",
+    "phone_no": "343555",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 410,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 276,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7223842883613765,
+     62.1202461775577
+    ]
+   },
+   "properties": {
+    "OBJECTID": 276,
+    "feature_id": 157,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "Hei\u00f0avegur",
+    "house_no": "87",
+    "city": "Saltangar\u00e1",
+    "phone_no": "343575",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 600,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 337,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8538324430481765,
+     62.20047840563136
+    ]
+   },
+   "properties": {
+    "OBJECTID": 337,
+    "feature_id": 156,
+    "poi_type": "Bensinst\u00f8\u00f0",
+    "poi_category": "Flutningur",
+    "poi_icon": "gas_station",
+    "poi_title": "Fast",
+    "poi_title_short": "Fast",
+    "street_name": "Sk\u00e1lafjar\u00f0arvegur",
+    "house_no": "2",
+    "city": "Sk\u00e1lafj\u00f8r\u00f0ur",
+    "phone_no": "343565",
+    "website": "http://www.effo.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 485,
+    "priority": null
+   }
+  }
+ ]
+}

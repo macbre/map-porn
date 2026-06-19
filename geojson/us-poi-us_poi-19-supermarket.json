@@ -1,0 +1,245 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 39,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.774509940002975,
+     62.01464952978003
+    ]
+   },
+   "properties": {
+    "OBJECTID": 39,
+    "feature_id": 45,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "supermarket",
+    "poi_title": "Miklagar\u00f0ur",
+    "poi_title_short": "Miklagar\u00f0ur",
+    "street_name": "Tingh\u00fasvegur",
+    "house_no": "60",
+    "city": "T\u00f3rshavn",
+    "phone_no": "341950",
+    "website": "http://www.sms.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 57,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.764754897954871,
+     62.02242836338363
+    ]
+   },
+   "properties": {
+    "OBJECTID": 57,
+    "feature_id": 48,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "supermarket",
+    "poi_title": "B\u00f3nus",
+    "poi_title_short": "B\u00f3nus",
+    "street_name": "Tingh\u00fasvegur",
+    "house_no": "60",
+    "city": "T\u00f3rshavn",
+    "phone_no": "341972",
+    "website": "http://www.bonus.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 122,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.574361829972303,
+     62.222609252247736
+    ]
+   },
+   "properties": {
+    "OBJECTID": 122,
+    "feature_id": 55,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "supermarket",
+    "poi_title": "B\u00f3nus",
+    "poi_title_short": "B\u00f3nus",
+    "street_name": "Oman Ei\u00f0",
+    "house_no": "18",
+    "city": "Klaksv\u00edk",
+    "phone_no": "455091",
+    "website": "http://www.bonus.fo",
+    "email": "klaksvik@bonus.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 700,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 123,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.202276987778728,
+     62.04820048752556
+    ]
+   },
+   "properties": {
+    "OBJECTID": 123,
+    "feature_id": 56,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "supermarket",
+    "poi_title": "B\u00f3nus",
+    "poi_title_short": "B\u00f3nus",
+    "street_name": "Leitisvegur",
+    "house_no": "58",
+    "city": "Mi\u00f0v\u00e1gur",
+    "phone_no": "341980",
+    "website": "http://www.bonus.fo",
+    "email": "vagar@bonus.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 370,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 124,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.722581801760903,
+     62.11225467665475
+    ]
+   },
+   "properties": {
+    "OBJECTID": 124,
+    "feature_id": 57,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "supermarket",
+    "poi_title": "B\u00f3nus",
+    "poi_title_short": "B\u00f3nus",
+    "street_name": "Hei\u00f0avegur",
+    "house_no": "40",
+    "city": "Saltangar\u00e1",
+    "phone_no": "341920",
+    "website": "http://www.bonus.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 600,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 125,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.000585677717499,
+     62.21015460597944
+    ]
+   },
+   "properties": {
+    "OBJECTID": 125,
+    "feature_id": 165,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "supermarket",
+    "poi_title": "B\u00f3nus",
+    "poi_title_short": "B\u00f3nus",
+    "street_name": "vi\u00f0 Svartheygg",
+    "house_no": "8",
+    "city": "Nor\u00f0sk\u00e1li",
+    "phone_no": "474000",
+    "website": "http://www.bonus.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 460,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 147,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.773931043950438,
+     62.03194487717917
+    ]
+   },
+   "properties": {
+    "OBJECTID": 147,
+    "feature_id": 54,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "supermarket",
+    "poi_title": "B\u00f3nus",
+    "poi_title_short": "B\u00f3nus",
+    "street_name": "Karlamagnusarbreyt\n",
+    "house_no": "20",
+    "city": "Hoyv\u00edk",
+    "phone_no": "341988",
+    "website": "http://www.bonus.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 188,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 279,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.810341608544911,
+     61.55504395778145
+    ]
+   },
+   "properties": {
+    "OBJECTID": 279,
+    "feature_id": 166,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "supermarket",
+    "poi_title": "B\u00f3nus",
+    "poi_title_short": "B\u00f3nus",
+    "street_name": "Havnarlagi\u00f0",
+    "house_no": "54",
+    "city": "Tv\u00f8royri",
+    "phone_no": "341984",
+    "website": "http://www.bonus.fo",
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 800,
+    "priority": null
+   }
+  }
+ ]
+}
