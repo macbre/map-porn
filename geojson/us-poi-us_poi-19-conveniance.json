@@ -1,0 +1,635 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 34,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.781261788895359,
+     62.0228064511342
+    ]
+   },
+   "properties": {
+    "OBJECTID": 34,
+    "feature_id": 24,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Sundsvegur",
+    "house_no": "6",
+    "city": "T\u00f3rshavn",
+    "phone_no": "314444",
+    "website": "http://www.ahandil.fo",
+    "email": "a-sundsvegur@ph.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 56,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.775840206400311,
+     62.01043093023158
+    ]
+   },
+   "properties": {
+    "OBJECTID": 56,
+    "feature_id": 42,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "F\u00f8roya Keypssamt\u00f8ka",
+    "poi_title_short": "FK",
+    "street_name": "Doktara Jakobsens g\u00f8ta",
+    "house_no": "6",
+    "city": "T\u00f3rshavn",
+    "phone_no": "660010",
+    "website": "http://www.fk.fo",
+    "email": "bv@fk.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 211,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.764804954217717,
+     62.03324949393043
+    ]
+   },
+   "properties": {
+    "OBJECTID": 211,
+    "feature_id": 252,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "F\u00f8roya Keypsamt\u00f8ka",
+    "poi_title_short": "FK",
+    "street_name": "Brekkut\u00fan",
+    "house_no": "9",
+    "city": "Hoyv\u00edk",
+    "phone_no": "660000",
+    "website": "http://www.fk.fo",
+    "email": "bl@fk.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 188,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 212,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.150540453346768,
+     62.05265408173498
+    ]
+   },
+   "properties": {
+    "OBJECTID": 212,
+    "feature_id": 253,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "F\u00f8roya Keypsamt\u00f8ka",
+    "poi_title_short": "FK",
+    "street_name": "\u00c1 Sondum",
+    "house_no": "16",
+    "city": "Sandav\u00e1gur",
+    "phone_no": "660068",
+    "website": "http://www.fk.fo",
+    "email": "jpj@fk.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 360,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 213,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.2077354388672035,
+     62.047161685223664
+    ]
+   },
+   "properties": {
+    "OBJECTID": 213,
+    "feature_id": 254,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "F\u00f8roya Keypsamt\u00f8ka",
+    "poi_title_short": "FK",
+    "street_name": "Skaldavegur",
+    "house_no": "2",
+    "city": "Mi\u00f0v\u00e1gur",
+    "phone_no": "660060",
+    "website": "http://www.fk.fo",
+    "email": "jpj@fk.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 370,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 214,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.810330200080525,
+     62.242979997072986
+    ]
+   },
+   "properties": {
+    "OBJECTID": 214,
+    "feature_id": 255,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "F\u00f8roya Keypsamt\u00f8ka",
+    "poi_title_short": "FK",
+    "street_name": "Kirkjuvegur",
+    "house_no": "48",
+    "city": "Fuglafj\u00f8r\u00f0ur",
+    "phone_no": "660020",
+    "website": "http://www.fk.fo",
+    "email": "ha@fk.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 530,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 215,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.7215038668289555,
+     62.12056357379156
+    ]
+   },
+   "properties": {
+    "OBJECTID": 215,
+    "feature_id": 256,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "F\u00f8roya Keypsamt\u00f8ka",
+    "poi_title_short": "FK",
+    "street_name": "Hei\u00f0avegur",
+    "house_no": "106",
+    "city": "Saltangar\u00e1",
+    "phone_no": "660090",
+    "website": "http://www.fk.fo",
+    "email": "id@fk.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 600,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 216,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.587849178506156,
+     62.22997807748378
+    ]
+   },
+   "properties": {
+    "OBJECTID": 216,
+    "feature_id": 257,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "F\u00f8roya Keypsamt\u00f8ka",
+    "poi_title_short": "FK",
+    "street_name": "N\u00f3lsoyar P\u00e1lsg\u00f8ta",
+    "house_no": "15",
+    "city": "Klaksv\u00edk",
+    "phone_no": "660030",
+    "website": "http://www.fk.fo",
+    "email": "jg@fk.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 700,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 217,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.831561852257038,
+     61.56312498820059
+    ]
+   },
+   "properties": {
+    "OBJECTID": 217,
+    "feature_id": 258,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "F\u00f8roya Keypsamt\u00f8ka",
+    "poi_title_short": "FK",
+    "street_name": "Hei\u00f0atr\u00f8\u00f0in",
+    "house_no": "4",
+    "city": "Trongisv\u00e1gur",
+    "phone_no": "660080",
+    "website": "http://www.fk.fo",
+    "email": "gl@fk.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 826,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 218,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.793926963227222,
+     62.0036824864722
+    ]
+   },
+   "properties": {
+    "OBJECTID": 218,
+    "feature_id": 260,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Geitager\u00f0i",
+    "house_no": "7",
+    "city": "T\u00f3rshavn",
+    "phone_no": "313731",
+    "website": "http://www.ahandil.fo",
+    "email": "a-landavegur@ph.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 219,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.772072040081356,
+     62.01983891941614
+    ]
+   },
+   "properties": {
+    "OBJECTID": 219,
+    "feature_id": 259,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Heykavegur",
+    "house_no": "2",
+    "city": "T\u00f3rshavn",
+    "phone_no": "311055",
+    "website": "http://www.ahandil.fo",
+    "email": "a1@pe.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 221,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.776822413016759,
+     62.008965498306495
+    ]
+   },
+   "properties": {
+    "OBJECTID": 221,
+    "feature_id": 261,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Sigmundarg\u00f8ta",
+    "house_no": "1",
+    "city": "T\u00f3rshavn",
+    "phone_no": "564086",
+    "website": "http://www.ahandil.fo",
+    "email": "a6@pe.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 100,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 222,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1468591661122325,
+     62.151525428323936
+    ]
+   },
+   "properties": {
+    "OBJECTID": 222,
+    "feature_id": 262,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Fjar\u00f0arvegur",
+    "house_no": "12",
+    "city": "Vestmanna",
+    "phone_no": "442005",
+    "website": "http://www.ahandil.fo",
+    "email": "avestmanna@haraldsen.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 350,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 223,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.307282341233843,
+     62.07162779050114
+    ]
+   },
+   "properties": {
+    "OBJECTID": 223,
+    "feature_id": 263,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "\u00cd Bygdini",
+    "house_no": "3",
+    "city": "S\u00f8rv\u00e1gur",
+    "phone_no": "564085",
+    "website": "http://www.ahandil.fo",
+    "email": "sorvag@pe.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 380,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 224,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.000626380310678,
+     62.210556415046284
+    ]
+   },
+   "properties": {
+    "OBJECTID": 224,
+    "feature_id": 264,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Vi\u00f0 Svartheygg",
+    "house_no": "3",
+    "city": "Nor\u00f0sk\u00e1li",
+    "phone_no": "564087",
+    "website": "http://www.ahandil.fo",
+    "email": "a7@pe.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 460,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 225,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.815979572259235,
+     62.24250593600839
+    ]
+   },
+   "properties": {
+    "OBJECTID": 225,
+    "feature_id": 265,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Karvatoftir",
+    "house_no": "2",
+    "city": "Fuglafj\u00f8r\u00f0ur",
+    "phone_no": "233924",
+    "website": "http://www.ahandil.fo",
+    "email": "haraldsen@haraldsen.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 530,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 226,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.725863620292038,
+     62.129496839441536
+    ]
+   },
+   "properties": {
+    "OBJECTID": 226,
+    "feature_id": 266,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Glyvravegur",
+    "house_no": "29",
+    "city": "Glyvrar",
+    "phone_no": "441005",
+    "website": "http://www.ahandil.fo",
+    "email": "aglyvrar@haraldsen.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 625,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 227,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5953423536301194,
+     62.229886618528944
+    ]
+   },
+   "properties": {
+    "OBJECTID": 227,
+    "feature_id": 267,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Klaksv\u00edksvegur",
+    "house_no": "80",
+    "city": "T\u00f3rshavn",
+    "phone_no": "455003",
+    "website": "http://www.ahandil.fo",
+    "email": "netto@olivant.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 700,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 228,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.884360717613814,
+     61.90545830836846
+    ]
+   },
+   "properties": {
+    "OBJECTID": 228,
+    "feature_id": 268,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1",
+    "poi_title_short": "\u00c1",
+    "street_name": "Tormansvegur",
+    "house_no": "26",
+    "city": "Skopun",
+    "phone_no": "361158",
+    "website": "http://www.ahandil.fo",
+    "email": "sparni@mail.fo",
+    "collection_type": null,
+    "comment": null,
+    "zip": 240,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 229,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8136022428645715,
+     61.473796004498645
+    ]
+   },
+   "properties": {
+    "OBJECTID": 229,
+    "feature_id": 269,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "Torgi\u00f0",
+    "poi_title_short": "Torgi\u00f0",
+    "street_name": "V\u00e1gsvegur",
+    "house_no": "62",
+    "city": "V\u00e1gur",
+    "phone_no": "612090",
+    "website": "http://www.ahandil.fo",
+    "email": "torgidvagur@gmail.com",
+    "collection_type": null,
+    "comment": null,
+    "zip": 900,
+    "priority": null
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 323,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.822353760790562,
+     61.47258171247525
+    ]
+   },
+   "properties": {
+    "OBJECTID": 323,
+    "feature_id": 270,
+    "poi_type": "Handil",
+    "poi_category": "Shopping",
+    "poi_icon": "conveniance",
+    "poi_title": "\u00c1 G\u00f8r\u00f0unum",
+    "poi_title_short": "\u00c1 G\u00f8r\u00f0unum",
+    "street_name": "Oyrarvegur",
+    "house_no": "6",
+    "city": "V\u00e1gur",
+    "phone_no": "373006",
+    "website": null,
+    "email": null,
+    "collection_type": null,
+    "comment": null,
+    "zip": 900,
+    "priority": null
+   }
+  }
+ ]
+}
