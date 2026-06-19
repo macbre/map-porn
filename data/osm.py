@@ -181,8 +181,13 @@ EXTRA_TAG_VALUE = None
 # TAG_VALUE = 'post_box'
 
 # https://wiki.openstreetmap.org/wiki/Tag:office%3Ddiplomatic
-TAG_KEY = 'office'
-TAG_VALUE = 'diplomatic'
+# TAG_KEY = 'office'
+# TAG_VALUE = 'diplomatic'
+
+# https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets
+# https://www.openstreetmap.org/node/4332484319
+TAG_KEY = 'amenity'
+TAG_VALUE = 'toilets'
 
 # find all nodes with the "highway" tag, e.g. highway=primary + highway=secondary + highway=residential + highway=tertiary + ...
 #
@@ -258,6 +263,7 @@ def cache_osm_file():
     # osmium cat myfile.osm.pbf -o myfile.osm.bz2
     logger.info(f'Converting PBF file to osm.bz2 ...')
 
+    # brew install osmium-tool
     resp = subprocess.run(["osmium", "cat", PBF_FILE, "-o", LOCAL_FILE])
     if resp.returncode != 0:
         raise Exception(resp.stderr)
