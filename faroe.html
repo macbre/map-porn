@@ -28,28 +28,24 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Most photographed places</h2>
-				<h2 lang="pl">Fotografowane miejsca</h2>
+				<h2 lang="en">Petrol stations</h2>
+				<h2 lang="pl">Stacje benzynowe</h2>
 
 				<legend>
-					<!-- <img src="https://farerskiekadry.pl/wp-content/uploads/2026/01/Rusan_Klaksvik.jpg"> -->
+					<img src="https://i0.wp.com/farerskiekadry.pl/wp-content/uploads/2024/09/IMG_4397-scaled.jpg?w=800&quality=89&ssl=1">
 					<p lang="en">
-						We like to think there are no blank spots left in the world. That every place on the map has long since been described and uploaded to the internet.
+						The first petrol stations in the Faroe Islands—marked with the Esso logo—appeared in the 1950s.
 						<br><br>
-						Or maybe that is not entirely true. All it takes is a look at a map with the <strong>locations of photos that have been uploaded to Flickr</strong>.
+						Today, Faroese motorists are supplied by stations operating under two brands: <strong>Magn</strong>, owned by the Icelandic company Skeljungur, and <strong>Effo</strong>, which is fully Faroese.
 						<br><br>
-						The red patches – the places photographed most often – are no surprise: <strong>Tórshavn, the Faroese “Golden Circle” of Gjógv, Saksun, and Mykines</strong>. Plus its latest addition – the tip of the island of Kalsoy, made famous by the most recent James Bond film.
-						<br><br>
-						Svínoy and Sandoy, on the other hand, are still waiting for their chroniclers. Yet another reason to visit Faroe Islands.
+						At Faroese stations, besides filling up your car, you can also satisfy your hunger. The menu includes burgers, spring rolls, and a local specialty called <strong>pylsumix</strong> — sliced sausage served with fries.
 					</p>
 					<p lang="pl">
-						Wydaje nam się, że na świecie nie ma już białych plam. Że każde miejsce na mapie zostało dawno obejrzane, opisane i wrzucone do internetu.
+						Pierwsze stacje benzynowe na Wyspach Owczych - oznaczone logo Esso - <strong>pojawiły się w latach 50-tych</strong>.
 						<br><br>
-						A jednak to nie do końca prawda. Wystarczy zerknąć na mapę z naniesionymi miejscami, w których <strong>zrobiono zdjęcia wrzucane przez lata na Flickra</strong>.
+						Współcześnie Farerów w paliwo zaopatrują stacje działające pod dwoma szyldami: należącym do islandzkiej firmy Skeljungur <strong>Magn</strong> i oraz w pełni farerskie <strong>Effo</strong>.
 						<br><br>
-						Czerwone miejsca – tam, gdzie zdjęć jest najwięcej – wcale nie dziwią: <strong>Tórshavn, farerski „Złoty Krąg” z Gjógv, Saksun i Mykines</strong>. I jego ostatnie uzupełnienie – <strong>kraniec wyspy Kalsoy</strong>, rozsławiony ostatnim filmem o Agencie 007.
-						<br><br>
-						Za to Svínoy czy Sandoy wciąż czekają na swoich kronikarzy. Jest więc na szczęście po co wracać.
+						Na farerskich stacjach, oprócz napełnienia zbiornika w aucie, zaspokoimy także nasz głód. W menu burgery, sajgonki oraz lokalna specjalność <strong>pylsumix</strong> - serwowana z frytkami pokrojona w plasterki parówka.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -87,7 +83,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, --><!--OpenStreetMaps, rusan.fo--><!--, WikiData,--><!--Visit Faroe Islands,-->Flickr
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Umhvørvisstovan / foroyakort.fo<!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, --><!--OpenStreetMaps, rusan.fo--><!--, WikiData,--><!--Visit Faroe Islands,-->
 					</p>
 				</div>
 
@@ -106,6 +102,11 @@
 		</section>
 
 		<script>
+		/**
+		 * @typedef {object} GeoFeature
+		 * @property {object} geometry
+		 * @property {Record<string, string|number|null>} properties
+		 */
 		(async() => {			
 			const colors = [
 				'blue', 'yellow', 'green', 'red', 'dark-green', 'orange'
@@ -187,8 +188,11 @@
 				let counts = [];
 				**/
 
-				/**
-				L.geoJSON(await fetchGeoJSON('/geojson/osm-shop-alcohol.json'), {
+				/**/
+				L.geoJSON(await fetchGeoJSON('/geojson/us-poi-us_poi-19-gas_station.json'), {
+                    /**
+					 * @ts-check
+					 * @param feature {GeoFeature} */
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
 						console.log(feature.properties);
@@ -201,7 +205,8 @@
 						// // "denomination": "roman_catholic",
 						// const isCatholic = feature.properties.denomination === 'roman_catholic';
 
-						let color = 'orange';
+						// magn / effo
+						let color = feature.properties.website.includes('magn.fo') ? 'red' : 'blue';
 
 						// if (isCatholic) {
 						// 	color = 'orange'
@@ -210,8 +215,8 @@
 						// 	color = 'green';
 						// }
 
-						// false - small
-						L.marker([geo[1], geo[0]], {icon: getIcon(color, '', false), pane: `markers-${color}`})
+						// false - small, true - big icon
+						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`})
 							.addTo(map)
 							.bindPopup(feature.properties.name);
 
@@ -221,9 +226,10 @@
 					}
 				});
 
-				addLabel('orange', 'Rúsan', 'Rúsan', counts['orange']);
+				addLabel('blue', 'Effo', 'Effo', counts['blue']);
+				addLabel('red', 'Magn', 'Magn', counts['red']);
 				/**/
-
+				/**
 				const res = await fetch('./geojson/flickr-faroe.csv');
     			res.text().then(function(csvString) {
 					let photosCount = 0;
@@ -286,6 +292,7 @@
 					console.log('Heat map added to the map', {heat, photosCount});
 					addLabel('red', 'Photos', 'Fotografie', photosCount);
 				});
+                **/
 			});
 
 			// console.log(gridsPerCity);
