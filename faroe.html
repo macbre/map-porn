@@ -28,24 +28,26 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Petrol stations</h2>
-				<h2 lang="pl">Stacje benzynowe</h2>
+				<h2 lang="en">Free Public Toilets</h2>
+				<h2 lang="pl">Bezpłatne toalety publiczne</h2>
 
 				<legend>
-					<img src="https://i0.wp.com/farerskiekadry.pl/wp-content/uploads/2024/09/IMG_4397-scaled.jpg?w=800&quality=89&ssl=1">
+					<img src="https://i0.wp.com/farerskiekadry.pl/wp-content/uploads/2024/07/53920440957_36524be6e5_o_d-scaled.jpg?w=800&quality=89&ssl=1">
+					<div id="legend-overlay">🧻</div>
 					<p lang="en">
-						The first petrol stations in the Faroe Islands—marked with the Esso logo—appeared in the 1950s.
+						<strong>Public toilets</strong> (<em>vesi</em>) offer convenient facilities as you discover Faroe Islands.
 						<br><br>
-						Today, Faroese motorists are supplied by stations operating under two brands: <strong>Magn</strong>, owned by the Icelandic company Skeljungur, and <strong>Effo</strong>, which is fully Faroese.
+						Some of them are located in the center of towns, while others are a bit hidden. Some will <strong>take you back to the 1970s</strong>...
 						<br><br>
-						At Faroese stations, besides filling up your car, you can also satisfy your hunger. The menu includes burgers, spring rolls, and a local specialty called <strong>pylsumix</strong> — sliced sausage served with fries.
+						In Gjógv, the public toilet shares a building with… the electric winch engine room at the local harbour. Right in front of the door run the only… <strong>narrow-gauge tracks in the Faroe Islands</strong>.
+						<!-- The paid public toilet at Mylnugøta, Tórshavn was badly damaged by a fire in November 2024, and now a completely new public toilet will be built. The building, which dates from the 1950s, was in very poor condition. So it was decided to rebuild it from scratch. // https://www.in.fo/news-detail/gera-heilt-nytt-vesi-i-mylnugoetu-->
 					</p>
 					<p lang="pl">
-						Pierwsze stacje benzynowe na Wyspach Owczych - oznaczone logo Esso - <strong>pojawiły się w latach 50-tych</strong>.
+						Wyspy Owcze to nie tylko punkty widokowe, ale także miejsca bardziej przyziemne, takie jak chociażby <strong>publiczne toalety</strong> (far. <em>vesi</em>).
 						<br><br>
-						Współcześnie Farerów w paliwo zaopatrują stacje działające pod dwoma szyldami: należącym do islandzkiej firmy Skeljungur <strong>Magn</strong> i oraz w pełni farerskie <strong>Effo</strong>.
+						Niektóre z nich znajdziecie w centrach farerskich miejscowości, inne trzeba będzie nieco poszukać. Panujący w środku klimat nierzadko <strong>zabierze was w podróż do lat 70-tych</strong>...
 						<br><br>
-						Na farerskich stacjach, oprócz napełnienia zbiornika w aucie, zaspokoimy także nasz głód. W menu burgery, sajgonki oraz lokalna specjalność <strong>pylsumix</strong> - serwowana z frytkami pokrojona w plasterki parówka.
+						W Gjógv publiczna toaleta dzieli budynek z... elektryczną maszynownią wciągarki na miejscowym nabrzeżu. Tuż przed drzwiami biegną jedyne na Wyspach Owczych... <strong>wąskie tory</strong>.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -83,7 +85,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Umhvørvisstovan / foroyakort.fo<!-- Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, --><!--OpenStreetMaps, rusan.fo--><!--, WikiData,--><!--Visit Faroe Islands,-->
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Umhvørvisstovan / foroyakort.fo, Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps<!--, rusan.fo--><!--, WikiData,-->, Visit Faroe Islands
 					</p>
 				</div>
 
@@ -189,13 +191,20 @@
 				**/
 
 				/**/
-				L.geoJSON(await fetchGeoJSON('/geojson/us-poi-us_poi-19-gas_station.json'), {
+				L.geoJSON(await fetchGeoJSON('/geojson/osm-amenity-toilets.json'), {
                     /**
 					 * @ts-check
 					 * @param feature {GeoFeature} */
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
 						console.log(feature.properties);
+
+                        // skip paid toilets, Mylnugøta
+						// "shower": "yes" -> Hvalba camping (public?) -> Facilities are maintained for visitors staying at the site (100 DKK per night)
+						if (feature.properties.fee === 'yes' || feature.properties.shower === 'yes') {
+                            console.warn('Skipping a paid toilet / shower', feature);
+                            return;
+                        }
 
 						// https://www.wikidata.org/wiki/Q11999142
 						// P186 -> Q287 - wood
@@ -205,8 +214,10 @@
 						// // "denomination": "roman_catholic",
 						// const isCatholic = feature.properties.denomination === 'roman_catholic';
 
-						// magn / effo
-						let color = feature.properties.website.includes('magn.fo') ? 'red' : 'blue';
+                        let color = 'green';
+
+                        // magn / effo
+						// let color = feature.properties.website.includes('magn.fo') ? 'red' : 'blue';
 
 						// if (isCatholic) {
 						// 	color = 'orange'
@@ -226,8 +237,7 @@
 					}
 				});
 
-				addLabel('blue', 'Effo', 'Effo', counts['blue']);
-				addLabel('red', 'Magn', 'Magn', counts['red']);
+				addLabel('green', 'Public toilet', 'Toaleta publiczna', counts['green']);
 				/**/
 				/**
 				const res = await fetch('./geojson/flickr-faroe.csv');
@@ -430,6 +440,33 @@
 				background: #fff1;
 				box-shadow: none;
 			}**/
+
+			/* WC */
+			.marker.green::before {
+				color: #000;
+				content: '🚻';
+				line-height: 1em;
+				font-size: 1.8em;
+			}
+			.marker.green {
+				background-color: transparent;
+				outline: none;
+				position: relative;
+			}
+
+			legend .marker.green::before {
+				font-size: 1em;
+				position: absolute;
+  				top: -6px;
+            }
+
+			#legend-overlay {
+                position: absolute;
+				top: -40px;
+				left: -20px;
+				font-size: 10em;
+				transform: rotate(-90deg);
+			}
 		</style>
 
 	<script>
