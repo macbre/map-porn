@@ -62,8 +62,8 @@ EXTRA_TAG_VALUE = None
 
 # https://wiki.openstreetmap.org/wiki/Tag:highway%3Dtraffic_signals
 # <tag k="highway" v="traffic_signals"/>
-# TAG_KEY = 'highway'
-# TAG_VALUE = 'traffic_signals'
+TAG_KEY = 'highway'
+TAG_VALUE = 'traffic_signals'
 
 # https://wiki.openstreetmap.org/wiki/Tag:junction%3Droundabout
 # TAG_KEY = 'junction'
@@ -186,8 +186,14 @@ EXTRA_TAG_VALUE = None
 
 # https://wiki.openstreetmap.org/wiki/Tag:amenity=toilets
 # https://www.openstreetmap.org/node/4332484319
-TAG_KEY = 'amenity'
-TAG_VALUE = 'toilets'
+# TAG_KEY = 'amenity'
+# TAG_VALUE = 'toilets'
+
+# https://wiki.openstreetmap.org/wiki/Tag:artwork_type=mural
+# https://wiki.openstreetmap.org/wiki/Tag:tourism=artwork
+# https://www.openstreetmap.org/node/13081507385
+TAG_KEY = 'tourism'
+TAG_VALUE = 'artwork'
 
 # find all nodes with the "highway" tag, e.g. highway=primary + highway=secondary + highway=residential + highway=tertiary + ...
 #
@@ -461,7 +467,7 @@ def main():
             node.tags.append(('wikidata_claims', claims))
 
     # write a GeoJSON file
-    geojson_file = path.join(DIR, '..', 'geojson', f'osm-{TAG_KEY}-{TAG_VALUE}.json')
+    geojson_file = path.join(DIR, '..', 'geojson', f'osm-{TAG_KEY}-{TAG_VALUE}.geojson')
     logger.info(f'Writing {len(nodes)} node(s) GeoJSON to {geojson_file} ...')
 
     with open(geojson_file, 'wt') as f:

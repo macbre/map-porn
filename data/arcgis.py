@@ -34,7 +34,9 @@ PROPERTY_NAME = 'poi_icon'
 # PROPERTY_VALUE = 'gas_station'
 # PROPERTY_VALUE = 'gas_station'
 # PROPERTY_VALUE = 'movies'
-PROPERTY_VALUE = 'supermarket'
+# PROPERTY_VALUE = 'supermarket'
+PROPERTY_VALUE = 'conveniance'
+# PROPERTY_VALUE = 'departmentstore' # www.elding.fo
 
 # https://gis.us.fo/arcgis/rest/services/topo_20/us_topo20/MapServer/1184
 # """
