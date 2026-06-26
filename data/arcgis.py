@@ -121,11 +121,11 @@ PROPERTY_VALUE = 'conveniance'
 # https://gis.us.fo/arcgis/rest/services/ferdsla/us_ferdsluteljingar/MapServer/0
 # https://www.landsverk.fo/fo-fo/borgari/fer%C3%B0sluteljara-hagtoel
 # https://gis.us.fo/arcgis/rest/services/ferdsla/us_ferdsluteljingar/MapServer/0/query?where=1%3D1&f=pjson&outFields=*
-# FOLDER = 'ferdsla'
-# SERVICE = 'us_ferdsluteljingar'
-# MAP_ID = 0
-# PROPERTY_NAME = None
-# PROPERTY_VALUE = "ferdsla"
+FOLDER = 'ferdsla'
+SERVICE = 'us_ferdsluteljingar'
+MAP_ID = 0
+PROPERTY_NAME = None
+PROPERTY_VALUE = "ferdsla"
 
 # https://gis.us.fo/arcgis/rest/services/sev/us_sev/MapServer/7
 # FOLDER = 'sev'
@@ -231,7 +231,7 @@ PROPERTY_VALUE = 'conveniance'
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 
 DIR = path.abspath(path.dirname(__file__))
-GEOJSON_FILE = path.join(DIR, '..', 'geojson', f'us-{FOLDER}-{SERVICE}-{MAP_ID}-{PROPERTY_VALUE or "main"}.json')
+GEOJSON_FILE = path.join(DIR, '..', 'geojson', f'us-{FOLDER}-{SERVICE}-{MAP_ID}-{PROPERTY_VALUE or "main"}.geojson')
 
 
 class ArcGisError(Exception):
