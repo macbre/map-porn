@@ -28,26 +28,24 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Free Public Toilets</h2>
-				<h2 lang="pl">Bezpłatne toalety publiczne</h2>
+				<h2 lang="en">Pig farming place‑names</h2>
+				<h2 lang="pl">Świnkowe toponimy</h2>
 
 				<legend>
-					<img src="https://i0.wp.com/farerskiekadry.pl/wp-content/uploads/2024/07/53920440957_36524be6e5_o_d-scaled.jpg?w=800&quality=89&ssl=1">
-					<div id="legend-overlay">🧻</div>
+					<img src="https://i0.wp.com/farerskiekadry.pl/wp-content/uploads/2026/05/Wyspy_Swinkowe.jpg?w=800&quality=89&ssl=1">
+<!--					<div id="legend-overlay">🧻</div>-->
 					<p lang="en">
-						<strong>Public toilets</strong> (<em>vesi</em>) offer convenient facilities as you discover Faroe Islands.
+						<strong>Pig farming</strong> has played only a small and now almost vanished role in Faroese agriculture.
 						<br><br>
-						Some of them are located in the center of towns, while others are a bit hidden. Some will <strong>take you back to the 1970s</strong>...
+						However, archaeology shows that pigs were <strong>much more important in the Viking era and early Middle Ages</strong>.
 						<br><br>
-						In Gjógv, the public toilet shares a building with… the electric winch engine room at the local harbour. Right in front of the door run the only… <strong>narrow-gauge tracks in the Faroe Islands</strong>.
-						<!-- The paid public toilet at Mylnugøta, Tórshavn was badly damaged by a fire in November 2024, and now a completely new public toilet will be built. The building, which dates from the 1950s, was in very poor condition. So it was decided to rebuild it from scratch. // https://www.in.fo/news-detail/gera-heilt-nytt-vesi-i-mylnugoetu-->
+						Dozens of Faroese place‑names include elements like <em>svín</em> (pig), <em>grísur</em> (pig), <em>súgv</em> (sow), <em>gøltur</em> (hog) and <em>purka</em> (sow).
 					</p>
 					<p lang="pl">
-						Wyspy Owcze to nie tylko punkty widokowe, ale także miejsca bardziej przyziemne, takie jak chociażby <strong>publiczne toalety</strong> (far. <em>vesi</em>).
+						<strong>Hodowla świń</strong> to współcześnie nisza w farerskim rolnictwie.
+						Znaleziska archeologiczne wskazują jednak, że w epoce wikingów i wczesnym średniowieczu <strong>świnie na Wyspach Owczych były znacznie ważniejsze</strong>.
 						<br><br>
-						Niektóre z nich znajdziecie w centrach farerskich miejscowości, inne trzeba będzie nieco poszukać. Panujący w środku klimat nierzadko <strong>zabierze was w podróż do lat 70-tych</strong>...
-						<br><br>
-						W Gjógv publiczna toaleta dzieli budynek z... elektryczną maszynownią wciągarki na miejscowym nabrzeżu. Tuż przed drzwiami biegną jedyne na Wyspach Owczych... <strong>wąskie tory</strong>.
+						Mapy archipelagu wypełniają tuziny "świnkowych" śladów. Łatwo znajdziecie na nich słowa takie jak <em>svín</em> (świnia), <em>grísur</em> (świnia), <em>súgv</em> (locha), <em>gøltur</em> (wieprz) czy <em>purka</em> (locha).
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -85,7 +83,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: <!-- Umhvørvisstovan / foroyakort.fo, Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, -->OpenStreetMaps<!--, rusan.fo--><!--, WikiData,-->, Visit Faroe Islands
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Umhvørvisstovan / foroyakort.fo<!-- , Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, OpenStreetMaps, rusan.fo--><!--, WikiData,, Visit Faroe Islands-->
 					</p>
 				</div>
 
@@ -191,20 +189,22 @@
 				**/
 
 				/**/
-				L.geoJSON(await fetchGeoJSON('/geojson/osm-amenity-toilets.json'), {
+				// Around 140 Faroese place‑names include elements like svín (swine), grís (pig), súgv (sow), galta (boar) and purk (pig), concentrated especially in southern islands and the north‑western parts of Streymoy, Eysturoy and Vágar
+				const namesMapping = {
+					'svín': 'green', // svín  - pig
+					'grís': 'blue', // grísur - pig
+                    'purk': 'orange', // purka - sow
+                    'galta': 'red', // gøltur - hog / boar (galta - plural genitiv)
+                    'súgv': 'black', // súgv - sow
+                };
+
+				L.geoJSON(await fetchGeoJSON('/geojson/us-stadarnovn-us_stadarnovn-1-main.json'), {
                     /**
 					 * @ts-check
 					 * @param feature {GeoFeature} */
 					onEachFeature: feature => {
 						const geo = feature.geometry.coordinates;
 						console.log(feature.properties);
-
-                        // skip paid toilets, Mylnugøta
-						// "shower": "yes" -> Hvalba camping (public?) -> Facilities are maintained for visitors staying at the site (100 DKK per night)
-						if (feature.properties.fee === 'yes' || feature.properties.shower === 'yes') {
-                            console.warn('Skipping a paid toilet / shower', feature);
-                            return;
-                        }
 
 						// https://www.wikidata.org/wiki/Q11999142
 						// P186 -> Q287 - wood
@@ -214,7 +214,28 @@
 						// // "denomination": "roman_catholic",
 						// const isCatholic = feature.properties.denomination === 'roman_catholic';
 
-                        let color = 'green';
+                        let color = undefined;
+
+                        for (const [name, _color] of Object.entries(namesMapping)) {
+                            if (feature.properties.name.toLowerCase().includes(name.toLowerCase())) {
+                                color = _color;
+                                break;
+                            }
+
+                            // The village of Porkeri on the island of Suðuroy derives its name from purka
+							// (a dialect variation of sow) and -gerði (an enclosed field), pointing to a historical Viking-era pig farm.
+                            if (feature.properties.name.toLowerCase().includes('pork')) { // purka -> pork
+								color = 'orange';
+                                break;
+                            }
+
+                            if (feature.properties.name.toLowerCase().includes('sýr')) { // plural form of súgv
+								color = 'black';
+                                break;
+                            }
+                        }
+
+                        if (!color) return;
 
                         // magn / effo
 						// let color = feature.properties.website.includes('magn.fo') ? 'red' : 'blue';
@@ -226,8 +247,8 @@
 						// 	color = 'green';
 						// }
 
-						// false - small, true - big icon
-						L.marker([geo[1], geo[0]], {icon: getIcon(color), pane: `markers-${color}`})
+						// false - big, true - small icon
+						L.marker([geo[1], geo[0]], {icon: getIcon(color, '', true), pane: `markers-${color}`})
 							.addTo(map)
 							.bindPopup(feature.properties.name);
 
@@ -237,7 +258,11 @@
 					}
 				});
 
-				addLabel('green', 'Public toilet', 'Toaleta publiczna', counts['green']);
+                for (const [name, color] of Object.entries(namesMapping)) {
+                    addLabel(color, name, name, counts[color]);
+				}
+
+				// addLabel('green', 'Public toilet', 'Toaleta publiczna', counts['green']);
 				/**/
 				/**
 				const res = await fetch('./geojson/flickr-faroe.csv');
@@ -442,6 +467,7 @@
 			}**/
 
 			/* WC */
+			/**
 			.marker.green::before {
 				color: #000;
 				content: '🚻';
@@ -459,7 +485,7 @@
 				position: absolute;
   				top: -6px;
             }
-
+			**/
 			#legend-overlay {
                 position: absolute;
 				top: -40px;
