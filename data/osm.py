@@ -192,8 +192,8 @@ TAG_VALUE = 'traffic_signals'
 # https://wiki.openstreetmap.org/wiki/Tag:artwork_type=mural
 # https://wiki.openstreetmap.org/wiki/Tag:tourism=artwork
 # https://www.openstreetmap.org/node/13081507385
-TAG_KEY = 'tourism'
-TAG_VALUE = 'artwork'
+# TAG_KEY = 'tourism'
+# TAG_VALUE = 'artwork'
 
 # find all nodes with the "highway" tag, e.g. highway=primary + highway=secondary + highway=residential + highway=tertiary + ...
 #
