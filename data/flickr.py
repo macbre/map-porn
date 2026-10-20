@@ -6,10 +6,7 @@ from os import getenv, path
 
 from shared import get_http_client
 
-import requests
-
 DIR = path.abspath(path.dirname(__file__))
-
 FLICKR_REST_URL = 'https://www.flickr.com/services/rest/'
 
 class DuplicatedPhotoError(Exception):
@@ -20,7 +17,7 @@ class FlickrAPIError(Exception):
     pass
 
 
-def call_flickr_api(params: dict[str, str]) -> object:
+def call_flickr_api(params: dict[str, str]) -> dict:
     logger = logging.getLogger(name="flickr-api")
     resp = get_http_client().get(
         url=FLICKR_REST_URL,
@@ -59,10 +56,14 @@ def main():
     # (54.276,18.493,54.53,18.755)
     # INFO:flickr:Results count: 202784 on 812 pages
     # INFO:flickr:Done, 131613 photos found
-    bbox = [54.276,18.493,54.53,18.755]
-    FLICKR_BOUNDARY_BOX = [bbox[1], bbox[0], bbox[3], bbox[2]]
-    CSV_FILE_NAME = 'tricity'
+    # bbox = [54.276,18.493,54.53,18.755]
+    # FLICKR_BOUNDARY_BOX = [bbox[1], bbox[0], bbox[3], bbox[2]]
+    # CSV_FILE_NAME = 'tricity'
 
+    # https://www.flickr.com/services/apps/create/
+    #
+    # Select "Sign call as XXX with full permissions?" on https://www.flickr.com/services/api/explore/flickr.photos.search
+    # and make a request -> api_key will show up in the URL below
     FLICKR_API_KEY = getenv('FLICKR_API_KEY')
 
     if FLICKR_API_KEY is None:
@@ -80,10 +81,10 @@ def main():
 
     # we're going to sort the results by the date taken in descending order, on each page move the "max_taken_date" further into past
     min_taken_date ='2000-00-00 00:00:00'
-    max_taken_date ='2026-01-01 00:00:00'
+    max_taken_date ='2030-01-01 00:00:00'
 
     with open(csv_file, 'wt') as fp:
-        csv = writer(fp, delimiter="\t")
+        csv = writer(fp, delimiter="\t", lineterminator="\n")
         csv.writerow(['id', 'owner', 'lat', 'lon', 'date_taken', 'title', 'image'])
 
         while True:
