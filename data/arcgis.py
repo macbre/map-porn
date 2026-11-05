@@ -13,8 +13,8 @@ from shared import get_http_client
 
 NO_PAGINATION = False
 
-ARCGIS_SERVER = 'gis.us.fo'
-POLYGONS_TO_POINTS = True
+# ARCGIS_SERVER = 'gis.us.fo'
+# POLYGONS_TO_POINTS = True
 
 # https://gis.us.fo/arcgis/rest/services/lendiskort/us_lendiskort/MapServer/48
 # FOLDER = 'lendiskort'
@@ -26,16 +26,17 @@ POLYGONS_TO_POINTS = True
 
 # https://gis.us.fo/arcgis/rest/services/poi/us_poi/MapServer/layers
 # https://kort.foroyakort.fo/kort/
-FOLDER = 'poi'
-SERVICE = 'us_poi'
-MAP_ID = 19
-PROPERTY_NAME = 'poi_icon'
+# FOLDER = 'poi'
+# SERVICE = 'us_poi'
+# MAP_ID = 19
+# PROPERTY_NAME = 'poi_icon'
 # PROPERTY_VALUE = 'bus'
 # PROPERTY_VALUE = 'gas_station'
 # PROPERTY_VALUE = 'gas_station'
 # PROPERTY_VALUE = 'movies'
 # PROPERTY_VALUE = 'supermarket'
-PROPERTY_VALUE = 'conveniance'
+# PROPERTY_VALUE = 'conveniance'
+# PROPERTY_VALUE = 'library'
 # PROPERTY_VALUE = 'departmentstore' # www.elding.fo
 
 # https://gis.us.fo/arcgis/rest/services/topo_20/us_topo20/MapServer/1184
@@ -121,11 +122,11 @@ PROPERTY_VALUE = 'conveniance'
 # https://gis.us.fo/arcgis/rest/services/ferdsla/us_ferdsluteljingar/MapServer/0
 # https://www.landsverk.fo/fo-fo/borgari/fer%C3%B0sluteljara-hagtoel
 # https://gis.us.fo/arcgis/rest/services/ferdsla/us_ferdsluteljingar/MapServer/0/query?where=1%3D1&f=pjson&outFields=*
-FOLDER = 'ferdsla'
-SERVICE = 'us_ferdsluteljingar'
-MAP_ID = 0
-PROPERTY_NAME = None
-PROPERTY_VALUE = "ferdsla"
+# FOLDER = 'ferdsla'
+# SERVICE = 'us_ferdsluteljingar'
+# MAP_ID = 0
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = "ferdsla"
 
 # https://gis.us.fo/arcgis/rest/services/sev/us_sev/MapServer/7
 # FOLDER = 'sev'
@@ -227,6 +228,21 @@ PROPERTY_VALUE = "ferdsla"
 # PROPERTY_VALUE = "River_line"
 # POLYGONS_TO_POINTS = False
 
+# https://gis.us.fo/arcgis/rest/services/aling/us_aling/MapServer/1
+# https://trap.fo/samfelag-og-vinna/laksaling/
+# https://trap.fo/en/society-and-business/lakseopdraet-pa-faeroerne/
+# Taraaling - seeweed (3)
+# Laksaaling - salmon (33)
+ARCGIS_SERVER = 'gis.us.fo'
+FOLDER = 'aling'
+SERVICE = 'us_aling'
+MAP_ID = 1
+PROPERTY_NAME = None
+PROPERTY_VALUE = None
+POLYGONS_TO_POINTS = False
+
+# TODO: https://gis.us.fo/arcgis/rest/services/annad/us_flogmyndir/MapServer
+#  Yvirlit av flogmyndum tiknar av Føroyum frá 1958 til nú
 
 ACGIS_URL = f'https://{ARCGIS_SERVER}/arcgis/rest/services/{FOLDER}/{SERVICE}/MapServer/{MAP_ID}/query';
 
