@@ -20,6 +20,6 @@
   "dependencies": {
     "npmlog": "npm:@appium/logger@^2.0.5",
     "puppeteer": "^25.16.0",
-    "serve": "^14.2.6"
+    "serve": "^14.2.7"
   }
 }
