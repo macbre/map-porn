@@ -107,7 +107,7 @@ body[lang="pl"] *[lang="en"] { display: none } /* and vice-versa */
     height: var(--marker-size);
     border-radius: var(--marker-size);
     outline: solid 2px #ffffffee;
-    /* filter: sepia(0.2); */
+    filter: sepia(0.1);
 }
 
 .marker-small {
@@ -292,6 +292,11 @@ legend p+ul {
 legend .marker {
     margin-right: var(--marker-size);
     vertical-align: middle;
+}
+
+legend p .marker {
+    margin-right: 5px;
+    margin-top: -4px;
 }
 
 legend p {

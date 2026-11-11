@@ -28,26 +28,29 @@
 				<h1 lang="en">Faroe Islands</h1>
 				<h1 lang="pl">Wyspy Owcze</h1>
 
-				<h2 lang="en">Streams</h2>
-				<h2 lang="pl">Strumienie</h2>
+				<h2 lang="en">Salmon and seaweed farming</h2>
+				<h2 lang="pl">Hodowla łososia i wodorostów</h2>
 
 				<legend>
-					<img src="https://www.flickr.com/photo_download.gne?id=20351372006&secret=33c45aa4fb&size=c&source=photoPageEngagement">
+					<img src="https://www.flickr.com/photo_download.gne?id=33371719174&secret=769cc41fcc&size=k&source=photoPageEngagement">
 <!--					<div id="legend-overlay">🧻</div>-->
 					<p lang="en">
-						The Faroe Islands have <strong>around 1,200 streams</strong>, which with their associated tributaries have a <strong>total length of around 2,100 kilometres</strong>.
-						They are characterised by generally being short (<strong>less than 1 km long on average</strong>) with modest water flow.
+						<span class="marker red">&nbsp;</span> The first attempts to <strong>farm trout and salmon</strong> on Faroe Islands were made in 1968. After a number of ups and downs, the industry started to move forward again in 2005, with only a few companies left.
 						<br><br>
-						<strong>The longest stream is just over 7 km long</strong>. It rises in Loðadalur on Streymoy, from where it runs northeast. It then continues southeast under the name <em>Stórá</em> (literally <em>The Big Stream</em>) more or less parallel to the Saksunarvegur road.
+						The largest of these is <strong>Bakkafrost</strong>, which accounts for over 80% of total production. It is followed by Hiddenfjord and Mowi.
 						<br><br>
-						<strong>The flow increases significantly after rainfall</strong>. <em>Stórá</em> at Hvalvík flows at 500 l/s during dry periods, but quickly reaches 20,000 l/s after hours of rain.
+						<span class="marker green">&nbsp;</span> <strong>Ocean Rainforest</strong> is developing an innovative system for <strong>seaweed cultivation in open oceans</strong>. The company has two cultivation areas where <em>Saccharina latissima</em> (commonly known as <strong>sugar kelp</strong>) is grown on ~220 km of seeded lines. Seaweed harvested year-round is processed at a plant in Kaldbak.
+						<br><br>
+						<strong>TARI – Faroe Seaweed</strong> - a company located in Fámjin - owns a cultivation area in Kaldbaksfjørður.
 					</p>
 					<p lang="pl">
-						Wyspy Owcze przecina <strong>ponad 1200 strumieni</strong>, które wraz z dopływami tworzą <strong>sieć mierzącą ponad 2000 kilometrów</strong>.
+						<span class="marker red">&nbsp;</span> Pierwsze próby <strong>hodowli pstrąga i łososia</strong> podjęto na Wyspach Owczych w 1968 roku. Po wielu wzlotach i upadkach w 2005 roku branża zaczęła się ponownie rozwijać.
 						<br><br>
-						<strong>Najdłuższy strumień na archipelagu liczy ponad 7 km długości</strong>. Wypływa z Loðadalur na wyspie Streymoy, skąd płynie na północny wschód. Następnie kontynuuje bieg na południowy wschód pod nazwą <em>Stórá</em> (dosłownie <em>Wielki Strumień</em>), mniej więcej równolegle do drogi w dolinie Saksunardalur.
+						<strong>Bakkafrost</strong> - największa firma w branży - odpowiada za ponad 80% całkowitej produkcji. Za nią plasują się Hiddenfjord i Mowi.
 						<br><br>
-						Zazwyczaj spokojne farerskie strumienie <strong>wzbierają znacznie po opadach deszczu</strong>. Wspomniana już <em>Stórá</em> przenosi zwykle około 500 litrów wody na sekundę, ale po dłuższych opadach <strong>wzbiera do 20 000 l/s</strong>.
+						<span class="marker green">&nbsp;</span> Ocean Rainforest prowadzi innowacyjne <strong>uprawy wodorostów</strong> w farerskich fiordach. Firma hoduje brunatnice gatunku <em>Saccharina latissima</em> (morszczyn pęcherzykowaty) w dwóch morskich farmach na specjalnych zanurzonych w wodzie linach o łącznej długości 220 km. Zbierane przez cały rok wodorosty  przetwarzane są w Kaldbak.
+						<br><br>
+						Trzecia farerska "plantacja" wodorostów - należąca do firmy <strong>TARI – Faroe Seaweed</strong> - znajduje się w Kaldbaksfjørður.
 					</p>
 					<ul>
 						<!--<li><span class="marker black"></span><span lang="en">major towns</span><span lang="pl">główne miasta</span></li>-->
@@ -85,7 +88,7 @@
 						<strong lang="en">Research</strong><strong lang="pl">Opracowanie</strong>: Maciej Brencz @ farerskiekadry.pl
 					</p>
 					<p>
-						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Umhvørvisstovan, Trap - The Faroe Islands<!-- OpenStreetMaps / foroyakort.fo--><!-- , Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, OpenStreetMaps, rusan.fo--><!--, WikiData,, Visit Faroe Islands-->
+						<strong lang="en">Data</strong><strong lang="pl">Dane</strong>: Umhvørvisstovan (~2020), Trap - The Faroe Islands<!-- OpenStreetMaps / foroyakort.fo--><!-- , Landsverk, Umhvørvisstovan, Strandfaraskip Landsins, SEV, OpenStreetMaps, rusan.fo--><!--, WikiData,, Visit Faroe Islands-->
 					</p>
 				</div>
 
@@ -127,7 +130,7 @@
 
 				// https://leafletjs.com/reference.html#geojson
 				/**/
-    			L.geoJSON(await fetchGeoJSON('/geojson/us-topo-topo_20-109-River_line.json'), {
+    			L.geoJSON(await fetchGeoJSON('/geojson/us-aling-us_aling-1-main.geojson'), {
 					pane: `markers-blue`, // so that the geojson layer is rendered and visible
 					/**
 					 @ts-check
@@ -153,11 +156,14 @@
 
 						console.log(colour, {name: feature.properties.name, distance: feature.properties.distance_km});
 						**/
-                        const colour = 'blue';
+
+                        // "area_permit_type": "Laksa aling"
+						// "area_permit_type": "Tara aling"
+						// Taraaling - seeweed (3) / Laksaaling - salmon (33)
+                        const colour = feature.properties.area_permit_type === 'Laksa aling' ? 'red' : 'green';
 
 						counts[colour] = counts[colour] || 0;
 						counts[colour]++;
-
 
                         // https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/109
 						// WID ( type: esriFieldTypeDouble, alias: Width )
@@ -166,7 +172,7 @@
 
 						// https://leafletjs.com/reference.html#path-option
 						return {
-							color: '#3c91d0', // coloursMapping[colour] || 'black',
+							color: coloursMapping[colour] || 'black',
 							weight,
 							opacity: 0.8,
 						};
@@ -184,11 +190,11 @@
         			}**/
 				}).addTo(map);
 
-				// addLabel('dark-green', 'Up to 5 km long', 'Do 5 km długości', counts['green']);
-				// addLabel('red', 'Between 5 to 10 km', 'Od 5 do 10 km', counts['red']);
-				// addLabel('orange', 'Between 10 and 15 km', 'Od 10 km do 15 km', counts['orange']);
+				addLabel('red', 'Salmon farming', 'Łososie', counts['red']);
+                addLabel('green', 'Seaweed farming', 'Wodorosty', counts['green']);
+                // addLabel('red', 'Between 5 to 10 km', 'Od 5 do 10 km', counts['red']);
 				// addLabel('black', 'Over 15 km', 'Ponad 15 km', counts['black']);
-				addLabel('blue', 'Stream', 'Strumień', counts['blue']);
+				// addLabel('blue', 'Stream', 'Strumień', counts['blue']);
 
 				/**
 				// green / blue / yellow
@@ -361,8 +367,8 @@
 			}
 
 			legend p {
-				font-size: 2.8em;
-				/*font-size: 2.3em;*/
+				/*font-size: 2.8em;*/
+				font-size: 2.4em;
 			}
 
 			/**
@@ -493,7 +499,7 @@
 			}**/
 
 			/* traffic lights */
-			/**/
+			/**
 			.marker.green::before {
 				color: #000;
 				content: '🚦';
@@ -511,7 +517,7 @@
 				position: absolute;
   				top: -6px;
             }
-			/**/
+			**/
 			#legend-overlay {
                 position: absolute;
 				top: -40px;
