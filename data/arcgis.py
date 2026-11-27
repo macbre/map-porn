@@ -233,12 +233,21 @@ NO_PAGINATION = False
 # https://trap.fo/en/society-and-business/lakseopdraet-pa-faeroerne/
 # Taraaling - seeweed (3)
 # Laksaaling - salmon (33)
+# ARCGIS_SERVER = 'gis.us.fo'
+# FOLDER = 'aling'
+# SERVICE = 'us_aling'
+# MAP_ID = 1
+# PROPERTY_NAME = None
+# PROPERTY_VALUE = None
+# POLYGONS_TO_POINTS = False
+
+# https://gis.us.fo/arcgis/rest/services/topo/topo_20/MapServer/99
 ARCGIS_SERVER = 'gis.us.fo'
-FOLDER = 'aling'
-SERVICE = 'us_aling'
-MAP_ID = 1
+FOLDER = 'topo'
+SERVICE = 'topo_20'
+MAP_ID = 99
 PROPERTY_NAME = None
-PROPERTY_VALUE = None
+PROPERTY_VALUE = "tunnels"
 POLYGONS_TO_POINTS = False
 
 # TODO: https://gis.us.fo/arcgis/rest/services/annad/us_flogmyndir/MapServer
